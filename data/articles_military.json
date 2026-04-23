@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-04-23T15:58:30Z",
+  "updated_at_utc": "2026-04-23T17:41:25Z",
   "topic": "military",
-  "count": 45,
+  "count": 46,
   "articles": [
+    {
+      "id": "8275a4dc814b4b93bd8cf8d2912dbe743fffccea",
+      "fingerprint": "4208a54b5d86c46b737eff58789275bf292a1c31",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2121721",
+      "published_utc": "2026-04-23T17:31:38Z",
+      "title_en": "Russia shoots to be second-largest exporter of arms globally despite sanctions — Rostec",
+      "lead_en": "Rostec CEO Sergey Chemezov stressed that MGIMO’s experience and research could help the state corporation develop export relations with countries of the CSTO, BRICS and SCO, as well as with partners in Asia, Africa and Latin America",
+      "title_raw": "Russia shoots to be second-largest exporter of arms globally despite sanctions — Rostec",
+      "lead_raw": "Rostec CEO Sergey Chemezov stressed that MGIMO’s experience and research could help the state corporation develop export relations with countries of the CSTO, BRICS and SCO, as well as with partners in Asia, Africa and Latin America",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1ca31174e1eea97ea3ac8b48f6c8a99d4f834801",
+      "fingerprint": "e58e582f25fc5b1219f2c0179dd3399c5d1bea54",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2121651",
+      "published_utc": "2026-04-23T15:46:06Z",
+      "title_en": "EU blacklists 46 tankers as part of anti-Russian sanctions — Estonian foreign ministry",
+      "lead_en": "\"Russia’s ability to acquire tankers for its shadow fleet will be restricted, and services to Russian icebreakers and LNG tankers will be prohibited,\" the ministry added",
+      "title_raw": "EU blacklists 46 tankers as part of anti-Russian sanctions — Estonian foreign ministry",
+      "lead_raw": "\"Russia’s ability to acquire tankers for its shadow fleet will be restricted, and services to Russian icebreakers and LNG tankers will be prohibited,\" the ministry added",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "f65bfb4e569417a6282b5dfc41142cfffdfa905b",
       "fingerprint": "565238f8286d06b90416a3d3f36b91838c0a01a1",
@@ -69,6 +115,28 @@
         "economy"
       ],
       "primary_topic": "economy"
+    },
+    {
+      "id": "e1c8b1224308e787335ac6b48411ac0df029b6e7",
+      "fingerprint": "20cc4686ce0ac892adb05dafc3f31b894628c3b0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2121559",
+      "published_utc": "2026-04-23T13:56:35Z",
+      "title_en": "Ukrainian saboteurs, UAV control centers destroyed in Konstantinovka — FSB",
+      "lead_en": "According to the report, the terrorists were preparing ambushes along the route of Russian troops",
+      "title_raw": "Ukrainian saboteurs, UAV control centers destroyed in Konstantinovka — FSB",
+      "lead_raw": "According to the report, the terrorists were preparing ambushes along the route of Russian troops",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "fe613ea8fe201b46129dcb2f03e6ea878a957c52",
@@ -955,51 +1023,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b883f8f5b2320a6088055fdfe108d82b29dae4aa",
-      "fingerprint": "8e02c5ffa24b2affe359ab361772fd673d86012b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/21/teenager-in-russia-suffers-burns-after-picking-up-explosive-device-disguised-as-bundle-of-banknotes",
-      "published_utc": "2026-04-21T17:05:23Z",
-      "title_en": "Teenager in Russia injured after picking up explosive device disguised as bundle of banknotes",
-      "lead_en": "A teenager in Perm sustained burns after picking up a device disguised as a bundle of banknotes that detonated when he lifted it off the ground, Perm Krai’s Territorial Security Ministry announced, according to the Russian news agency Interfax on April 21.",
-      "title_raw": "Teenager in Russia injured after picking up explosive device disguised as bundle of banknotes",
-      "lead_raw": "A teenager in Perm sustained burns after picking up a device disguised as a bundle of banknotes that detonated when he lifted it off the ground, Perm Krai’s Territorial Security Ministry announced, according to the Russian news agency Interfax on April 21.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a5014489e59031298cd84f777f2a71c2aa3ec833",
-      "fingerprint": "dfd469a5697ab1872496dcfdcdf10a08dd6a3784",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/04/21/zelensky-says-ukraine-has-completed-repairs-on-druzhba-pipeline-which-carries-russian-oil-to-europe",
-      "published_utc": "2026-04-21T16:03:21Z",
-      "title_en": "Zelensky says Ukraine has completed repairs on Druzhba pipeline, which carries Russian oil to Europe",
-      "lead_en": "Ukrainian President Volodymyr Zelensky said on April 21 that specialists had completed repairs on a section of the Druzhba pipeline that Kyiv says was damaged in a Russian military strike.",
-      "title_raw": "Zelensky says Ukraine has completed repairs on Druzhba pipeline, which carries Russian oil to Europe",
-      "lead_raw": "Ukrainian President Volodymyr Zelensky said on April 21 that specialists had completed repairs on a section of the Druzhba pipeline that Kyiv says was damaged in a Russian military strike.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
