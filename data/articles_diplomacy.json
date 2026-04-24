@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-04-24T21:56:54Z",
+  "updated_at_utc": "2026-04-24T22:51:10Z",
   "topic": "diplomacy",
-  "count": 133,
+  "count": 131,
   "articles": [
+    {
+      "id": "6839c1bc18077e7bc6504b7c24c5dd7cf6a84f8d",
+      "fingerprint": "2e0b949f9452ea51c77822926b7e5d00669e73f4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2122333",
+      "published_utc": "2026-04-24T20:45:25Z",
+      "title_en": "West conducting political, diplomatic war against Russia in Balkans — senior diplomat",
+      "lead_en": "Alexander Grushko recalled that the West is waging a hybrid war against Russia in Ukraine",
+      "title_raw": "West conducting political, diplomatic war against Russia in Balkans — senior diplomat",
+      "lead_raw": "Alexander Grushko recalled that the West is waging a hybrid war against Russia in Ukraine",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "9225ee9b23cad3467aa5f3bd1413e3c4ed1e408d",
       "fingerprint": "4925b31578a6de5c3e8de7197ce42fc0194a7c3c",
@@ -98,18 +120,19 @@
       "url": "https://tass.com/politics/2122311",
       "published_utc": "2026-04-24T19:52:41Z",
       "title_en": "Top Russian, UAE diplomats call for talks on Strait of Hormuz",
-      "lead_en": "",
+      "lead_en": "Apart from that, the two top diplomats recalled that a free trade agreement between the Eurasian Economic Union and the United Arab Emirates will soon come into force",
       "title_raw": "Top Russian, UAE diplomats call for talks on Strait of Hormuz",
-      "lead_raw": "",
+      "lead_raw": "Apart from that, the two top diplomats recalled that a free trade agreement between the Eurasian Economic Union and the United Arab Emirates will soon come into force",
       "topic_scores": {
-        "diplomacy": 1,
+        "diplomacy": 2,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 2,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "economy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -2897,73 +2920,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "35bb815c7ba2708ec0f59008659a454e7e9464f7",
-      "fingerprint": "af531c1a1e187400cb43842d5776226d1a2253fc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27192811",
-      "published_utc": "2026-04-22T22:19:49Z",
-      "title_en": "Russian Foreign Ministry: Russia was invited to participate at the highest level in the G20 summit in the USA",
-      "lead_en": "Information about who will represent Moscow will appear closer to the date of the event, said Deputy Head of the Russian Diplomatic Ministry Alexander Pankin",
-      "title_raw": "МИД РФ: Россию пригласили участвовать на высшем уровне в саммите G20 в США",
-      "lead_raw": "Информация о том, кто будет представлять Москву, появится ближе к дате проведения мероприятия, сообщил замглавы российского дипведомства Александр Панкин",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d2b443b23fec168e73921c9535720d40f806d9b2",
-      "fingerprint": "1b389f1fde4a393c7c8fcbcd2c3dcf674c21d38f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27192793",
-      "published_utc": "2026-04-22T22:19:38Z",
-      "title_en": "MFA: Russia will resume contributions to the Arctic Council after its work is restored",
-      "lead_en": "Director of the Department of European Problems of the Russian Foreign Ministry Vladislav Maslennikov noted that Russia is not abandoning its financial obligations",
-      "title_raw": "МИД: РФ возобновит взносы в Арктический совет после восстановления его работы",
-      "lead_raw": "Директор департамента европейских проблем российского внешнеполитического ведомства Владислав Масленников отметил, что Россия не отказываемся от своих финансовых обязательств",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "126c7a9a0a0059a9259f975746819d8d24d13afa",
-      "fingerprint": "e612b92688bd4637c3c67ff3e3d8faa7b0256e6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27192743",
-      "published_utc": "2026-04-22T22:01:46Z",
-      "title_en": "Russian Foreign Ministry: the situation in the Strait of Hormuz and the blockade of Iran also affect Russia",
-      "lead_en": "As the deputy head of the Russian diplomatic service, Alexander Pankin, explained, due to high prices, demand decreases, the cost of fuel, fertilizers and “many other things” increases.",
-      "title_raw": "МИД РФ: ситуация в Ормузском проливе и блокада Ирана влияют и на Россию",
-      "lead_raw": "Как пояснил замглавы российского дипведомства Александр Панкин, из-за высоких цен снижается спрос, повышается стоимость топлива, удобрений и \"многих других вещей\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }
