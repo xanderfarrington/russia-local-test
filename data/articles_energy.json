@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-04-26T09:57:12Z",
+  "updated_at_utc": "2026-04-26T10:54:36Z",
   "topic": "energy",
-  "count": 23,
+  "count": 24,
   "articles": [
+    {
+      "id": "148669bf10a21993c4fa09913b6f638d51206530",
+      "fingerprint": "6f5ed067f919d0a150f67d8aedf44d981667af57",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27224897",
+      "published_utc": "2026-04-26T10:12:51Z",
+      "title_en": "MP Suzuki: Japan needs to improve relations with Russia",
+      "lead_en": "The Japanese politician noted that the Russian Federation has the world's largest energy reserves",
+      "title_raw": "Депутат Судзуки: Японии надо наладить отношения с Россией",
+      "lead_raw": "Японский политик отметил, что РФ обладает крупнейшими в мире запасами энергоресурсов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8e38a25971a1f857478fa6d3cb15e6c71eca1891",
+      "fingerprint": "3243458d4de61cefc59183cfadc23e36802e8018",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27224919",
+      "published_utc": "2026-04-26T10:11:08Z",
+      "title_en": "Novak: oil market needs months to recover after Hormuz discovery",
+      "lead_en": "The Russian Deputy Prime Minister noted that the oil market is in a deep crisis",
+      "title_raw": "Новак: рынку нефти нужны месяцы на восстановление после открытия Ормуза",
+      "lead_raw": "Вице-премьер РФ отметил, что нефтяной рынок находится в глубоком кризисе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f9dff3f986a332621199c3203ff92042c42ceb75",
+      "fingerprint": "0446e6111a5982aac3a48725bf7b628efda7347d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27224707",
+      "published_utc": "2026-04-26T09:29:12Z",
+      "title_en": "Within a day, the Russian Armed Forces hit the transport and energy infrastructure used by the Ukrainian Armed Forces",
+      "lead_en": "Russian troops also hit temporary locations of Ukrainian armed forces and foreign mercenaries in 140 districts",
+      "title_raw": "ВС РФ за сутки поразили используемую ВСУ транспортную и энергоинфраструктуру",
+      "lead_raw": "Российские войска также ударили по пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 140 районах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "29639e53704171e1ba0f9bd73ce3de934a22f8c4",
       "fingerprint": "60c60dcbbdc5280b4608d1cb8e494d44d946dda2",
@@ -472,50 +539,6 @@
         "energy": 2,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "de7c1074d646312a66be475cbbf3eb8df3d1f711",
-      "fingerprint": "a0deb9e5352488a0672b1edc4e608b1e73c79c44",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27210377",
-      "published_utc": "2026-04-24T10:20:20Z",
-      "title_en": "Expert Polishchuk: Russian oil discounts will continue to decline even with the opening of Hormuz",
-      "lead_en": "Before the situation in the Middle East worsened, the average discount on Russian oil was about $30 per barrel, noted a senior analyst for the oil and gas sector at Euler.",
-      "title_raw": "Эксперт Полищук: дисконты на нефть РФ продолжат снижаться даже при открытии Ормуза",
-      "lead_raw": "До обострения ситуации на Ближнем Востоке средний дисконт на российскую нефть составлял около $30 за баррель, отметил старший аналитик по нефтегазовому сектору компании \"Эйлер\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "caf1503d85d9fdd02e42f7c5aaece11eb5896718",
-      "fingerprint": "4e6403828f8bb3ee82bc72d005c72d81f760cd24",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2121943",
-      "published_utc": "2026-04-24T10:00:46Z",
-      "title_en": "Russia’s LNG supplies up 1 bcm in winter due to Arctic LNG 2 — IEA",
-      "lead_en": "This was achieved thanks to growing shipments from Arctic LNG 2 to China",
-      "title_raw": "Russia’s LNG supplies up 1 bcm in winter due to Arctic LNG 2 — IEA",
-      "lead_raw": "This was achieved thanks to growing shipments from Arctic LNG 2 to China",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "energy"
