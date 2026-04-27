@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-04-27T06:31:29Z",
+  "updated_at_utc": "2026-04-27T09:23:14Z",
   "topic": "energy",
   "count": 14,
   "articles": [
+    {
+      "id": "25630c7da5b8e884ee77a11a465b17fcdd9f1d55",
+      "fingerprint": "64db2fcd9f5ced3c81148131d4df2c3ef7cd5e3e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27230767",
+      "published_utc": "2026-04-27T08:39:17Z",
+      "title_en": "Security Council of the Russian Federation: Ukrainian UAVs fly freely through the skies of Poland and the Baltic states",
+      "lead_en": "Drones “destroy the international logistics infrastructure through which energy is supplied, including to Western countries,” said Deputy Secretary of the Security Council Alexey Shevtsov",
+      "title_raw": "СБ РФ: украинские БПЛА свободно пролетают через небо Польши и Прибалтики",
+      "lead_raw": "Беспилотники \"разрушают международную логистическую инфраструктуру, по которой поставляются энергоносители, в том числе в западные страны\", отметил заместитель секретаря Совета безопасности Алексей Шевцов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "368ba057ed54bd30182597eb00f5089cebf221ef",
+      "fingerprint": "f594ae05adf4922facdc3c83bb71cf333fcd2a04",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27230387",
+      "published_utc": "2026-04-27T08:25:24Z",
+      "title_en": "\"Kommersant\": large banks in Russia began to reduce staff and raise salaries",
+      "lead_en": "According to the newspaper, staff reductions were recorded in 14 credit institutions, while in some banks the reduction reached 40%",
+      "title_raw": "\"Ъ\": крупные банки в России начали сокращать штат и поднимать зарплаты",
+      "lead_raw": "По данным газеты, снижение штата зафиксировано в 14 кредитных организациях, при этом в отдельных банках сокращение достигало 40%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9b3e7e3e18e8338999d396ba4a253e0c1e4f3440",
       "fingerprint": "8a6b676cc4e6e604043b6a4c7138802363de367f",
@@ -269,53 +313,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "22c70a9b9bccf555cc734f4e33a9d33c046f5aed",
-      "fingerprint": "dbb6f4d8f0fc18224a089b72ec73e5bcd0bf13a5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2122399",
-      "published_utc": "2026-04-25T09:00:35Z",
-      "title_en": "Settlement in Ukraine based on coalition’s proposals nothing more than fantasy — MFA",
-      "lead_en": "Neither France nor other EU countries are currently participants in the negotiation process, the Russian Foreign Ministry said",
-      "title_raw": "Settlement in Ukraine based on coalition’s proposals nothing more than fantasy — MFA",
-      "lead_raw": "Neither France nor other EU countries are currently participants in the negotiation process, the Russian Foreign Ministry said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0bc60ae5e80a6744d8196eb50319df842a36e052",
-      "fingerprint": "51b322450223aa11d7e8f443a6a85c1338a3c39f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2122395",
-      "published_utc": "2026-04-25T07:57:12Z",
-      "title_en": "Serbia to never impose sanctions against Russia despite external pressure — minister",
-      "lead_en": "Thanks to the agreement between our two presidents, Serbia has the lowest gas prices in Europe, Serbian minister without portfolio in charge of international economic cooperation, Nenad Popovic, said",
-      "title_raw": "Serbia to never impose sanctions against Russia despite external pressure — minister",
-      "lead_raw": "Thanks to the agreement between our two presidents, Serbia has the lowest gas prices in Europe, Serbian minister without portfolio in charge of international economic cooperation, Nenad Popovic, said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
