@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-04-28T15:30:09Z",
+  "updated_at_utc": "2026-04-28T17:49:39Z",
   "topic": "energy",
-  "count": 27,
+  "count": 33,
   "articles": [
+    {
+      "id": "4c38d7c3ab7a619c92e66056b5a2c631bebb39b8",
+      "fingerprint": "d05073965cda2a828df819ee7a0bb8e4f42d8edd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2123781",
+      "published_utc": "2026-04-28T17:20:08Z",
+      "title_en": "Zaporozhye plant de jure, de facto belongs to Russia, no other — director",
+      "lead_en": "According to Yury Chernichuk, an object like a nuclear power plant cannot have two gods or two masters",
+      "title_raw": "Zaporozhye plant de jure, de facto belongs to Russia, no one else — director",
+      "lead_raw": "According to Yury Chernichuk, an object like a nuclear power plant cannot have two gods or two masters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "80dcb791ef81961cdb4e07f5a7fbb8ef7f36dc34",
+      "fingerprint": "4493ea37747453ec1eec3f250b8ca5cc6c381c0b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/28/for-russias-ailing-coal-sector-not-even-the-middle-east-crisis-can-bring-relief-a92349",
+      "published_utc": "2026-04-28T16:45:00Z",
+      "title_en": "For Russia’s Ailing Coal Sector, Not Even the Middle East Crisis Can Bring Relief",
+      "lead_en": "Russian and Western analysts say the crisis may instead accelerate Asia’s shift toward alternative energy sources.",
+      "title_raw": "For Russia’s Ailing Coal Sector, Not Even the Middle East Crisis Can Bring Relief",
+      "lead_raw": "Russian and Western analysts say the crisis may instead accelerate Asia’s shift toward alternative energy sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6dd969d69006ced2f5260c1eaa32cbc1bfa69445",
+      "fingerprint": "d19b7bff897bce84f7341cfd628eeb9556fbaf18",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2123751",
+      "published_utc": "2026-04-28T16:15:44Z",
+      "title_en": "OPEC+ agreement will remain in effect thanks to Saudi-Russian partnership — expert",
+      "lead_en": "This situation is a continuation of the OPEC+ deal crisis and a major blow to its stability, Alexey Belogoryev, Research Director at the Institute of Energy and Finance, said",
+      "title_raw": "OPEC+ agreement will remain in effect thanks to Saudi-Russian partnership — expert",
+      "lead_raw": "This situation is a continuation of the OPEC+ deal crisis and a major blow to its stability, Alexey Belogoryev, Research Director at the Institute of Energy and Finance, said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8eab3d5c3c40ef868e3a0725436228771d841dfc",
       "fingerprint": "d1db6c243f7daf954ca2e110904a256540734f72",
@@ -27,6 +94,51 @@
       "primary_topic": "energy"
     },
     {
+      "id": "510a85c784631230843002f9df0af1abd7b6009e",
+      "fingerprint": "b1bd26bc750dfa788ba2ba6eff25291bfcc76bf8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2123707",
+      "published_utc": "2026-04-28T14:48:08Z",
+      "title_en": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
+      "lead_en": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
+      "title_raw": "IN BRIEF: What we know about consequences of drone attack on Tuapse refinery",
+      "lead_raw": "On Russian President Vladimir Putin's instructions, Emergencies Minister Alexander Kurenkov flew to the Krasnodar Region to control the extinguishing of a fire at the oil refinery",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d8abc877dd6deb4595981ba690e5b110052bab94",
+      "fingerprint": "b19dc4b94ec8b30fb1554ce28e904d1c85a797aa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2123693",
+      "published_utc": "2026-04-28T14:20:56Z",
+      "title_en": "Chisinau’s pressure on Transnistria fuels rising tensions — Russian envoy",
+      "lead_en": "Oleg Ozerov stressed that Moscow welcomed Chisinau’s statements on a peaceful settlement of the conflict, but believed they should be accompanied by practical steps and respect for previously reached agreements",
+      "title_raw": "Chisinau’s pressure on Transnistria fuels rising tensions — Russian envoy",
+      "lead_raw": "Oleg Ozerov stressed that Moscow welcomed Chisinau’s statements on a peaceful settlement of the conflict, but believed they should be accompanied by practical steps and respect for previously reached agreements",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "87a7d4c5209e59dc9881af46e76854c91fd680a6",
       "fingerprint": "928747dbbb9d50c90884de3378b0ef52dc3faab3",
       "source": "RT",
@@ -47,6 +159,29 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "ea89875ec37490f3c708edc516a058a7482019c4",
+      "fingerprint": "5540d4f00e7ef6877c81c245fad70208e0dff4af",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2123573",
+      "published_utc": "2026-04-28T12:31:50Z",
+      "title_en": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
+      "lead_en": "Russian troops struck energy infrastructure sites used by the Ukrainian army and enemy deployment areas over the past 24 hours, Russia’s Defense Ministry reported",
+      "title_raw": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
+      "lead_raw": "Russian troops struck energy infrastructure sites used by the Ukrainian army and enemy deployment areas over the past 24 hours, Russia’s Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "58e710f2e2e1b9f8154393d0c8d949f68e52e0f2",
