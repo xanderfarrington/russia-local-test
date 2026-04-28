@@ -1,8 +1,76 @@
 {
-  "updated_at_utc": "2026-04-28T10:19:39Z",
+  "updated_at_utc": "2026-04-28T12:25:13Z",
   "topic": "energy",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "58e710f2e2e1b9f8154393d0c8d949f68e52e0f2",
+      "fingerprint": "e4f48fd8ad96b77f050b428fc2ec62b0ad775056",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/04/28/drone-debris-strikes-russian-oil-refinery-prompting-evacuation-of-nearby-residents",
+      "published_utc": "2026-04-28T11:46:35Z",
+      "title_en": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
+      "lead_en": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
+      "title_raw": "Drone debris sparks fire at Russian oil refinery, prompting evacuation of nearby residents",
+      "lead_raw": "Drone debris struck an oil refinery in Tuapse in the early hours of April 28, setting it on fire, the operational headquarters of Krasnodar Krai reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f4747a5383964035fdb2e923218d4745ae97d7d4",
+      "fingerprint": "6ac4b52db1650491c3254508f6812ebd60a0a119",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2123441",
+      "published_utc": "2026-04-28T11:08:26Z",
+      "title_en": "Russia can help Indonesia boost energy, food — ambassador",
+      "lead_en": "Sergey Tolchenov noted that the war in the Middle East, which has driven up oil prices, shows how a regional conflict can disrupt the global economy",
+      "title_raw": "Russia can help Indonesia boost energy, food — ambassador",
+      "lead_raw": "Sergey Tolchenov noted that the war in the Middle East, which has driven up oil prices, shows how a regional conflict can disrupt the global economy",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "07002eaf40c307c3aadba08bd7185dd7ecd4a098",
+      "fingerprint": "74ed04bb762d82cfdcd8203760610e70114d48d1",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/04/28/kazakhstan-to-reroute-german-oil-exports-following-russian-pipeline-suspension-a92620",
+      "published_utc": "2026-04-28T11:00:09Z",
+      "title_en": "Kazakhstan to Reroute German Oil Exports Following Russian Pipeline Suspension",
+      "lead_en": "Kazakhstan’s energy ministry said crude will now move through the Baltic Sea port of Ust-Luga and a joint Russian-Kazakh oil pipeline.",
+      "title_raw": "Kazakhstan to Reroute German Oil Exports Following Russian Pipeline Suspension",
+      "lead_raw": "Kazakhstan’s energy ministry said crude will now move through the Baltic Sea port of Ust-Luga and a joint Russian-Kazakh oil pipeline.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "40215a2d142938312f037849952b2ff6097bf5a8",
       "fingerprint": "f4d24fedb0f9fbf6453ada4e9a1f6d75ea2cfadd",
@@ -492,29 +560,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "36e80296fb7736d355f4a14eede42deb02f7990c",
-      "fingerprint": "7d9c0394cea75ea8c7fde24062d59aa3fcbae43f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2122597",
-      "published_utc": "2026-04-26T10:50:17Z",
-      "title_en": "Russian forces strike Ukrainian transport, energy infrastructure over past day",
-      "lead_en": "Operational-tactical aviation also struck temporary deployment sites of Ukrainian armed forces and foreign mercenaries in 140 districts, the statement said",
-      "title_raw": "Russian forces strike Ukrainian transport, energy infrastructure over past day",
-      "lead_raw": "Operational-tactical aviation also struck temporary deployment sites of Ukrainian armed forces and foreign mercenaries in 140 districts, the statement said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
