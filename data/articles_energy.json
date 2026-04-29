@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-04-28T23:00:00Z",
+  "updated_at_utc": "2026-04-29T00:02:56Z",
   "topic": "energy",
   "count": 40,
   "articles": [
+    {
+      "id": "ea9dccd6d44bd4a0d61e5e82acef86bbf4f2edc8",
+      "fingerprint": "0335fb312a1737b3558b56877d4ba04f9a45c1e9",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/04/29/ukrainian-drone-strike-on-russian-port-causes-fire-toxic-smoke-as-locals-fault-officials-for-withholding-public-health-information",
+      "published_utc": "2026-04-28T23:34:46Z",
+      "title_en": "Ukrainian drone strike on Russian port causes fire, toxic smoke as locals fault officials for withholding public health information",
+      "lead_en": "Ukrainian drones struck the oil-loading infrastructure at the port of Tuapse overnight, sparking a large fire after debris fell at the site. The Krasnodar Krai operational headquarters said no one was injured.",
+      "title_raw": "Ukrainian drone strike on Russian port causes fire, toxic smoke as locals fault officials for withholding public health information",
+      "lead_raw": "Ukrainian drones struck the oil-loading infrastructure at the port of Tuapse overnight, sparking a large fire after debris fell at the site. The Krasnodar Krai operational headquarters said no one was injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "38d1456db236821eca91b7cc8586e37a83f3da13",
       "fingerprint": "c0447b246934ab60cf90d859c0a7b8d4735d2004",
@@ -868,28 +891,6 @@
       "lead_en": "Five years ago its population was 7 million people, the newspaper writes.",
       "title_raw": "\"Известия\": кадровый резерв в России сократился до 4,4 млн человек",
       "lead_raw": "Пять лет назад его численность составляла 7 млн человек, пишет газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e0964bcb4dc98ff6cb040ce989031230f77c4c7e",
-      "fingerprint": "9b7d2e9a0691735c5cac97f1c56fde7792fcbbe8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27227153",
-      "published_utc": "2026-04-27T00:01:12Z",
-      "title_en": "TASS: The Ukrainian Armed Forces have experienced fuel shortages in the Sumy region",
-      "lead_en": "This is due to regular strikes by the Russian Armed Forces on enemy logistics, noted the Russian security forces",
-      "title_raw": "ТАСС: у ВСУ начались перебои с топливом в районе Сум",
-      "lead_raw": "Это связано с регулярными ударами ВС РФ по логистике противника, отметили в российских силовых структурах",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
