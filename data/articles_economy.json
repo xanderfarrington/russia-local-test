@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-04-29T07:25:51Z",
+  "updated_at_utc": "2026-04-29T10:10:17Z",
   "topic": "economy",
   "count": 14,
   "articles": [
+    {
+      "id": "04580122400d74e79d7e0ebaa3be2a3a58d1ffc8",
+      "fingerprint": "7ea7834845ddec9b84778a9615dc079ab84f3c61",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2123969",
+      "published_utc": "2026-04-29T07:49:57Z",
+      "title_en": "Russian stock market rises at start of main trading session",
+      "lead_en": "The yuan gained 2.6 kopecks compared to the previous close to 11.006 rubles",
+      "title_raw": "Russian stock market rises at start of main trading session",
+      "lead_raw": "The yuan gained 2.6 kopecks compared to the previous close to 11.006 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "54ab5030249bc8594322c7a525184be2095ab248",
       "fingerprint": "733cb70314eb4ec8ef2ec88d693de3f4a65f6bda",
@@ -288,28 +311,6 @@
       },
       "topics": [
         "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2202def76840e60ea19ecca773a6e0d29b2ba8d2",
-      "fingerprint": "1548698d80bcb4da2bf907f59b97300cbb345564",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27231433",
-      "published_utc": "2026-04-27T09:15:28Z",
-      "title_en": "The Russian Chamber of Commerce and Industry proposed to expand air traffic with the EAEU countries",
-      "lead_en": "The development of the aviation sector is considered together with the tasks of increasing cargo flows along the North-South international transport corridor and increasing the overall efficiency of logistics in the Eurasian space, noted Dmitry Kurochki, member of the Council for",
-      "title_raw": "ТПП РФ предложила расширить авиасообщение со странами ЕАЭС",
-      "lead_raw": "Развитие авиационного направления рассматривается вместе с задачами наращивания грузопотоков по МТК \"Север-Юг\" и повышения общей эффективности логистики на евразийском пространстве, отметил член совета по финансовому рынку и инвестициям, советник президента палаты Дмитрий Курочки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
