@@ -1,7 +1,93 @@
 {
-  "updated_at_utc": "2026-05-01T21:56:43Z",
-  "count": 2825,
+  "updated_at_utc": "2026-05-01T22:56:52Z",
+  "count": 2829,
   "articles": [
+    {
+      "id": "bc05bdf627464b1fa088296621820bb86349db38",
+      "fingerprint": "d1a7c3841152831f64fc7d2694f6a52be38b3264",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27287013",
+      "published_utc": "2026-05-01T22:17:09Z",
+      "title_en": "The Russian Foreign Ministry called NATO expansion \"creeping geopolitical aggression\" against Russia",
+      "lead_en": "As Ambassador at Large of the diplomatic department Andrei Belousov said, over the past 20 years the alliance has been strengthening its military potential in order to put pressure on unwanted countries",
+      "title_raw": "МИД РФ назвал расширение НАТО \"ползучей геополитической агрессией\" против России",
+      "lead_raw": "Как заявил посол по особым поручениям дипведомства Андрей Белоусов, на протяжении последних 20 лет альянс укреплял силовой потенциал в целях оказания давления на неугодные страны",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5dea372676a54268b8a5ad9e12ef7e07d5bf7c57",
+      "fingerprint": "9066ee987147cb35f29789f636dd17f1c8b07c42",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/02/russian-regional-outlet-says-website-was-hacked-to-plant-fake-exclusive-interview-with-governor-downplaying-drone-strikes",
+      "published_utc": "2026-05-01T22:14:28Z",
+      "title_en": "Russian regional outlet says website was hacked to plant fake ‘exclusive interview’ with governor downplaying drone strikes",
+      "lead_en": "On April 29, the Krasnodar-based outlet Anapa Region published an article headlined “Exclusive interview with the governor of Krasnodar Krai on the situation in Tuapse.” The article was quickly deleted — though a copy was preserved in a web archive — and the outlet reported that its website had been hacked and the interview planted. The article contained the following statements by Governor Veniamin Kondratyev:",
+      "title_raw": "Russian regional outlet says website was hacked to plant fake ‘exclusive interview’ with governor downplaying drone strikes",
+      "lead_raw": "On April 29, the Krasnodar-based outlet Anapa Region published an article headlined “Exclusive interview with the governor of Krasnodar Krai on the situation in Tuapse.” The article was quickly deleted — though a copy was preserved in a web archive — and the outlet reported that its website had been hacked and the interview planted. The article contained the following statements by Governor Veniamin Kondratyev:",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e7fd879c6a94356d953866ce24c180b55166615f",
+      "fingerprint": "a2a337a53c4916de5848927dea4a47b365335586",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27286995",
+      "published_utc": "2026-05-01T22:07:51Z",
+      "title_en": "Russian Foreign Ministry: the defensive nature of NATO has become a political myth",
+      "lead_en": "According to Ambassador-at-Large of the Russian Foreign Ministry Andrei Belousov, the United States, France and Great Britain have begun an audit of positive achievements in the field of nuclear disarmament",
+      "title_raw": "МИД РФ: оборонный характер НАТО стал политическим мифом",
+      "lead_raw": "По словам посла по особым поручениям российского МИД Андрея Белоусова, США, Франция и Великобритания начали ревизию положительных достижений в области ядерного разоружения",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "540fece639198894dd3e424bdf98f891f60afab7",
+      "fingerprint": "683042ea66215a97df3264c112109b85861b9f79",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27286973",
+      "published_utc": "2026-05-01T22:01:19Z",
+      "title_en": "Marochko: having liberated Novoaleksandrovka, the Russian Armed Forces prepared a springboard for the offensive",
+      "lead_en": "This was preceded by the transfer of Grishin to the control of the Russian army, the expert said",
+      "title_raw": "Марочко: освободив Новоалександровку, ВС РФ подготовили плацдарм для наступления",
+      "lead_raw": "Этому предшествовал переход Гришина под контроль российской армии, сообщил эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "c021140154d4548b524204dfd6573d5a28d4e649",
       "fingerprint": "329b1c4b442426974c4241d8f95ad75750ab43c1",
@@ -9,18 +95,19 @@
       "url": "https://tass.ru/politika/27286923",
       "published_utc": "2026-05-01T21:49:25Z",
       "title_en": "The Russian Foreign Ministry has shown the way to a reliable resolution of the conflict in Ukraine",
-      "lead_en": "",
+      "lead_en": "It consists in NATO’s refusal to inflict a strategic defeat on Russia, said Ambassador-at-Large of the Russian Diplomatic Ministry Andrei Belousov",
       "title_raw": "МИД РФ указал путь к надежному урегулированию конфликта на Украине",
-      "lead_raw": "",
+      "lead_raw": "Он заключается в отказе НАТО от стремления нанести России стратегическое поражение, заявил посол по особым поручениям российского дипведомства Андрей Белоусов",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
+        "diplomacy": 2,
+        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "military"
       ],
       "primary_topic": "diplomacy"
     },
@@ -47,39 +134,17 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "5d133204b7949937050367257bfc82cb86ac6322",
+      "id": "fe2d90f0191b8775ec795aa6787deff60a0179ad",
       "fingerprint": "d09ef294852b626cd0557efed1214e5b355fb261",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27286905",
       "published_utc": "2026-05-01T21:45:53Z",
-      "title_en": "Russian Foreign Ministry: France is participating in strengthening the “nuclear fist” against Russia",
-      "lead_en": "",
-      "title_raw": "МИД РФ: Франция участвует в укреплении \"ядерного кулака\" против России",
-      "lead_raw": "",
+      "title_en": "Russian Foreign Ministry: at the initiative of France, the “nuclear fist” against Russia is being strengthened",
+      "lead_en": "The threat also concerns Moscow’s allies, noted Ambassador-at-Large of the Russian Diplomatic Ministry Andrei Belousov",
+      "title_raw": "МИД РФ: по инициативе Франции укрепляется \"ядерный кулак\" против России",
+      "lead_raw": "Угроза также касается и союзников Москвы, отметил посол по особым поручениям российского дипведомства Андрей Белоусов",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0449364efcd578e4dec26ee452540b2e6aea3127",
-      "fingerprint": "3015fca57683975010c205614781d4f52be46b8e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27286911",
-      "published_utc": "2026-05-01T21:45:24Z",
-      "title_en": "Russian Foreign Ministry: some non-nuclear states in Europe are flirting with the idea of ​​acquiring nuclear weapons",
-      "lead_en": "",
-      "title_raw": "МИД РФ: часть неядерных государств Европы заигрывает с идеей обзавестись ядерным оружием",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
+        "diplomacy": 2,
         "military": 1,
         "energy": 0,
         "economy": 0,
@@ -92,24 +157,48 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "f5b80fa339ec60bdca55e58320cb67e446fb80d6",
-      "fingerprint": "1e55195f2be9143e379b4faa1247c9699cd8faaf",
+      "id": "3a16f327a7625b187d21836198cd5ff0904e49fd",
+      "fingerprint": "3015fca57683975010c205614781d4f52be46b8e",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27286899",
-      "published_utc": "2026-05-01T21:43:29Z",
-      "title_en": "Russian Foreign Ministry: Western nuclear troika is expanding and building up nuclear potentials",
-      "lead_en": "",
-      "title_raw": "МИД РФ: западная ядерная тройка расширяет и наращивает ядерные потенциалы",
-      "lead_raw": "",
+      "url": "https://tass.ru/politika/27286911",
+      "published_utc": "2026-05-01T21:45:24Z",
+      "title_en": "Russian Foreign Ministry: some non-nuclear countries in Europe are flirting with the idea of ​​acquiring nuclear weapons",
+      "lead_en": "Ambassador-at-Large of the department Andrei Belousov indicated that the EU is discussing the formation of “some of its own pan-European military-nuclear capabilities.”",
+      "title_raw": "МИД РФ: часть неядерных стран Европы заигрывает с идеей обзавестись ЯО",
+      "lead_raw": "Посол по особым поручениям ведомства Андрей Белоусов указал, что в ЕС обсуждают формирование \"неких собственных общеевропейских военно-ядерных возможностей\"",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
+        "diplomacy": 2,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "393a974f3837b83e800e02b681a4eeeb4c827ca5",
+      "fingerprint": "1e55195f2be9143e379b4faa1247c9699cd8faaf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27286899",
+      "published_utc": "2026-05-01T21:43:29Z",
+      "title_en": "Russian Foreign Ministry: the Western nuclear troika is increasing its nuclear potential without limit",
+      "lead_en": "Western states are actively involving non-nuclear allies in destabilizing schemes for providing a nuclear umbrella, said Ambassador-at-Large of the Russian Foreign Ministry Andrei Belousov",
+      "title_raw": "МИД РФ: западная ядерная тройка неограниченно наращивает ядерные потенциалы",
+      "lead_raw": "Западные государства активно вовлекают неядерных союзников в дестабилизирующие схемы предоставления ядерного зонтика, заявил посол по особым поручениям МИД России Андрей Белоусов",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
       ],
       "primary_topic": "diplomacy"
     },
