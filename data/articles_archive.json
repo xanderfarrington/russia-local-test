@@ -1,7 +1,721 @@
 {
-  "updated_at_utc": "2026-05-01T13:27:13Z",
-  "count": 2732,
+  "updated_at_utc": "2026-05-01T15:00:16Z",
+  "count": 2767,
   "articles": [
+    {
+      "id": "dcddaf9aca2e28a0a720521699a3ea2cf13088ef",
+      "fingerprint": "d7b590a7876dc0425a09c16d73295bb4c9585769",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285441",
+      "published_utc": "2026-05-01T14:56:42Z",
+      "title_en": "Golikova: 3 thousand cultural objects have been created and repaired in the Russian Federation in six years",
+      "lead_en": "The Deputy Prime Minister noted that more than 7 thousand organizations received modern equipment",
+      "title_raw": "Голикова: в РФ за шесть лет создали и отремонтировали 3 тыс. объектов культуры",
+      "lead_raw": "Вице-премьер отметила, что современное оборудование получили более 7 тыс. организаций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5cfb694dc510324578e7d2dc6855f867998900ae",
+      "fingerprint": "30ea0be550c53f581b76ca308fac8c4f1a22a2ce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285425",
+      "published_utc": "2026-05-01T14:55:05Z",
+      "title_en": "Golikova: more than 1.4 million people have signed a social contract in Russia since 2021",
+      "lead_en": "According to the Deputy Prime Minister, in 2025, more than 6 thousand social contracts were concluded with SVO participants and members of their families",
+      "title_raw": "Голикова: соцконтракт заключили в России более 1,4 млн человек с 2021 года",
+      "lead_raw": "По словам вице-премьера, в 2025 году с участниками СВО и членами их семей заключено более 6 тыс. социальных контрактов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "11f329f3f2c5eaf4d90312aedb3f44cb025353bd",
+      "fingerprint": "efa8aa81a0c5f658d26af5f3dec384c0dc6c2c74",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27285429",
+      "published_utc": "2026-05-01T14:54:35Z",
+      "title_en": "Arrival in Japan of a shipment of Russian oil purchased by Taiyo Oil is expected on May 3",
+      "lead_en": "",
+      "title_raw": "Прибытие в Японию партии закупленной Taiyo Oil нефти РФ ожидается 3 мая",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "92fd0ca9d5ab79cb990017a8b9fe18f9642e5479",
+      "fingerprint": "721d79794cd813e84e2f5abb4ee686f5dd8a30f6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27285361",
+      "published_utc": "2026-05-01T14:52:38Z",
+      "title_en": "On posters for Ivanushki International concerts, the second word will be crossed out",
+      "lead_en": "The idea to cross out the word on the posters belonged to the group’s producer, People’s Artist of Russia Igor Matvienko",
+      "title_raw": "На афишах концертов \"Иванушек International\" второе слово будут зачеркивать",
+      "lead_raw": "Идея зачеркнуть слово на афишах принадлежало продюсеру группы, народному артисту России Игорю Матвиенко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8950eca71a559567a2e207abc3544b97d0554008",
+      "fingerprint": "1841f38f17f4a370f974613db6bacd0a0d4a9085",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284149",
+      "published_utc": "2026-05-01T14:49:31Z",
+      "title_en": "The United Russia intends to accelerate the implementation of Russian medical developments",
+      "lead_en": "",
+      "title_raw": "В ЕР намерены ускорить внедрение российских медицинских разработок",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "829884f4dd7439d38fda19c5012c2a4c2116ded5",
+      "fingerprint": "08dde3b69abd912fef469c27b329a96131313318",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285379",
+      "published_utc": "2026-05-01T14:48:57Z",
+      "title_en": "Russians were recommended to apply for a Finnish visa with biometric passports",
+      "lead_en": "The Finnish Ministry of Foreign Affairs advises visa and residence permit applicants to prepare in advance for the application of the decision",
+      "title_raw": "Россиянам рекомендовали по подавать на финскую визу биометрические паспорта",
+      "lead_raw": "Министерство иностранных дел Финляндии советует заявителям на получение визы и вида на жительство заблаговременно подготовиться к началу применения решения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4ca3650a83212adb04f16a14d94c9f89e2fb96b4",
+      "fingerprint": "f64b3fcd6a8bb49685678bdce3c6839598dddf0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27285369",
+      "published_utc": "2026-05-01T14:48:02Z",
+      "title_en": "Taiyo Oil bought a shipment of Russian oil from Sakhalin",
+      "lead_en": "",
+      "title_raw": "Taiyo Oil купила партию российской нефти с Сахалина",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b68a53fc1592ac650c746c9c1e4fba4463038529",
+      "fingerprint": "295c47e25e5eb5f18e953f7d327af47046a9f0c1",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639338-venice-biennale-international-jury-resigns",
+      "published_utc": "2026-05-01T14:29:41Z",
+      "title_en": "Venice Biennale jury resigns citing ICC cases against Russia and Israel",
+      "lead_en": "The Venice Biennale international jury has resigned amid pressure over the event organizers’ decision to allow Russia to participate Read Full Article at RT.com",
+      "title_raw": "Venice Biennale jury resigns citing ICC cases against Russia and Israel",
+      "lead_raw": "The Venice Biennale international jury has resigned amid pressure over the event organizers’ decision to allow Russia to participate Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b0192a55d690373e2d60b01b54c7dc4c656b4125",
+      "fingerprint": "f9f1116476578dd209b0cd882d349d8b0b8e035f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27285213",
+      "published_utc": "2026-05-01T14:26:37Z",
+      "title_en": "Medvedev said that most of the new medical equipment in the Russian Federation is already domestic",
+      "lead_en": "According to the chairman of United Russia, the process of updating it must be constant, since technology is quickly becoming obsolete",
+      "title_raw": "Медведев заявил, что большая часть новой медтехники в РФ уже отечественная",
+      "lead_raw": "По словам председателя \"Единой России\", процесс ее обновления должен быть постоянным, так как техника быстро устаревает",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "621169da89e2a2325c6cdfd42d3796c2fb8ee9df",
+      "fingerprint": "a31578d8e864382c1323e8592651949a985fbf9f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27285197",
+      "published_utc": "2026-05-01T14:19:28Z",
+      "title_en": "100 Ukrainian UAVs shot down over Russia in nine hours",
+      "lead_en": "Air defense systems operated from 08:00 to 17:00 Moscow time",
+      "title_raw": "Над Россией сбили 100 украинских БПЛА за девять часов",
+      "lead_raw": "Средства ПВО работали с 08:00 до 17:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ab9d9fb6a645cc7f99f1f24d6f52555e474ec498",
+      "fingerprint": "0c01e9bf3a46024af4a7b16ef533bb17fba6b043",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27285131",
+      "published_utc": "2026-05-01T14:19:11Z",
+      "title_en": "The US Department of Commerce confirmed plans to introduce a duty on palladium from the Russian Federation of 133%",
+      "lead_en": "According to the agency, Russia exports this metal to the United States at prices below market prices.",
+      "title_raw": "Минторг США подтвердил планы введения пошлины на палладий из РФ в 133%",
+      "lead_raw": "Как утверждает ведомство, Россия экспортирует этот металл в Соединенные Штаты по ценам ниже рыночных",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "41ee8428bab5da03a5601aa03c5ff72520f3f878",
+      "fingerprint": "194833a6a3a9de662bce767188c638f13a34585b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285179",
+      "published_utc": "2026-05-01T14:16:19Z",
+      "title_en": "Golikova: work to promote large families in the Russian Federation will continue until 2030",
+      "lead_en": "Work will also continue to increase the number of regions that provide social support measures to large families without a need criterion, the Deputy Prime Minister said",
+      "title_raw": "Голикова: работа по продвижению многодетности в РФ продолжится до 2030 года",
+      "lead_raw": "Будет также продолжена работа по увеличению числа регионов, которые предоставляют меры социальной поддержки многодетным без критерия нуждаемости, сообщила вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7af337f242e515776b14ebbb01035c3f57cd4a6c",
+      "fingerprint": "164f67fab76b22cc0edf27fb60429b6eaab7e4d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285121",
+      "published_utc": "2026-05-01T14:16:19Z",
+      "title_en": "Medvedev: the problem of queues at kindergartens as a whole is a thing of the past",
+      "lead_en": "According to the chairman of United Russia, large-scale budget investments are provided for the repair and construction of kindergartens",
+      "title_raw": "Медведев: проблема очередей в детсад в целом ушла в прошлое",
+      "lead_raw": "По словам председателя \"Единой России\", масштабные бюджетные инвестиции предусмотрены на ремонт и строительство детских садов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5c0b63203c3a43eaf4b47a8b63953e465e28e9b1",
+      "fingerprint": "27a54aefd40a75f6689c332b57d004715db61cc4",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/01/sacked-russian-deputy-minister-flees-to-us-amid-fraud-probe-sources-say-a92663",
+      "published_utc": "2026-05-01T14:15:00Z",
+      "title_en": "Sacked Russian Deputy Minister Flees to U.S. Amid Fraud Probe, Sources Say",
+      "lead_en": "Denis Butsayev was dismissed from the Natural Resources and Environment Ministry shortly after he reportedly slipped out of the country.",
+      "title_raw": "Sacked Russian Deputy Minister Flees to U.S. Amid Fraud Probe, Sources Say",
+      "lead_raw": "Denis Butsayev was dismissed from the Natural Resources and Environment Ministry shortly after he reportedly slipped out of the country.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b0acbd2d7c2cd5182f808ddc04d76fc10958e828",
+      "fingerprint": "b4e01ac107c3710c93f61a84ff8af8e3760f6dd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285103",
+      "published_utc": "2026-05-01T14:14:35Z",
+      "title_en": "Medvedev: infant mortality in the Russian Federation has become lower than in many Western countries",
+      "lead_en": "According to the party chairman, “this is, of course, an indisputable result of the joint work of United Russia and the government.”",
+      "title_raw": "Медведев: младенческая смертность в РФ стала ниже, чем во многих странах Запада",
+      "lead_raw": "По словам председателя партии, \"это, безусловно, неоспоримый результат совместной работы \"Единой России\" и правительства\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b059981de8ba3e13dbb7df50a34a35ba8bb9338e",
+      "fingerprint": "fc035578b74236bdb990cbbf6e6b846a5932540b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285067",
+      "published_utc": "2026-05-01T14:08:41Z",
+      "title_en": "Medvedev supported the introduction of additional measures to support large families in the regions",
+      "lead_en": "The Chairman of United Russia noted that large families are “a guarantee of a prosperous future for the entire country”",
+      "title_raw": "Медведев поддержал введение в регионах дополнительных мер поддержки многодетных",
+      "lead_raw": "Председатель \"Единой России\" отметил, что большие семьи являются \"гарантией благополучного будущего всей страны\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bd9d9e5b38eeeb731d4fea70cbbc3f0001546763",
+      "fingerprint": "7ddb027415de6136af1b10cfc2047b0bcf592357",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285029",
+      "published_utc": "2026-05-01T14:05:40Z",
+      "title_en": "Medvedev: political opponents of the Russian Federation are trying to appropriate the Spring and Labor Day",
+      "lead_en": "It is much more important, as the chairman of United Russia noted, to devote this day to caring for the future, as the party does",
+      "title_raw": "Медведев: политические оппоненты РФ пытаются присвоить себе Праздник весны и труда",
+      "lead_raw": "Гораздо важнее, как отметил председатель \"Единой России\", посвятить этот день заботе о будущем, как это делает партия",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9b9811693d5a5258c6a7caddc20b56d3fda630ef",
+      "fingerprint": "ccf27c38e2a7dcdab1e8518452e757902b7c489c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27285045",
+      "published_utc": "2026-05-01T14:05:29Z",
+      "title_en": "Golikova: the number of large families in Russia has increased 1.5 times since 2019",
+      "lead_en": "There are almost 2.9 million of them, the Deputy Prime Minister said",
+      "title_raw": "Голикова: число многодетных семей в России выросло в 1,5 раза с 2019 года",
+      "lead_raw": "Их почти 2,9 млн, сообщила вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "204e9a2134bf76d4c45836bca7c3636c9df94c62",
+      "fingerprint": "75082e1163ca0011b853ca2cb41e66f101b5dd4b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284957",
+      "published_utc": "2026-05-01T14:03:52Z",
+      "title_en": "Medvedev named the key importance for having children",
+      "lead_en": "The Chairman of United Russia noted that this is the psychological attitude of parents",
+      "title_raw": "Медведев назвал ключевое значение для появления детей",
+      "lead_raw": "Председатель ЕР отметил, что это психологическая установка родителей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ee06d9cbc1c3d42040e51912419a54d060c43f91",
+      "fingerprint": "8808b14acc86623529c1894e421503e5190756eb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27284989",
+      "published_utc": "2026-05-01T14:02:25Z",
+      "title_en": "Golikova: the poverty level in Russia has decreased by 1.5 times in four years",
+      "lead_en": "The Deputy Prime Minister of the Russian Federation provided such data for the period from 2021 to 2025",
+      "title_raw": "Голикова: уровень бедности в России за четыре года снизился в 1,5 раза",
+      "lead_raw": "Такие данные вице-премьер РФ привела за период с 2021 по 2025 годы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1229dc20b7b5f7d9b40c81ed96fc78be8a4599aa",
+      "fingerprint": "99a2652d5a1d690c24ccbda79cbad28d5acd804f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284979",
+      "published_utc": "2026-05-01T14:01:47Z",
+      "title_en": "Medvedev called for the development of family units in student dormitories",
+      "lead_en": "Several hundred mother and child rooms have been created in many universities across the country, noted the chairman of United Russia.",
+      "title_raw": "Медведев призвал развивать семейные блоки в студенческих общежитиях",
+      "lead_raw": "Во многих вузах страны создано несколько сотен комнат матери и ребенка, отметил председатель \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3a29330e10fb32996305b993cbb770fc96023f9b",
+      "fingerprint": "1c1731b2623dbe9ecebf0e86226c85cf72e8df72",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284967",
+      "published_utc": "2026-05-01T13:58:27Z",
+      "title_en": "Golikova: in Russia, 126 thousand pregnant women receive a single benefit",
+      "lead_en": "Parents of more than 9.2 million children also receive it, the Deputy Prime Minister said.",
+      "title_raw": "Голикова: в России единое пособие получают 126 тыс. беременных",
+      "lead_raw": "Его получают также родители более 9,2 млн детей, сообщила вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "803c99c72af01f8e409354b0266e775afc75d4ae",
+      "fingerprint": "4b6d9a0dc17b6d06fce8edaf6f2dc673cd2b7887",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284931",
+      "published_utc": "2026-05-01T13:54:26Z",
+      "title_en": "Medvedev: 850 thousand proposals were received for the new people's program of United Russia",
+      "lead_en": "The party chairman noted that such activity indicates the involvement of citizens in discussing key issues of the country’s development",
+      "title_raw": "Медведев: в новую народную программу ЕР поступило 850 тыс. предложений",
+      "lead_raw": "Председатель партии отметил, что такая активность говорит о вовлеченности граждан в обсуждение ключевых вопросов развития страны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5819fb6ef64c76e19881ed8843717bfd4cfdb9d3",
+      "fingerprint": "c638cb92b4eaab8878bf3cea08bdfb7280e11c87",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284925",
+      "published_utc": "2026-05-01T13:53:07Z",
+      "title_en": "Medvedev: United Russia intends to win the upcoming elections of State Duma deputies",
+      "lead_en": "We are collecting proposals for a new party program",
+      "title_raw": "Медведев: \"Единая Россия\" намерена победить на предстоящих выборах депутатов ГД",
+      "lead_raw": "Ведется сбор предложений в новую программу партии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0d14b1c59449e3ad3279634b50fbeaedbd342bc0",
+      "fingerprint": "6720898cc592a061c43364b33e6d1e8b59adabd0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284861",
+      "published_utc": "2026-05-01T13:52:27Z",
+      "title_en": "Golikova: 26 thousand student families live in Russia",
+      "lead_en": "Of these, 13 thousand have children, the Deputy Prime Minister said",
+      "title_raw": "Голикова: в России проживают 26 тыс. студенческих семей",
+      "lead_raw": "Из них 13 тыс. имеют детей, сообщила вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cac3f25de47ce84061facedb1715e636de399dc9",
+      "fingerprint": "a864e92961b82b0a0b35edace9cf513b0eaf3341",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284897",
+      "published_utc": "2026-05-01T13:50:48Z",
+      "title_en": "Medvedev announced a system of support for SVO participants formed in the Russian Federation",
+      "lead_en": "For this purpose, over 160 federal laws have been adopted. noted the chairman of United Russia",
+      "title_raw": "Медведев заявил о сформированной в РФ системе поддержки участников СВО",
+      "lead_raw": "Для этого принято свыше 160 федеральных законов. отметил председатель ЕР",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c57414cc2e29e4ecc21cc92bd5949ec2feb7e589",
+      "fingerprint": "d8407013ca1b8be56542ec64262ce37c5695034f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284845",
+      "published_utc": "2026-05-01T13:50:06Z",
+      "title_en": "Medvedev: United Russia ensured the adoption of 50 laws to support families in 2024",
+      "lead_en": "In 2025, with the assistance of the party, a new national project “Family” was launched, noted the chairman of United Russia.",
+      "title_raw": "Медведев: ЕР в 2024 году обеспечила принятие 50 законов по поддержке семьи",
+      "lead_raw": "В 2025 году при содействии партии стартовал новый национальный проект \"Семья\", отметил председатель \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "628f80bef252909495388705ba7a76511f12d6fc",
+      "fingerprint": "de329ac825e7868b353f15f5e2988c78ecfe60a1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284839",
+      "published_utc": "2026-05-01T13:47:14Z",
+      "title_en": "Medvedev: The Russian Federation has no right to depend on foreign supplies of drugs",
+      "lead_en": "Russia needs not only innovative medicines, but also conventional drugs included in the list of vital and essential drugs, the chairman of United Russia noted.",
+      "title_raw": "Медведев: РФ не имеет права зависеть от зарубежных поставок препаратов",
+      "lead_raw": "России нужны не только инновационные лекарства, но и обычные препараты, входящие в перечень жизненно необходимых и важнейших, отметил председатель \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aa2600e0e817ba2022b307983f4368daac30422e",
+      "fingerprint": "b3ca01f3fe924973a1493bd4ce83ae2173dac80a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284801",
+      "published_utc": "2026-05-01T13:45:55Z",
+      "title_en": "Medvedev: student families need a special study schedule",
+      "lead_en": "Education should not interfere with the birth of children, said the chairman of United Russia",
+      "title_raw": "Медведев: для студенческих семей нужен особый график учебы",
+      "lead_raw": "Обучение не должно мешать появлению детей, заявил председатель \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cbe8d913e7b92a7a168b2ae910e9650a5767ad74",
+      "fingerprint": "dbba79c6d3d3f780fd953a197aa3813639ba1cc0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284765",
+      "published_utc": "2026-05-01T13:40:42Z",
+      "title_en": "Golikova called for the creation of mother and child rooms at enterprises",
+      "lead_en": "The Deputy Prime Minister of the Russian Federation also noted that within the framework of one of the national projects, 266.5 thousand nursery places were created for children under three years of age",
+      "title_raw": "Голикова призвала создавать на предприятиях комнаты матери и ребенка",
+      "lead_raw": "Вице-премьер РФ также отметила, что в рамках одного из нацпроектов было создано 266,5 тыс. ясельных мест для детей в возрасте до трех лет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4dff2e6be7f02970203d7fc8f0c35342a20d5ff9",
+      "fingerprint": "876b7f545b745e52b2355f6d28b4a29b9ff38c84",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284741",
+      "published_utc": "2026-05-01T13:33:49Z",
+      "title_en": "Medvedev recalled how in the 1990s kindergarten buildings were bought for offices",
+      "lead_en": "The Chairman of United Russia noted that these actions led to the destruction of the entire network of kindergartens and their subsequent shortage for residents",
+      "title_raw": "Медведев вспомнил, как в 1990-е здания детских садов выкупали для офисов",
+      "lead_raw": "Председатель \"Единой России\" отметил, что эти действия привели к разрушению всей сети детсадов и их последующей нехватки для жителей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "86191c87dcf6d84c73d358fa53e3f2e002eb9e08",
+      "fingerprint": "c94f46de5adb37f90d647dd673f051314e20f4ee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284759",
+      "published_utc": "2026-05-01T13:33:26Z",
+      "title_en": "Medvedev: United Russia needs to continue working to support families",
+      "lead_en": "The chairman of the party called this the most important priority of its work with the country’s budget",
+      "title_raw": "Медведев: \"Единой России\" необходимо продолжить работу по поддержке семей",
+      "lead_raw": "Председатель партии назвал это важнейшим приоритетом ее работы с бюджетом страны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "099e5fb32ba54d69f1db26297490b50125d6a9dc",
+      "fingerprint": "9cefbc52965e6bbb8443cfed599767be25ea616a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284735",
+      "published_utc": "2026-05-01T13:31:29Z",
+      "title_en": "Medvedev: belonging to a single people is felt in the most dramatic periods",
+      "lead_en": "This is exactly what is happening in Russia now, said the chairman of United Russia.",
+      "title_raw": "Медведев: принадлежность единому народу ощущается в самые драматические периоды",
+      "lead_raw": "Именно так сейчас происходит в России, заявил председатель \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b2026e4ec9d46f874cf49c2d82d5e79a022c2172",
+      "fingerprint": "b301081104b10a3ee1f88b968f414a55b85fbfe4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27284721",
+      "published_utc": "2026-05-01T13:29:26Z",
+      "title_en": "Medvedev called family and home the main values ​​for Russians",
+      "lead_en": "The Chairman of United Russia announced this at the party’s reporting and program forum",
+      "title_raw": "Медведев назвал семью и дом главными ценностями для россиян",
+      "lead_raw": "Председатель \"Единой России\" заявил об этом на отчетно-программном форуме партии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "57f97ccb6906215c6bbe10275dbf42b5c067723d",
+      "fingerprint": "8a206a69a4e7adb3902f89a150e0555843071d4b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284703",
+      "published_utc": "2026-05-01T13:27:52Z",
+      "title_en": "Medvedev: Russians want to have children",
+      "lead_en": "The chairman of United Russia emphasized that the authorities expected that the problem with kindergartens would be solved within the next 10-15 years after the allocation of certain funds, but these expectations did not come true",
+      "title_raw": "Медведев: россияне хотят заводить детей",
+      "lead_raw": "Председатель \"Единой России\" подчеркнул, что власти рассчитывали, что проблема с детскими садами будет решена в течение ближайших 10-15 лет после выделения определённых средств, однако эти ожидания не сбылись",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "a034bf6eed5fab9c9256b9b58303ff0a80567bdf",
       "fingerprint": "7a23d5aca7bbfd06c27557f3e2ce0c0a9c9bafc4",
