@@ -1,7 +1,433 @@
 {
-  "updated_at_utc": "2026-05-02T10:01:16Z",
-  "count": 2897,
+  "updated_at_utc": "2026-05-02T11:49:47Z",
+  "count": 2917,
   "articles": [
+    {
+      "id": "1ba578dbaee44fab910f662af804db76c4c24eb6",
+      "fingerprint": "30ad79f4b7b1c5fd82e5795f988c6325b000902f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27289877",
+      "published_utc": "2026-05-02T11:42:51Z",
+      "title_en": "Russia will ban AI-generated images of people in campaigning",
+      "lead_en": "",
+      "title_raw": "В России запретят созданные ИИ изображения людей в агитации",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9f901c094fb6f726be2ae0967c5e88e270636adf",
+      "fingerprint": "4ae0498c5c4c409f3203a0bf37d9ca239cefbeaa",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/02/japan-buys-russian-oil-for-the-first-time-since-hormuz-closure-a92666",
+      "published_utc": "2026-05-02T11:41:06Z",
+      "title_en": "Japan Buys Russian Oil for the First Time Since Hormuz Closure",
+      "lead_en": "The Japanese refiner Taiyo Oil plans to receive the cargo through the Sakhalin-2 project in Russia’s Far East, the Mainichi newspaper reported.",
+      "title_raw": "Japan Buys Russian Oil for the First Time Since Hormuz Closure",
+      "lead_raw": "The Japanese refiner Taiyo Oil plans to receive the cargo through the Sakhalin-2 project in Russia’s Far East, the Mainichi newspaper reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1869095e90e70345396f116d9c8d727e290d60d5",
+      "fingerprint": "3946b7b1441010c88ef622c4a14db4288da0f904",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27289775",
+      "published_utc": "2026-05-02T11:39:46Z",
+      "title_en": "Unmanned danger declared in Tatarstan",
+      "lead_en": "This was reported by the Main Directorate of the Ministry of Emergency Situations of Russia for the republic.",
+      "title_raw": "В Татарстане объявили беспилотную опасность",
+      "lead_raw": "Об этом сообщило ГУ МЧС России по республике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e4b0efff3a6d5494f6d338e83649d67f5f505d83",
+      "fingerprint": "a930db9350a3ca73fa4f99f60b1f3fd3c0eea86d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27289823",
+      "published_utc": "2026-05-02T11:35:40Z",
+      "title_en": "Ulyanov: European NATO countries are obsessed with the “inevitability of war in Europe”",
+      "lead_en": "In this context, the Russian Permanent Representative to international organizations in Vienna mentioned the Northern Strike alliance exercises that began in Finland, which are taking place 70 km from the border with the Russian Federation",
+      "title_raw": "Ульянов: европейские страны НАТО одержимы \"неизбежностью войны в Европе\"",
+      "lead_raw": "Постпред России при международных организациях в Вене в этом контексте упомянул начавшиеся в Финляндии учения альянса \"Северный удар\", которые проходят в 70 км от границы с РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dc9326c084825983d0ee5dc654c1d2c918dd88ee",
+      "fingerprint": "c1e83d2cb554c8e0bf96914ea421d8b8c45a7851",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2125535",
+      "published_utc": "2026-05-02T11:34:12Z",
+      "title_en": "Russia ratifies military cooperation agreement with Nicaragua",
+      "lead_en": "The ratification of the document will contribute to strengthening cooperation between countries in the military field",
+      "title_raw": "Russia ratifies military cooperation agreement with Nicaragua",
+      "lead_raw": "The ratification of the document will contribute to strengthening cooperation between countries in the military field",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0f6b377a6e0503720108b90a5cb58db3a358b246",
+      "fingerprint": "af317d7d36c46c6e17f2672d6bfd130b6392be69",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27289781",
+      "published_utc": "2026-05-02T11:26:25Z",
+      "title_en": "123 Ukrainian UAVs shot down over Russian regions",
+      "lead_en": "Air defense forces destroyed the drones between 08:00 and 14:00 Moscow time",
+      "title_raw": "Над регионами России сбили 123 украинских БПЛА",
+      "lead_raw": "Силы ПВО уничтожили дроны в период с 08:00 до 14:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ee8b36d20cfe4945f54b6c50c24ddca93d68e03f",
+      "fingerprint": "27b51076e7faf541e7d8b419945e07514bec8d21",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27289725",
+      "published_utc": "2026-05-02T11:20:19Z",
+      "title_en": "An experiment in retail trade in mobile pharmacies will be launched in Russia",
+      "lead_en": "Such pharmacies will operate in test mode from September 1, 2026 to September 1, 2029",
+      "title_raw": "В России запустят эксперимент по розничной торговле в передвижных аптеках",
+      "lead_raw": "Такие аптеки будут работать в тестовом режиме с 1 сентября 2026 года по 1 сентября 2029 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "23209f27473e215a47a5e8618aacb98ff55ee5d0",
+      "fingerprint": "86323c57e04fe89e6b8d04eaa05913ccf7061d49",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27289649",
+      "published_utc": "2026-05-02T11:09:46Z",
+      "title_en": "In Russia, the priority period for holding a congress of judges has been increased to six years",
+      "lead_en": "Also, the terms of office of members of the regional councils of judges and qualification boards of judges are being increased from four to six years.",
+      "title_raw": "В России увеличили очередность проведения съезда судей до шести лет",
+      "lead_raw": "Также с четырех до шести лет увеличивается срок полномочий избираемых съездом судей Совета судей, Высшей квалификационной коллегии судей и Высшей экзаменационной комиссии, сроки полномочий членов региональных советов судей и квалификационных коллегий судей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aef768a031875cf5aa07b08f89ee66eb5207f6a6",
+      "fingerprint": "6a07c46cb4d1bc6036ba154a30993f1a8e9a9b04",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27289557",
+      "published_utc": "2026-05-02T10:48:01Z",
+      "title_en": "Russia ratified an agreement on the basis of relations with Togo",
+      "lead_en": "The agreement was concluded in Moscow on November 19, 2025",
+      "title_raw": "Россия ратифицировала соглашение об основах отношений с Того",
+      "lead_raw": "Соглашение было заключено в Москве 19 ноября 2025 года",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9c07a1fcecdd8538b59832973b484b45d6b2ebba",
+      "fingerprint": "0c1ae0911d120fcaa67a583f4693c6e5c8d2d6fd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27289517",
+      "published_utc": "2026-05-02T10:43:53Z",
+      "title_en": "Russian Konanykhina won silver in the platform diving at the KM super final",
+      "lead_en": "Chinese Jiang Linjing took first place.",
+      "title_raw": "Россиянка Конаныхина выиграла серебро в прыжках с вышки на суперфинале КМ",
+      "lead_raw": "Первое место заняла китаянка Цзян Линьцзин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec71dea9a1656f9e81167bddf4a64d4f4cfb6d1e",
+      "fingerprint": "6f80ab33801039f85b48b03bea7b6f277972926b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/opinions/27288705",
+      "published_utc": "2026-05-02T10:40:00Z",
+      "title_en": "What is the reason for stopping the transit of Kazakh oil via Druzhba?",
+      "lead_en": "Igor Yushkov - about what events preceded the stop of pumping and what signal Russia is sending to Western countries",
+      "title_raw": "В чем причина прекращения транзита казахской нефти по \"Дружбе\"?",
+      "lead_raw": "Игорь Юшков — о том, какие события предшествовали остановке прокачки и какой сигнал посылает Россия западным странам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8b536acbcee66a792004b243c5e448fc7520741c",
+      "fingerprint": "a7651630ad366e9659a96c6ada58714e41837a94",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27289503",
+      "published_utc": "2026-05-02T10:39:51Z",
+      "title_en": "Russia ratified an agreement with Nicaragua on military cooperation",
+      "lead_en": "Ratification of the document will help strengthen cooperation between countries in the military field",
+      "title_raw": "Россия ратифицировала соглашение с Никарагуа о военном сотрудничестве",
+      "lead_raw": "Ратификация документа будет способствовать укреплению сотрудничества между странами в военной области",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f2bea84daf6fedc60889f593dfe94484dd592233",
+      "fingerprint": "31cdfc0b21a31dcce7e78f3e08092f88a41bd0df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27289477",
+      "published_utc": "2026-05-02T10:38:55Z",
+      "title_en": "Russia ratified an agreement with Kyrgyzstan on the construction of the KRSU campus",
+      "lead_en": "This will increase the number of students at the university to 15 thousand people",
+      "title_raw": "Россия ратифицировала соглашение с Киргизией о строительстве кампуса КРСУ",
+      "lead_raw": "Это позволит увеличить численность обучающихся в университете до 15 тыс. человек",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d5c445cfb52c7648df52a5acc7083bc9232be115",
+      "fingerprint": "ed50443e3d6fa892ca4fce60e7fd8caa1f7433aa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27289437",
+      "published_utc": "2026-05-02T10:32:03Z",
+      "title_en": "A pensioner from Yakutia became the new Russian record holder in the 24-hour race.",
+      "lead_en": "Alexander Moedo covered 285.2 km in 24 hours",
+      "title_raw": "Новым рекордсменом России в беге на 24 часа стал пенсионер из Якутии",
+      "lead_raw": "Александр Моедо преодолел за 24 часа 285,2 км",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c360a0519b02bb7d9edfa4ef90643169fae6e98a",
+      "fingerprint": "e2fcc9f6876b4b65485dd03f7febe65c72c2d8d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27289433",
+      "published_utc": "2026-05-02T10:25:47Z",
+      "title_en": "A list of organizations for training counselors has been created in Russia",
+      "lead_en": "The information resource was created to provide camp managers with qualified personnel and help future counselors find vocational training programs",
+      "title_raw": "В России создали перечень организаций по подготовке вожатых",
+      "lead_raw": "Информационный ресурс создан для обеспечения руководителей лагерей квалифицированными кадрами и помощи будущим вожатым в поиске программ профобучения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a622df6ae920812113ca8603e236d88727f646d6",
+      "fingerprint": "a47c01a29d4bf23d9ef66cccc6bd3d1bceb5b242",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27289415",
+      "published_utc": "2026-05-02T10:23:02Z",
+      "title_en": "The Russian Ambassador called to prevent the revival of Nazism in Moldova",
+      "lead_en": "The ceremony took place at the Sherpen Bridgehead memorial complex, which was opened in August 2004 to mark the 60th anniversary of the liberation of the republic from fascism.",
+      "title_raw": "Посол РФ призвал не допустить возрождения нацизма в Молдавии",
+      "lead_raw": "Торжественная церемония прошла на мемориальном комплексе \"Шерпенский плацдарм\", который был открыт в августе 2004 года к 60-летию освобождения республики от фашизма",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1b51153d7e59b2d9dacc4a72dce66f9ce803ade7",
+      "fingerprint": "c284d167d3c54280ba6e1ca5c1357c303a9520ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27284011",
+      "published_utc": "2026-05-02T10:18:48Z",
+      "title_en": "United Russia called on regions to expand the practice of paying maternity capital for a third child",
+      "lead_en": "More than 70 regions have introduced this support measure, noted Vice Speaker of the State Duma Anna Kuznetsova",
+      "title_raw": "В ЕР призвали регионы расширять практику выплаты маткапитала на третьего ребенка",
+      "lead_raw": "Более 70 регионов ввели эту меру поддержки, отметил вице-спикер ГД Анна Кузнецова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "180b3beb98fdd330e417e39c8dd940961ccc1b95",
+      "fingerprint": "25c36e265856a1a6857674b97819e017864461d2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27289377",
+      "published_utc": "2026-05-02T10:13:16Z",
+      "title_en": "Water polo player Savchenko appreciated the victory of the Russian team at the World Cup",
+      "lead_en": "The Russian team won the World Cup among second division teams",
+      "title_raw": "Ватерполистка Савченко оценила победу сборной России на Кубке мира",
+      "lead_raw": "Российская сборная первенствовала на Кубке мира среди команд второго дивизиона",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "105a14b0d0fc4f98ba2866b3d3e26fe9f8e98568",
+      "fingerprint": "0870f8aad83bf5c9c03a030aa9c3760c3809c4a8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2125527",
+      "published_utc": "2026-05-02T10:06:45Z",
+      "title_en": "Russia shoots down 505 Ukrainian aircraft-type drones in day — Defense Ministry",
+      "lead_en": "According to the Defense Ministry, 671 aircraft, 284 helicopters, 140,399 unmanned aerial vehicles, 658 anti-aircraft missile systems, 29,127 tanks and other armored combat vehicles",
+      "title_raw": "Russia shoots down 505 Ukrainian aircraft-type drones in day — Defense Ministry",
+      "lead_raw": "According to the Defense Ministry, 671 aircraft, 284 helicopters, 140,399 unmanned aerial vehicles, 658 anti-aircraft missile systems, 29,127 tanks and other armored combat vehicles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "67bf954db1064e85999256fd0551dd59954e7cfb",
+      "fingerprint": "16953fa4192017caef1ae2fb62fe3c8dae5646e2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27289343",
+      "published_utc": "2026-05-02T10:03:49Z",
+      "title_en": "Synchronized swimmers from the Russian Federation won the team free competition at the KM stage",
+      "lead_en": "The Russian team was represented by Maya Doroshko, Ekaterina Kossova, Elizaveta Minaeva, Svetlana Pavlova, Alexandra Schmidt, Evelina Simonova, Elizaveta Smirnova and Olga Tyutyunik",
+      "title_raw": "Синхронистки из РФ выиграли командные произвольные соревнования на этапе КМ",
+      "lead_raw": "Российская сборную представляли Майя Дорошко, Екатерина Коссова, Елизавета Минаева, Светлана Павлова, Александра Шмидт, Эвелина Симонова, Елизавета Смирнова и Ольга Тютюник",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "7e8f617ff2daf251f67357f2f18f161258bdb372",
       "fingerprint": "3070666f65efbd2a2da05ea4e68cc70553827591",
