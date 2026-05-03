@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-03T03:39:14Z",
+  "updated_at_utc": "2026-05-03T06:30:02Z",
   "topic": "energy",
-  "count": 20,
+  "count": 21,
   "articles": [
+    {
+      "id": "fa62e728844a784af5e7649532ad036199b762ae",
+      "fingerprint": "9290892ab1ef2c5127e1c1099fff7433b7e35b78",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27292511",
+      "published_utc": "2026-05-03T04:31:28Z",
+      "title_en": "Russian Ambassador: Azerbaijani gas has begun to flow regularly to North Macedonia",
+      "lead_en": "At the same time, fuel from Azerbaijan costs twice as much as Russian fuel, noted Dmitry Zykov",
+      "title_raw": "Посол РФ: азербайджанский газ начал регулярно поступать в Северную Македонию",
+      "lead_raw": "При этом топливо из Азербайджана обходится в два раза дороже российского, отметил Дмитрий Зыков",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "99ba39a7a2a562af255ca72339ee290778d77292",
+      "fingerprint": "0f5eb5fe37ffb84da3ef77037de912d552cd9865",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27292477",
+      "published_utc": "2026-05-03T04:27:09Z",
+      "title_en": "A ban on the entry of cars from the Russian Federation with more than 200 liters of fuel has come into force in Lithuania.",
+      "lead_en": "The country's customs department claims that \"excess fuel\" is being dumped for resale.",
+      "title_raw": "В Литве вступил в силу запрет на въезд машин из РФ с более чем 200 л топлива",
+      "lead_raw": "Таможенный департамент страны утверждает, что \"избыточное горючее\" сливают для перепродажи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6459e6f3bc0554781257a87db15c8089b352e053",
       "fingerprint": "92b2f83ec2e8e9af034f19692a16d0b7982e3449",
@@ -421,28 +466,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c5c0d18eef561b9c769d553d7279c4993d5d1976",
-      "fingerprint": "93d85e610a3c1f3982f2f2577e6760757d08f171",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27282401",
-      "published_utc": "2026-05-01T06:07:35Z",
-      "title_en": "In Russia, the leaders of the ECG rating for April were determined",
-      "lead_en": "They were Gazprom Transgaz Surgut, the Nuclear Energy Industrial Complex and the Polyus company.",
-      "title_raw": "В России определили лидеров ЭКГ-рейтинга за апрель",
-      "lead_raw": "Ими стали \"Газпром трансгаз Сургут\", Атомный энергопромышленный комплекс и компания \"Полюс\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 4,
         "economy": 1,
         "local_events": 0
       },
