@@ -1,7 +1,47 @@
 {
-  "updated_at_utc": "2026-05-03T15:52:54Z",
-  "count": 3104,
+  "updated_at_utc": "2026-05-03T16:56:41Z",
+  "count": 3107,
   "articles": [
+    {
+      "id": "4655ca91acc41eb58b53a565d465a696c7a590fd",
+      "fingerprint": "4a5bb73bd926b300735a60864f188e71ef981cb3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27295301",
+      "published_utc": "2026-05-03T16:44:48Z",
+      "title_en": "A veteran of the Great Patriotic War was congratulated on his 102nd birthday in Gorlovka",
+      "lead_en": "Fyodor Bryntsev was presented with a personal congratulation from Russian President Vladimir Putin",
+      "title_raw": "В Горловке поздравили с 102-летием ветерана Великой Отечественной войны",
+      "lead_raw": "Федору Брынцеву вручили персональное поздравление от президента России Владимира Путина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "690efdd7ca220ba7686793b41a86bc9f71750cea",
+      "fingerprint": "8f34a4d77617f49561f41bec976d831d02b8afd6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27295211",
+      "published_utc": "2026-05-03T15:51:06Z",
+      "title_en": "Nikitin’s personal trainer expected his athlete to run slower",
+      "lead_en": "The athlete showed a result of 2 hours 8 minutes 7 seconds at the Kazan Marathon and set a new Russian record",
+      "title_raw": "Личный тренер Никитина ждал от своего спортсмена более медленного бега",
+      "lead_raw": "Спортсмен на Казанском марафоне показал результат 2 часа 8 минут 7 секунд и установил новый рекорд России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "686c8f09879786ad6cc84836c1299f5a406d9bfd",
       "fingerprint": "17e307792a12dda2e4d427c950fdd7177dc24254",
@@ -1117,6 +1157,29 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "f812c3e30cf86f7e5eebd7ba4d6c8104274014f0",
+      "fingerprint": "b8b0985bfa5f42d3ce5f53d76b40be73ba5a5e19",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/03/ukraine-hits-russian-oil-sites-as-8-killed-in-both-countries-a92667",
+      "published_utc": "2026-05-03T07:37:00Z",
+      "title_en": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_en": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "title_raw": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_raw": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
     },
     {
       "id": "45760e957d426d817afe31a4589dc976ae612958",

@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-05-03T15:52:54Z",
+  "updated_at_utc": "2026-05-03T16:56:41Z",
   "topic": "energy",
   "count": 21,
   "articles": [
@@ -158,6 +158,29 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "f812c3e30cf86f7e5eebd7ba4d6c8104274014f0",
+      "fingerprint": "b8b0985bfa5f42d3ce5f53d76b40be73ba5a5e19",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/03/ukraine-hits-russian-oil-sites-as-8-killed-in-both-countries-a92667",
+      "published_utc": "2026-05-03T07:37:00Z",
+      "title_en": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_en": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "title_raw": "Ukraine Hits Russian Oil Sites as 8 Killed in Both Countries",
+      "lead_raw": "Ukraine said Sunday it had hit several Russian ships as both sides fired hundreds of drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
     },
     {
       "id": "ace915885e108f256e9b0fa14a486831d9a5cb44",
@@ -451,29 +474,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "408cfec905cc4f50cb2e33075d1957203657f385",
-      "fingerprint": "82f49277cc4018461c68961bd8145ff6f7b12264",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27285723",
-      "published_utc": "2026-05-01T16:02:47Z",
-      "title_en": "Power unit No. 1 of Kursk NPP-2 began supplying electricity",
-      "lead_en": "The commissioning of the power unit will make it possible to additionally transfer more than 10 billion rubles per year to the Russian budget, noted the head of the region, Alexander Khinshtein.",
-      "title_raw": "Энергоблок №1 Курской АЭС-2 начал поставки электроэнергии",
-      "lead_raw": "Ввод энергоблока в эксплуатацию позволит дополнительно перечислять в бюджет РФ в год более 10 млрд рублей, отметил глава региона Александр Хинштейн",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
