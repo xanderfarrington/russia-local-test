@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-03T19:05:50Z",
+  "updated_at_utc": "2026-05-03T20:51:23Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "73e3591392bcbab774718ed73a8a27432cb44091",
+      "fingerprint": "b4da217fd1b6c249d969ccd8e3a7d695d7b55e8a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27295687",
+      "published_utc": "2026-05-03T18:25:28Z",
+      "title_en": "TASS: in the Volyn region they want to dismantle the bust of Hero of the Soviet Union Gazin",
+      "lead_en": "At the same time, in Ukraine, civil war participant Yuri Tyutyunnikov began to be glorified, Russian law enforcement agencies noted",
+      "title_raw": "ТАСС: в Волынской области хотят демонтировать бюст Героя Советского Союза Газина",
+      "lead_raw": "При этом на Украине начали героизировать участника гражданской войны Юрия Тютюнникова, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4e904d09cb524cd76b65cb49bc0839d1638c7f3f",
       "fingerprint": "9d31eb9da273fe2e8c6c9c8a5e4ec5f14a1847a4",
@@ -451,29 +473,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "eb6cd96619a5839adae7d3767105d244917f1f53",
-      "fingerprint": "4af37844af5f27ce1e4c75a1d8fa90e49a1f8d27",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/05/01/ukraine-s-drone-forces-commander-says-no-part-of-russia-is-safe-from-strikes-as-drones-hit-oil-infrastructure-deep-inside-the-country",
-      "published_utc": "2026-05-01T20:37:36Z",
-      "title_en": "Ukraine’s drone forces commander says no part of Russia is safe from strikes, as drones hit oil infrastructure deep inside the country",
-      "lead_en": "Robert Brovdi, the commander of Ukraine’s Unmanned Systems Forces and known by the call sign “Magyar,” is a former businessman and grain trader who volunteered for the front at the start of the war. He was among the first in the Ukrainian military to deploy drones for reconnaissance and strike operations, and was eventually appointed to lead the new branch of the armed forces.",
-      "title_raw": "Ukraine’s drone forces commander says no part of Russia is safe from strikes, as drones hit oil infrastructure deep inside the country",
-      "lead_raw": "Robert Brovdi, the commander of Ukraine’s Unmanned Systems Forces and known by the call sign “Magyar,” is a former businessman and grain trader who volunteered for the front at the start of the war. He was among the first in the Ukrainian military to deploy drones for reconnaissance and strike operations, and was eventually appointed to lead the new branch of the armed forces.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-03T19:05:50Z",
+  "updated_at_utc": "2026-05-03T20:51:23Z",
   "topic": "military",
   "count": 73,
   "articles": [
+    {
+      "id": "a0d67f810875cd4a4bc230616570c0b314c31c54",
+      "fingerprint": "3adbbd8ca3ef7f1ac3de5529eb312ec4a5d26765",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27295707",
+      "published_utc": "2026-05-03T18:22:23Z",
+      "title_en": "TASS: Ukraine may tighten mobilization",
+      "lead_en": "The TCC will check the documents of men near embassies and consulates while receiving services; raids on gyms are also planned, the Russian security forces emphasized",
+      "title_raw": "ТАСС: на Украине могут ужесточить мобилизацию",
+      "lead_raw": "ТЦК будут проверять документы у мужчин возле посольств и консульств во время получения услуг, планируются и рейды по спортзалам, подчеркнули в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "febeb98ffd402afb8d12667b56dcc92377c65d5d",
       "fingerprint": "310d7e6ecbd747f2eacce749b4a49e9154da4894",
@@ -1604,29 +1627,6 @@
       },
       "topics": [
         "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eb6cd96619a5839adae7d3767105d244917f1f53",
-      "fingerprint": "4af37844af5f27ce1e4c75a1d8fa90e49a1f8d27",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/05/01/ukraine-s-drone-forces-commander-says-no-part-of-russia-is-safe-from-strikes-as-drones-hit-oil-infrastructure-deep-inside-the-country",
-      "published_utc": "2026-05-01T20:37:36Z",
-      "title_en": "Ukraine’s drone forces commander says no part of Russia is safe from strikes, as drones hit oil infrastructure deep inside the country",
-      "lead_en": "Robert Brovdi, the commander of Ukraine’s Unmanned Systems Forces and known by the call sign “Magyar,” is a former businessman and grain trader who volunteered for the front at the start of the war. He was among the first in the Ukrainian military to deploy drones for reconnaissance and strike operations, and was eventually appointed to lead the new branch of the armed forces.",
-      "title_raw": "Ukraine’s drone forces commander says no part of Russia is safe from strikes, as drones hit oil infrastructure deep inside the country",
-      "lead_raw": "Robert Brovdi, the commander of Ukraine’s Unmanned Systems Forces and known by the call sign “Magyar,” is a former businessman and grain trader who volunteered for the front at the start of the war. He was among the first in the Ukrainian military to deploy drones for reconnaissance and strike operations, and was eventually appointed to lead the new branch of the armed forces.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
       ],
       "primary_topic": "military"
     }
