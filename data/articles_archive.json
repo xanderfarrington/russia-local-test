@@ -1,7 +1,725 @@
 {
-  "updated_at_utc": "2026-05-04T14:11:37Z",
-  "count": 3288,
+  "updated_at_utc": "2026-05-04T16:50:28Z",
+  "count": 3323,
   "articles": [
+    {
+      "id": "3da8309b9e2f8c7c94016b2e9b6fd1d7b26e3a08",
+      "fingerprint": "83d6e2ae02828e1145e8f33779573bf306bd272b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27302839",
+      "published_utc": "2026-05-04T16:46:17Z",
+      "title_en": "Parks \"Russia - my history\" will hold events and concerts by May 9",
+      "lead_en": "VDNKh will host a concert of songs from the war years with the participation of leading performers",
+      "title_raw": "Парки \"Россия - моя история\" проведут акции и концерты к 9 мая",
+      "lead_raw": "На ВДНХ пройдет концерт песен военных лет с участием ведущих исполнителей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aeff213ac4f05304778914f7db51bdd22cfaedca",
+      "fingerprint": "ae19384d3e0af33dc08dbcd102893af6a7084558",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27304879",
+      "published_utc": "2026-05-04T16:43:26Z",
+      "title_en": "TASS: The state-owned enterprise wants to turn over 65% of Rusagro shares into Russian income",
+      "lead_en": "We are talking about an anti-corruption lawsuit against the company founder Vadim Moshkovich",
+      "title_raw": "ТАСС: ГП хочет обратить в доход России свыше 65% акций \"Русагро\"",
+      "lead_raw": "Речь идет об антикоррупционном иске к основателю компании Вадиму Мошковичу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7dcc87754e568a21cb01bdc52f736d56ddc236ea",
+      "fingerprint": "62bc4a5c2b90031c15d4a05c776d9dc39985e1ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27304777",
+      "published_utc": "2026-05-04T16:30:05Z",
+      "title_en": "Russian Foreign Ministry: relations between Russia and Japan have been set back decades",
+      "lead_en": "",
+      "title_raw": "МИД РФ: отношения России и Японии отброшены на десятилетия назад",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3cfae9e3f0910841ed7840227a8d54cee138767f",
+      "fingerprint": "6e1148128ff521f515a189868670c10623ed41e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27304691",
+      "published_utc": "2026-05-04T16:27:56Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "The yuan exchange rate rose to 11.02 rubles",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Курс юаня вырос до 11,02 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "106065dbed86aab63f3afda005f287334a9b85ed",
+      "fingerprint": "0a0f8aa4561b5ab7d77e1c32ceaadb84154bd4b0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/04/russia-lost-ground-in-ukraine-in-april-a-first-since-mid-2023-afp-analysis-a92679",
+      "published_utc": "2026-05-04T16:25:46Z",
+      "title_en": "Russia Lost Ground in Ukraine in April, a First Since Mid-2023 – AFP Analysis",
+      "lead_en": "The Ukrainian army's net gains — their first in more than two years — were marginal, representing only 0.02% of Ukrainian territory.",
+      "title_raw": "Russia Lost Ground in Ukraine in April, a First Since Mid-2023 – AFP Analysis",
+      "lead_raw": "The Ukrainian army's net gains — their first in more than two years — were marginal, representing only 0.02% of Ukrainian territory.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "790af0ddc9ca9ad43eec0a8d3c1f60974db0c0f9",
+      "fingerprint": "88efd7f600638f231763b4b3d57e78f726a0eac6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27304619",
+      "published_utc": "2026-05-04T16:12:08Z",
+      "title_en": "Putin made changes to the regulations on the prize for young scientists",
+      "lead_en": "According to the new edition, nominations for prize applicants and the materials attached to them, as well as proposals from a unit of the presidential administration of the Russian Federation, are considered by the presidium of the council",
+      "title_raw": "Путин внес изменения в положение о премии для молодых ученых",
+      "lead_raw": "Согласно новой редакции, представления на соискателей премии и прилагаемые к ним материалы, а также предложения подразделения администрации президента РФ рассматриваются президиумом совета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "012974bb783d56def25e95c128cf4e05095e754b",
+      "fingerprint": "f87677b874398934babbe7935918d97348a21cb2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27303159",
+      "published_utc": "2026-05-04T16:00:01Z",
+      "title_en": "Broken truces: how Russia tried to stop the conflict in Ukraine",
+      "lead_en": "Russian President Vladimir Putin is ready to declare a truce during the Victory Day celebrations. According to the Russian leader’s assistant for international affairs, Yuri Ushakov, he informed US President Donald Trump about this.",
+      "title_raw": "Сорванные перемирия: как Россия пыталась остановить конфликт на Украине",
+      "lead_raw": "Президент России Владимир Путин готов объявить перемирие на время празднования Дня Победы. Об этом он, со слов помощника российского лидера по международным делам Юрия Ушакова, сообщил президенту США Дональду Трампу.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "25a2d9b4cfb756fafdc0287b130055f189e36868",
+      "fingerprint": "fb928e9322094132bfbed6da3273c113543c4191",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126261",
+      "published_utc": "2026-05-04T15:49:36Z",
+      "title_en": "European Commission to bar funding for solar inverter projects by Chinese, Russian firms",
+      "lead_en": "The measure will primarily affect Chinese manufacturers, such as Huawei, which hold leading positions in the solar inverter market",
+      "title_raw": "European Commission to bar funding for solar inverter projects by Chinese, Russian firms",
+      "lead_raw": "The measure will primarily affect Chinese manufacturers, such as Huawei, which hold leading positions in the solar inverter market",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "93bebf2dcf4b8e91fcbe0d8ec2e3e977638e3181",
+      "fingerprint": "97d37b9e45db51087869fc61ae5889287dcd5d11",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27304381",
+      "published_utc": "2026-05-04T15:47:43Z",
+      "title_en": "State Duma deputy from Chuvashia Arshinova entered the United Russia primaries from the Tver region",
+      "lead_en": "The deputy head of the United Russia faction co-authored 93 legislative initiatives and amendments to draft federal laws",
+      "title_raw": "Депутат ГД от Чувашии Аршинова заявилась на праймериз ЕР от Тверской области",
+      "lead_raw": "Замруководителя фракции \"Единая России\" выступила соавтором 93 законодательных инициатив и поправок к проектам федеральных законов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec65510e389153e4b306949325a72953e8de64d9",
+      "fingerprint": "467a2494208e3ff1e592d6783ff9f0bbd5e998b0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/04/56-of-russians-want-western-brands-to-return-after-war-driven-exodus-survey-finds",
+      "published_utc": "2026-05-04T15:46:52Z",
+      "title_en": "56% of Russians want Western brands to return after war-driven exodus, survey finds",
+      "lead_en": "More than half of Russians — 56 percent — want Western brands to return to the country after those companies departed following the start of the full-scale war in 2022, according to a survey conducted by the research association Gruppa 7/89 in February and March 2026, the Russian",
+      "title_raw": "56% of Russians want Western brands to return after war-driven exodus, survey finds",
+      "lead_raw": "More than half of Russians — 56 percent — want Western brands to return to the country after those companies departed following the start of the full-scale war in 2022, according to a survey conducted by the research association Gruppa 7/89 in February and March 2026, the Russian",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f1d823bedd74dbe64101f55a2f5745c9a7b4e92e",
+      "fingerprint": "ed5cf23c9c5222fa88432e1fc5dabaeaaeef3162",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27304353",
+      "published_utc": "2026-05-04T15:40:03Z",
+      "title_en": "OPEC Secretary General and the Russian Permanent Representative in Vienna discussed the stability of the oil market",
+      "lead_en": "Haitham al-Ghais emphasized the value of strong and constructive relations between OPEC and the Russian Federation",
+      "title_raw": "Генсек ОПЕК и постпред РФ в Вене обсудили стабильность нефтяного рынка",
+      "lead_raw": "Хайсам аль-Гайс подчеркнул ценность прочных и конструктивных отношений между ОПЕК и РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "42789f428655fa6f1c121e89520c676d9c833d59",
+      "fingerprint": "b9fd909a1b34168c0354398ae11d63e707c22909",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27304309",
+      "published_utc": "2026-05-04T15:34:14Z",
+      "title_en": "Ulyanov discussed the situation in the Middle East with the OPEC Secretary General",
+      "lead_en": "The Permanent Representative of Russia to international organizations in Vienna also expressed gratitude to Haitham al-Ghais for the “fruitful exchange of views”",
+      "title_raw": "Ульянов обсудил с генсеком ОПЕК ситуацию на Ближнем Востоке",
+      "lead_raw": "Постоянный представитель России при международных организациях в Вене также выразил благодарность Хайсаму аль-Гайсу за \"плодотворный обмен мнениями\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "082d3b04e8bda63432ed198ecc3d5f973c15711d",
+      "fingerprint": "b22168a51dc18a2b2dccba1bb14094b8853d1731",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/04/sberbank-and-t-bank-disable-in-app-chats-between-users",
+      "published_utc": "2026-05-04T15:32:15Z",
+      "title_en": "Sberbank and T-Bank disable in-app chats between users",
+      "lead_en": "Sberbank and T-Bank have disabled in-app chats between users and comments on money transfers, the independent Russian news outlet Verstka reported.",
+      "title_raw": "Sberbank and T-Bank disable in-app chats between users",
+      "lead_raw": "Sberbank and T-Bank have disabled in-app chats between users and comments on money transfers, the independent Russian news outlet Verstka reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0988b781f8fb420879cb2f4069446e8ac9f22168",
+      "fingerprint": "20bc2031a23892e87d9464a255dc86c14b744438",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27304279",
+      "published_utc": "2026-05-04T15:31:26Z",
+      "title_en": "SVO participants will take part in the Victory Parade in St. Petersburg",
+      "lead_en": "The soldiers will march solemnly as part of the parade squad of cadets of the Military Academy of the Russian Guard",
+      "title_raw": "Участники СВО примут участие в параде Победы в Петербурге",
+      "lead_raw": "Бойцы пройдут торжественным маршем в составе парадного расчета курсантов Военной академии Росгвардии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fc949269bc0e116bc6c358408b805627891e990e",
+      "fingerprint": "0669ad29e94700c83f9d3d8fdd0901f7cd312224",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/04/russia-names-general-sanctioned-over-bucha-killings-as-new-aerospace-forces-commander",
+      "published_utc": "2026-05-04T15:26:57Z",
+      "title_en": "Russia names general sanctioned over Bucha killings as new Aerospace Forces commander",
+      "lead_en": "Colonel General Alexander Chaiko has been named commander-in-chief of Russia’s Aerospace Forces, sources told RBC. The appointment was also reported by the pro-war Telegram blogger Fighterbomber.",
+      "title_raw": "Russia names general sanctioned over Bucha killings as new Aerospace Forces commander",
+      "lead_raw": "Colonel General Alexander Chaiko has been named commander-in-chief of Russia’s Aerospace Forces, sources told RBC. The appointment was also reported by the pro-war Telegram blogger Fighterbomber.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "80eec314895f7a060d25e97157946903fe470b70",
+      "fingerprint": "99912604b3fe469dec6c046f7f8ce42b2e29a937",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27304151",
+      "published_utc": "2026-05-04T15:12:19Z",
+      "title_en": "The EC will not finance the production of solar inverters by companies from China and the Russian Federation",
+      "lead_en": "According to the European publication Politico, this decision is explained by the fear of “disruption of the critical infrastructure of the European Union by foreign entities.”",
+      "title_raw": "ЕК не будет финансировать выпуск солнечных инверторов компаниями из КНР и РФ",
+      "lead_raw": "По информации европейского издания Politico, такое решение объясняется опасением \"нарушения работы критической инфраструктуры Евросоюза иностранными субъектами\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "58cc7013f6d746f14916774a5650b2eb3fed833c",
+      "fingerprint": "4bf7fd04cbe734c0d59310088c0e802357b4eadb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126253",
+      "published_utc": "2026-05-04T15:10:57Z",
+      "title_en": "Bank of Russia raises dollar rate for May 5 to 75.44 rubles",
+      "lead_en": "The official euro rate was lowered by 37.78 kopecks to 88.2651 rubles",
+      "title_raw": "Bank of Russia raises dollar rate for May 5 to 75.44 rubles",
+      "lead_raw": "The official euro rate was lowered by 37.78 kopecks to 88.2651 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c46bb1937d17f084651ed9c815739fbd86db82db",
+      "fingerprint": "5abd62179e1b06bed0dbec2f0b39b2ed90be0ec6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126251",
+      "published_utc": "2026-05-04T15:10:26Z",
+      "title_en": "Gazprom delivers gas to Russian consumers at record pace for early May",
+      "lead_en": "The average air temperature in the coverage area of the Unified Gas Supply System from May 1 to 3 was below the climatic norm",
+      "title_raw": "Gazprom delivers gas to Russian consumers at record pace for early May",
+      "lead_raw": "The average air temperature in the coverage area of the Unified Gas Supply System from May 1 to 3 was below the climatic norm",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "46d34aed1ea87d35e9243f7031f930487de8d42c",
+      "fingerprint": "5038ac9cdc9decbc76f294ad94f398824dd11153",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27304093",
+      "published_utc": "2026-05-04T15:02:41Z",
+      "title_en": "Khusnullin: more than 6.5 million people voted for improvement projects in the Russian Federation",
+      "lead_en": "Residents of St. Petersburg, the Republic of Bashkortostan and the Sverdlovsk region have become the most active, the Deputy Prime Minister said",
+      "title_raw": "Хуснуллин: более 6,5 млн человек проголосовали за объекты благоустройства в РФ",
+      "lead_raw": "Наиболее активными стали жители Санкт-Петербурга, Республики Башкортостан и Свердловской области, сообщил вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a5241489812b1cca4aafd13286c9316271c13553",
+      "fingerprint": "dbed57e2b374c3339273aba8e8d96a4020e9db63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27304103",
+      "published_utc": "2026-05-04T15:02:15Z",
+      "title_en": "Zhoga: the younger generation strives to study Russia",
+      "lead_en": "More than 100 thousand applications were received to participate in the International Youth Festival",
+      "title_raw": "Жога: молодое поколение стремится к изучению России",
+      "lead_raw": "Более 100 тыс. заявок поступило на участие в Международном фестивале молодежи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "00cec96e0e40cc25538365efc64e43e6fab8c341",
+      "fingerprint": "bc9b8d81db5b3471bf036d8595344836abb37af6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126243",
+      "published_utc": "2026-05-04T15:00:16Z",
+      "title_en": "FACTBOX: Putin’s directives to government given after Future Technologies Forum",
+      "lead_en": "The Russian government and the Foreign Ministry should raise issues of joint scientific research at events organized by BRICS and other associations",
+      "title_raw": "FACTBOX: Putin’s directives to government given after Future Technologies Forum",
+      "lead_raw": "The Russian government and the Foreign Ministry should raise issues of joint scientific research at events organized by BRICS and other associations",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1ff80167d38224a632b11ce8bbbdd16e9bd535d8",
+      "fingerprint": "feddb28e5ddafa56ddb4808fd49deec697a09e09",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126239",
+      "published_utc": "2026-05-04T14:57:22Z",
+      "title_en": "Gazprom supplies record volumes of gas to Russian consumers in April",
+      "lead_en": "The company attributed the increased demand for gas to cold weather",
+      "title_raw": "Gazprom supplies record volumes of gas to Russian consumers in April",
+      "lead_raw": "The company attributed the increased demand for gas to cold weather",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c78e5c789b88a2f22994b798f63ada43d6ce8bf7",
+      "fingerprint": "03ca58ec231a7a745d8cfafce51d57f515b27221",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126227",
+      "published_utc": "2026-05-04T14:54:03Z",
+      "title_en": "Russian troops circumventing Ukraine’s Orekhov group to destroy their logistics — expert",
+      "lead_en": "Igor Kimakovsky said the main objective is to establish radio control and secure the radio horizons",
+      "title_raw": "Russian troops circumventing Ukraine’s Orekhov group to destroy their logistics — expert",
+      "lead_raw": "Igor Kimakovsky said the main objective is to establish radio control and secure the radio horizons",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "122dcd136169189cbee74e5e6525eda79c61ae15",
+      "fingerprint": "27c2fda11d096a353fbcace653dc2c50fc064b0e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126223",
+      "published_utc": "2026-05-04T14:52:14Z",
+      "title_en": "Russia needs to support biotech instrument-making",
+      "lead_en": "The head of state gave such assignment in conclusion of the Future Technologies Forum",
+      "title_raw": "Russia needs to support biotech instrument-making",
+      "lead_raw": "The head of state gave such assignment in conclusion of the Future Technologies Forum",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "65a88508cd8488251636d3ee701c1e476a622563",
+      "fingerprint": "382821fddb28965fbf3f6a3ef3288998dfe31456",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27304027",
+      "published_utc": "2026-05-04T14:48:25Z",
+      "title_en": "The Russian Ambassador congratulated the oldest veteran living in Israel on Victory Day",
+      "lead_en": "Veteran Abram Gutkovich was born in 1925 in the village of Ulla, Vitebsk region",
+      "title_raw": "Посол РФ поздравил с Днем Победы старейшего из живущих в Израиле ветеранов",
+      "lead_raw": "Ветеран Абрам Гуткович родился в 1925 году в поселке Улла Витебской области",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0874048c0e08f3e80a717ff212ad7e2941ee2902",
+      "fingerprint": "1660b84321759cf21196b66d3dd79f26c6bd750c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27304011",
+      "published_utc": "2026-05-04T14:48:10Z",
+      "title_en": "Newpost.gr: A Ukrainian wounded a Hungarian and a German woman with a knife, mistaking them for Russians",
+      "lead_en": "According to the portal, the incident occurred in Hanioti on the Greek peninsula of Halkidiki",
+      "title_raw": "Newpost.gr: украинец ранил ножом венгра и немку, приняв их за русских",
+      "lead_raw": "По данным портала, инцидент случился в Ханиоти на греческом полуострове Халкидики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e9bc60f07c43dca8c77e0fe5457f14fb3f9faa1f",
+      "fingerprint": "691acd03da9392bcf2b79d4db24fb8ffae706aa0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126221",
+      "published_utc": "2026-05-04T14:48:02Z",
+      "title_en": "Ukrainians attempt to disrupt Victory Day memorial event in Amsterdam — Russian embassy",
+      "lead_en": "The embassy noted that the display of neo-Nazi flags by the attackers clearly shows who the Dutch authorities have \"given shelter to\"",
+      "title_raw": "Ukrainians attempt to disrupt Victory Day memorial event in Amsterdam — Russian embassy",
+      "lead_raw": "The embassy noted that the display of neo-Nazi flags by the attackers clearly shows who the Dutch authorities have \"given shelter to\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "55ff0343ca541cbd96da6feb646f7164f8db1d60",
+      "fingerprint": "8f3a274c010186cd791d505b15970e5732d5cd57",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/04/attacks-on-belgorod-region-leave-at-least-1-dead-multiple-wounded-a92677",
+      "published_utc": "2026-05-04T14:38:16Z",
+      "title_en": "Attacks on Belgorod Region Leave At Least 1 Dead, Multiple Wounded",
+      "lead_en": "Meanwhile, Russian attacks against Ukraine on Monday killed at least seven people and injured dozens of others.",
+      "title_raw": "Attacks on Belgorod Region Leave At Least 1 Dead, Multiple Wounded",
+      "lead_raw": "Meanwhile, Russian attacks against Ukraine on Monday killed at least seven people and injured dozens of others.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6d5ee52d1e0f432a0a20d154babe3644f7ac2ed9",
+      "fingerprint": "eedc20859da9eb2ffea106afa993a51980bb0679",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126213",
+      "published_utc": "2026-05-04T14:37:54Z",
+      "title_en": "Russian expert calls Ukrainian army NATO private military company",
+      "lead_en": "Igor Kimakovsky emphasized that Western countries had done much to transform the Ukrainian armed forces into their own PMC",
+      "title_raw": "Russian expert calls Ukrainian army NATO private military company",
+      "lead_raw": "Igor Kimakovsky emphasized that Western countries had done much to transform the Ukrainian armed forces into their own PMC",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0c370d4786288681fcde4ef7723349c4647b7d37",
+      "fingerprint": "842ff97aba7b8094e562fe38f2d2463a48410fb4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2126209",
+      "published_utc": "2026-05-04T14:32:43Z",
+      "title_en": "Six foreign mercenaries eliminated near Kupyansk — Russian military",
+      "lead_en": "The Russian Defense Ministry previously reported that the Ukrainian Armed Forces contain mercenaries from various countries",
+      "title_raw": "Six foreign mercenaries eliminated near Kupyansk — Russian military",
+      "lead_raw": "The Russian Defense Ministry previously reported that the Ukrainian Armed Forces contain mercenaries from various countries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a6c1a8c47a2c358f5c28df7bca7c8197036e97ab",
+      "fingerprint": "5554d83fc51dc13fda876866a23406b50503d3d0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2126201",
+      "published_utc": "2026-05-04T14:20:37Z",
+      "title_en": "Kiev loses nearly 41,000 soldiers, mercenaries in combat over month — expert",
+      "lead_en": "Andrey Marochko said that Russia increased last year’s spring indicators",
+      "title_raw": "Kiev loses nearly 41,000 soldiers, mercenaries in combat over month — expert",
+      "lead_raw": "Andrey Marochko said that Russia increased last year’s spring indicators",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5b9ee3c8060fddbae6093cba9e8e03f35b6a59f6",
+      "fingerprint": "85e01bd5b4a09589ef2e81d7bd4c05cc636d6dba",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2126195",
+      "published_utc": "2026-05-04T14:18:02Z",
+      "title_en": "Finnish military says it is impossible to down drones near Russian border — Yle",
+      "lead_en": "There have been multiple reports of UAVs being spotted within Finland and its airspace",
+      "title_raw": "Finnish military says it is impossible to down drones near Russian border — Yle",
+      "lead_raw": "There have been multiple reports of UAVs being spotted within Finland and its airspace",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fa8e7b4dca604b47617174b497e8480d57852305",
+      "fingerprint": "e1169beb22755df32cfc2c43ecff07929ebc7ef7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126191",
+      "published_utc": "2026-05-04T14:17:02Z",
+      "title_en": "Russia to keep smartphones from Apple, Samsung brands on parallel import list — ministry",
+      "lead_en": "The ministry added that the products should meet the requirements regarding safety, origin, availability of certificates",
+      "title_raw": "Russia to keep smartphones from Apple, Samsung brands on parallel import list — ministry",
+      "lead_raw": "The ministry added that the products should meet the requirements regarding safety, origin, availability of certificates",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ad2a7d2aafe12343673172df9b8ccc403fbdf409",
+      "fingerprint": "b3a5494f9a89067fcd660b9e03c62519c5a1b64c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2126189",
+      "published_utc": "2026-05-04T14:14:41Z",
+      "title_en": "Russia’s Lis interceptors help preserve expensive air defense missiles — fighter",
+      "lead_en": "According to the commander of a Varyag unmanned aerial vehicle detachment, the most important thing for soldiers during a Ukrainian drone strike is to remain calm",
+      "title_raw": "Russia’s Lis interceptors help preserve expensive air defense missiles — fighter",
+      "lead_raw": "According to the commander of a Varyag unmanned aerial vehicle detachment, the most important thing for soldiers during a Ukrainian drone strike is to remain calm",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "212f56af09ab369c31cdb4a7d1128efa7381c755",
       "fingerprint": "5b487957a2a4035c37f8e3a6252b637c68a91806",
@@ -527,6 +1245,28 @@
       "title_en": "Austria Expels 3 Russian Embassy Staff on Suspicion of Spying",
       "lead_en": "The Russian Embassy called the expulsions \"outrageous\" and \"politically motivated,\" vowing a \"harsh\" retaliatory response against Austria.",
       "title_raw": "Austria Expels 3 Russian Embassy Staff on Suspicion of Spying",
+      "lead_raw": "The Russian Embassy called the expulsions \"outrageous\" and \"politically motivated,\" vowing a \"harsh\" retaliatory response against Austria.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5b8b5501285aefff9547100c8cf36d76b385b818",
+      "fingerprint": "ab7fa8fbd1f43a11fc1ba142c9a86e4851cbc453",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/04/austria-expels-3-russian-diplomats-on-suspicion-of-spying-a92676",
+      "published_utc": "2026-05-04T13:09:00Z",
+      "title_en": "Austria Expels 3 Russian Diplomats on Suspicion of Spying",
+      "lead_en": "The Russian Embassy called the expulsions \"outrageous\" and \"politically motivated,\" vowing a \"harsh\" retaliatory response against Austria.",
+      "title_raw": "Austria Expels 3 Russian Diplomats on Suspicion of Spying",
       "lead_raw": "The Russian Embassy called the expulsions \"outrageous\" and \"politically motivated,\" vowing a \"harsh\" retaliatory response against Austria.",
       "topic_scores": {
         "diplomacy": 1,
