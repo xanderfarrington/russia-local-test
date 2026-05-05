@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-05-05T22:04:00Z",
+  "updated_at_utc": "2026-05-05T23:52:44Z",
   "topic": "diplomacy",
-  "count": 85,
+  "count": 89,
   "articles": [
+    {
+      "id": "baa04b3a49882a547690f8d40f59e983e9542c5a",
+      "fingerprint": "7ebf20f34e2dc5e06f640043f46a8d69f4fc07b7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27318301",
+      "published_utc": "2026-05-05T22:44:41Z",
+      "title_en": "Kamaz will release a new armored personnel carrier to replace the outdated one",
+      "lead_en": "The pilot batch is planned to be released in 2027, said the company’s CEO Sergei Kogogin at a meeting with Russian President Vladimir Putin",
+      "title_raw": "\"Камаз\" выпустит новый БТР на замену устаревшему",
+      "lead_raw": "Опытную партию планируется выпустить в 2027 году, сообщил генеральный директор компании Сергей Когогин на встрече с президентом РФ Владимиром Путиным",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2e13a2a0fe725728f72570ac66dd129ca99a7f49",
+      "fingerprint": "f4ec71d47a89243eef9e497d85ae190af2c98a7c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27318197",
+      "published_utc": "2026-05-05T22:03:20Z",
+      "title_en": "Zakharova: The Russian Federation has not received requests from Japan to organize a meeting of foreign ministers",
+      "lead_en": "If any are received, they will be “properly” considered, the official representative of the Russian diplomatic department emphasized",
+      "title_raw": "Захарова: РФ не получала обращений Японии об организации встречи глав МИД",
+      "lead_raw": "Если таковые поступят, то их \"должным образом\" рассмотрят, подчеркнула официальный представитель российского дипведомства",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "e79c9442cc006d02bd32a936976808c592168533",
       "fingerprint": "157bc10dfb7cef88cb221038260a8f62b6fcc7b3",
@@ -22,6 +66,52 @@
       },
       "topics": [
         "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3b536c5b4d54a1fd5387a436c28b9b8392edb63d",
+      "fingerprint": "7063a27e0a5f0832622e41e50697c984952a3183",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27318093",
+      "published_utc": "2026-05-05T21:26:14Z",
+      "title_en": "Bangladesh reported discussions with Russia on supplies of Russian petroleum products",
+      "lead_en": "The Russian Embassy in Dhaka also noted that there is potential in the gas industry",
+      "title_raw": "В Бангладеш сообщили об обсуждении с РФ поставок российских нефтепродуктов",
+      "lead_raw": "В посольстве России в Дакке также отметили, что потенциал есть и в газовой отрасли",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7db1f16c63976c498116ca793911bd7b932d54c3",
+      "fingerprint": "2e55420483b262cf8301be78dafc3e8e8071c931",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27308851",
+      "published_utc": "2026-05-05T21:00:01Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "Deputy Foreign Minister of the Russian Federation Mikhail Galuzin, during a meeting with a member of the House of Councilors of the Japanese Parliament Muneo Suzuki, expressed concern that Tokyo is providing military-technical assistance to Kyiv",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Замглавы МИД РФ Михаил Галузин в ходе встречи с депутатом палаты советников парламента Японии Мунэо Судзуки выразил обеспокоенность тем, что Токио оказывает военно-техническое содействие Киеву",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
       ],
       "primary_topic": "diplomacy"
     },
