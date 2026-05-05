@@ -1,7 +1,680 @@
 {
-  "updated_at_utc": "2026-05-05T11:18:36Z",
-  "count": 3516,
+  "updated_at_utc": "2026-05-05T16:27:26Z",
+  "count": 3548,
   "articles": [
+    {
+      "id": "08296b036099d3e1010ea901501573bbfc9e5024",
+      "fingerprint": "ff584f33bf4ce2281e07f0fca1e3130523976475",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27316417",
+      "published_utc": "2026-05-05T16:24:37Z",
+      "title_en": "Russian Railways' 50% discount on scrap transportation will reduce logistics costs for metallurgists",
+      "lead_en": "For industry enterprises, such a solution means a direct reduction in the logistics component of the cost.",
+      "title_raw": "Скидка РЖД в 50% на перевозку лома снизит логистические издержки металлургов",
+      "lead_raw": "Для предприятий отрасли такое решение означает прямое снижение логистической составляющей в себестоимости",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "927551b6c862ff2c1b91f25b8b3c201031de6dad",
+      "fingerprint": "daf5783a81cbfd55d97db3a56e58a6ff7b0bbdb4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27316337",
+      "published_utc": "2026-05-05T16:23:29Z",
+      "title_en": "More than 145 stages of the “Best in Profession” competition will be held in Russia in May.",
+      "lead_en": "The winners of the April stages have already been announced",
+      "title_raw": "В России в мае проведут свыше 145 этапов конкурса \"Лучший по профессии\"",
+      "lead_raw": "Победители апрельских этапов уже объявлены",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d7cb33c487b687e1294ca6d8dd85ff2b1fbff80c",
+      "fingerprint": "d3a5f4a9969894cfb06fff7b96f977d0449f1a32",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27316419",
+      "published_utc": "2026-05-05T16:19:27Z",
+      "title_en": "Charge d'Affaires of Armenia in Minsk protested",
+      "lead_en": "This is due to the unfriendly actions of Yerevan, explained the Belarusian diplomatic service",
+      "title_raw": "Временному поверенному в делах Армении в Минске заявили протест",
+      "lead_raw": "Это связано с недружественными действиями Еревана, пояснили в белорусском дипведомстве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "437c98a35c6b21b94d49a86a83ba743f4ac2bce7",
+      "fingerprint": "497ee4b6e4afdbbfa3828b89ef187219120d0a5e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27316375",
+      "published_utc": "2026-05-05T16:17:34Z",
+      "title_en": "The Russian stock market closed with growth in the main indices",
+      "lead_en": "The yuan exchange rate increased by 3.7 kopecks to 11.052 rubles",
+      "title_raw": "Российский рынок акций закрылся ростом основных индексов",
+      "lead_raw": "Курс юаня вырос на 3,7 копейки, до 11,052 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0279b1c6240f34cac405ffd99c463ec5a8bc815a",
+      "fingerprint": "1c531d44eabc8c78d1838ad7f78cb4f31729d513",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27316321",
+      "published_utc": "2026-05-05T16:15:33Z",
+      "title_en": "TASS: Ukrainians blocked the road, demanding the release of the mobilized priest",
+      "lead_en": "We are talking about residents of the village of Lipcha, the Russian security forces clarified.",
+      "title_raw": "ТАСС: украинцы заблокировали дорогу, требуя освободить мобилизованного священника",
+      "lead_raw": "Речь идет о жителях села Липча, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8950d4587f55194d57e1ba0351bdcc303ab2790d",
+      "fingerprint": "cbbed63ff15bcdde0f709ea9012602e7575e6951",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27316303",
+      "published_utc": "2026-05-05T16:13:43Z",
+      "title_en": "TASS: in Kyiv, a Georgian mercenary of the Ukrainian Armed Forces who bit police was acquitted",
+      "lead_en": "Giorgi Tarashvili was found guilty of resisting police, Russian law enforcement agencies noted",
+      "title_raw": "ТАСС: в Киеве оправдали покусавшего полицейских грузинского наемника ВСУ",
+      "lead_raw": "Гиорги Тарашвили признавали виновным в сопротивлении полиции, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c40ae590a241b390d4c4031f7663db534542e7b0",
+      "fingerprint": "a5bb8f8a65bc72cf4c4711ad06fef0719cd3f330",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27316119",
+      "published_utc": "2026-05-05T16:13:27Z",
+      "title_en": "Memorial plaques to Soviet members of the Resistance were installed in France",
+      "lead_en": "The ceremony was attended by members of the Russian Memory association, employees of the Russian Embassy in the country and representatives of the Russian community",
+      "title_raw": "Во Франции установили памятные таблички советским участникам Сопротивления",
+      "lead_raw": "В церемонии приняли участие члены ассоциации \"Русская Память\", сотрудники посольства России в стране и представители российской общины",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "52dd1f7d55ac1a40afc432bb4ae75517d0e2e188",
+      "fingerprint": "4f0ed29bbc722cfff33e021a4e42037f291b7696",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27316295",
+      "published_utc": "2026-05-05T16:12:50Z",
+      "title_en": "TASS: A Georgian mercenary recruited by the GUR was liquidated near Zaporozhye",
+      "lead_en": "Nika Macharashvili was not a member of the Ukrainian Georgian diaspora, Russian security forces clarified",
+      "title_raw": "ТАСС: у Запорожья ликвидировали завербованного ГУР грузинского наемника",
+      "lead_raw": "Ника Мачарашвили не являлся членом украинской грузинской диаспоры, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "97337d741ca1fd06eb3fae3511a251650abc4523",
+      "fingerprint": "b44d3df3ad7e1d5cedb7b2853d43b8208309414e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27316249",
+      "published_utc": "2026-05-05T16:10:16Z",
+      "title_en": "Salvini did not rule out visiting the Russian pavilion at the Biennale",
+      "lead_en": "Art is art, said the Italian Deputy Prime Minister",
+      "title_raw": "Сальвини не исключил, что посетит павильон России на биеннале",
+      "lead_raw": "Искусство есть искусство, отметил итальянский вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3e31273341756425c23220d09627e669bc367467",
+      "fingerprint": "4850e8267bc0f83c466d1cf8ca61f4299708bb1d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27316179",
+      "published_utc": "2026-05-05T16:01:48Z",
+      "title_en": "Ombudsman Ivanovskaya complained that plays are staged in Russian in Kyiv",
+      "lead_en": "She expressed the hope that \"the repertoire will be changed\"",
+      "title_raw": "Омбудсмен Ивановская пожаловалась, что в Киеве ставят спектакли на русском",
+      "lead_raw": "Она выразила надежду, что \"репертуар будет изменен\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e2066b557e46d27064e9d11b2365ecd8619d3d9a",
+      "fingerprint": "83bf4d16a9b8c9c96bd1a97e5c16008f1c8de2c5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27316191",
+      "published_utc": "2026-05-05T16:00:13Z",
+      "title_en": "The Russian Embassy called the new package of British sanctions a hostile step",
+      "lead_en": "It is London that is fanning the flames of the Ukrainian conflict, the diplomatic mission noted",
+      "title_raw": "Посольство РФ назвало враждебным шагом новый пакет санкций Британии",
+      "lead_raw": "Именно Лондон раздувает пламя украинского конфликта, отметили в диппредставительстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "41a1f840e180033f7c7e673fd6726750b7180480",
+      "fingerprint": "97dc0472190d61daf1926d7b01717ac89b89b42a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/05/russia-cuts-mobile-internet-in-moscow-and-st-petersburg-ahead-of-victory-day",
+      "published_utc": "2026-05-05T15:53:19Z",
+      "title_en": "Russia cuts mobile internet in Moscow and St. Petersburg ahead of Victory Day",
+      "lead_en": "",
+      "title_raw": "Russia cuts mobile internet in Moscow and St. Petersburg ahead of Victory Day",
+      "lead_raw": ".",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "049e20e48d9ef7eb62686defa10c57018ecd394f",
+      "fingerprint": "e0ee4cf10b6461bc13551fcb027f1dea1bff8d54",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27316065",
+      "published_utc": "2026-05-05T15:49:16Z",
+      "title_en": "Zakharova warned of possible provocations to disrupt peace in the Persian Gulf",
+      "lead_en": "It is important to remain vigilant, noted the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова предупредила о возможных провокациях по срыву мира в Персидском заливе",
+      "lead_raw": "Важно сохранять бдительность, отметила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5052a0960bff2f0a3aba38fabcc26f8ce48281f9",
+      "fingerprint": "75ea5135a185d216442fb1925a00429d3214519a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27315957",
+      "published_utc": "2026-05-05T15:44:11Z",
+      "title_en": "Rosseti Siberia announced that there were no grounds for introducing bankruptcy proceedings",
+      "lead_en": "The company appealed to the Supreme Court of the Russian Federation the judicial acts regarding the recovery of funds from the company and the highest court suspended the execution of the judicial acts until the end of cassation proceedings in the judicial panel for economic disp",
+      "title_raw": "\"Россети Сибирь\" заявили об отсутствии оснований для введения процедуры банкротства",
+      "lead_raw": "Компания обжаловала в Верховном суде РФ состоявшиеся судебные акты о взыскании с компании средств и высшая судебная инстанция приостановила исполнение судебных актов до окончания кассационного производства в судебной коллегии по экономическим спорам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "65385e3376384fe84bdfe1bcaf1d8b9d026b01f3",
+      "fingerprint": "42f561c3e226793cfae7bf66b7a502d3f5f6307d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27315987",
+      "published_utc": "2026-05-05T15:41:31Z",
+      "title_en": "Zakharova: Russia is ready to facilitate a settlement in the Persian Gulf",
+      "lead_en": "The official representative of the Ministry of Foreign Affairs stated her readiness to do this through political and diplomatic means, taking into account the interests of all regional states",
+      "title_raw": "Захарова: РФ готова содействовать урегулированию в Персидском заливе",
+      "lead_raw": "Официальный представитель МИД заявила о готовности это сделать политико-дипломатическими средствами при учете интересов всех региональных государств",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bd1abb8ac2724e4e153b4e9f2cb5f2258181cd28",
+      "fingerprint": "b177c99cc057bbb220b518aca458a8f92ef1958d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27316001",
+      "published_utc": "2026-05-05T15:40:37Z",
+      "title_en": "Multi-day cycling race \"Russia\" starts on May 16 in Kostroma",
+      "lead_en": "The final stage will take place on September 12 in Moscow",
+      "title_raw": "Многодневная велогонка \"Россия\" стартует 16 мая в Костроме",
+      "lead_raw": "Финальный этап пройдет 12 сентября в Москве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6320b2c28cf060379eab453f6df87980d88b1744",
+      "fingerprint": "165ce142cdbc013387d5fceeec5103dbd1180bcf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27315967",
+      "published_utc": "2026-05-05T15:38:41Z",
+      "title_en": "Zakharova pointed to the stalling of negotiations on the Persian Gulf",
+      "lead_en": "This is evidenced by the developments around Iran, noted the official representative of the Russian Foreign Ministry",
+      "title_raw": "Захарова указала на пробуксовку переговоров по Персидскому заливу",
+      "lead_raw": "Об этом свидетельствует развитие событий вокруг Ирана, отметила официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "fd4e3f848ba1d9cc38baed6a8f7163fcb1213a18",
+      "fingerprint": "19eb7dc92f1f14358d67c10fc4899afeed0f93ae",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27315929",
+      "published_utc": "2026-05-05T15:37:32Z",
+      "title_en": "Zakharova called on the parties to the conflict in the Persian Gulf to show restraint",
+      "lead_en": "The official representative of the Russian Foreign Ministry addressed \"an urgent appeal to all parties to show maximum restraint\"",
+      "title_raw": "Захарова призвала стороны конфликта в Персидском заливе к сдержанности",
+      "lead_raw": "Официальный представитель МИД РФ обратилась \"с настоятельным призывом ко всем сторонам проявлять максимальную выдержку\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "688686d8111fd4899a6c6bbe3b4c13f86cf4787e",
+      "fingerprint": "e31e692933f5c1e80b942e19f2f51927483a42f9",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/reuters-reports-ukraine-strikes-kinef-oil-refinery-in-russia-s-leningrad-region-forcing-shutdown",
+      "published_utc": "2026-05-05T15:36:45Z",
+      "title_en": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
+      "lead_en": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
+      "title_raw": "Reuters reports Ukraine strikes Kinef oil refinery in Russia’s Leningrad Region, forcing shutdown",
+      "lead_raw": "Ukraine’s military struck the Kirishi oil refinery in Russia’s Leningrad Region, known as Kinef, forcing it to shut down, the Reuters news agency reported, citing sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "705635df5c1025b6c0d86f9e49f900beb727ced5",
+      "fingerprint": "675b768b298f568d88c00799d875787433dbf3cd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27315901",
+      "published_utc": "2026-05-05T15:35:28Z",
+      "title_en": "An exhibition of folk art was shown at the Russian-Abkhaz youth forum in the KBR",
+      "lead_en": "Kabardian, Balkar and Russian national farmsteads were set up on the square in front of the Youth House in Nalchik",
+      "title_raw": "На Российско-абхазском молодежном форуме в КБР показали выставку народного искусства",
+      "lead_raw": "На площади перед Домом молодежи в Нальчике развернули кабардинское, балкарское и русское национальные подворья",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "03e5e5ee7b8038c25488b228e95eef9c70b753a6",
+      "fingerprint": "dab001f8248e6c21a61bc57324188727664e03a0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/russian-man-who-served-5-years-for-social-media-comment-is-detained-in-belarus-while-trying-to-emigrate",
+      "published_utc": "2026-05-05T15:22:32Z",
+      "title_en": "Russian man who served 5 years for social media comment is detained in Belarus while trying to emigrate",
+      "lead_en": "A Kaluga resident who had served time on a charge of “justifying terrorism” was detained at the Minsk airport while attempting to emigrate to France, where a humanitarian visa had already been approved for him. The man, Ivan Lyubshin, told the independent Russian human rights monitor OVD-Info that he had planned to fly from Minsk to Armenia and then on to France.",
+      "title_raw": "Russian man who served 5 years for social media comment is detained in Belarus while trying to emigrate",
+      "lead_raw": "A Kaluga resident who had served time on a charge of “justifying terrorism” was detained at the Minsk airport while attempting to emigrate to France, where a humanitarian visa had already been approved for him. The man, Ivan Lyubshin, told the independent Russian human rights monitor OVD-Info that he had planned to fly from Minsk to Armenia and then on to France.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4b65c17b5ab0da1eac0d904a2d4db8c244b1dd9e",
+      "fingerprint": "1e3611dd662d17bf4d9408ca362300c84ca15420",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27315707",
+      "published_utc": "2026-05-05T15:19:08Z",
+      "title_en": "The Russian Armed Forces are advancing in several directions in the Sumy and Kharkov regions",
+      "lead_en": "Soldiers of the Northern group continue to create a security zone, the Ministry of Defense noted",
+      "title_raw": "ВС РФ наступают на нескольких направлениях в Сумской и Харьковской областях",
+      "lead_raw": "Бойцы Северной группировки продолжают создание полосы безопасности, отметили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "55512272f3c70893bd791139b087009c688d8e1b",
+      "fingerprint": "e7bb1531ed7df3522aa5c16509136b4ca14ebda9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27315745",
+      "published_utc": "2026-05-05T15:15:01Z",
+      "title_en": "Infectious disease specialist Timakov rules out a hantavirus epidemic in Russia",
+      "lead_en": "There is no vaccine for the virus in the Russian Federation, because it does not have epidemiological potential, the doctor noted",
+      "title_raw": "Инфекционист Тимаков исключил эпидемию хантавируса в России",
+      "lead_raw": "Вакцины от вируса в РФ нет, потому что он не обладает эпидемиологическим потенциалом, отметил врач",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "88e60d43acbace2048a734fda202a73283042602",
+      "fingerprint": "17ee0a207902a40308083203d7ae235519926174",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27315661",
+      "published_utc": "2026-05-05T15:06:44Z",
+      "title_en": "Russian Foreign Ministry: Moscow is concerned about military-technical assistance from Tokyo to Kyiv",
+      "lead_en": "Deputy head of the Russian diplomatic service Mikhail Galuzin met with member of the House of Councilors of the Japanese Parliament Muneo Suzuki",
+      "title_raw": "МИД РФ: Москва обеспокоена военно-техническим содействием Токио Киеву",
+      "lead_raw": "Замглавы российского дипведомства Михаил Галузин встретился с депутатом палаты советников парламента Японии Мунэо Судзуки",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c4b13d13364075a828d627910c4b80d7557f5402",
+      "fingerprint": "1a2d34b35d44e09ed18b13849fecc8450dbdd579",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/05/russia-announces-victory-day-ceasefire-threatens-missile-strike-on-kyiv-if-ukraine-disrupts-celebrations",
+      "published_utc": "2026-05-05T14:51:11Z",
+      "title_en": "Russia announces Victory Day ceasefire, threatens missile strike on Kyiv if Ukraine disrupts celebrations",
+      "lead_en": "Russia’s Defense Ministry announced on the evening of May 4 that Vladimir Putin had ordered a “ceasefire in honor of the Victory Day celebrations” on May 8 and 9. “We expect the Ukrainian side to follow this example,” the ministry said, warning that if Ukraine attempted to disrupt the celebrations, Russian armed forces would “deliver a retaliatory, massive missile strike on the center of Kyiv.”",
+      "title_raw": "Russia announces Victory Day ceasefire, threatens missile strike on Kyiv if Ukraine disrupts celebrations",
+      "lead_raw": "Russia’s Defense Ministry announced on the evening of May 4 that Vladimir Putin had ordered a “ceasefire in honor of the Victory Day celebrations” on May 8 and 9. “We expect the Ukrainian side to follow this example,” the ministry said, warning that if Ukraine attempted to disrupt the celebrations, Russian armed forces would “deliver a retaliatory, massive missile strike on the center of Kyiv.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fdd68ea35b3f3d6f1cadc87fb7acbffb9eccac31",
+      "fingerprint": "40e561fcd29fc6c93cc5330f847f8c1f16e61594",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/05/russian-political-prisoner-says-he-was-was-beaten-electrocuted-and-threatened-with-rape-at-prison-in-yamalo-nenets",
+      "published_utc": "2026-05-05T13:37:37Z",
+      "title_en": "Russian political prisoner says he was was beaten, electrocuted, and threatened with rape at prison in Yamalo-Nenets",
+      "lead_en": "Anarchist and mathematician Azat Miftakhov says he was tortured after being transferred to Prison Colony No. 18 “Polyarnaya Sova” in the settlement of Kharp in the Yamalo-Nenets Autonomous District, the independent Russian investigative outlet The Insider reported, having received the political prisoner’s account “through its own channels.”",
+      "title_raw": "Russian political prisoner says he was was beaten, electrocuted, and threatened with rape at prison in Yamalo-Nenets",
+      "lead_raw": "Anarchist and mathematician Azat Miftakhov says he was tortured after being transferred to Prison Colony No. 18 “Polyarnaya Sova” in the settlement of Kharp in the Yamalo-Nenets Autonomous District, the independent Russian investigative outlet The Insider reported, having received the political prisoner’s account “through its own channels.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "09e80f49e447b344cb38ccc80934332329bbdb61",
+      "fingerprint": "4a733902c850977f1e1b5363f4f9745471b303a7",
+      "source": "RT",
+      "url": "https://www.rt.com/news/639471-russian-victory-day-concert-austria-vienna",
+      "published_utc": "2026-05-05T13:33:31Z",
+      "title_en": "Russian Embassy announces Victory Day concert in Vienna",
+      "lead_en": "A Victory Day concert will take place in Vienna on May 9, the Russian Embassy in Austria has said Read Full Article at RT.com",
+      "title_raw": "Russian Embassy announces Victory Day concert in Vienna",
+      "lead_raw": "A Victory Day concert will take place in Vienna on May 9, the Russian Embassy in Austria has said Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bc50a9306074f2c6ce8e3bd16ee2eeacff9923ba",
+      "fingerprint": "2fb6097a2e4a7522e0b30daccab4188a98dfa770",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/russian-forces-kill-4-injure-over-30-in-strike-on-ukraine-s-poltava-region",
+      "published_utc": "2026-05-05T13:01:34Z",
+      "title_en": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
+      "lead_en": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
+      "title_raw": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
+      "lead_raw": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ca08d99c8fa4491a6ff8a4a79d15c68dd44cc5fb",
+      "fingerprint": "f370aecf208010ae2bce740ce1ccab62f46c3344",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/report-ukrainian-drone-strikes-apartment-building-in-russia-sparking-a-fire-and-injuring-multiple-people",
+      "published_utc": "2026-05-05T12:53:47Z",
+      "title_en": "Report: Ukrainian drone strikes apartment building in Russia, sparking a fire and injuring multiple people; possible fatalities",
+      "lead_en": "A Ukrainian drone struck a residential building in Cheboksary on the morning of May 5, according to the Telegram channels Shot and Ostorozhno Novosti, citing eyewitnesses. The strike set the building on fire.",
+      "title_raw": "Report: Ukrainian drone strikes apartment building in Russia, sparking a fire and injuring multiple people; possible fatalities",
+      "lead_raw": "A Ukrainian drone struck a residential building in Cheboksary on the morning of May 5, according to the Telegram channels Shot and Ostorozhno Novosti, citing eyewitnesses. The strike set the building on fire.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c15fb3457efe84678793b39fb3e53039832f78ec",
+      "fingerprint": "d038c91903999994fbbf7de0e1be6a4221d99a26",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/moscow-mobile-internet-restored-after-russia-s-digital-development-ministry-says-temporary-restrictions-lifted",
+      "published_utc": "2026-05-05T12:38:05Z",
+      "title_en": "Moscow mobile internet restored after Russia’s Digital Development Ministry says temporary restrictions lifted",
+      "lead_en": "Mobile internet went dark across neighborhoods in Moscow and St. Petersburg on Tuesday morning, May 5.",
+      "title_raw": "Moscow mobile internet restored after Russia’s Digital Development Ministry says temporary restrictions lifted",
+      "lead_raw": "Mobile internet went dark across neighborhoods in Moscow and St. Petersburg on Tuesday morning, May 5.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c6512fe376788fed2823502d615a2c4acf2e0e10",
+      "fingerprint": "ccfd132011a14e9fb891a1ef79cf6403dae3be2c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/05/russia-plans-monument-to-soldier-killed-in-ukraine-war-at-site-of-demolished-memorial-to-exiled-poles",
+      "published_utc": "2026-05-05T12:05:30Z",
+      "title_en": "Russia plans monument to soldier killed in Ukraine war at site of demolished memorial to exiled Poles",
+      "lead_en": "Yakutsk’s chief architect, Semyon Sergeyev, told the Yakutsk-based news outlet YSIA that a monument to Dmitry Yegorov — a participant in the war in Ukraine killed in 2023 — will be erected at the intersection of Poyarkova and Kurashova streets. The site previously held a memorial to exiled Poles.",
+      "title_raw": "Russia plans monument to soldier killed in Ukraine war at site of demolished memorial to exiled Poles",
+      "lead_raw": "Yakutsk’s chief architect, Semyon Sergeyev, told the Yakutsk-based news outlet YSIA that a monument to Dmitry Yegorov — a participant in the war in Ukraine killed in 2023 — will be erected at the intersection of Poyarkova and Kurashova streets. The site previously held a memorial to exiled Poles.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f9b6694a462a2bcf6118b117ac053f85277d5713",
+      "fingerprint": "a1fa3df32cd69738de5ee75e600305bac47f072b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/05/uk-targets-russian-army-recruitment-network-and-drone-suppliers-in-latest-sanctions-package-a92683",
+      "published_utc": "2026-05-05T11:18:00Z",
+      "title_en": "U.K. Targets Russian Army Recruitment Network and Drone Suppliers in Latest Sanctions Package",
+      "lead_en": "The new measures target what British officials condemned as a “barbaric” network that lures foreign nationals to Russia with the promise of work, only to force them into frontline combat in Ukraine or military production.",
+      "title_raw": "U.K. Targets Russian Army Recruitment Network and Drone Suppliers in Latest Sanctions Package",
+      "lead_raw": "The new measures target what British officials condemned as a “barbaric” network that lures foreign nationals to Russia with the promise of work, only to force them into frontline combat in Ukraine or military production.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "609d42edd473bf3cfab2b8177b27f524e4bd9b0b",
       "fingerprint": "1706361c41000aa89845c6c803b6399706da0333",
