@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-05T16:27:26Z",
+  "updated_at_utc": "2026-05-05T18:13:55Z",
   "topic": "energy",
-  "count": 29,
+  "count": 31,
   "articles": [
+    {
+      "id": "40de4014e81224dd4f0f2ffcf7ad02b2ad479df4",
+      "fingerprint": "34467bf2f8e24fdb111c7b15481079dc96a3b676",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2126867",
+      "published_utc": "2026-05-05T16:35:31Z",
+      "title_en": "Russian stock indices end in the green as Moscow Exchange closes",
+      "lead_en": "The yuan edged up 3.7 kopecks to 11.052 rubles",
+      "title_raw": "Russian stock indices end in the green as Moscow Exchange closes",
+      "lead_raw": "The yuan edged up 3.7 kopecks to 11.052 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "688686d8111fd4899a6c6bbe3b4c13f86cf4787e",
       "fingerprint": "e31e692933f5c1e80b942e19f2f51927483a42f9",
@@ -39,6 +61,29 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b9d8932af2e6b77c93c9256932201e7f107eb1dd",
+      "fingerprint": "28a4743b44d5c3558f6908e43e6454a94dca9a83",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2126637",
+      "published_utc": "2026-05-05T11:19:00Z",
+      "title_en": "Russian troops deliver precision strike on Ukrainian army’s energy sites in past day",
+      "lead_en": "The Ukrainian army lost roughly 1,210 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "title_raw": "Russian troops deliver precision strike on Ukrainian army’s energy sites in past day",
+      "lead_raw": "The Ukrainian army lost roughly 1,210 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
         "energy": 1,
         "economy": 0,
         "local_events": 0
