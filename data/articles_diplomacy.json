@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-06T18:20:56Z",
+  "updated_at_utc": "2026-05-06T20:26:54Z",
   "topic": "diplomacy",
-  "count": 78,
+  "count": 77,
   "articles": [
+    {
+      "id": "a61c8959ac759e6834e6b7ebc87e02b1c99cffaa",
+      "fingerprint": "ae9d5c9079168a83cd72225934ad65c9d25f23b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27327961",
+      "published_utc": "2026-05-06T18:24:34Z",
+      "title_en": "The Polish Foreign Minister will forgive Fico's visit to Moscow if he unblocks aid to Kyiv",
+      "lead_en": "The Prime Minister of Slovakia will arrive in the Russian Federation for the Victory Parade",
+      "title_raw": "Глава МИД Польши простит Фицо визит в Москву, если он разблокирует помощь Киеву",
+      "lead_raw": "Премьер-министр Словакии прибудет в РФ на Парад Победы",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "95f9b80526fda06fb835b938be8f2ced612bf125",
+      "fingerprint": "23b4e8d3b572b7f1f273aabd29c6631969fd5024",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27327897",
+      "published_utc": "2026-05-06T18:19:09Z",
+      "title_en": "Kelin called Britain's plans for the Northern Navy an attempt to confront the Russian Federation in the Baltic",
+      "lead_en": "Russia's ambassador to the UK said Moscow is taking the kingdom's hostile plans into account in its military planning and is ready to respond decisively to them if necessary.",
+      "title_raw": "Келин назвал планы Британии по Северным ВМС попыткой противостоять РФ на Балтике",
+      "lead_raw": "Посол России в Великобритании заявил, что Москва учитывает враждебные планы королевства в своем военном планировании и готова дать на них решительный ответ при необходимости",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "7aefe65ee46d9f96444209e246d4cdd2ed4d6d52",
       "fingerprint": "4dab76959b0fd96ec3b7320e4d0651ed6e592051",
@@ -26,24 +71,48 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "8f770b2b0bd3fd7de51708d195cbe727dccec179",
+      "id": "be54a6c44d99c243abc283af5c8934ec0630b558",
       "fingerprint": "2314ce8ddd2aa767711986e973eacd2b9e0b39ef",
       "source": "TASS (RU)",
       "url": "https://tass.ru/politika/27327877",
       "published_utc": "2026-05-06T18:16:30Z",
-      "title_en": "The Russian Foreign Ministry calls on foreign countries to ensure the evacuation of diplomats from Kyiv",
-      "lead_en": "",
-      "title_raw": "МИД РФ призывает зарубежные страны обеспечить эвакуацию из Киева дипломатов",
-      "lead_raw": "",
+      "title_en": "The Russian Foreign Ministry called on foreign countries to evacuate diplomats from Kyiv",
+      "lead_en": "The official representative of the department, Maria Zakharova, recalled that on May 4, the Ministry of Defense published an official statement “in connection with the threats of the Kyiv regime to strike Moscow on a holiday sacred to all Russians - Victory Day in the Great Patri",
+      "title_raw": "МИД РФ призвал зарубежные страны эвакуировать из Киева дипломатов",
+      "lead_raw": "Официальный представитель ведомства Мария Захарова напомнила, что 4 мая Минобороны опубликовало официальное заявление \"в связи с угрозами киевского режима нанести удар по Москве в священный для всех россиян праздник - День Победы в Великой Отечественной войне\"",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
+        "military": 1,
         "energy": 0,
         "economy": 0,
-        "local_events": 1
+        "local_events": 0
       },
       "topics": [
-        "diplomacy"
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2785d7114b7e9f63568a11333d74b2710aff8927",
+      "fingerprint": "d323fc7515523c3c2d4125186628a0265a553395",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27327867",
+      "published_utc": "2026-05-06T18:15:00Z",
+      "title_en": "Russian Foreign Ministry: the EU is mistaken in thinking to silence Zelensky’s threats to disrupt May 9 in Moscow",
+      "lead_en": "Some Western countries, arming Ukraine, are accomplices in the criminal plans of the Kyiv regime, noted department official Maria Zakharova",
+      "title_raw": "МИД РФ: в ЕС ошибаются, думая замолчать угрозы Зеленского сорвать 9 Мая в Москве",
+      "lead_raw": "Некоторые западные страны, вооружая Украину, являются соучастниками преступных планов киевского режима, отметила официальный представитель ведомства Мария Захарова",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
       ],
       "primary_topic": "diplomacy"
     },
@@ -1650,95 +1719,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ca62fd17ecfc307a2c93e4029920b40d875a21a3",
-      "fingerprint": "245d05a5aa7a6625ff71306c859a7aaabb69a5ef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27305703",
-      "published_utc": "2026-05-04T19:24:06Z",
-      "title_en": "Politician Mema called the ENP summit in Yerevan a failure and Eurosuicide",
-      "lead_en": "EU leaders “are trying to prolong the conflict with Russia instead of looking for a real diplomatic solution,” says a member of the Finnish national conservative party Freedom Alliance.",
-      "title_raw": "Политик Мема назвал провалом и евросамоубийством саммит ЕПС в Ереване",
-      "lead_raw": "Лидеры ЕС \"стремятся затянуть конфликт с Россией, вместо поиска реального дипломатического решения\", считает член финской национально-консервативной партии \"Альянс свободы\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "287246299dcd09e7fd03fa662c471ebf037c0ca8",
-      "fingerprint": "c39359820ea94f8a01e37f50f4fb99314bf4e840",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27305571",
-      "published_utc": "2026-05-04T18:48:38Z",
-      "title_en": "An agreement on the mutual opening of representative offices of the Ministry of Internal Affairs of the Russian Federation and Tajikistan was submitted to the State Duma",
-      "lead_en": "As noted in the explanatory note, the agreement is aimed at developing international cooperation in the field of combating transnational crime, drug trafficking, as well as in the field of migration",
-      "title_raw": "В ГД внесли соглашение о взаимном открытии представительств МВД РФ и Таджикистана",
-      "lead_raw": "Как отмечается в пояснительной записке, соглашение направлено на развитие международного сотрудничества в сфере противодействия транснациональной преступности, незаконному обороту наркотиков, а также в сфере миграции",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cbe2d890bdba624f7058a2e7d6de479dff7bfed1",
-      "fingerprint": "4a1495b40892ed3fffa623eb89408f0f9bec796a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27305519",
-      "published_utc": "2026-05-04T18:36:56Z",
-      "title_en": "Macron called on the EU to “help” Armenia with border protection without the participation of the Russian Federation",
-      "lead_en": "The French President also stated that at the upcoming Armenia-EU summit the issue of improving mobile communications and abolishing roaming will be discussed",
-      "title_raw": "Макрон призвал ЕС \"помочь\" Армении с охраной границ без участия РФ",
-      "lead_raw": "Президент Франции также заявил, что на предстоящем саммите Армения - ЕС будет обсуждаться вопрос улучшения мобильной связи и отмены роуминга",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "01c87645fc7e2667f7bc3070cd4fff76d5e84ebc",
-      "fingerprint": "d526e401d0ec1a675f79e64d02d32494345e6f95",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2126343",
-      "published_utc": "2026-05-04T18:25:03Z",
-      "title_en": "Russian envoy in Vienna discuss situation in Middle East with OPEC Secretary General",
-      "lead_en": "Mikhail Ulyanov expressed his gratitude to Haitham Al Ghais for the \"fruitful exchange of views\"",
-      "title_raw": "Russian envoy in Vienna discuss situation in Middle East with OPEC Secretary General",
-      "lead_raw": "Mikhail Ulyanov expressed his gratitude to Haitham Al Ghais for the \"fruitful exchange of views\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }

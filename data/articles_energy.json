@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-06T18:20:56Z",
+  "updated_at_utc": "2026-05-06T20:26:54Z",
   "topic": "energy",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "7271916ed5466f64c841782829e38cc45fb3135d",
+      "fingerprint": "2d62145b729c9d03a6c66527faa6509855ad733f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27328043",
+      "published_utc": "2026-05-06T18:32:13Z",
+      "title_en": "Dmitriev: Lufthansa will have to refuel in Russia amid the fuel crisis",
+      "lead_en": "The special representative of the President of the Russian Federation commented on the publication in Western media that Germany's leading airline company Lufthansa may introduce refueling stops on some of its flights",
+      "title_raw": "Дмитриев: Lufthansa на фоне топливного кризиса придется заправляться в РФ",
+      "lead_raw": "Спецпредставитель президента РФ прокомментировал публикацию в западных СМИ, что ведущий авиаконцерн Германии Lufthansa может ввести остановки для дозаправки на некоторых своих рейсах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c93679617dc51bf4f995536d837d4478cf3bc8e1",
       "fingerprint": "00fe2fa37a4ca093d214ab4157e40f5ed0a784e1",
@@ -449,52 +471,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "eefbfb640dd15e881c3f85f4acbb6fb9785e08be",
-      "fingerprint": "f1f6dbb89a3384c27533619f465f50c677f7bb99",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2126353",
-      "published_utc": "2026-05-04T19:07:27Z",
-      "title_en": "Russian stock market closed in the red — Moscow Exchange",
-      "lead_en": "The yuan added four kopecks and reached 11.02 rubles",
-      "title_raw": "Russian stock market closed in the red — Moscow Exchange",
-      "lead_raw": "The yuan added four kopecks and reached 11.02 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "01c87645fc7e2667f7bc3070cd4fff76d5e84ebc",
-      "fingerprint": "d526e401d0ec1a675f79e64d02d32494345e6f95",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2126343",
-      "published_utc": "2026-05-04T18:25:03Z",
-      "title_en": "Russian envoy in Vienna discuss situation in Middle East with OPEC Secretary General",
-      "lead_en": "Mikhail Ulyanov expressed his gratitude to Haitham Al Ghais for the \"fruitful exchange of views\"",
-      "title_raw": "Russian envoy in Vienna discuss situation in Middle East with OPEC Secretary General",
-      "lead_raw": "Mikhail Ulyanov expressed his gratitude to Haitham Al Ghais for the \"fruitful exchange of views\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
