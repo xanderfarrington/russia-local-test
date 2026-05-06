@@ -1,7 +1,751 @@
 {
-  "updated_at_utc": "2026-05-06T06:33:12Z",
-  "count": 3660,
+  "updated_at_utc": "2026-05-06T09:27:26Z",
+  "count": 3696,
   "articles": [
+    {
+      "id": "4c1181974fd408e4c466176319ae44c4cf47fdc9",
+      "fingerprint": "68b40bd677be4744a1921c8f63715976eb208794",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27322353",
+      "published_utc": "2026-05-06T09:21:09Z",
+      "title_en": "In Russia, mortgage issuance increased by 28% per year due to market programs",
+      "lead_en": "84 thousand loans issued",
+      "title_raw": "В России выдача ипотеки выросла на 28% за год за счет рыночных программ",
+      "lead_raw": "Выдано 84 тыс. кредитов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b94097b1900e85b9d7c399a79c62051f61218bce",
+      "fingerprint": "e4c1250375def783bc7223a7fc7734f846d84691",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27322387",
+      "published_utc": "2026-05-06T09:19:51Z",
+      "title_en": "The Russian Armed Forces hit UAV assembly shops and fuel depots of the Ukrainian Armed Forces",
+      "lead_en": "",
+      "title_raw": "ВС РФ поразили цеха сборки БПЛА и склады горючего ВСУ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "24c473c616e4d461f50778133bb8c4e8eac2f7f0",
+      "fingerprint": "8ca0de48609566791d4185273748d6a1fd139b9d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27322261",
+      "published_utc": "2026-05-06T09:18:53Z",
+      "title_en": "Deputy Kolesnik: Lithuania illegally checks mail cars transiting to the Russian Federation",
+      "lead_en": "The parliamentarian pointed out that the carriages arrive in Kaliningrad with broken seals",
+      "title_raw": "Депутат Колесник: Литва незаконно проверяет идущие транзитом в РФ почтовые вагоны",
+      "lead_raw": "Парламентарий указал, что вагоны прибывают в Калининград с сорванными пломбами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7864e4b2cb4b75da20fa56eee317245ea0ccb506",
+      "fingerprint": "bb1dabd5f2980cc6bb9a1e40efc0ff47f38e349b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27322357",
+      "published_utc": "2026-05-06T09:18:44Z",
+      "title_en": "Russian air defense systems shot down 605 Ukrainian Armed Forces drones in one day",
+      "lead_en": "",
+      "title_raw": "Средства ПВО РФ сбили за сутки 605 беспилотников ВСУ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "97bfb36e99a72fdd3fbb68627b95a8b4f118ac6f",
+      "fingerprint": "50540a2ea059f12ec42373ef6b8ec82ef3dbaeb6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27322217",
+      "published_utc": "2026-05-06T09:16:03Z",
+      "title_en": "Russia has increased the efficiency of absorption of tuberculosis drugs",
+      "lead_en": "It has been discovered that the solubility of the anti-tuberculosis drug ethionamide can be increased more than 300 times using a composition of vitamin B4, oxalic acid and polyethylene glycol",
+      "title_raw": "В России повысили эффективность усвоения лекарства от туберкулеза",
+      "lead_raw": "Обнаружено, что растворимость противотуберкулезного препарата этионамида можно увеличить более чем в 300 раз при помощи состава из витамина B4, щавелевой кислоты и полиэтиленгликоля",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bfbda547c57dc051c3efdfe7e81248877f5271fa",
+      "fingerprint": "3b1ffe7e60652fd97c6cffcdcb0a08a80ef5fae7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27322199",
+      "published_utc": "2026-05-06T09:13:05Z",
+      "title_en": "Golikova: 104 thousand people plan to complete the free training program",
+      "lead_en": "The Deputy Prime Minister noted that since the beginning of the year, more than 84 thousand applications have been submitted to the Work of Russia portal",
+      "title_raw": "Голикова: 104 тыс. человек планируют пройти программу бесплатного обучения",
+      "lead_raw": "Вице-премьер отметила, что с начала года на портале \"Работа России\" подано более 84 тыс. заявок",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a112500487dc86cc2ce34b0428528c9b46fc1c8a",
+      "fingerprint": "167c49f5e582b665d5d57a84f7d4e38d3d46c8ff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27322273",
+      "published_utc": "2026-05-06T09:12:55Z",
+      "title_en": "In the Moscow region, 69 migrant violators were identified during raids",
+      "lead_en": "Of these, 37 people will be expelled from Russia",
+      "title_raw": "В Подмосковье в ходе рейдов выявили 69 мигрантов-нарушителей",
+      "lead_raw": "Из них 37 человек будут выдворены из России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "81635cfe04d5cc7437aaaed34bd24e7647ae8db4",
+      "fingerprint": "d359e393f22071285b74903ecb2dff70edeb1754",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27322161",
+      "published_utc": "2026-05-06T09:12:23Z",
+      "title_en": "On May 9, the Ostankino TV tower will be painted in the colors of the Russian flag and the St. George ribbon",
+      "lead_en": "The TV tower will broadcast a thematic video on the media facade dedicated to the memorable day",
+      "title_raw": "Останкинская телебашня 9 мая окрасится в цвета флага РФ и Георгиевской ленты",
+      "lead_raw": "Телебашня будет транслировать на медиафасаде тематический ролик, посвященный памятному дню",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2de59fcfbb26762f68f829c2b46cb02f4f8117a7",
+      "fingerprint": "84152f5a522a809bb3cf68221d5d391d457eef60",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27322033",
+      "published_utc": "2026-05-06T09:08:18Z",
+      "title_en": "Trend: a batch of grain and fertilizers from the Russian Federation was sent through Azerbaijan to Armenia",
+      "lead_en": "In total, since the beginning of transit through the territory of Azerbaijan, more than 25 thousand tons of grain have been sent from Russia to Armenia",
+      "title_raw": "Trend: через Азербайджан в Армению отправлена партия зерна и удобрений из РФ",
+      "lead_raw": "Всего с начала транзита через территорию Азербайджана из России в Армению отправлено более 25 тысяч тонн зерна",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6948a79511a223c53eca24040f4e3854e80bf978",
+      "fingerprint": "6fb3158dcfb9a0ffa6f40872d799645306279c95",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27322015",
+      "published_utc": "2026-05-06T09:03:52Z",
+      "title_en": "VTB: the car loan market in the Russian Federation has grown by 40% in four months",
+      "lead_en": "The figure amounted to more than 548.5 billion rubles",
+      "title_raw": "ВТБ: рынок автокредитования в РФ за четыре месяца вырос на 40%",
+      "lead_raw": "Показатель составил более 548,5 млрд рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "09dbcd4c050552eedd46cfd07598ee00f39cac35",
+      "fingerprint": "59312e2275cfd340d260365fd8e92393d7854525",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27309665",
+      "published_utc": "2026-05-06T09:00:00Z",
+      "title_en": "Exarch of Africa: our task is to calmly establish church life",
+      "lead_en": "Obtaining official registration of the Russian Orthodox Church in the Congo, plans to open new parishes in Africa, fake information about the recruitment of Africans, as well as the translation of liturgical books into rare languages ​​of the continent with the help of artificial",
+      "title_raw": "Экзарх Африки: наша задача — спокойно налаживать церковную жизнь",
+      "lead_raw": "Получение официальной регистрации Русской православной церкви в Конго, планы по открытию новых приходов в Африке, информационные фейки о вербовке африканцев, а также перевод богослужебных книг на редкие языки континента с помощью искусственного интеллекта — про эти и другие аспек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "be5fbe1f8bbe46baf859c21e3acc70264e577f4c",
+      "fingerprint": "0aa7939e897502a4aaedf5f1034a3025bdd90ca9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27321739",
+      "published_utc": "2026-05-06T08:57:37Z",
+      "title_en": "Soyuzmoloko: cheese stocks in warehouses in the Russian Federation in the first quarter of 2026 increased by 21%",
+      "lead_en": "The figure was 77.1 thousand tons",
+      "title_raw": "\"Союзмолоко\": запасы сыров на складах в РФ в I квартале 2026 года выросли на 21%",
+      "lead_raw": "Показатель составил 77,1 тыс. тонн",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9e7c973581d44e2481bc8075959c9cec138f3692",
+      "fingerprint": "5fe0ea6fb16f521e04d04806adc7ad0f0c9ba3bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321935",
+      "published_utc": "2026-05-06T08:54:46Z",
+      "title_en": "Putin: soldiers of the Great Patriotic War saved the world",
+      "lead_en": "In his congratulatory message on Victory Day, the Russian President noted that the example of fathers, grandfathers and great-grandfathers will forever remain with all Russians",
+      "title_raw": "Путин: солдаты Великой Отечественной войны спасли мир",
+      "lead_raw": "В поздравительном послании ко Дню Победы президент России отметил, что пример отцов, дедов и прадедов навеки останется со всеми россиянами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ef02cf1abf64f7cd58265cf1ff0fe065c20b7217",
+      "fingerprint": "8b96e1bcf7580f902b4fac72d51e3d0c3597d837",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321855",
+      "published_utc": "2026-05-06T08:52:57Z",
+      "title_en": "Novosibirsk University opened a preparatory faculty at the University of Guinea",
+      "lead_en": "Students from Guinea will have a real chance to continue their studies in Russia",
+      "title_raw": "Новосибирский вуз открыл подготовительный факультет в Гвинейском университете",
+      "lead_raw": "Студенты из Гвинеи получат реальный шанс продолжить обучение в России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6b6fbfa3f878f6917c3cbc8417b22d2751652bb9",
+      "fingerprint": "d0de6e8fe256e1e8046c80f5bf5c8f0a7f6b553f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321685",
+      "published_utc": "2026-05-06T08:51:51Z",
+      "title_en": "ON Media: almost 80% of Russians believe that there are not enough films and TV series about the Second World War",
+      "lead_en": "Viewers give more preference to film adaptations of real events, stories about life on the home front and the fate of ordinary people, the study says",
+      "title_raw": "ON Медиа: почти 80% россиян считают, что фильмов и сериалов о ВОВ недостаточно",
+      "lead_raw": "Зрители отдают больше предпочтения экранизациям реальных событий, историй о жизни в тылу и судьбах простых людей, говорится в исследовании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5eacfcdfe47509d3ae5ad892349b354a1de57e88",
+      "fingerprint": "be751cddc3839a8e49f4b872df7bd6227e9fe81b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/06/russia-strikes-ukraine-with-over-100-drones-as-zelensky-s-ceasefire-takes-effect",
+      "published_utc": "2026-05-06T08:49:28Z",
+      "title_en": "Russia strikes Ukraine with over 100 drones as Zelensky’s ceasefire takes effect",
+      "lead_en": "Russia struck Ukraine with three missiles and 108 drones in the early hours of May 6, as a ceasefire declared by Zelensky took effect, Ukraine’s Air Force said.",
+      "title_raw": "Russia strikes Ukraine with over 100 drones as Zelensky’s ceasefire takes effect",
+      "lead_raw": "Russia struck Ukraine with three missiles and 108 drones in the early hours of May 6, as a ceasefire declared by Zelensky took effect, Ukraine’s Air Force said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e859692a2e67cfcfef946c6fe1697f0263c8781f",
+      "fingerprint": "2ea00b56f1e5f81091f11bf9defca007dcaebeff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27320925",
+      "published_utc": "2026-05-06T08:49:09Z",
+      "title_en": "The ROCOR Council in Munich marked the beginning of the canonization of Seraphim Rose",
+      "lead_en": "The final decision on church-wide veneration is made by the Council of Bishops of the Russian Orthodox Church",
+      "title_raw": "Собор РПЦЗ в Мюнхене положил начало канонизации Серафима Роуза",
+      "lead_raw": "Окончательное решение об общецерковном почитании принимает Архиерейский Собор РПЦ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6254cd7d6e82b5fc369e52ce433f45a1526f1ec8",
+      "fingerprint": "df2f6230af5ae20badb0fb42607d916439a82bcd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27321807",
+      "published_utc": "2026-05-06T08:48:04Z",
+      "title_en": "Euractiv: the EU issued 620 thousand tourist visas to Russians in 2025",
+      "lead_en": "This became a record since the beginning of the SVO",
+      "title_raw": "Euractiv: в ЕС выдали россиянам 620 тыс. турвиз в 2025 году",
+      "lead_raw": "Это стало рекордом с начала СВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7f7651d49b5f7b2372a42ce8982202bd25614e75",
+      "fingerprint": "4b2341973488daec4ad17ceba0df0cb158580a0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321695",
+      "published_utc": "2026-05-06T08:44:55Z",
+      "title_en": "Volodin noted a decrease in the flow of migration to Russia",
+      "lead_en": "According to the Chairman of the State Duma, the number of temporary residence permits issued has decreased significantly",
+      "title_raw": "Володин отметил снижение потока миграции в Россию",
+      "lead_raw": "По словам председателя ГД, число выданных разрешений на временное проживание существенно снизилось",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e7e454d9c9c55efe04d34d5a1225765bf22b38f1",
+      "fingerprint": "451e788dc8ccceb1ddb9c24fdb7fa7b8ddcb6728",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27321795",
+      "published_utc": "2026-05-06T08:43:51Z",
+      "title_en": "Vucic handed over a letter to the Russian Ambassador congratulating Putin on Victory Day",
+      "lead_en": "Serbia will not allow attempts to rewrite history, the president emphasized",
+      "title_raw": "Вучич передал послу РФ письмо с поздравлением Путина с Днем Победы",
+      "lead_raw": "Сербия не допустит попыток переписать историю, подчеркнул президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "630e95f6eda7469644e19cdb69f2a574f09d646b",
+      "fingerprint": "a6da27340457645fe7499c452622b312712e8e5d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27321757",
+      "published_utc": "2026-05-06T08:42:06Z",
+      "title_en": "Romashina: Pokrovskaya continues to support Russian synchronized swimmers",
+      "lead_en": "In November, Tatyana Pokrovskaya left the post of head coach of the Russian synchronized swimming team.",
+      "title_raw": "Ромашина: Покровская продолжает поддерживать российских синхронисток",
+      "lead_raw": "В ноябре Татьяна Покровская покинула пост главного тренера сборной России по синхронному плаванию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ca3b0065680c4c1e3bb43bdb7d55865c2e74f9c2",
+      "fingerprint": "9f05ab2571f656cae7700a6324dd4a96f9423227",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/06/ukrainian-attack-kills-5-in-annexed-crimea-as-kyiv-accuses-russia-of-violating-its-ceasefire-a92694",
+      "published_utc": "2026-05-06T08:42:00Z",
+      "title_en": "Ukrainian Attack Kills 5 in Annexed Crimea as Kyiv Accuses Russia of Violating Its Ceasefire",
+      "lead_en": "Kremlin-installed officials said the Tuesday night attack targeted Dzhankoi, a town in the north of the peninsula that is home to a military airbase.",
+      "title_raw": "Ukrainian Attack Kills 5 in Annexed Crimea as Kyiv Accuses Russia of Violating Its Ceasefire",
+      "lead_raw": "Kremlin-installed officials said the Tuesday night attack targeted Dzhankoi, a town in the north of the peninsula that is home to a military airbase.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d9568f343c0a5b0bf228a04799213cdc19fafad0",
+      "fingerprint": "f7aebe1c7e9a104c86dd541082ecde86dec628fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27321749",
+      "published_utc": "2026-05-06T08:41:55Z",
+      "title_en": "International navigation between China and the Russian Federation opened in the Khabarovsk Territory",
+      "lead_en": "44 tourists took the first flight to China",
+      "title_raw": "Международная навигация между Китаем и РФ открылась в Хабаровском крае",
+      "lead_raw": "Первым рейсом в КНР отправились 44 туриста",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "65b6c919013509d49223553cdc731680e65c9373",
+      "fingerprint": "9fc5d44d3fcda5af27f2c0d07ac2240fe251c016",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/06/united-russia-coaches-deputies-to-justify-internet-restrictions-by-citing-an-information-psychological-war",
+      "published_utc": "2026-05-06T08:41:06Z",
+      "title_en": "United Russia coaches deputies to justify internet restrictions by citing an ‘information-psychological war’",
+      "lead_en": "United Russia has prepared a pamphlet titled “A Dozen Tough Questions for UR,” coaching deputies and campaign workers on how to deflect criticism of the party ahead of elections. The Russian business daily Kommersant reviewed the booklet.",
+      "title_raw": "United Russia coaches deputies to justify internet restrictions by citing an ‘information-psychological war’",
+      "lead_raw": "United Russia has prepared a pamphlet titled “A Dozen Tough Questions for UR,” coaching deputies and campaign workers on how to deflect criticism of the party ahead of elections. The Russian business daily Kommersant reviewed the booklet.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a8dd8f13ae216b085d762264eb963c39a37bc4e1",
+      "fingerprint": "a85e82e781a27e4cca70683a194bb82c52e1fcdc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27321715",
+      "published_utc": "2026-05-06T08:39:53Z",
+      "title_en": "\"Avtostat\": imports of used passenger cars to the Russian Federation increased by 11% in April",
+      "lead_en": "The figure was 41.4 thousand units",
+      "title_raw": "\"Автостат\": импорт подержанных легковых авто в РФ в апреле вырос на 11%",
+      "lead_raw": "Показатель составил 41,4 тыс. единиц",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "af47e91c913962aece1ac12d48a8ee8616e5ed29",
+      "fingerprint": "c5bf6a4e2fd4c1dab44bac6f42d16c4fb3744eaa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27321483",
+      "published_utc": "2026-05-06T08:37:12Z",
+      "title_en": "The share of Russian software in the public sector in 2025 has been calculated",
+      "lead_en": "The figure was 68.72%",
+      "title_raw": "Подсчитана доля российского софта в госсекторе в 2025 году",
+      "lead_raw": "Показатель составил 68,72%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "973654a62b9a527de7ef315498f4a49b9d27844d",
+      "fingerprint": "ccf0af76cf671fe6e43f855d96c3c934482d4885",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27321657",
+      "published_utc": "2026-05-06T08:35:06Z",
+      "title_en": "Meme Politician: The EU directly funds Kyiv’s terrorism against Russian civilians",
+      "lead_en": "A member of the Finnish national conservative party Freedom Alliance called on European countries to reconsider their position and change their policy on Ukraine",
+      "title_raw": "Политик Мема: ЕС напрямую финансирует терроризм Киева против мирных жителей РФ",
+      "lead_raw": "Член финской национально-консервативной партии \"Альянс свободы\" призвал европейские страны пересмотреть позицию и поменять политику по Украине",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a9beef073f7f331e643e4757fa24a550e3f7f2d8",
+      "fingerprint": "897d0d24d175b1f5cb39243aac4ebb12583b0353",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sibir-news/27320849",
+      "published_utc": "2026-05-06T08:30:23Z",
+      "title_en": "A second-year student explained why he signed a contract with the Russian Armed Forces",
+      "lead_en": "Nikolai Ivanov explained his decision to serve in the troops of unmanned systems with the desire to protect the Motherland",
+      "title_raw": "Студент второго курса рассказал, почему подписал контракт с ВС РФ",
+      "lead_raw": "Николай Иванов объяснил свое решение пойти служить в войска беспилотных систем желанием защитить Родину",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d4988450bedf504e4d2df9ecc38f5ee69f1a5c1a",
+      "fingerprint": "2f21c61b7a3e632f5194379905a8bd6980899b6b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27321587",
+      "published_utc": "2026-05-06T08:28:01Z",
+      "title_en": "\"Autostat\": sales of new heavy trucks in the Russian Federation in April decreased by 4%",
+      "lead_en": "The figure was 3.5 thousand units",
+      "title_raw": "\"Автостат\": продажи новых тяжелых грузовиков в РФ в апреле снизились на 4%",
+      "lead_raw": "Показатель составил 3,5 тыс. единиц",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c691fad052478d0e309e3128885b4f040f024f8e",
+      "fingerprint": "ce51331dc582d264fc23276abbfa7a47b974d3f2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321547",
+      "published_utc": "2026-05-06T08:27:24Z",
+      "title_en": "A piece of the Eternal Flame was delivered from Moscow to the LPR by May 9",
+      "lead_en": "In 2026, the “Fire of Memory” event will take place in Russia for the tenth time.",
+      "title_raw": "Из Москвы в ЛНР доставили частицу Вечного огня к 9 мая",
+      "lead_raw": "В 2026 году в России в десятый раз проходит акция \"Огонь памяти\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4eb2ef725376dd4eb33cb908139721c94bcb33af",
+      "fingerprint": "1d941dcd00bd5b6984835b864c4652dc68c80265",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27320423",
+      "published_utc": "2026-05-06T08:25:24Z",
+      "title_en": "Almost 70% of respondents in the Russian Federation encountered a discrepancy in values ​​with their partner",
+      "lead_en": "At the same time, 62% of respondents noted that this did not prevent the building of harmonious relationships, according to a study by the dating service \"VK Dating\" and the book service Litres",
+      "title_raw": "Почти 70% опрошенных в РФ сталкивались с несовпадением в ценностях с партнером",
+      "lead_raw": "При этом 62% респондентов отметили, что это не помешало построению гармоничных отношений, говорится в исследовании дейтинг-сервиса \"VK Знакомства\" и книжного сервиса Литрес",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "99a9c76cbb080148d5726685d2da6e8a222aad6c",
+      "fingerprint": "bacf99febb81774fb35fad5e471ddea35746ed03",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27321549",
+      "published_utc": "2026-05-06T08:25:23Z",
+      "title_en": "In the Russian Federation, an experiment on targeted recruitment of migrants is planned in 2027-2030",
+      "lead_en": "According to the bill, the government will receive the authority to test the rules and conditions of employment of foreign citizens",
+      "title_raw": "В РФ в 2027-2030 годах планируют эксперимент по целевому набору мигрантов",
+      "lead_raw": "Согласно законопроекту, правительство получит полномочия по апробации правил и условий трудовой деятельности иностранных граждан",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9c7fc6749590758845ea8a1b8b37e98882fbf512",
+      "fingerprint": "b64c1a9eb742d82ba599ba02575d70a4792eaf10",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27321383",
+      "published_utc": "2026-05-06T08:23:50Z",
+      "title_en": "\"Cordoba is stronger than Tyukavin.\" Tochilin - about the match between Krasnodar and Dynamo",
+      "lead_en": "The return match of the final of the “RPL path” of the Russian Cup will take place in Krasnodar on May 7",
+      "title_raw": "\"Кордоба сильнее Тюкавина\". Точилин - о матче между \"Краснодаром\" и \"Динамо\"",
+      "lead_raw": "Ответная встреча финала \"пути РПЛ\" Кубка России состоится в Краснодаре 7 мая",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "65eb813c6acc5692161ddc503f417379bbeb0fe7",
+      "fingerprint": "c5e5e4ec0008b8a13753f66c90223fee1340ba93",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27321481",
+      "published_utc": "2026-05-06T08:21:59Z",
+      "title_en": "Russian volleyball player Markova was offered to play for the Turkish national team",
+      "lead_en": "Previously, the athlete won the Champions League as part of the Turkish club Vakifbank.",
+      "title_raw": "Российской волейболистке Марковой предложили играть за сборную Турции",
+      "lead_raw": "Ранее спортсменка стала победительницей Лиги чемпионов в составе турецкого клуба \"Вакыфбанк\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e0ea861c9d271fa740d4ee66b6fb7cee82533ef5",
+      "fingerprint": "bbc3f0b821a5a1400231b05d3496382bf423327f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27321431",
+      "published_utc": "2026-05-06T08:21:13Z",
+      "title_en": "Zakharova: the West’s “house of cards of lies” about press freedom is shaking more and more",
+      "lead_en": "It is held on by “adhesive tape, which sometimes passes over the mouths of international officials,” said an official representative of the Russian Foreign Ministry.",
+      "title_raw": "Захарова: \"карточный домик вранья\" Запада о свободе печати шатается все сильнее",
+      "lead_raw": "Он держится на \"клейкой ленте, которая порой проходит по ртам международных чиновников\", указала официальный представитель МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "847326f6e26d0673960fc3609a9ba4fb94e9764d",
+      "fingerprint": "dc3147dd573c977ca3da9d6e95ef5795991b0b0a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/06/members-of-russia-s-espanyola-brigade-arrested-on-weapons-and-explosives-trafficking-charges-kommersant-reports",
+      "published_utc": "2026-05-06T07:52:22Z",
+      "title_en": "Members of Russia’s Espanyola Brigade arrested on weapons and explosives trafficking charges, Kommersant reports",
+      "lead_en": "Several former and active members of the naval unit of the Espanyola Brigade have been arrested in occupied Sevastopol on charges of illegal weapons and explosives trafficking, according to a case that surfaced through a ruling by the Southern District Military Court.",
+      "title_raw": "Members of Russia’s Espanyola Brigade arrested on weapons and explosives trafficking charges, Kommersant reports",
+      "lead_raw": "Several former and active members of the naval unit of the Espanyola Brigade have been arrested in occupied Sevastopol on charges of illegal weapons and explosives trafficking, according to a case that surfaced through a ruling by the Southern District Military Court.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "6422bec1ca3795d118aa0f14554a661da69f7e4e",
       "fingerprint": "cda17b6efde0b908d420dd8f784032684e878bab",
