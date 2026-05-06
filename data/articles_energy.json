@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-05-06T20:26:54Z",
+  "updated_at_utc": "2026-05-06T22:00:47Z",
   "topic": "energy",
-  "count": 21,
+  "count": 22,
   "articles": [
     {
       "id": "7271916ed5466f64c841782829e38cc45fb3135d",
@@ -46,6 +46,51 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "338fd625c7c98c976f5a45c0b0246ec7d1f4443b",
+      "fingerprint": "647a85e267024f797028b896b9736291335133d9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2127381",
+      "published_utc": "2026-05-06T15:16:48Z",
+      "title_en": "Bank of Russia lowers dollar rate for May 7 to 75.22 rubles",
+      "lead_en": "The official euro exchange rate was lowered by 28.63 kopecks to 88.06 rubles",
+      "title_raw": "Bank of Russia lowers dollar rate for May 7 to 75.22 rubles",
+      "lead_raw": "The official euro exchange rate was lowered by 28.63 kopecks to 88.06 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8d72e13b007145119635dbcc3f4e318ce145ce07",
+      "fingerprint": "d73e5bc01e243b119772028d79fd9331a79851e4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2127361",
+      "published_utc": "2026-05-06T14:45:50Z",
+      "title_en": "Russian researchers build scientific model to forecast conflict in Persian Gulf",
+      "lead_en": "Among more than 70 individual indicators used by the authors are quantitative data from open sources on damage to military and civilian infrastructure, data on fluctuations in prices for energy resources and certain types of critical raw materials",
+      "title_raw": "Russian researchers build scientific model to forecast conflict in Persian Gulf",
+      "lead_raw": "Among more than 70 individual indicators used by the authors are quantitative data from open sources on damage to military and civilian infrastructure, data on fluctuations in prices for energy resources and certain types of critical raw materials",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "0e22c615ba88b747cf1df77d7d743b0c69d6bf61",
@@ -443,28 +488,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "da753ac66dfebeb03931303c7c2fa64c15a6faf2",
-      "fingerprint": "5796d33f4afd6650b3f134d91fe021c0f8f46b1c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27306221",
-      "published_utc": "2026-05-04T21:35:19Z",
-      "title_en": "Rosstat: in 30 sectors of the economy, salaries are recorded above the Russian average",
-      "lead_en": "We are talking, in particular, about the production of petroleum products, fishing, financial and insurance areas",
-      "title_raw": "Росстат: в 30 отраслях экономики зафиксирована зарплата выше средней по России",
-      "lead_raw": "Речь идет, в частности, о производстве нефтепродуктов, рыболовстве, финансовом и страховом направлениях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
