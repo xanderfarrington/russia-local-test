@@ -1,8 +1,78 @@
 {
-  "updated_at_utc": "2026-05-07T11:51:26Z",
+  "updated_at_utc": "2026-05-07T14:25:08Z",
   "topic": "energy",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "e7dbe6b6b647713ab169d9a986b947b6c26f78d5",
+      "fingerprint": "90b3fcb6c47a283cbe2ff22120d1ae1bc530dd2c",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/07/russian-military-accuses-ukraine-of-launching-drone-attacks-from-latvian-airspace-a92711",
+      "published_utc": "2026-05-07T13:43:34Z",
+      "title_en": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
+      "lead_en": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
+      "title_raw": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
+      "lead_raw": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d2bfd7a1991a563dea9b8b28b0136f8586a86c1e",
+      "fingerprint": "e0ea6f29d260df6df778b78adabb5b55cef9b64c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27340363",
+      "published_utc": "2026-05-07T13:17:33Z",
+      "title_en": "Russian Ambassador: Bangladesh has expressed interest in projects with Russia in the gas sector",
+      "lead_en": "Alexander Khozin also noted that Gazprom International Limited is interested in resuming cooperation with the South Asian country",
+      "title_raw": "Посол РФ: Бангладеш выразила интерес к проектам с Россией в газовом секторе",
+      "lead_raw": "Александр Хозин также отметил, что компания \"Газпром интернэшнл лимитед\" заинтересована в возобновлении сотрудничества с южноазиатской страной",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "14e3ddfff07087c38030df37d06691828c1693e8",
+      "fingerprint": "f052859294946054deabfa64f4b6a775653171ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27340247",
+      "published_utc": "2026-05-07T13:10:13Z",
+      "title_en": "Russian Ambassador: Moscow is ready to consider the possibility of supplying oil and LNG to Bangladesh",
+      "lead_en": "According to Alexander Khozin, this issue was raised during meetings with officials of the South Asian republic",
+      "title_raw": "Посол РФ: Москва готова рассмотреть возможности поставок нефти и СПГ в Бангладеш",
+      "lead_raw": "По словам Александра Хозина, этот вопрос поднимался в ходе встреч с официальными лицами южноазиатской республики",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "18e5b7226fdb9832ae7c6275684b92d0334e8464",
       "fingerprint": "a034ad618fac34e172d31e5443eca09eab77bd6d",
@@ -472,29 +542,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "bc50a9306074f2c6ce8e3bd16ee2eeacff9923ba",
-      "fingerprint": "2fb6097a2e4a7522e0b30daccab4188a98dfa770",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/05/russian-forces-kill-4-injure-over-30-in-strike-on-ukraine-s-poltava-region",
-      "published_utc": "2026-05-05T13:01:34Z",
-      "title_en": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
-      "lead_en": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
-      "title_raw": "Russian forces kill 4, injure over 30 in strike on Ukraine’s Poltava region",
-      "lead_raw": "Russian forces struck the Poltava region with drones and missiles, killing four people and knocking out gas service for nearly 3,500 subscribers, regional military administration head Vitaliy Dyakivnych reported. Direct hits and debris were recorded at two locations in the Poltava district.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
