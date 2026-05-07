@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-07T09:36:59Z",
+  "updated_at_utc": "2026-05-07T11:51:26Z",
   "topic": "economy",
   "count": 10,
   "articles": [
+    {
+      "id": "18e5b7226fdb9832ae7c6275684b92d0334e8464",
+      "fingerprint": "a034ad618fac34e172d31e5443eca09eab77bd6d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2127767",
+      "published_utc": "2026-05-07T10:39:43Z",
+      "title_en": "Dmitriev suggests hantavirus outbreak could be used to justify energy restrictions",
+      "lead_en": "The Russian presidential special representative for investment and economic cooperation commented on a report saying that Swiss authorities are urgently tracing contacts of a man hospitalized in Zurich with a strain of hantavirus capable of human-to-human transmission",
+      "title_raw": "Dmitriev suggests hantavirus outbreak could be used to justify energy restrictions",
+      "lead_raw": "The Russian presidential special representative for investment and economic cooperation commented on a report saying that Swiss authorities are urgently tracing contacts of a man hospitalized in Zurich with a strain of hantavirus capable of human-to-human transmission",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "f0ae9d914ff150785f19a2c262ba45f9f34d0e9e",
       "fingerprint": "c5b3952225e6bd6999ced8b0bcb9c873369eb896",
@@ -189,28 +212,6 @@
       "lead_en": "The company appealed to the Supreme Court of the Russian Federation the judicial acts regarding the recovery of funds from the company and the highest court suspended the execution of the judicial acts until the end of cassation proceedings in the judicial panel for economic disp",
       "title_raw": "\"Россети Сибирь\" заявили об отсутствии оснований для введения процедуры банкротства",
       "lead_raw": "Компания обжаловала в Верховном суде РФ состоявшиеся судебные акты о взыскании с компании средств и высшая судебная инстанция приостановила исполнение судебных актов до окончания кассационного производства в судебной коллегии по экономическим спорам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "eb96f39bd23f3dd2f55531d7a9b7f2c5746775ef",
-      "fingerprint": "c72b52f602ba6a7e8ca70e7c434132ff0396c4bf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27312425",
-      "published_utc": "2026-05-05T10:58:27Z",
-      "title_en": "WGC: world central banks sold 66 tons of gold in March",
-      "lead_en": "The largest sellers of gold were the Central Banks of Turkey and Russia",
-      "title_raw": "WGC: мировые центробанки в марте продали 66 тонн золота",
-      "lead_raw": "Крупнейшими продавцами золота стали ЦБ Турции и России",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
