@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-08T12:10:40Z",
+  "updated_at_utc": "2026-05-08T14:54:16Z",
   "topic": "energy",
-  "count": 30,
+  "count": 27,
   "articles": [
+    {
+      "id": "e36a68cd231290e393b281f94ff813322d1a75c1",
+      "fingerprint": "8c4417a45be3546c0b0afe3816d6e0bc16187650",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/08/second-japanese-refiner-buys-russian-oil-amid-global-supply-crunch-a92719",
+      "published_utc": "2026-05-08T13:18:11Z",
+      "title_en": "Second Japanese Refiner Buys Russian Oil Amid Global Supply Crunch",
+      "lead_en": "Idemitsu Kosan told TASS that the purchase was made at the request of Japan’s Agency for Natural Resources and Energy to “ensure a stable supply of petroleum products.”",
+      "title_raw": "Second Japanese Refiner Buys Russian Oil Amid Global Supply Crunch",
+      "lead_raw": "Idemitsu Kosan told TASS that the purchase was made at the request of Japan’s Agency for Natural Resources and Energy to “ensure a stable supply of petroleum products.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7df93d81dbe8860faa27f1cfad1982cde9c98999",
       "fingerprint": "0c106cd6373298d9ea3a0c74fdc6834cb6e2b0b3",
@@ -581,95 +603,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8d72e13b007145119635dbcc3f4e318ce145ce07",
-      "fingerprint": "d73e5bc01e243b119772028d79fd9331a79851e4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2127361",
-      "published_utc": "2026-05-06T14:45:50Z",
-      "title_en": "Russian researchers build scientific model to forecast conflict in Persian Gulf",
-      "lead_en": "Among more than 70 individual indicators used by the authors are quantitative data from open sources on damage to military and civilian infrastructure, data on fluctuations in prices for energy resources and certain types of critical raw materials",
-      "title_raw": "Russian researchers build scientific model to forecast conflict in Persian Gulf",
-      "lead_raw": "Among more than 70 individual indicators used by the authors are quantitative data from open sources on damage to military and civilian infrastructure, data on fluctuations in prices for energy resources and certain types of critical raw materials",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0e22c615ba88b747cf1df77d7d743b0c69d6bf61",
-      "fingerprint": "eeb9b0c75659f56fa8fe67f6ba6fc672a38a2155",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27326191",
-      "published_utc": "2026-05-06T14:12:58Z",
-      "title_en": "Georgia said that by refusing to escalate with Russia, they saved themselves and the EU",
-      "lead_en": "The European Union, thanks to energy and transport corridors passing through the republic, has access to energy resources, said Chairman of the Georgian Parliament Shalva Papuashvili",
-      "title_raw": "В Грузии заявили, что отказом от эскалации с РФ спасли себя и ЕС",
-      "lead_raw": "Европейский союз благодаря проходящим по республике энергетическим и транспортным коридорам имеет доступ к энергоносителям, заявил председатель грузинского парламента Шалва Папуашвили",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "97d354a69299fe2faca822c0526d695968a1e9f2",
-      "fingerprint": "5c1b78288bf814daaca179af5b02a486be915cde",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27326233",
-      "published_utc": "2026-05-06T14:07:41Z",
-      "title_en": "Dmitriev: electricity costs for AI in Russia will be the lowest",
-      "lead_en": "The Russian Federation is a world leader in the field of natural resources, noted the special representative of the President of the Russian Federation",
-      "title_raw": "Дмитриев: затраты электроэнергии для ИИ в России будут самыми низкими",
-      "lead_raw": "РФ является мировым лидером в области природных ресурсов, отметил спецпредставитель президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e02476de68b09669110b8fca90f73f335282068c",
-      "fingerprint": "a50319db3f1659059b8ccef9837b2b39da527fa0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/06/state-payments-to-oil-exporters-consume-nearly-half-of-russia-s-windfall-from-high-prices-data-show",
-      "published_utc": "2026-05-06T12:40:12Z",
-      "title_en": "State payments to oil exporters consume nearly half of Russia’s windfall from high prices, data show",
-      "lead_en": "Russia’s Finance Ministry released April oil and gas revenue figures showing taxes paid by exporters for March — the first full month of the U.S.-Israeli war with Iran, when oil prices spiked sharply. The independent Russian political newsletter Faridaily was among the first to flag the publication.",
-      "title_raw": "State payments to oil exporters consume nearly half of Russia’s windfall from high prices, data show",
-      "lead_raw": "Russia’s Finance Ministry released April oil and gas revenue figures showing taxes paid by exporters for March — the first full month of the U.S.-Israeli war with Iran, when oil prices spiked sharply. The independent Russian political newsletter Faridaily was among the first to flag the publication.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
