@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-09T13:25:51Z",
+  "updated_at_utc": "2026-05-09T14:56:01Z",
   "topic": "energy",
-  "count": 25,
+  "count": 24,
   "articles": [
+    {
+      "id": "0858132a416187eb3050100f3e31b0c3d9aef156",
+      "fingerprint": "6671d0569322561164d1a58075b6530e0e4adb49",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2128999",
+      "published_utc": "2026-05-09T13:41:53Z",
+      "title_en": "Fico hopes to restore normal Slovakia-Russia relations",
+      "lead_en": "Slovakia receives \"significant resources,\" namely oil and gas, from Russia, Slovak Prime Minister said",
+      "title_raw": "Fico hopes to restore normal Slovakia-Russia relations",
+      "lead_raw": "Slovakia receives \"significant resources,\" namely oil and gas, from Russia, Slovak Prime Minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cbe72776ed2dc32267751b715a6faa1aed53c785",
       "fingerprint": "373968ec8419eca1daa642a69a13d36dcfba6df2",
@@ -517,53 +539,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "1a2340a2353f7c116dbad091c3758d043f2c5a2a",
-      "fingerprint": "2edfabdd1ce5230d816fbc3f254d799c0b2271f2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2127993",
-      "published_utc": "2026-05-07T14:17:01Z",
-      "title_en": "Moscow ready to consider oil, LNG supplies to Bangladesh — ambassador",
-      "lead_en": "Alexander Khozin said the issue of supplying Russian energy resources to the South Asian republic was raised during meetings with Bangladeshi officials",
-      "title_raw": "Moscow ready to consider oil, LNG supplies to Bangladesh — ambassador",
-      "lead_raw": "Alexander Khozin said the issue of supplying Russian energy resources to the South Asian republic was raised during meetings with Bangladeshi officials",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e7dbe6b6b647713ab169d9a986b947b6c26f78d5",
-      "fingerprint": "90b3fcb6c47a283cbe2ff22120d1ae1bc530dd2c",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/07/russian-military-accuses-ukraine-of-launching-drone-attacks-from-latvian-airspace-a92711",
-      "published_utc": "2026-05-07T13:43:34Z",
-      "title_en": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
-      "lead_en": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
-      "title_raw": "Russian Military Accuses Ukraine of Launching Drone Attacks From Latvian Airspace",
-      "lead_raw": "Latvian officials said two drones crashed on its territory early Thursday, with one sparking a brief fire at an oil storage facility.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
