@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-09T11:53:51Z",
+  "updated_at_utc": "2026-05-09T13:25:51Z",
   "topic": "energy",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "cbe72776ed2dc32267751b715a6faa1aed53c785",
+      "fingerprint": "373968ec8419eca1daa642a69a13d36dcfba6df2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2128931",
+      "published_utc": "2026-05-09T13:04:27Z",
+      "title_en": "Russia will do everything to meet Slovakia’s energy needs &mdash — Putin",
+      "lead_en": "Russia would also be ready to cooperate in other areas of mutual interest, Russian President said",
+      "title_raw": "Russia will do everything to meet Slovakia’s energy needs &mdash — Putin",
+      "lead_raw": "Russia would also be ready to cooperate in other areas of mutual interest, Russian President said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a3be01a7458ea879160d5f260bb29a8e0185e364",
+      "fingerprint": "bfc7e59f7d63159d3774310db1fb96fe64203281",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2128885",
+      "published_utc": "2026-05-09T11:12:01Z",
+      "title_en": "Japan must lift sanctions to resume Russian oil supplies — Russian ambassador",
+      "lead_en": "Japan also maintains participation in another LNG project, Arctic LNG 2, but due to US sanctions cannot receive gas from it",
+      "title_raw": "Japan must lift sanctions to resume Russian oil supplies — Russian ambassador",
+      "lead_raw": "Japan also maintains participation in another LNG project, Arctic LNG 2, but due to US sanctions cannot receive gas from it",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5e202db858657922897a6a85002e3996cefca54a",
       "fingerprint": "e594e142003111e4d69616ca78952af52fc5b6f2",
@@ -519,74 +564,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "d2bfd7a1991a563dea9b8b28b0136f8586a86c1e",
-      "fingerprint": "e0ea6f29d260df6df778b78adabb5b55cef9b64c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27340363",
-      "published_utc": "2026-05-07T13:17:33Z",
-      "title_en": "Russian Ambassador: Bangladesh has expressed interest in projects with Russia in the gas sector",
-      "lead_en": "Alexander Khozin also noted that Gazprom International Limited is interested in resuming cooperation with the South Asian country",
-      "title_raw": "Посол РФ: Бангладеш выразила интерес к проектам с Россией в газовом секторе",
-      "lead_raw": "Александр Хозин также отметил, что компания \"Газпром интернэшнл лимитед\" заинтересована в возобновлении сотрудничества с южноазиатской страной",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14e3ddfff07087c38030df37d06691828c1693e8",
-      "fingerprint": "f052859294946054deabfa64f4b6a775653171ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27340247",
-      "published_utc": "2026-05-07T13:10:13Z",
-      "title_en": "Russian Ambassador: Moscow is ready to consider the possibility of supplying oil and LNG to Bangladesh",
-      "lead_en": "According to Alexander Khozin, this issue was raised during meetings with officials of the South Asian republic",
-      "title_raw": "Посол РФ: Москва готова рассмотреть возможности поставок нефти и СПГ в Бангладеш",
-      "lead_raw": "По словам Александра Хозина, этот вопрос поднимался в ходе встреч с официальными лицами южноазиатской республики",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "af8fd113b6a72f592fa059d00f2f2cb72322e0b0",
-      "fingerprint": "a5a4234ce2045ec0d0f08db91727f2d8281c2795",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2127899",
-      "published_utc": "2026-05-07T12:52:36Z",
-      "title_en": "Greece submits plan to EU to fully phase out Russian gas by end of 2027",
-      "lead_en": "The commitment stems from the EU’s RepowerEU strategy, through which the bloc seeks to fully end energy ties with Moscow",
-      "title_raw": "Greece submits plan to EU to fully phase out Russian gas by end of 2027",
-      "lead_raw": "The commitment stems from the EU’s RepowerEU strategy, through which the bloc seeks to fully end energy ties with Moscow",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
