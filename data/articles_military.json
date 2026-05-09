@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-09T21:51:33Z",
+  "updated_at_utc": "2026-05-09T22:52:07Z",
   "topic": "military",
-  "count": 65,
+  "count": 66,
   "articles": [
+    {
+      "id": "9d92d8baedd51324997e4f06919f7fd9ce4c90b7",
+      "fingerprint": "1c946931492da89ed48a30f30392b7c11c613920",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27366957",
+      "published_utc": "2026-05-09T22:12:18Z",
+      "title_en": "The admission campaign to Russian universities will begin on June 20",
+      "lead_en": "At the same time, the Ministry of Education and Science noted that the end dates for admission vary depending on the level of higher education and the source of funding for training",
+      "title_raw": "Приемная кампания в российские вузы начнется 20 июня",
+      "lead_raw": "При этом в Минобрнауки отметили, что даты окончания приема варьируются в зависимости от уровня высшего образования и источника финансирования обучения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0b1c2945d02a7ed5fae0e57a7026ec95a965ea0d",
+      "fingerprint": "8c57572a2dc335bf3955b54f02d1545c6f31d465",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2129191",
+      "published_utc": "2026-05-09T21:04:10Z",
+      "title_en": "IN BRIEF: Special military op nearing completion, POW exchange stalled: Putin’s statements",
+      "lead_en": "The Russian leader also said he is ready to meet with Vladimir Zelensky in any country, but only for the purpose of signing a final settlement agreement",
+      "title_raw": "IN BRIEF: Special military op nearing completion, POW exchange stalled: Putin’s statements",
+      "lead_raw": "The Russian leader also said he is ready to meet with Vladimir Zelensky in any country, but only for the purpose of signing a final settlement agreement",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "846590ff8515e1f7e8b59a5ffd2002ddc89e5129",
       "fingerprint": "af6f5db4751a273c5abd856c4952f68584f2b2da",
@@ -1427,28 +1472,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "15578cc93adf60fb8787723a919f6052a3ae432c",
-      "fingerprint": "d5358f3e3762d626afdbe0d9b0523bd16a61d8ce",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2128183",
-      "published_utc": "2026-05-07T22:11:21Z",
-      "title_en": "Drone attack against Moscow on Thursday was one of the largest since year start",
-      "lead_en": "Attacks of 61 drones were thwarted by Russian air defenses",
-      "title_raw": "Drone attack against Moscow on Thursday was one of the largest since year start",
-      "lead_raw": "Attacks of 61 drones were thwarted by Russian air defenses",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
