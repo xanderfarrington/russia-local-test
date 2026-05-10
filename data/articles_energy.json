@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-10T08:57:33Z",
+  "updated_at_utc": "2026-05-10T10:21:29Z",
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "c81ce0bd4587b7ff9ea1f7139f152f672d290fd2",
+      "fingerprint": "1d70726296bfa6f4fbcb1be7829c53709899bb51",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27368375",
+      "published_utc": "2026-05-10T08:54:54Z",
+      "title_en": "Dmitriev: the EU’s energy capabilities have deteriorated against the backdrop of the partnership between the Russian Federation and China",
+      "lead_en": "This is how the head of the RDIF commented on the words of Russian President Vladimir Putin that Russia and China are ready to “take a serious step forward” in oil and gas cooperation",
+      "title_raw": "Дмитриев: энергетические возможности ЕС ухудшились на фоне партнерства РФ и КНР",
+      "lead_raw": "Так глава РФПИ прокомментировал слова президента РФ Владимира Путина о том, что Россия и Китай готовы \"сделать серьезный шаг вперед\" в нефтегазовом сотрудничестве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "070fc3a32c11d683d89942cf5466957fbae78f69",
       "fingerprint": "c25c299cfc234c106f74ff8d26af893e1221d7ae",
@@ -564,28 +586,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "238d88a17b37d124b50205081996cf343bdea12d",
-      "fingerprint": "36f0db15f1771f124699d1d1df259f25a7d98e4f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27349081",
-      "published_utc": "2026-05-08T09:45:20Z",
-      "title_en": "Ministry of Economic Development: goods from all over Russia will be presented at the Expo in Harbin",
-      "lead_en": "You can order products through the national store “Made in Russia” and on leading marketplaces in China, noted Elena Serdyukova, a representative of the ministry as part of the trade mission of the Russian Federation in China.",
-      "title_raw": "Минэкономразвития: на Экспо в Харбине представят товары со всей России",
-      "lead_raw": "Заказать продукцию можно через национальный магазин \"Сделано в России\" и на ведущих маркетплейсах Китая, отметила представитель министерства в составе торгпредства РФ в КНР Елена Сердюкова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
