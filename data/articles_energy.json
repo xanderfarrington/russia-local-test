@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-11T15:57:57Z",
+  "updated_at_utc": "2026-05-11T18:01:35Z",
   "topic": "energy",
-  "count": 21,
+  "count": 20,
   "articles": [
+    {
+      "id": "3022f19458dc435b1dbda129bb86312028a4169e",
+      "fingerprint": "4307b1620d78150b3d56297f30e0ca682ede4c48",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27375783",
+      "published_utc": "2026-05-11T16:00:31Z",
+      "title_en": "NYT: Ukraine realized that it cannot count on the Trump administration",
+      "lead_en": "After the start of the war with Iran, the US presidential administration issued exceptions to sanctions for Russian oil already at sea, the newspaper noted.",
+      "title_raw": "NYT: на Украине поняли, что не могут рассчитывать на администрацию Трампа",
+      "lead_raw": "После начала войны с Ираном администрация президента США выдала исключения из санкций для российской нефти, уже находящейся в море, отметила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ecbe082a7aede919b3884e672b372ec84f77b9af",
       "fingerprint": "ecc658bb7a8bd46ec2a4c40116d2bafb4217b460",
@@ -427,50 +449,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f2c29a5e9f7157f82a7456177d1b624639e69108",
-      "fingerprint": "faaf8ca675ecb73db0807987473423112e79d59c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27364923",
-      "published_utc": "2026-05-09T17:43:06Z",
-      "title_en": "Novak: Slovakia intends to continue cooperation with Russia on oil and gas",
-      "lead_en": "The Russian Deputy Prime Minister recalled that oil supplies go through the Druzhba pipeline",
-      "title_raw": "Новак: Словакия намерена продолжать сотрудничество с Россией по нефти и газу",
-      "lead_raw": "Вице-премьер РФ напомнил, что поставки нефти идут по трубопроводу \"Дружба\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4c7954af68a8aeafef80301deda7a0092aa4d58e",
-      "fingerprint": "24332496367732cbf0f790d6fd63cd643cc94cda",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27364885",
-      "published_utc": "2026-05-09T17:38:05Z",
-      "title_en": "Russian airlines have resumed some international flights through the South",
-      "lead_en": "Some flights are again operated through the Rostov air traffic control zone, which reduces flight time and saves fuel",
-      "title_raw": "Авиакомпании РФ возобновили часть международных рейсов через Юг",
-      "lead_raw": "Некоторые полеты вновь выполняются через ростовскую зону управления воздушным движением, что позволяет сократить время на перелет и сэкономить топливо",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
