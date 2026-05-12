@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-05-12T18:59:39Z",
+  "updated_at_utc": "2026-05-12T20:47:08Z",
   "topic": "energy",
-  "count": 23,
+  "count": 33,
   "articles": [
+    {
+      "id": "0635cbb5c4736a475eb8dec21b929dfb3c80fa70",
+      "fingerprint": "74367928a9a561ebabcb177c45c0688650d91aa5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27389487",
+      "published_utc": "2026-05-12T20:10:53Z",
+      "title_en": "Trump did not rule out extending the exemption from Russian oil sanctions",
+      "lead_en": "The US leader said the US will \"do whatever it takes\" to help ease the energy crisis caused by the war with Iran.",
+      "title_raw": "Трамп не исключил, что продлит изъятие из санкций против нефти РФ",
+      "lead_raw": "Американский лидер заявил, что США будут \"делать все, что необходимо\", чтобы содействовать смягчению энергетического кризиса, вызванного войной с Ираном",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3901e91e440959bcc5a09311b55b6b65324e80be",
+      "fingerprint": "665a98f68f63bc8c2c99bcd762fa2722bccbcb0e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns",
+      "published_utc": "2026-05-12T19:41:01Z",
+      "title_en": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns",
+      "lead_en": "On Sunday, May 10, Latvia’s Defense Minister Andris Spruds announced his resignation — three days after Ukrainian drones that had crossed into Latvian airspace from Russia crashed near the Latvian city of Rezekne. The drones damaged empty fuel storage tanks at an oil depot.",
+      "title_raw": "Ukrainian drones crashing in Latvia trigger a government crisis as the nation’s defense minister resigns",
+      "lead_raw": "On Sunday, May 10, Latvia’s Defense Minister Andris Spruds announced his resignation — three days after Ukrainian drones that had crossed into Latvian airspace from Russia crashed near the Latvian city of Rezekne. The drones damaged empty fuel storage tanks at an oil depot.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "eb395e0a13a85484997bb14d2085a669ae467a84",
       "fingerprint": "1c69b275e51130e696810359161a2260d1ecf7a7",
@@ -18,6 +62,72 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f5bfc452e72ae0a6fc1d79080a8acca958d4e332",
+      "fingerprint": "73abedde2ca9d73553ef67d5ddcf68a6d697eb88",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129985",
+      "published_utc": "2026-05-12T16:00:10Z",
+      "title_en": "India firmly resists Western pressure, its demands to stop buying Russian oil — Lavrov",
+      "lead_en": "India has repeatedly stated it will independently decide from whom to buy energy resources, the Russian foreign minister said",
+      "title_raw": "India firmly resists Western pressure, its demands to stop buying Russian oil — Lavrov",
+      "lead_raw": "India has repeatedly stated it will independently decide from whom to buy energy resources, the Russian foreign minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "29490f695509b8325cd1dc67292b5b8f49b1fbcb",
+      "fingerprint": "8e4a848779588007af3725bfa706594ce156b121",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129971",
+      "published_utc": "2026-05-12T15:31:13Z",
+      "title_en": "Bank of Russia lowers dollar exchange rate for May 13 to 73.79 rubles",
+      "lead_en": "The regulator lowered the official euro exchange rate by 1 ruble 16.99 kopecks to 87.3791 rubles",
+      "title_raw": "Bank of Russia lowers dollar exchange rate for May 13 to 73.79 rubles",
+      "lead_raw": "The regulator lowered the official euro exchange rate by 1 ruble 16.99 kopecks to 87.3791 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a1dd5a94b4cb72ffb99e0559391523d771e8ef89",
+      "fingerprint": "dd777fd35682285a105759707ca7b607fc6030ed",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129963",
+      "published_utc": "2026-05-12T15:29:36Z",
+      "title_en": "Russia’s 2026 gas production estimate cut by 0.3%, pipeline exports raised by 1%",
+      "lead_en": "Gas production in 2026 is expected to rise to 688.4 bcm",
+      "title_raw": "Russia’s 2026 gas production estimate cut by 0.3%, pipeline exports raised by 1%",
+      "lead_raw": "Gas production in 2026 is expected to rise to 688.4 bcm",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
@@ -44,6 +154,140 @@
       },
       "topics": [
         "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "19027521a0a4d374d09480d703cbd6004af43d57",
+      "fingerprint": "ba6bcf4e84b3492bf81673a68ad09df6aca735a4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129939",
+      "published_utc": "2026-05-12T15:05:14Z",
+      "title_en": "Oil production in Russia to remain at 511 mln tons in 2026, in line with 2025",
+      "lead_en": "Under the baseline scenario, the ministry expects production to rise to 516 mln tons in 2027",
+      "title_raw": "Oil production in Russia to remain at 511 mln tons in 2026, in line with 2025",
+      "lead_raw": "Under the baseline scenario, the ministry expects production to rise to 516 mln tons in 2027",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "06cf502597d7e3849ebdf93b41e63613b6ff6057",
+      "fingerprint": "2d5cfd668fb51c8090f9dae13e7c6a319d628814",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129929",
+      "published_utc": "2026-05-12T14:55:12Z",
+      "title_en": "Iran interested in expanding supplies of petroleum products from Russia — Roscongress",
+      "lead_en": "Russia and Iran are currently demonstrating an example of responsible partnership, Anton Kobyakov said",
+      "title_raw": "Iran interested in expanding supplies of petroleum products from Russia — Roscongress",
+      "lead_raw": "Russia and Iran are currently demonstrating an example of responsible partnership, Anton Kobyakov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0cd47253b7ec411487ecca53e108964d45f02e1f",
+      "fingerprint": "ca690e41a45885ceb8410afdcb08fdd23e485cd3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129803",
+      "published_utc": "2026-05-12T13:22:40Z",
+      "title_en": "Japan's officials to travel to Russia in interests of Japanese firms operating there",
+      "lead_en": "Minister of Economy, Trade and Industry Ryosei Akazawa denied local media reports that the purpose of the upcoming trip was to discuss \"cooperation in the economic and energy fields after the end\" of the conflict in Ukraine",
+      "title_raw": "Japan's officials to travel to Russia in interests of Japanese firms operating there",
+      "lead_raw": "Minister of Economy, Trade and Industry Ryosei Akazawa denied local media reports that the purpose of the upcoming trip was to discuss \"cooperation in the economic and energy fields after the end\" of the conflict in Ukraine",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7547db2ef1535b919cdf164c5650484b691f4c05",
+      "fingerprint": "bd15b3c932af6063a831685952fd2eaddf2496bb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129783",
+      "published_utc": "2026-05-12T12:51:02Z",
+      "title_en": "Normality of economic slowdown and energy crisis: statements by Novak",
+      "lead_en": "The Russian deputy prime minister said that consumer activity will slow down this year, though the slowdown in demand will not \"limit long-term and sustainable economic growth\"",
+      "title_raw": "Normality of economic slowdown and energy crisis: statements by Novak",
+      "lead_raw": "The Russian deputy prime minister said that consumer activity will slow down this year, though the slowdown in demand will not \"limit long-term and sustainable economic growth\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "52ea1bdf1565cefc42620fa350d4bdbd09c72a0b",
+      "fingerprint": "267c5fffd1362526eb50f594c4ed341b98b69287",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129769",
+      "published_utc": "2026-05-12T12:16:42Z",
+      "title_en": "Russia does not view energy crisis as solution to budgetary problems — Novak",
+      "lead_en": "Alexander Novak added that growing energy export prices are strengthening the ruble, which partially offsets the positive effect on the Russian budget",
+      "title_raw": "Russia does not view energy crisis as solution to budgetary problems — Novak",
+      "lead_raw": "Alexander Novak added that growing energy export prices are strengthening the ruble, which partially offsets the positive effect on the Russian budget",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "15caad7fac822da66284ec10c10c2adb982704d9",
+      "fingerprint": "bb3c0d379726662e13d0ef349db2fedc971ec400",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2129753",
+      "published_utc": "2026-05-12T11:42:23Z",
+      "title_en": "Spain increased imports of Russian LNG from January to April 2026",
+      "lead_en": "Russia became the kingdom’s third-largest gas supplier after the United States and Algeria",
+      "title_raw": "Spain increased imports of Russian LNG from January to April 2026",
+      "lead_raw": "Russia became the kingdom’s third-largest gas supplier after the United States and Algeria",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
         "energy"
       ],
       "primary_topic": "energy"
@@ -489,28 +733,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "24dabadda208dd719deba6e7bf6a08dd9dcf83c8",
-      "fingerprint": "b9dd2d028220359718697b8b28ad6d2b031f52b4",
-      "source": "RT",
-      "url": "https://www.rt.com/news/639836-idiots-fico-eu-russian-energy",
-      "published_utc": "2026-05-10T19:00:09Z",
-      "title_en": "‘Are we idiots?’: Fico on EU pivot away from Russian fuel (VIDEO)",
-      "lead_en": "The EU’s Russian energy phaseout plans will end with dependence on more expensive US LNG, Slovak Prime Minister Robert Fico has warned Read Full Article at RT.com",
-      "title_raw": "‘Are we idiots?’: Fico on EU pivot away from Russian fuel (VIDEO)",
-      "lead_raw": "The EU’s Russian energy phaseout plans will end with dependence on more expensive US LNG, Slovak Prime Minister Robert Fico has warned Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
         "economy": 0,
         "local_events": 0
       },
