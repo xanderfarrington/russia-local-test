@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-13T20:51:27Z",
+  "updated_at_utc": "2026-05-13T22:17:17Z",
   "topic": "energy",
-  "count": 55,
+  "count": 54,
   "articles": [
+    {
+      "id": "184e5465b29ffd6c093e63b64445e72a3e86dc3d",
+      "fingerprint": "b98199111d6505dffc69e75e054a8b157bc36d1b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27402539",
+      "published_utc": "2026-05-13T21:21:55Z",
+      "title_en": "Izvestia: Norway plans negotiations with the Russian Federation on security in the Arctic",
+      "lead_en": "The parties intend to hold meetings at both operational and strategic levels, the newspaper writes.",
+      "title_raw": "\"Известия\": Норвегия планирует переговоры с РФ по безопасности в Арктике",
+      "lead_raw": "Стороны намерены провести встречи как на оперативном, так и на стратегическом уровне, пишет газета",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "47eed1ba23be73374401519c7e61b33413f4b7a5",
       "fingerprint": "7271ae6f810a4b4fdb89d5fe6178fe969a7a3426",
@@ -1176,52 +1199,6 @@
         "military": 0,
         "energy": 1,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f993edc216ecaca44e8f12f977291c9710b40ba9",
-      "fingerprint": "628402ea6470a781545c47b8be85e064616ac124",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27376877",
-      "published_utc": "2026-05-11T21:04:49Z",
-      "title_en": "Novak: oil prices could fall sharply if the energy crisis drags on",
-      "lead_en": "The Deputy Prime Minister stressed that Russia does not consider the energy crisis as an additional source for solving budgetary and macroeconomic problems",
-      "title_raw": "Новак: цены на нефть могут сильно упасть, если энергокризис затянется",
-      "lead_raw": "Вице-премьер подчеркнул, что Россия не рассматривает энергокризис как дополнительный источник для решения бюджетных и макроэкономических задач",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3325b9cd77dd5a0c511c3a4f47b515c1c2b20905",
-      "fingerprint": "dcf1edb9b2de311bd05c0e742408c3a98fb0b87b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27376849",
-      "published_utc": "2026-05-11T21:03:49Z",
-      "title_en": "Novak: The Russian Federation does not consider the energy crisis as a source of solving budget problems",
-      "lead_en": "The Deputy Prime Minister explained that at the same time, additional inflation risks arise through the transfer of rising world prices to the domestic market",
-      "title_raw": "Новак: РФ не рассматривает энергокризис как источник решения бюджетных задач",
-      "lead_raw": "Вице-премьер пояснил, что одновременно возникают дополнительные инфляционные риски через перенос роста мировых цен на внутренний рынок",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [

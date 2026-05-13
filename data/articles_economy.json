@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-13T20:51:27Z",
+  "updated_at_utc": "2026-05-13T22:17:17Z",
   "topic": "economy",
-  "count": 36,
+  "count": 34,
   "articles": [
+    {
+      "id": "2fa0904183b4ca2208d36db50cd103d4ac399546",
+      "fingerprint": "6b4312062d3e475c49d6e8f327f8e064e5b2bbd0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27402445",
+      "published_utc": "2026-05-13T21:00:53Z",
+      "title_en": "The Cabinet of Ministers will distribute funds to the regions for the restoration of roads after emergencies",
+      "lead_en": "The ministers will consider the issue of providing transfers from the federal budget to the constituent entities of the Russian Federation and a draft law on ratification of the agreement between Russia and the Republic of the Congo on investments",
+      "title_raw": "Кабмин распределит регионам средства на восстановление автодорог после ЧС",
+      "lead_raw": "Министры рассмотрят вопрос о предоставлении субъектам РФ трансфертов из федерального бюджета и проект закона о ратификации соглашения России и Республики Конго об инвестициях",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "e91b0375b26d9c8db693db8f40b49d4592f72bff",
       "fingerprint": "46273b635704479e49e4b1d342eb3e624504c063",
@@ -736,74 +759,6 @@
         "military": 0,
         "energy": 1,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6648db5db5446b69fe4da243022f161c6f6a5f06",
-      "fingerprint": "502d05e9d00d0adda08e33785d218565a7f259ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27377111",
-      "published_utc": "2026-05-11T21:12:59Z",
-      "title_en": "Novak pointed to significant structural challenges in the economy",
-      "lead_en": "According to the Deputy Prime Minister of the Russian Federation, a structural shortage of personnel and a limited labor market remain",
-      "title_raw": "Новак указал на значимые структурные вызовы в экономике",
-      "lead_raw": "По словам вице-премьера РФ, сохраняется структурный дефицит кадров и ограниченность рынка труда",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f993edc216ecaca44e8f12f977291c9710b40ba9",
-      "fingerprint": "628402ea6470a781545c47b8be85e064616ac124",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27376877",
-      "published_utc": "2026-05-11T21:04:49Z",
-      "title_en": "Novak: oil prices could fall sharply if the energy crisis drags on",
-      "lead_en": "The Deputy Prime Minister stressed that Russia does not consider the energy crisis as an additional source for solving budgetary and macroeconomic problems",
-      "title_raw": "Новак: цены на нефть могут сильно упасть, если энергокризис затянется",
-      "lead_raw": "Вице-премьер подчеркнул, что Россия не рассматривает энергокризис как дополнительный источник для решения бюджетных и макроэкономических задач",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3325b9cd77dd5a0c511c3a4f47b515c1c2b20905",
-      "fingerprint": "dcf1edb9b2de311bd05c0e742408c3a98fb0b87b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27376849",
-      "published_utc": "2026-05-11T21:03:49Z",
-      "title_en": "Novak: The Russian Federation does not consider the energy crisis as a source of solving budget problems",
-      "lead_en": "The Deputy Prime Minister explained that at the same time, additional inflation risks arise through the transfer of rising world prices to the domestic market",
-      "title_raw": "Новак: РФ не рассматривает энергокризис как источник решения бюджетных задач",
-      "lead_raw": "Вице-премьер пояснил, что одновременно возникают дополнительные инфляционные риски через перенос роста мировых цен на внутренний рынок",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
