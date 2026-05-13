@@ -1,8 +1,565 @@
 {
-  "updated_at_utc": "2026-05-13T10:33:44Z",
+  "updated_at_utc": "2026-05-13T13:17:41Z",
   "keep_hours": 48,
-  "count": 528,
+  "count": 534,
   "articles": [
+    {
+      "id": "32fc3a51f348d3d16c785b8dfaa6c913ddd5a296",
+      "fingerprint": "af64b8929c27c0a0323826d9d0566b1ef839a898",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27399039",
+      "published_utc": "2026-05-13T13:14:08Z",
+      "title_en": "Dmitriev compared Starmer's resignation to the removal of a wisdom tooth",
+      "lead_en": "Removal of wisdom teeth without wisdom itself, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев сравнил отставку Стармера с удалением зуба мудрости",
+      "lead_raw": "Удаление зубов мудрости без самой мудрости, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5d8f1e52a29c4a6c1db50ee2e2c2887c4146efd9",
+      "fingerprint": "fa4da3174f9ab4ed9e671dcaf1926c9807a0e09c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398319",
+      "published_utc": "2026-05-13T13:12:58Z",
+      "title_en": "The mayor of Kazan announced the city’s readiness to host the Russia-ASEAN summit",
+      "lead_en": "According to Ilsur Metshin, the city has gained a lot of experience and is ready to host international events of any level",
+      "title_raw": "Мэр Казани заявил о готовности города к проведению саммита Россия - АСЕАН",
+      "lead_raw": "По словам Ильсура Метшина, город наработал большой опыт, и готов к проведению международных событий любого уровня",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "25898255e809326fdae4bb7d03f83c7ae2cbd4d2",
+      "fingerprint": "94de6cb824f283deee9bca956c1a3cac058cc402",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27397923",
+      "published_utc": "2026-05-13T13:10:01Z",
+      "title_en": "Laws of hospitality: what new tourism standards will come into force in the summer",
+      "lead_en": "From June 1, 2026, two new national standards will come into force in Russia - GOST for tourist accommodation facilities and recommendations for adapting tourist facilities for foreign guests. The first document is intended to systematize existing requirements, the second is to help hotels harmonize their work taking into account the linguistic, cultural and everyday preferences of tourists from abroad, mainly from China.",
+      "title_raw": "Законы гостеприимства: какие новые туристические стандарты вступают в силу с лета",
+      "lead_raw": "С 1 июня 2026 года в России начнут действовать два новых нацстандарта — ГОСТ для средств размещения туристов и рекомендации для адаптации туробъектов для иностранных гостей. Первый документ призван систематизировать уже существующие требования, второй — помочь отелям гармонизировать свою работу с учетом языковых, культурных и бытовых предпочтений туристов из-за рубежа, главным образом из Китая.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0be282619eba60ea8d43a6cdd57a7d569aa05bc7",
+      "fingerprint": "bfcca673ac0d3d0a8d70f20f03002546f786010d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27398965",
+      "published_utc": "2026-05-13T13:07:52Z",
+      "title_en": "The State Duma adopted in the first reading a bill on the safety of fuel and energy facilities in the Caspian Sea",
+      "lead_en": "Facilities located in the Russian sector will not be subject to categorization, and requirements for their anti-terrorism protection will be determined without fail.",
+      "title_raw": "ГД приняла в I чтении законопроект о безопасности объектов ТЭК на Каспии",
+      "lead_raw": "Объекты, расположенные в российском секторе, не будут подлежать категорированию, а требования к их антитеррористической защищенности будут определяться в обязательном порядке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cbf7c86e6f2e35db0f01a786061e307e031c7407",
+      "fingerprint": "7fdf36b5cda499688a71f72a55897db78be4efba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27398923",
+      "published_utc": "2026-05-13T13:05:53Z",
+      "title_en": "ATOR: tickets for direct flights from the Russian Federation to Tanzania will cost from 55 thousand rubles",
+      "lead_en": "The total travel time, including stopovers, will be about 13 hours",
+      "title_raw": "АТОР: билеты на прямые рейсы из РФ в Танзанию будут стоить от 55 тыс. рублей",
+      "lead_raw": "Общее время в пути с учетом промежуточной посадки составит около 13 часов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "19d2d53121bbda93f6c12981316cc64f72b28cf8",
+      "fingerprint": "1b8646070c7cef563abe1d01bb832dbf1fa45c4b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27398849",
+      "published_utc": "2026-05-13T13:01:11Z",
+      "title_en": "Ovechkin said that in the future he would like to defend his dissertation",
+      "lead_en": "In 2021, the hockey player was recommended for the public defense of a scientific dissertation following an event at the Federal Scientific Center for Physical Culture and Sports under the Ministry of Sports of the Russian Federation",
+      "title_raw": "Овечкин заявил, что в будущем хотел бы защитить диссертацию",
+      "lead_raw": "В 2021 году хоккеист был рекомендован к публичной защите научной диссертации по итогам мероприятия в ФГБУ \"Федеральный научный центр физической культуры и спорта\" при Минспорте РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "63028e23b64e4cef8911463f64634dd416c79c18",
+      "fingerprint": "e5ff002e8e920a2a1dceeb6f6ab6a423accbfbf1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27398855",
+      "published_utc": "2026-05-13T13:00:33Z",
+      "title_en": "AfD Bundestag member Cotre plans to travel to Russia to participate in SPIEF",
+      "lead_en": "",
+      "title_raw": "Депутат Бундестага от \"АдГ\" Котре планирует поехать в РФ для участия в ПМЭФ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8fbfb216590c6c496e2f45c101349b5efce67609",
+      "fingerprint": "ae4c4e926f25c17619656384b2d8a5c5bce87ab0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27398617",
+      "published_utc": "2026-05-13T12:52:35Z",
+      "title_en": "Expert Yang: Russia and China could give Iran security guarantees",
+      "lead_en": "There is no trust between Tehran and Washington, said Distinguished Professor and Executive Director of the Shanghai Academy of Global Governance and Regional Studies at Shanghai International University",
+      "title_raw": "Эксперт Ян: РФ и КНР могли бы дать Ирану гарантии безопасности",
+      "lead_raw": "Между Тегераном и Вашингтоном отсутствует доверие, отметил заслуженный профессор и исполнительный директор Шанхайской академии глобального управления и региональных исследований Шанхайского университета международных",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ddfafa644aea5166671bd242b5eb624ca1d0e986",
+      "fingerprint": "2334b0407767960551ec3c313f3ea58d5c7484c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398689",
+      "published_utc": "2026-05-13T12:51:17Z",
+      "title_en": "Kravtsov: the list of standard dictionaries for the Russian language will be supplemented by three publications",
+      "lead_en": "The Minister of Education noted that new academic publications are being added to the previously approved dictionaries - abbreviations, homonyms and phraseological",
+      "title_raw": "Кравцов: список нормативных словарей по русскому языку пополнят три издания",
+      "lead_raw": "Министр просвещения отметил, что к ранее утвержденным словарям добавляются новые академические издания - аббревиатур, омонимов и фразеологический",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f33e737af6d7d6c9b64a6b94075a7fa237fc2a20",
+      "fingerprint": "d09827cc29ac92b948e1bef0bccbeb358b1de6c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27398373",
+      "published_utc": "2026-05-13T12:47:13Z",
+      "title_en": "A single customer called the issue of purchasing Russian equipment for construction sites a matter of principle",
+      "lead_en": "As the general director of the company, Karen Oganesyan, noted, in the last two or three years it has been possible to move away from purchasing foreign equipment from unfriendly countries",
+      "title_raw": "Единый заказчик назвал принципиальным вопрос закупки оборудования РФ для строек",
+      "lead_raw": "Как отметил гендиректор компании Карен Оганесян, в последние два-три года удалось уйти от закупок иностранного оборудования из недружественных стран",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3e971612ac6f3a7be88b2ee7d298a15c698f19b8",
+      "fingerprint": "a1262298b5a8da0ea13532a1ada98aaf7fa3ad51",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27398575",
+      "published_utc": "2026-05-13T12:44:36Z",
+      "title_en": "Ex-British Defense Minister Wallace is wanted in Russia",
+      "lead_en": "He is wanted on criminal charges",
+      "title_raw": "В РФ объявили в розыск экс-министра обороны Великобритании Уоллеса",
+      "lead_raw": "Он разыскивается по уголовной статье",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1adbf2db3ac95c9108846c52fcc93dbf1bfc427e",
+      "fingerprint": "3b012eee11d8e6aa7114e2f29f718667e2c16367",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398291",
+      "published_utc": "2026-05-13T12:44:01Z",
+      "title_en": "Yakushev: the idea of ​​the Russian village as a “black hole” is a thing of the past",
+      "lead_en": "In recent years, the appearance of the village in Russia has been consistently changing: different equipment, new technologies and modern approaches to work are being used, noted the secretary of the General Council of United Russia.",
+      "title_raw": "Якушев: представление о российском селе как о \"черной дыре\" ушло в прошлое",
+      "lead_raw": "В последние годы в России последовательно меняется облик села: используются другая техника, новые технологии и современные подходы к работе, отметил секретарь генсовета \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4405866cc791bdbd586fb0440241b51779a91646",
+      "fingerprint": "d804abc56c900243130394256361edb60cb3ddbb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27398569",
+      "published_utc": "2026-05-13T12:43:48Z",
+      "title_en": "The Russian delegation in Vienna does not rule out that the West is preparing a staging in Ukraine",
+      "lead_en": "This can be evidenced by recent meetings of NATO representatives with film directors, screenwriters and producers in Brussels, Los Angeles and Paris, noted the head of the Russian delegation at the negotiations in Vienna on military security and arms control, Yulia Zhdanova.",
+      "title_raw": "Делегация РФ в Вене не исключает подготовку Западом инсценировки на Украине",
+      "lead_raw": "Об этом могут говорить недавние встречи представителей НАТО с кинорежиссерами, сценаристами и продюсерами в Брюсселе, Лос-Анджелесе и Париже, отметила руководитель российской делегации на переговорах в Вене по вопросам военной безопасности и контроля над вооружениями Юлия Жданова",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "84cb2e14bab509b6ceae63be5de4f79b897e6188",
+      "fingerprint": "20bfd248c590cf39268bbe36b2205f7108e04833",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27398549",
+      "published_utc": "2026-05-13T12:41:43Z",
+      "title_en": "Loginova explained the latest attacks on RUSADA as the envy of ill-wishers",
+      "lead_en": "According to the head of the Russian Anti-Doping Agency, the organization works effectively and has earned praise from international experts, among others.",
+      "title_raw": "Логинова объяснила завистью недоброжелателей последние нападки на РУСАДА",
+      "lead_raw": "По мнению главы Российского антидопингового агентства, организация работает эффективно и заслужила похвалы со стороны в том числе международных экспертов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "76189042555154384d42b3f6d4d0cb7833ed71d6",
+      "fingerprint": "4a3dd11dda58adafd554a9dafe229945611ecfba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27398523",
+      "published_utc": "2026-05-13T12:39:53Z",
+      "title_en": "Kyrgyzstan announced very close relations with Russia",
+      "lead_en": "Prime Minister of the Republic Adylbek Kasymaliev noted that Bishkek does not help Moscow in circumventing sanctions",
+      "title_raw": "В Киргизии заявили об очень тесных отношениях с Россией",
+      "lead_raw": "Премьер-министр республики Адылбек Касымалиев отметил, что Бишкек не помогает Москве в обходе санкций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b24c940a9db10cea3b0912b6385a769e4a049287",
+      "fingerprint": "354079f14a26c7a002c2bb21265901d603311e14",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/13/two-estonians-who-crossed-into-russia-seeking-asylum-reportedly-sent-to-psychiatric-hospitals-for-evaluation",
+      "published_utc": "2026-05-13T12:39:50Z",
+      "title_en": "Two Estonians who crossed into Russia seeking asylum reportedly sent to psychiatric hospitals for evaluation",
+      "lead_en": "Two Estonian citizens who crossed into Russia last winter seeking asylum have undergone inpatient psychiatric evaluations, one of them — 25-year-old Danil — said in a letter to the independent Russian news outlet Mediazona.",
+      "title_raw": "Two Estonians who crossed into Russia seeking asylum reportedly sent to psychiatric hospitals for evaluation",
+      "lead_raw": "Two Estonian citizens who crossed into Russia last winter seeking asylum have undergone inpatient psychiatric evaluations, one of them — 25-year-old Danil — said in a letter to the independent Russian news outlet Mediazona.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "007aa405eba7a69399ff931924a8c0d699f9f8d6",
+      "fingerprint": "036d9b08b28ed5c6372f1e1c6dc48815432755cb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27398455",
+      "published_utc": "2026-05-13T12:35:12Z",
+      "title_en": "bnMAP.pro: Russians’ mortgage terms are approaching the maximum",
+      "lead_en": "Based on the results of the first quarter of 2026, the most significant periods of mortgage encumbrance were recorded in Krasnodar, Rostov-on-Don and Tyumen, analysts of the real estate monitoring and analysis system reported",
+      "title_raw": "bnMAP.pro: сроки ипотеки россиян приблизились к предельным",
+      "lead_raw": "По итогам I квартала 2026 года самые значительные сроки ипотечного обременения зафиксированы в Краснодаре, Ростове-на-Дону и Тюмени, сообщили аналитики системы мониторинга и анализа недвижимости",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "90051fcf91cb405abe972ec1c96cccc72ba8f2be",
+      "fingerprint": "69f58d957c5da487f623bd2a8e34e568f366548e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27398389",
+      "published_utc": "2026-05-13T12:33:13Z",
+      "title_en": "Yakushev: United Russia has already received about 1 million proposals for the new people’s program",
+      "lead_en": "The secretary of the party's general council emphasized that the approach to creating the program that United Russia used in 2021 will be used in its preparation for the 2026 elections",
+      "title_raw": "Якушев: ЕР получила уже около 1 млн предложений в новую народную программу",
+      "lead_raw": "Секретарь генсовета партии подчеркнул, что подход к созданию программы, который \"Единая Россия\" применяла в 2021 году, будет использован и при ее подготовке к выборам 2026 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a6d9c486a95d4ab883429b35e18af31bfeeda97e",
+      "fingerprint": "a87466714b7c3b8cb547de6cc353ca9908f03e13",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398305",
+      "published_utc": "2026-05-13T12:27:40Z",
+      "title_en": "Rescuers from Armenia and Russia discussed cooperation",
+      "lead_en": "Within the framework of the conference “Spitak earthquake. A tragedy that united peoples,” the parties also exchanged their best practices and accumulated experience",
+      "title_raw": "Спасатели Армении и России обсудили сотрудничество",
+      "lead_raw": "В рамках конференции \"Спитакское землетрясение. Трагедия, объединившая народы\" стороны также обменялись наработками и накопленным опытом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "16fed99fac80304d2e7ec5dd70f951b38b8527cc",
+      "fingerprint": "a806fd630d0a2d4a04b0696eb97471a56136cf7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398347",
+      "published_utc": "2026-05-13T12:27:26Z",
+      "title_en": "The State Duma adopted in the first reading a bill on the expulsion of foreigners for hooliganism",
+      "lead_en": "They plan to expel foreign citizens for participating in unauthorized rallies, discrediting the Russian armed forces, and calling for sanctions pressure",
+      "title_raw": "Госдума приняла в I чтении законопроект о выдворении иностранцев за хулиганство",
+      "lead_raw": "Выдворять иностранных граждан планируют за участие в несанкционированных митингах, дискредитацию российских вооруженных сил, призывы к санкционному давлению",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "25f8efb58a1c9fc82c9e156dda252839ff2baa42",
+      "fingerprint": "93afd14e87845cf40c3a3fe38f9919c307d03e17",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27397995",
+      "published_utc": "2026-05-13T12:18:33Z",
+      "title_en": "Oil supplies from Russia to India increased to 2 million bpd in March",
+      "lead_en": "Total import volume amounted to 4.49 million bpd",
+      "title_raw": "Поставки нефти из РФ в Индию в марте выросли до 2 млн б/с",
+      "lead_raw": "Общий объем импорта составил 4,49 млн б/с",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d8b6377483770c94f5bde4dcbd679767df2e6196",
+      "fingerprint": "eb760caef318f181414ebf22fbc83add6d8d74fa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27398227",
+      "published_utc": "2026-05-13T12:17:02Z",
+      "title_en": "Unified textbooks on Russian and literature for grades 10-11 will be introduced in 2027",
+      "lead_en": "Work on them is being carried out with the participation of the Council under the President of the Russian Federation for the implementation of state policy in the field of supporting the Russian language and the languages ​​of the peoples of Russia",
+      "title_raw": "Единые учебники по русскому и литературе для 10-11-х классов внедрят в 2027 году",
+      "lead_raw": "Работа над ними ведется при участии Совета при президенте РФ по реализации госполитики в сфере поддержки русского языка и языков народов России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "dbf936d03a3fc5c81bda7d73a8a553a724136e63",
+      "fingerprint": "734f4324a1417c28792fd7e0ffa8635c6f3c3123",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27398167",
+      "published_utc": "2026-05-13T12:14:52Z",
+      "title_en": "Ilta-Sanomat: in Finland a man killed his Russian wife",
+      "lead_en": "The deceased painted pictures and organized various art exhibitions",
+      "title_raw": "Ilta-Sanomat: в Финляндии мужчина убил свою жену россиянку",
+      "lead_raw": "Погибшая рисовала картины и организовывала различные художественные выставки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c89facce152281425fa012b159dd60c8b1c60612",
+      "fingerprint": "4ae2e16e1fe40bf2c3e28e77d8cb204a58a49bc2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27397175",
+      "published_utc": "2026-05-13T12:10:50Z",
+      "title_en": "Young diplomats in Kazan will discuss the intercivilizational dialogue of the Russian Federation - Islamic world",
+      "lead_en": "This topic will become the main topic at the X Forum of Young Diplomats of the Organization of Islamic Cooperation countries",
+      "title_raw": "Молодые дипломаты в Казани обсудят межцивилизационный диалог РФ - Исламский мир",
+      "lead_raw": "Эта тема станет основной на Х Форуме молодых дипломатов стран Организации исламского сотрудничества",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "080f96912660ae871f1b57319b3ea2fee4d3ff95",
+      "fingerprint": "1eaf095639019206a3b0e14ebf63347dd3b70813",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27397111",
+      "published_utc": "2026-05-13T12:06:01Z",
+      "title_en": "The short list of the Lyceum Prize included authors from 10 regions of the Russian Federation",
+      "lead_en": "1 thousand 659 applications were submitted for the award",
+      "title_raw": "В шорт-лист премии \"Лицей\" вошли авторы из 10 регионов РФ",
+      "lead_raw": "На соискание премии было подано 1 тыс. 659 заявок",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8f4e7900b73001d6621a7343f40a231498b1f585",
+      "fingerprint": "46a7070bae77fdd3509ed2729036a5d676067231",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/13/latvia-moves-to-ban-all-bus-service-to-russia-and-belarus-citing-recruitment-risks",
+      "published_utc": "2026-05-13T11:56:45Z",
+      "title_en": "Latvia moves to ban all bus service to Russia and Belarus, citing recruitment risks",
+      "lead_en": "Latvia is moving to ban all bus service to Russia and Belarus.",
+      "title_raw": "Latvia moves to ban all bus service to Russia and Belarus, citing recruitment risks",
+      "lead_raw": "Latvia is moving to ban all bus service to Russia and Belarus.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7211c00c122e1c2baed2605147878b090c8f9f09",
+      "fingerprint": "b3b9ba3acdf1efad16b9722b1a8acd978053c6ad",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/13/russias-oil-export-revenue-saw-continued-growth-in-april-iea-says-a92745",
+      "published_utc": "2026-05-13T11:09:00Z",
+      "title_en": "Russia’s Oil Export Revenue Saw Continued Growth in April, IEA Says",
+      "lead_en": "Revenue from crude and petroleum shipments rose to $19.18 billion, a modest increase of $180 million from the $19 billion recorded in March.",
+      "title_raw": "Russia’s Oil Export Revenue Saw Continued Growth in April, IEA Says",
+      "lead_raw": "Revenue from crude and petroleum shipments rose to $19.18 billion, a modest increase of $180 million from the $19 billion recorded in March.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a461d636413c3fe7c118421c76b3446c073ee1c6",
       "fingerprint": "e6001ce045ecd1e6782c4185fa8c085279362b11",
@@ -10652,446 +11209,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "9685e6f17f0195b514d9614f94eceaf73d9637d6",
-      "fingerprint": "20c16c62beb52e4d9715877333e5d57ef11a0786",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2129423",
-      "published_utc": "2026-05-11T13:01:01Z",
-      "title_en": "EU imposes sanctions against 16 teachers, heads of youth organizations in Russia",
-      "lead_en": "Brussels has accused them of working with children evacuated from the combat zone at the start of the special military operation, calling it \"illegal deportation\"",
-      "title_raw": "EU imposes sanctions against 16 teachers, heads of youth organizations in Russia",
-      "lead_raw": "Brussels has accused them of working with children evacuated from the combat zone at the start of the special military operation, calling it \"illegal deportation\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4457d3b3bf754b2a2fc72d4fded4cfd522f50800",
-      "fingerprint": "f98fa6f685bef646e5b17c0ebe910a5e87a45f6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27374753",
-      "published_utc": "2026-05-11T12:58:32Z",
-      "title_en": "The expedition \"Code of the Invictus\" has started in the Arctic",
-      "lead_en": "It brought together more than 100 participants from Russia and Belarus",
-      "title_raw": "В Заполярье стартовала экспедиция \"Код непокоренных\"",
-      "lead_raw": "Она собрала более 100 участников из России и Белоруссии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "eecf3bbdc4380c9ea499c2267d3ae76d4e6f92ed",
-      "fingerprint": "a7f7ec33f7c66f28a1bb5984e8134fce35148107",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27374739",
-      "published_utc": "2026-05-11T12:56:19Z",
-      "title_en": "The Russian Embassy calls Britain's statements about interference in the elections in Armenia ridiculous",
-      "lead_en": "London's neocolonial policy, which previously contributed to the coup in Kyiv, is now aimed at Yerevan, the diplomatic mission noted",
-      "title_raw": "Посольство РФ назвало нелепыми заявления Британии о вмешательстве в выборы в Армении",
-      "lead_raw": "Неоколониальная политика Лондона, которая ранее уже способствовала госперевороту в Киеве, теперь нацелена и на Ереван, отметили в диппредставительстве",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ec1655bbee3b5f4bef8782be2d6619bf7751ec0c",
-      "fingerprint": "9faf56964a8c4788f02b7012ed349ec0d09fe802",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27374451",
-      "published_utc": "2026-05-11T12:11:56Z",
-      "title_en": "\"Hainan Daily\": Hainan is increasingly attractive for tourists from the Russian Federation and other countries",
-      "lead_en": "The newspaper notes that at the beginning of May there were many foreigners on the beaches of the Dadonghai tourist area in the resort city of Sanya, popular among Russians.",
-      "title_raw": "\"Хайнань жибао\": Хайнань все более привлекателен для туристов из РФ и других стран",
-      "lead_raw": "Газета отмечает, что на популярных среди россиян пляжах туристической зоны Дадунхай в курортном городе Санья в начале мая было много иностранцев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1b4a135c333eefcc8b8217d1facd9f23e7e0fdda",
-      "fingerprint": "4be6043830e4dac52eb0a8f7d5bf4130d564a0c3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27374387",
-      "published_utc": "2026-05-11T12:02:49Z",
-      "title_en": "The head of the Committee for External Relations of St. Petersburg was awarded the Order of the Flag of the Republika Srpska",
-      "lead_en": "According to the leader of the Bosnian Serbs, Milorad Dodik, the order is an expression of the deep love and affection of the Republika Srpska for Russia and St. Petersburg",
-      "title_raw": "Главе комитета по внешним связям Петербурга вручили орден Флага Республики Сербской",
-      "lead_raw": "По словам лидера боснийских сербов Милорада Додика, орден является выражением глубокой любви и привязанности Республики Сербской к России и Санкт-Петербургу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "83f9199b313d00242f10e317b4012cb21e329621",
-      "fingerprint": "26f7db1fd5f590496251323efe8698d1ec15dabb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27374401",
-      "published_utc": "2026-05-11T11:47:37Z",
-      "title_en": "Russian Valgonen won a two-day cycling race in Italy",
-      "lead_en": "Among juniors, Angelina Novolodskaya took first place",
-      "title_raw": "Россиянка Валгонен выиграла двухдневную велогонку в Италии",
-      "lead_raw": "Среди юниоров первое место заняла Ангелина Новолодская",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d75b8fa03a6e53d6c848bf1ae5b3248542914f2f",
-      "fingerprint": "edab54d8f159d2f6bfb4c36498592fb7d3f3b38f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374369",
-      "published_utc": "2026-05-11T11:44:07Z",
-      "title_en": "Wagenknecht: Germany should accept Schroeder's offer of mediation in dialogue with the Russian Federation",
-      "lead_en": "The founder of the BSW party commented on reports of the visit of the head of the German Ministry of Defense Boris Pistorius to Kyiv",
-      "title_raw": "Вагенкнехт: ФРГ должна принять предложение о посредничестве Шрёдера в диалоге с РФ",
-      "lead_raw": "Основательница партии BSW прокомментировала сообщения о визите главы Минобороны Германии Бориса Писториуса в Киев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a055607306b78320561eb7dfe5042da32d3e2ae4",
-      "fingerprint": "67c5f2fc78adb501078df91412c2b030e37037fa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374291",
-      "published_utc": "2026-05-11T11:42:29Z",
-      "title_en": "The German Cabinet of Ministers did not speak with Schröder after the idea of ​​his mediation in the dialogue with the Russian Federation",
-      "lead_en": "At the same time, spokesman Stefan Cornelius insisted that the German government would continue to participate in mediation efforts",
-      "title_raw": "Кабмин ФРГ не говорил со Шрёдером после идеи о его посредничестве в диалоге с РФ",
-      "lead_raw": "В то же время официальный представитель Штефан Корнелиус утверждал, что правительство Германии продолжит участвовать в посреднических усилиях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3affb028a0aa1ab8ccc30d7a545bcf36bdc0a4eb",
-      "fingerprint": "5e317c2248e89f6b80e5adc4cfd719fd51e2c12d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374379",
-      "published_utc": "2026-05-11T11:41:36Z",
-      "title_en": "Pashinyan positively assesses the transformation of Armenian-Russian relations",
-      "lead_en": "Yerevan has no intentions to harm Moscow, the Armenian Prime Minister noted",
-      "title_raw": "Пашинян позитивно расценивает трансформацию армяно-российских отношений",
-      "lead_raw": "У Еревана нет намерений навредить Москве, отметил армянский премьер-министр",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "99999815f98b1b041242905b67ec58aa87a9a82c",
-      "fingerprint": "767f14d22c6ba0ba8eeb303605f550b6731e872f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27374261",
-      "published_utc": "2026-05-11T11:41:02Z",
-      "title_en": "In Stavropol, on Media Day, the region named a street in honor of the radio",
-      "lead_en": "The ceremony took place at the historical park \"Russia - My History\", where an exhibition about the 100-year history of local radio was presented",
-      "title_raw": "В Ставрополе в День СМИ края назвали улицу в честь радио",
-      "lead_raw": "Церемония состоялась на площадке исторического парка \"Россия - моя история\", где представили экспозицию о 100-летней истории местного радио",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8930114c2bbc8e867393cef28cd2c266279a5428",
-      "fingerprint": "a6fd79fbf065cd42f4c2c4b4a4fa4ce8691af41c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374315",
-      "published_utc": "2026-05-11T11:40:34Z",
-      "title_en": "Belarus has identified seven priorities in the weapons program for 2026-2030",
-      "lead_en": "The draft of the new state program defines the priority of those types of weapons that the Belarusian army needs",
-      "title_raw": "Белоруссия обозначила в программе вооружения на 2026-2030 годы семь приоритетов",
-      "lead_raw": "В проекте новой госпрограммы определена приоритетность тех видов вооружения, которые нужны белорусской армии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d365ad3ce7535ae8329462d2158faef33ef39ada",
-      "fingerprint": "c30f44a8c696e173b3444eb35f7b368126edaca7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27374307",
-      "published_utc": "2026-05-11T11:28:35Z",
-      "title_en": "Baltika head coach Talalaev was awarded the Silver Doe at TASS",
-      "lead_en": "The award was established by the Federation of Sports Journalists of Russia and is awarded to the ten strongest Russian athletes and the best coach based on the results of the past year.",
-      "title_raw": "Главного тренера \"Балтики\" Талалаева наградили \"Серебряной ланью\" в ТАСС",
-      "lead_raw": "Премия учреждена Федерацией спортивных журналистов России и вручается десятке сильнейших российских спортсменов и лучшему тренеру по итогам минувшего года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4b225ab222cc35f4ade8094c966def5b83bcfc17",
-      "fingerprint": "04d7174f7d912e2443b7add52dfb56720d3a448b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374245",
-      "published_utc": "2026-05-11T11:28:00Z",
-      "title_en": "Hungary intends to build relations with the Russian Federation taking into account mutual interests",
-      "lead_en": "Russia remains an important partner due to its role in Europe, said candidate for the post of head of the Hungarian Foreign Ministry Anita Orban",
-      "title_raw": "Венгрия намерена строить отношения с РФ с учетом взаимных интересов",
-      "lead_raw": "Россия остается важным партнером благодаря своей роли в Европе, заявила кандидат на пост главы венгерского МИД Анита Орбан",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "151eeabc8a0b47e1eee314a9997bd54eba9555d0",
-      "fingerprint": "edaebf0052da7abf5798acdf18662655ac9ba0de",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27374159",
-      "published_utc": "2026-05-11T11:06:34Z",
-      "title_en": "Italian Gamba became an adviser to the President of the Russian Judo Federation",
-      "lead_en": "From 2009 to 2013, the Italian worked as the head coach of the Russian national team, from 2013 to 2025 - general manager",
-      "title_raw": "Итальянец Гамба стал советником президента Федерации дзюдо России",
-      "lead_raw": "С 2009 по 2013 год итальянец работал главным тренером сборной России, с 2013 по 2025 год - генеральным менеджером",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0ebf871bfaa58e0a55d294b1c8c64756e3498618",
-      "fingerprint": "f83b9a8826c159812206b083302dbba83b9528e9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2129415",
-      "published_utc": "2026-05-11T11:05:15Z",
-      "title_en": "Russia continued to strictly observe truce — defense ministry",
-      "lead_en": "In turn, over the past day, Ukrainian forces made 12 attack attempts, the Russian Defense Ministry reported",
-      "title_raw": "Russia continued to strictly observe truce — defense ministry",
-      "lead_raw": "In turn, over the past day, Ukrainian forces made 12 attack attempts, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e750f707cc373e8642cb306732c3a094fb7f2929",
-      "fingerprint": "31757976d3f13c3b7d474f76aadde745981dc664",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374133",
-      "published_utc": "2026-05-11T11:04:22Z",
-      "title_en": "The EU blacklisted 16 individuals and 7 organizations in Russia",
-      "lead_en": "The Nakhimov Naval School of the Ministry of Defense of the Russian Federation, the Regional Branch of DOSAAF in Sevastopol, as well as five children's centers in Russia were subject to restrictions on charges of placing children",
-      "title_raw": "ЕС внес в черный список по России 16 физических лиц и 7 организаций",
-      "lead_raw": "Под рестрикции подпали Нахимовское военно-морское училище Минобороны РФ, Региональное отделение ДОСААФ города Севастополь, а также пять детских центров России по обвинению в размещении детей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c1d3340eb790fff574a8bf8c1e0d1b9a3845d774",
-      "fingerprint": "eb5b8ab6f66b538fe8025471a3b36313717ef33a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374091",
-      "published_utc": "2026-05-11T11:00:00Z",
-      "title_en": "Pashinyan confirmed that he will not go to the EAEU summit in Astana",
-      "lead_en": "The Armenian Prime Minister informed Russian President Vladimir Putin about this during his visit to Russia in April",
-      "title_raw": "Пашинян подтвердил, что не поедет на саммит ЕАЭС в Астане",
-      "lead_raw": "Армянский премьер-министр проинформировал об этом президента РФ Владимира Путина в ходе своего визита в Россию в апреле",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d42ecc1f63fab30b20796619629daad61e75abdf",
-      "fingerprint": "629ebea90b4b19367c2c72ba0f445c36354a0813",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374067",
-      "published_utc": "2026-05-11T10:58:13Z",
-      "title_en": "The new Hungarian authorities do not intend to abandon oil and gas from Russia",
-      "lead_en": "The new Hungarian government is interested in continuing supplies, noted candidate for the post of Minister of Economy and Energy Istvan Kapitany",
-      "title_raw": "Новые власти Венгрии не намерены отказываться от нефти и газа из России",
-      "lead_raw": "Новое венгерское правительство заинтересовано в продолжении поставок, отметил кандидат на пост министра экономики и энергетики Иштван Капитань",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4bb8d7e037b3673b54b854b420a5ae8e68779c71",
-      "fingerprint": "5250844ebc3d59f58be22045b88ac2ca17da1a27",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374027",
-      "published_utc": "2026-05-11T10:50:08Z",
-      "title_en": "President of Republika Srpska: relations with Russia are based on trust and friendship",
-      "lead_en": "The contribution of the Serbian and Russian peoples to the fight against fascism is of historical significance, stressed Sinisa Karan",
-      "title_raw": "Президент Республики Сербской: отношения с Россией основаны на доверии и дружбе",
-      "lead_raw": "Вклад сербского и русского народов в борьбу с фашизмом имеет историческое значение, подчеркнул Синиша Каран",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "953c3d13b1d0226037e5512bace569c76a228761",
-      "fingerprint": "ce83264a92892da0a408c70ec79ae70cf3f01146",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27374007",
-      "published_utc": "2026-05-11T10:43:22Z",
-      "title_en": "Dodik: many in Europe are trying to challenge Victory Day and rewrite history",
-      "lead_en": "The Bosnian Serb leader also stressed that cooperation with Russia “remains a strategic priority” of the Republika Srpska",
-      "title_raw": "Додик: многие в Европе пытаются оспорить День Победы и переписать историю",
-      "lead_raw": "Лидер боснийских сербов также подчеркнул, что сотрудничество с Россией \"остается стратегическим приоритетом\" Республики Сербской",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d91cba9d5373fc3a277d3f73ae62ac77bc225ae8",
-      "fingerprint": "7dc0eed846522ac2629abd106ec8c8dfd73c1ef4",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/11/uk-sanctions-russian-disinformation-outfit-over-plot-to-sway-armenian-elections-a92729",
-      "published_utc": "2026-05-11T10:41:09Z",
-      "title_en": "U.K. Sanctions Russian ‘Disinformation’ Outfit Over Plot to Sway Armenian Elections",
-      "lead_en": "The new measures target 49 employees of the Social Design Agency, a group already under Western sanctions for alleged election interference.",
-      "title_raw": "U.K. Sanctions Russian ‘Disinformation’ Outfit Over Plot to Sway Armenian Elections",
-      "lead_raw": "The new measures target 49 employees of the Social Design Agency, a group already under Western sanctions for alleged election interference.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
