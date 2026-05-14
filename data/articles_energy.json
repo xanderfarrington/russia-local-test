@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-14T00:05:09Z",
+  "updated_at_utc": "2026-05-14T04:49:10Z",
   "topic": "energy",
-  "count": 55,
+  "count": 54,
   "articles": [
+    {
+      "id": "dc661a1b758bb2ef062e5fd25660698c1d2ee65b",
+      "fingerprint": "03ba67abf20dc7ac1f77dde09d109786b6fe6307",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27404033",
+      "published_utc": "2026-05-14T04:01:17Z",
+      "title_en": "Slovakia said that Europe is disingenuous when announcing a ban on gas imports from the Russian Federation",
+      "lead_en": "European states continue to buy energy resources from Russia, and some countries in record quantities, said Tibor Gaspar, speaker of the National Council of the Republic.",
+      "title_raw": "В Словакии заявили, что Европа лукавит, заявляя о запрете импорта газа из РФ",
+      "lead_raw": "Европейские государства по-прежнему покупают у России энергоресурсы, а некоторые страны - в рекордных объемах, заявил спикер Национального совета республики Тибор Гашпар",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d20e65b64f8bc635b818db352bd886ff5545fe2d",
       "fingerprint": "461adcd0989e40185b446096eafe417c70c91ff6",
@@ -1182,52 +1204,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0f647fb8b135ff6d061b035aec0cb9b45c0fad43",
-      "fingerprint": "bb76a207361769cd08117312047fd64b942c0320",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27378361",
-      "published_utc": "2026-05-12T02:31:07Z",
-      "title_en": "Foreign Ministry: Russian proposal for a nuclear power plant can cover Armenia’s needs for “a century to come”",
-      "lead_en": "Director of the Fourth Department of CIS Countries of the Russian Foreign Ministry Mikhail Kalugin drew attention to the fact that Russia is a global leader in the field of nuclear technology",
-      "title_raw": "МИД: российское предложение по АЭС может закрыть нужды Армении на \"век вперед\"",
-      "lead_raw": "Директор четвертого департамента стран СНГ российского внешнеполитического ведомства Михаил Калугин обратил внимание на то, что Россия является глобальным лидером в области атомных технологий",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "095ac9c65fd60723edb9deba603a3993fb6e463b",
-      "fingerprint": "eb0d6658f63b5c00b6d988e580373055d0a3608f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27378229",
-      "published_utc": "2026-05-12T02:01:27Z",
-      "title_en": "Economist Guliyev: the UAE’s exit from OPEC increases the importance of the OPEC+ format for Russia",
-      "lead_en": "The dean of the Faculty of Financial Economics at MGIMO believes that the Russian Federation will rely less on strict collective restrictions and more on flexible coordination of production parameters and market signals with partners",
-      "title_raw": "Экономист Гулиев: выход ОАЭ из ОПЕК повышает значимость формата ОПЕК+ для России",
-      "lead_raw": "Декан факультета финансовой экономики МГИМО считает, что РФ будет в меньшей степени опираться на жесткие коллективные ограничения и в большей - на гибкое согласование параметров добычи и рыночных сигналов с партнерами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
