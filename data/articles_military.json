@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-14T15:23:13Z",
+  "updated_at_utc": "2026-05-14T17:56:35Z",
   "topic": "military",
-  "count": 81,
+  "count": 77,
   "articles": [
+    {
+      "id": "251741209b71c5a0290a1019576b553c9bb8c4b3",
+      "fingerprint": "d1bb652adc9e32a09207d09961a1154e540e1479",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2131059",
+      "published_utc": "2026-05-14T17:53:17Z",
+      "title_en": "Ukrainian attacks on Russia kill at least 100 civilians, injure 667 in April — diplomat",
+      "lead_en": "Russian Foreign Ministry Ambassador-at-Large for the crimes of the Kiev regime Rodion Miroshnik emphasized that in attacks on Russian territory Kiev had used all available types of weapons, supplied by its Western sponsors",
+      "title_raw": "Ukrainian attacks on Russia kill at least 100 civilians, injure 667 in April — diplomat",
+      "lead_raw": "Russian Foreign Ministry Ambassador-at-Large for the crimes of the Kiev regime Rodion Miroshnik emphasized that in attacks on Russian territory Kiev had used all available types of weapons, supplied by its Western sponsors",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "26913c2c3faaeead907fd80171544f639b58cdde",
       "fingerprint": "dbc04ad05477be1696b64d482e297dfa85075aa3",
@@ -70,6 +93,51 @@
       "primary_topic": "military"
     },
     {
+      "id": "34a2af84aecb05ef23f4fdbf40c352752b68431b",
+      "fingerprint": "cdef68363d900dd543cfa61f1d8ebb338eba5d9c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2130961",
+      "published_utc": "2026-05-14T14:09:37Z",
+      "title_en": "Russian diplomat names countries where terrorists use Western weapons got from Ukraine",
+      "lead_en": "These weapons have fallen into the hands of terrorist groups across multiple countries, including Burkina Faso, the Democratic Republic of the Congo, Mali, Niger, Sudan, Somalia, Syria, the Central African Republic, and Chad",
+      "title_raw": "Russian diplomat names countries where terrorists use Western weapons got from Ukraine",
+      "lead_raw": "These weapons have fallen into the hands of terrorist groups across multiple countries, including Burkina Faso, the Democratic Republic of the Congo, Mali, Niger, Sudan, Somalia, Syria, the Central African Republic, and Chad",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f65cc848ab77e96e92cbde63fd0439af3293c91e",
+      "fingerprint": "d41ba41c4ed64d5eadc8dcad598d1284b125907a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2130957",
+      "published_utc": "2026-05-14T13:54:10Z",
+      "title_en": "Washington, Kiev implementing military-biological program in Ukraine — Russian MFA",
+      "lead_en": "Deputy Foreign Minister Dmitry Lyubinsky noted that since 2001, the United States has blocked efforts to develop a legally binding protocol to the Biological and Toxin Weapons Convention",
+      "title_raw": "Washington, Kiev implementing military-biological program in Ukraine — Russian MFA",
+      "lead_raw": "Deputy Foreign Minister Dmitry Lyubinsky noted that since 2001, the United States has blocked efforts to develop a legally binding protocol to the Biological and Toxin Weapons Convention",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
       "id": "34c38180e32b5ce208bbeed2fc48594bcf75c744",
       "fingerprint": "b27915ba5e87cfb28f714f59580cc42e6871e421",
       "source": "TASS (RU)",
@@ -82,6 +150,51 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8204d93d3de17161b61206816bf4aec468f76878",
+      "fingerprint": "0f55b4f5644e6dff74722834156669cda52c28a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2130943",
+      "published_utc": "2026-05-14T13:17:24Z",
+      "title_en": "Russian combat aircraft a cut above NATO weapons in combat — UAC CEO",
+      "lead_en": "According to Vadim Badekha, the country’s aircraft manufacturing industry became much more efficient",
+      "title_raw": "Russian combat aircraft a cut above NATO weapons in combat — UAC CEO",
+      "lead_raw": "According to Vadim Badekha, the country’s aircraft manufacturing industry became much more efficient",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "078aee1a9b88b4c6174a9eb7e1afdd47d6ae1a51",
+      "fingerprint": "a06a77f8cd81e49ce7de4e1cc19f4d9f233182f7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2130915",
+      "published_utc": "2026-05-14T12:42:25Z",
+      "title_en": "Russian troops liberate Nikolayevka community in Donetsk region over past day — top brass",
+      "lead_en": "Russian troops delivered a massive strike by precision weapons, including Kinzhal hypersonic missiles on Ukrainian military-industrial sites and military airfields over the past 24 hours",
+      "title_raw": "Russian troops liberate Nikolayevka community in Donetsk region over past day — top brass",
+      "lead_raw": "Russian troops delivered a massive strike by precision weapons, including Kinzhal hypersonic missiles on Ukrainian military-industrial sites and military airfields over the past 24 hours",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -1597,208 +1710,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "59aeeb36cfa6674428d51bc2160ad94f56e062c5",
-      "fingerprint": "35d45b168a6726a742701e06a5b410bafb8440bc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2130011",
-      "published_utc": "2026-05-12T17:34:58Z",
-      "title_en": "Kiev may face accusations of producing biological weapons — Russian MP",
-      "lead_en": "Leonid Slutsky commented on remarks by US National Intelligence Director Tulsi Gabbard, who said that more than 120 biological laboratories in over 30 countries funded by US taxpayers over several decades were under investigation",
-      "title_raw": "Kiev may face accusations of producing biological weapons — Russian MP",
-      "lead_raw": "Leonid Slutsky commented on remarks by US National Intelligence Director Tulsi Gabbard, who said that more than 120 biological laboratories in over 30 countries funded by US taxpayers over several decades were under investigation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "51762b66edc8b10fd1263358ebd4544e9068da88",
-      "fingerprint": "ba1bf79790ef18f7c764ee86abe2d310e137cade",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27388551",
-      "published_utc": "2026-05-12T16:45:31Z",
-      "title_en": "Deputy Kravchenko: “Sarmat” greatly changes the balance of nuclear deterrence forces",
-      "lead_en": "The politician is confident that the adoption of the missile system for combat duty will lead to a significant increase in the strategic security and defense capability of Russia",
-      "title_raw": "Депутат Кравченко: \"Сармат\" сильно меняет баланс сил ядерного сдерживания",
-      "lead_raw": "Политик уверен, что принятие ракетного комплекса на боевое дежурство приведет к существенному повышению стратегической безопасности и обороноспособности России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "05e8b96742fc94ac1473109f354616e76007b248",
-      "fingerprint": "af44de33542538813ca2e8534ebfbbbfee490587",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27388197",
-      "published_utc": "2026-05-12T16:10:39Z",
-      "title_en": "Expert Korotchenko commented on the successful tests of Sarmat",
-      "lead_en": "They confirm Russia's ability to deter any potential adversary, a military analyst said",
-      "title_raw": "Эксперт Коротченко прокомментировал успешные испытания \"Сармата\"",
-      "lead_raw": "Они подтверждают способность России к сдерживанию любого потенциального противника, сообщил военный аналитик",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0412dafda5f6f20b52f08808da2205e398a14727",
-      "fingerprint": "5208170e7512fce9fcbb79d04e391642b17851ca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27388217",
-      "published_utc": "2026-05-12T16:08:54Z",
-      "title_en": "Peskov: Russia notified the US and other countries about the Sarmat tests",
-      "lead_en": "In accordance with international agreements, when intercontinental missiles are launched, a notification is sent to other countries through the National Center for Nuclear Risk Reduction",
-      "title_raw": "Песков: Россия уведомила США и другие страны об испытаниях \"Сармата\"",
-      "lead_raw": "В соответствии с международными договоренностями при пуске межконтинентальных ракет другим странам по линии Национального центра по уменьшению ядерной опасности направляется уведомление",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9fe18dbf439293badfc73164a542ddb9406c317f",
-      "fingerprint": "46b7bd2da04df886c1289c69b4489931abce33ba",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/12/finland-to-tighten-curbs-on-medical-equipment-exports-to-russia-a92741",
-      "published_utc": "2026-05-12T15:59:00Z",
-      "title_en": "Finland to Tighten Curbs on Medical Equipment Exports to Russia",
-      "lead_en": "“We have now become aware that medical and pharmaceutical products may end up being used in Russia for military purposes,” the head of sanctions at Finland’s Foreign Ministry said.",
-      "title_raw": "Finland to Tighten Curbs on Medical Equipment Exports to Russia",
-      "lead_raw": "“We have now become aware that medical and pharmaceutical products may end up being used in Russia for military purposes,” the head of sanctions at Finland’s Foreign Ministry said.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0a91fa57b45e96a1abc7eea1dc641d6b31bd5753",
-      "fingerprint": "714653bfce7ac4ce8571129b2e2b1ab1a103c9f8",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/12/russian-regions-move-schools-online-amid-drone-attack-fears-a92740",
-      "published_utc": "2026-05-12T15:48:57Z",
-      "title_en": "Russian Regions Move Schools Online Amid Drone Attack Fears",
-      "lead_en": "Officials in at least four regions announced temporary closures or online classes on Monday and Tuesday, citing security concerns linked to the threat of drones.",
-      "title_raw": "Russian Regions Move Schools Online Amid Drone Attack Fears",
-      "lead_raw": "Officials in at least four regions announced temporary closures or online classes on Monday and Tuesday, citing security concerns linked to the threat of drones.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4ecb4b88e86213a16870590c88037145fef2a93b",
-      "fingerprint": "695b5107c75a418913ea7a61bdb117aa6e5c50ad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2129969",
-      "published_utc": "2026-05-12T15:30:28Z",
-      "title_en": "Russia gradually develops nuclear forces — Putin",
-      "lead_en": "The Russian leader recalled that \"since 2025, the Oreshnik intermediate-range hypersonic ballistic missile system is on combat duty and it can be armed with nuclear warheads\"",
-      "title_raw": "Russia gradually develops nuclear forces — Putin",
-      "lead_raw": "The Russian leader recalled that \"since 2025, the Oreshnik intermediate-range hypersonic ballistic missile system is on combat duty and it can be armed with nuclear warheads\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dbbf25220ecc6912a4429b1b4f68b819a5ba2f96",
-      "fingerprint": "bcea131ad097028191a1df34cba26b3ad8feb082",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/12/russia-says-sarmat-missile-system-successfully-tested-to-be-placed-on-combat-duty-by-year-s-end",
-      "published_utc": "2026-05-12T15:24:37Z",
-      "title_en": "Russia says Sarmat missile system successfully tested, to be placed on combat duty by year’s end",
-      "lead_en": "Russia has successfully tested the Sarmat missile system, Strategic Missile Forces commander Sergei Karakayev reported to President Vladimir Putin, the Russian state news agency TASS reported.",
-      "title_raw": "Russia says Sarmat missile system successfully tested, to be placed on combat duty by year’s end",
-      "lead_raw": "Russia has successfully tested the Sarmat missile system, Strategic Missile Forces commander Sergei Karakayev reported to President Vladimir Putin, the Russian state news agency TASS reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eab71a44a0ded0058cc9e01982ba11890b39cca0",
-      "fingerprint": "4924af8a94045528a79693ce74482bf820007c6d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2129955",
-      "published_utc": "2026-05-12T15:23:24Z",
-      "title_en": "Russia expanding international cooperation against drug trafficking — Security Council",
-      "lead_en": "According to the press service, the Russian delegation completed a significant amount of work in this area during the 69th session of the UN Commission on Narcotic Drugs that was held in Vienna from March 9-13, 2026",
-      "title_raw": "Russia expanding international cooperation against drug trafficking — Security Council",
-      "lead_raw": "According to the press service, the Russian delegation completed a significant amount of work in this area during the 69th session of the UN Commission on Narcotic Drugs that was held in Vienna from March 9-13, 2026",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
