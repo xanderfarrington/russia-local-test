@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-13T22:17:17Z",
+  "updated_at_utc": "2026-05-14T00:05:09Z",
   "topic": "military",
-  "count": 88,
+  "count": 89,
   "articles": [
+    {
+      "id": "793703fd2f4c12f04401c861bca328450c2a12ef",
+      "fingerprint": "748054f43509dc06ce7fbd7004b9401e2754c407",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27402647",
+      "published_utc": "2026-05-13T22:07:31Z",
+      "title_en": "A student play about besieged Leningrad will be shown at the Strastnoy Theater",
+      "lead_en": "Students of the workshop of People's Artists of the Russian Federation Olga Drozdova and Dmitry Pevtsov play in the production \"Actress\"",
+      "title_raw": "В Театре на Страстном покажут студенческий спектакль о блокадном Ленинграде",
+      "lead_raw": "В постановке \"Актриса\" играют ученики мастерской народных артистов РФ Ольги Дроздовой и Дмитрия Певцова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "07d31d32a3e5e97ce55796eed344320c63d600ad",
       "fingerprint": "cddcc28ba113c8f7819801f2f0af950a451ed5d4",
@@ -70,6 +92,28 @@
         "military"
       ],
       "primary_topic": "diplomacy"
+    },
+    {
+      "id": "93cd28c73c38ce05f1a06986f4554deca720220a",
+      "fingerprint": "96cff2d626cf8e25ac886c302fc1f154b44a933e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2130535",
+      "published_utc": "2026-05-13T21:00:00Z",
+      "title_en": "US Congress may consider bill on $1.3 billion in military aid to Kiev — media",
+      "lead_en": "The bill also provides new sanctions against Russia",
+      "title_raw": "US Congress may consider bill on $1.3 billion in military aid to Kiev — media",
+      "lead_raw": "The bill also provides new sanctions against Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "538360cf008194ad60c916ffdda7f7915fc9f7a4",
@@ -1929,28 +1973,6 @@
         "military": 1,
         "energy": 0,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "07af43fae1560c049f50cc21e8afc04429bbcd4b",
-      "fingerprint": "34d49197c6a8c4a0f288e6a02a1de6fd9d9ca1e1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27377525",
-      "published_utc": "2026-05-11T23:03:45Z",
-      "title_en": "Expert Smolenko: Ukraine lost its space rocket due to a conflict with the Russian Federation",
-      "lead_en": "Previously, the Zenit launch vehicle was recognized as the best in the world in terms of efficiency, price per kilogram of payload and ease of launch, noted the general director of the Russian division of the Ukrainian industrial company Yuzhmash.",
-      "title_raw": "Эксперт Смоленко: Украина лишилась космической ракеты из-за конфликта с РФ",
-      "lead_raw": "Ранее ракету-носитель \"Зенит\" признавали лучшей в мире по эффективности, цене за килограмм полезной нагрузки и удобству старта, отметил гендиректор российского дивизиона украинской промышленной компании \"Южмаш\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
