@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-14T23:00:39Z",
+  "updated_at_utc": "2026-05-15T03:51:29Z",
   "topic": "energy",
   "count": 43,
   "articles": [
+    {
+      "id": "ae8bd3a8a99d81fe84e55bb19555c2ecf1f1865c",
+      "fingerprint": "4993645e337c783b6dfb62fd89074d212889ae0f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2131115",
+      "published_utc": "2026-05-15T03:28:32Z",
+      "title_en": "West uses Baltic region as springboard to practice Russia’s containment — diplomat",
+      "lead_en": "Deputy Foreign Minister Alexander Grushko says various coalitions are \"attempting approaching the Arctic\"",
+      "title_raw": "West uses Baltic region as springboard to practice Russia’s containment — diplomat",
+      "lead_raw": "Deputy Foreign Minister Alexander Grushko says various coalitions are \"attempting approaching the Arctic\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c3fd70b2cde5b63f94ef27ef9cf0db2839ac5b9d",
       "fingerprint": "65a735eae6fecbf78e7bc278b60d66d476066eac",
@@ -925,28 +947,6 @@
       "lead_en": "The figure amounted to 8.98 billion cubic meters. m",
       "title_raw": "Россия в январе - апреле нарастила поставки СПГ Европе более чем на 18%",
       "lead_raw": "Показатель составил 8,98 млрд куб. м",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e2f7d46b3f9a80305333671df504ac9a5d2eca5d",
-      "fingerprint": "319d227343d112f58d98e6bcd8ac9de416999d1f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27391025",
-      "published_utc": "2026-05-13T02:39:22Z",
-      "title_en": "Expert Braslavsky: The Russian Federation will have time to take measures if a release occurs from the Chernobyl nuclear power plant",
-      "lead_en": "At the same time, it is quite difficult to predict whether such a release will occur, said Associate Professor of the Department of Nuclear Power Plants at Sevastopol State University",
-      "title_raw": "Эксперт Браславский: РФ успеет принять меры, если произойдет выброс с ЧАЭС",
-      "lead_raw": "При этом предсказать, произойдет ли такой выброс, довольно сложно, указал доцент кафедры \"Ядерные энергетические установки\" Севастопольского государственного университета",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
