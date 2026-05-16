@@ -1,8 +1,732 @@
 {
-  "updated_at_utc": "2026-05-16T04:30:43Z",
+  "updated_at_utc": "2026-05-16T07:18:13Z",
   "keep_hours": 48,
-  "count": 507,
+  "count": 532,
   "articles": [
+    {
+      "id": "f6fab2064973660fb6212a140c93c36be5c7f530",
+      "fingerprint": "11df0232d5fa0dcf23ea54804f6f9fd2d986c5b3",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640062-putin-xi-china-visit",
+      "published_utc": "2026-05-16T07:01:53Z",
+      "title_en": "Putin to visit China – Kremlin",
+      "lead_en": "Russian President Vladimir Putin will visit China on May 19 and 20, the Kremlin has said Read Full Article at RT.com",
+      "title_raw": "Putin to visit China – Kremlin",
+      "lead_raw": "Russian President Vladimir Putin will visit China on May 19 and 20, the Kremlin has said Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1a692dfd3263cfb2e596d84d188275e829e1999e",
+      "fingerprint": "dfbd8e80eb5955c71a8591a1dacabd4417f7a695",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/opinions/27427039",
+      "published_utc": "2026-05-16T07:00:00Z",
+      "title_en": "Doomsday weapon. The flight of \"Sarmat\" as a solution to US problems",
+      "lead_en": "Alexander Tsyganov - that the consequences of Russia’s successful launch of a new intercontinental missile go far beyond just the military",
+      "title_raw": "Оружие Судного дня. Полет \"Сармата\" как решение проблем США",
+      "lead_raw": "Александр Цыганов — о том, что последствия удачного запуска Россией новой межконтинентальной ракеты выходят далеко за рамки только военных",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "01476c15b37e329decfe97cca2f77a09c1da2a2a",
+      "fingerprint": "0f6d2ce9be1ab5545e09c03d369983441c1eb88c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27397959",
+      "published_utc": "2026-05-16T07:00:00Z",
+      "title_en": "Andrey Talalaev: I’m an inconvenient coach, especially with the management and players",
+      "lead_en": "The head coach of Baltika Kaliningrad, Andrei Talalaev, received the Silver Doe award as the best coach of 2025 according to the Federation of Sports Journalists of Russia. In an interview with TASS, he assessed the ending season for Baltika, highlighted the best and worst periods of the team, spoke about the conclusions drawn after two disqualifications, and also assessed the impact of changing the limit on foreign players on the level of the World - Russian Premier League (RPL)",
+      "title_raw": "Андрей Талалаев: я неудобный тренер, особенно с руководством и игроками",
+      "lead_raw": "Главный тренер калининградской \"Балтики\" Андрей Талалаев получил премию \"Серебряная лань\" как лучший наставник 2025 года по версии Федерации спортивных журналистов России. В интервью ТАСС он оценил завершающийся сезон для \"Балтики\", выделил лучший и худший периоды команды, рассказал о сделанных выводах после двух дисквалификаций, а также оценил влияние изменения лимита на легионеров на уровень Мир — Российской премьер-лиги (РПЛ)",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "04e120af04e621d8ed0d7ad6311ec2256e35007d",
+      "fingerprint": "e540485bd1e19a84cd8281d817d6676b64930ea6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27430987",
+      "published_utc": "2026-05-16T06:59:26Z",
+      "title_en": "The volume of trade between Tajikistan and the Russian Federation in the first quarter increased by 2.2%",
+      "lead_en": "According to the Khovar agency, at the end of 2025, the volume of trade turnover between the two countries reached $2.4 billion and the positive dynamics will continue in 2026",
+      "title_raw": "Объем торговли Таджикистана и РФ в I квартале вырос на 2,2%",
+      "lead_raw": "Как сообщает агентство Ховар, по итогам 2025 года объем товарооборота между двумя странами достиг $2,4 млрд и положительная динамика сохраняется и в 2026 году",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "be13c476320dc5cd5c5abf75c5520b43041a9f99",
+      "fingerprint": "7f3422f1a2aa8fd510e75eaeed1628bf309ae2a6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27430883",
+      "published_utc": "2026-05-16T06:46:54Z",
+      "title_en": "Expert Ilyashenko: Russia has turned from a “tea” country to a “coffee” country",
+      "lead_en": "According to the candidate of economic sciences, the greatest contribution to coffee culture in recent years has been made by the “coffee to go” format.",
+      "title_raw": "Эксперт Ильяшенко: Россия превратилась из \"чайной\" страны в \"кофейную\"",
+      "lead_raw": "Наибольший вклад в кофейную культуру, по словам кандидата экономических наук, в последние годы внес формат \"кофе с собой\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7a3ec7c18ad43b95dff8e2a079451acfc57811e6",
+      "fingerprint": "8a58f1455eb9a4d2e02a2907fc3f2633c6759ab8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27430947",
+      "published_utc": "2026-05-16T06:36:33Z",
+      "title_en": "\"Max\" will be used for distance learning in the Russian Federation",
+      "lead_en": "According to the innovation, universities will also have the right to use messenger for these purposes, in addition to the state information system “Modern Digital Educational Environment”.",
+      "title_raw": "\"Макс\" будут использовать для дистанционного обучения в РФ",
+      "lead_raw": "Согласно нововведению, вузы тоже будут вправе применять для этих целей помимо государственной информационной системы \"Современная цифровая образовательная среда\" мессенджер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "795d006b6d64e40565d09973e78f1f857ba9eaba",
+      "fingerprint": "6d162f849d18d76d1b503e2ef4cdd86346f201a3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27430909",
+      "published_utc": "2026-05-16T06:35:02Z",
+      "title_en": "Expert Migranyan: there will be no reorientation of Central Asia to the West regarding rare earths",
+      "lead_en": "In such a high-tech industry as the mining and processing of rare earth metals, Russia retains significant positions with more loyal and understandable terms of partnership, and China as the main investor and supplier of cheaper equipment, said Doctor of Economics",
+      "title_raw": "Эксперт Мигранян: переориентации Центральной Азии на Запад по редкоземам не будет",
+      "lead_raw": "В столь высокотехнологичной отрасли как добыча и переработка редкоземельных металлов сохраняются значительные позиции России с более лояльными и понятными условиями партнерства, и Китая как основного инвестора и поставщика более дешевого оборудования, заявила доктор экономических",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "92f35769ad893911289455e9b2786ce07dbbf652",
+      "fingerprint": "99ee89179382f2e205dafaf0e8d5a409d8529bb5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27430919",
+      "published_utc": "2026-05-16T06:32:34Z",
+      "title_en": "Russian karatekas in full force will go to Germany for the European Championship",
+      "lead_en": "The tournament will take place from May 20 to 24",
+      "title_raw": "Российские каратисты в полном составе поедут в Германию на чемпионат Европы",
+      "lead_raw": "Турнир пройдет с 20 по 24 мая",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d92ba4872b61d834852c6b0a4a72636976e8549b",
+      "fingerprint": "fa06a558901e4dc98b771a13f31334433d9dd422",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430871",
+      "published_utc": "2026-05-16T06:20:25Z",
+      "title_en": "Deputy commander Kum: Ukrainian Armed Forces are preventing the evacuation of affected residents of the Kherson region",
+      "lead_en": "At the same time, the military man noted that Russian soldiers, despite the difficulties, continue to work and help the population",
+      "title_raw": "Замкомандира Кум: ВСУ мешают эвакуировать пострадавших жителей Херсонщины",
+      "lead_raw": "При этом военный отметил, что российские солдаты, несмотря на сложности, продолжают работу и помогают населению",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "32ab981826073bb6cb4be0eee4c85f0444faf862",
+      "fingerprint": "3dfab534d6533dc4b8f7c52545eceea898fd3344",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430863",
+      "published_utc": "2026-05-16T06:16:23Z",
+      "title_en": "13 Ukrainian UAVs shot down over Russian regions",
+      "lead_en": "Air defense forces worked from 07:00 to 09:00 Moscow time",
+      "title_raw": "Над регионами России сбили 13 украинских БПЛА",
+      "lead_raw": "Силы ПВО работали в период с 07:00 до 09:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cab909577f9795b0d7c81a81ddf8254eac426e9e",
+      "fingerprint": "84a9fe1a82fc8ae17389977e4e2b99e4d722f925",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27430779",
+      "published_utc": "2026-05-16T06:03:08Z",
+      "title_en": "Work on GOST for Russian cuisine may be completed by the end of the year",
+      "lead_en": "Comments on the draft standard will be accepted until the end of May, said State Secretary - Deputy Head of the Ministry of Industry and Trade Roman Chekushov",
+      "title_raw": "Работу над ГОСТом на русскую кухню могут завершить к концу года",
+      "lead_raw": "Замечания по проекту стандарта принимаются до конца мая, сообщил статс-секретарь - замглавы Минпромторга Роман Чекушов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f28b552571664c664bfbc0dded4608a0d2222afb",
+      "fingerprint": "24d17a78bea1ea6676763bb8ccce2262996855e1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27430793",
+      "published_utc": "2026-05-16T06:02:30Z",
+      "title_en": "The Kremlin announced Putin's visit to China on May 19-20",
+      "lead_en": "The Russian President will discuss bilateral relations with Chinese President Xi Jinping",
+      "title_raw": "Кремль анонсировал визит Путина в Китай 19-20 мая",
+      "lead_raw": "Президент России обсудит с председателем КНР Си Цзиньпином вопросы двусторонних отношений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8d20b631e310ad6a2d677c0371fa497783d0a8d1",
+      "fingerprint": "e7c381c182d72580ba702751922685f122089814",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2131741",
+      "published_utc": "2026-05-16T05:51:39Z",
+      "title_en": "Russian army controls 85% of Krasny Liman, over 50% of Shiykovka — Gerasimov",
+      "lead_en": "The troops of the grouping are also successfully operating on the Boguslav and Rubtsovsk directions, the Chief of Russia’s General Staff Army General said",
+      "title_raw": "Russian army controls 85% of Krasny Liman, over 50% of Shiykovka — Gerasimov",
+      "lead_raw": "The troops of the grouping are also successfully operating on the Boguslav and Rubtsovsk directions, the Chief of Russia’s General Staff Army General said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cbcf458a35a0328f46d42492095d6cb1ebbd932f",
+      "fingerprint": "58e8eae5431462974fe9b5a19e02a08d045ea331",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2131739",
+      "published_utc": "2026-05-16T05:43:41Z",
+      "title_en": "Battlegroup West advances west in Kharkov Region — Chief of Russia’s General Staff",
+      "lead_en": "The destruction of enemy formations in Svyatogorsk in the Donetsk People's Republic continues, Valery Gerasimov said",
+      "title_raw": "Battlegroup West advances west in Kharkov Region — Chief of Russia’s General Staff",
+      "lead_raw": "The destruction of enemy formations in Svyatogorsk in the Donetsk People's Republic continues, Valery Gerasimov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "61e685628aeae2e59dbc72a82decba6a71a1b7e1",
+      "fingerprint": "690239fe8513fa741045fd23e4ec1c77b67061bc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27430703",
+      "published_utc": "2026-05-16T05:38:12Z",
+      "title_en": "NYT: Xi Jinping mentioned Putin during conversation with Trump",
+      "lead_en": "The President of the People's Republic of China, giving a tour of the Zhongnanhai residence for the US leader, recalled that he spoke in the same place in 2024 with the Russian President",
+      "title_raw": "NYT: Си Цзиньпин упомянул Путина во время беседы с Трампом",
+      "lead_raw": "Председатель КНР, проводя экскурсию по резиденции Чжуннаньхай для лидера США, напомнил, что беседовал в этом же месте в 2024 году с российским президентом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1aa149e406cc96f2d3fa4fb382e1433086df5826",
+      "fingerprint": "2b976dc457cf7aeb124426c5265b957dbea672dd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27430697",
+      "published_utc": "2026-05-16T05:35:49Z",
+      "title_en": "Lawyer Moiseev explained whether it is possible to consume goods in a store before payment",
+      "lead_en": "Associate Professor of the Department of Civil Law Disciplines of the Russian University of Economics. G.",
+      "title_raw": "Юрист Моисеев объяснил, можно ли употреблять товары в магазине до оплаты",
+      "lead_raw": "Доцент кафедры гражданско-правовых дисциплин РЭУ им. Г.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "121933154bca0662ec897e0db915a341e97eca45",
+      "fingerprint": "08affb1fd47e52a2afdcf2020c7fc1a98dc55ef6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27430695",
+      "published_utc": "2026-05-16T05:34:42Z",
+      "title_en": "The oldest Russian Olympic participant received neutral status",
+      "lead_en": "In total, as of May 16, the International Equestrian Federation approved neutral status for 155 representatives of Russian equestrian sports",
+      "title_raw": "Самая возрастная российская участница Олимпиад получила нейтральный статус",
+      "lead_raw": "Всего по состоянию на 16 мая Международная федерация конного спорта утвердила нейтральный статус 155 представителям российского конного спорта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ba1631b30896a925b3f13d2b35699c0982b3a1da",
+      "fingerprint": "7c597094d4948cbd670c3a190ee60b8194843e9e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27430693",
+      "published_utc": "2026-05-16T05:32:58Z",
+      "title_en": "The head of Eurovision allowed Russia to participate in the music competition",
+      "lead_en": "Martin Green noted that this could happen \"theoretically\"",
+      "title_raw": "Глава \"Евровидения\" допустил участие России в музыкальном конкурсе",
+      "lead_raw": "Мартин Грин отметил, что это может случится \"теоретически\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "332ebb163379ff8ad1414aefbc87b89eef5af6d9",
+      "fingerprint": "750a5634efbba4a396c92a286368d4794400a18c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2131737",
+      "published_utc": "2026-05-16T05:25:38Z",
+      "title_en": "Russian army liberates two settlements, continue fighting for four more — Gerasimov",
+      "lead_en": "Russia’s Battlegroup West is conducting active offensive operations within its area of responsibility along a frontline of approximately 350 kilometers, the Chief of Russia’s General Staff Army General said",
+      "title_raw": "Russian army liberates two settlements, continue fighting for four more — Gerasimov",
+      "lead_raw": "Russia’s Battlegroup West is conducting active offensive operations within its area of responsibility along a frontline of approximately 350 kilometers, the Chief of Russia’s General Staff Army General said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f80395abe67e4730073f181375d9ee877c06c74e",
+      "fingerprint": "51b5884ba6bb1a5c4e006b3d0893a58cf6a450d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27430683",
+      "published_utc": "2026-05-16T05:23:48Z",
+      "title_en": "In Russia, from June 1, the state duty for the allocation of numbering resources will be increased",
+      "lead_en": "The tariff for one telephone number from the numbering plan of the seventh world numbering zone for the telephone network will be 100 rubles",
+      "title_raw": "В России с 1 июня увеличат госпошлину за выделение ресурсов нумерации",
+      "lead_raw": "Тариф за один телефонный номер из плана нумерации седьмой зоны всемирной нумерации для телефонной сети составит 100 рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c6f64af08919448b227fdcfc0d71e2c2fa5458c7",
+      "fingerprint": "e619da37dfef22e58e3e2bd4d8482bd9ed96ceab",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27430673",
+      "published_utc": "2026-05-16T05:12:19Z",
+      "title_en": "\"Kortros\": a third of Russians surveyed consider repairs to be the most difficult part of moving",
+      "lead_en": "Packing things was in second place in terms of stress during a move, according to the survey data",
+      "title_raw": "\"Кортрос\": треть опрошенных россиянин считает ремонт самым тяжелым при переезде",
+      "lead_raw": "На втором месте по уровню стресса во время переезда оказалась упаковка вещей, следует из данных опроса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5c3131ad5dbde2a651dcdc98b294aa269790f8fa",
+      "fingerprint": "a6fb296c24bcc36f3a7767aab18958c90e2a6909",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2131731",
+      "published_utc": "2026-05-16T05:01:10Z",
+      "title_en": "Chief of Russia’s General Staff inspects Battlegroup West",
+      "lead_en": "Valery Gerasimov praised the performance of the battlegroup and set further objectives",
+      "title_raw": "Chief of Russia’s General Staff inspects Battlegroup West",
+      "lead_raw": "Valery Gerasimov praised the performance of the battlegroup and set further objectives",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3f43c1ac5edac57d2201d3f3579f3a3ea1bf951f",
+      "fingerprint": "a10c2f81c08dcfdba3a48c2e20085fa1d8a53fe7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27430411",
+      "published_utc": "2026-05-16T04:46:44Z",
+      "title_en": "Ex-General Foglesong: Russia and the USA know how to unite",
+      "lead_en": "Moscow’s commitment to the task of the Commission on Prisoners of War and Missing Persons is a clear indicator that “we are doing one common thing when it comes to humanitarian missions,” the expert noted",
+      "title_raw": "Экс-генерал Фоглсонг: Россия и США знают, как объединяться",
+      "lead_raw": "Приверженность Москвы задаче Комиссии по делам военнопленных и пропавших без вести пропавших ясный показатель того, что \"мы делаем одно общее дело, когда речь идет о гуманитарных миссиях\", отметил эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "411ded28c8fb73257bd1513cadcceda3b25870dd",
+      "fingerprint": "e6f064f1650150c9dc3199bd03924636fc23288f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430499",
+      "published_utc": "2026-05-16T04:43:19Z",
+      "title_en": "The Russian Armed Forces took control of 85% of the territory of Krasny Liman",
+      "lead_en": "Russian troops are conducting street battles to liberate the city, said Chief of the General Staff Valery Gerasimov",
+      "title_raw": "ВС РФ взяли под контроль 85% территории Красного Лимана",
+      "lead_raw": "Российские войска ведут уличные бои по освобождению города, сообщил начальник Генштаба Валерий Герасимов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "32fefd408c09277a258dceb947c166de125431e0",
+      "fingerprint": "b6ce29c906dd732c85a338bfcbf72c649e87c166",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430471",
+      "published_utc": "2026-05-16T04:43:07Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are conducting street battles in Shiykovka",
+      "lead_en": "More than 50% of the village’s territory is controlled by Russian attack aircraft, said the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: ВС РФ ведут уличные бои в Шийковке",
+      "lead_raw": "Более 50% территории поселка контролируют российские штурмовики, сообщил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6f688eb4216459cc34bf90dd4cb52396c208de83",
+      "fingerprint": "17282123f9d8b7b9d025cb5f23466acda0dafc0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430459",
+      "published_utc": "2026-05-16T04:42:51Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are successfully operating in the Boguslav and Rubtsovsk directions",
+      "lead_en": "Fighters from the West group of forces are operating on these lines, the Chief of the General Staff of the Russian Armed Forces said.",
+      "title_raw": "Герасимов: ВС РФ успешно действуют на богуславском и рубцовском направлениях",
+      "lead_raw": "На этих рубежах действуют бойцы группировки войск \"Запад\", уточнил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5e805bab5c3f107303d69d74493e1b65910751fe",
+      "fingerprint": "48dad3ea46852935f4fc3d268cdeb710e539241c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430491",
+      "published_utc": "2026-05-16T04:42:39Z",
+      "title_en": "Gerasimov: The Russian Armed Forces continue to destroy Ukrainian Armed Forces units in Svyatogorsk",
+      "lead_en": "This was announced by Chief of the General Staff Valery Gerasimov",
+      "title_raw": "Герасимов: ВС РФ продолжают уничтожение формирований ВСУ в Святогорске",
+      "lead_raw": "Об этом сообщил начальник Генштаба Валерий Герасимов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "747f0fac21811de03d6e7bc76703e87e5d680155",
+      "fingerprint": "4bd9a6ce1d033c25e1f95653fec764c64ec7dff0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430453",
+      "published_utc": "2026-05-16T04:42:33Z",
+      "title_en": "Gerasimov: VS RF liberated Kutkovka",
+      "lead_en": "Russian soldiers continue to fight in Velikaya Shapkovka, said the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: ВС РФ освободили Кутьковку",
+      "lead_raw": "Российские солдаты продолжают вести бои в Великой Шапковке, сообщил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6a272243f067dbb8076c5fe9c174e8a42d5ad138",
+      "fingerprint": "f1da6cc4826be83e155af974ac3db2ed0de3d752",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430445",
+      "published_utc": "2026-05-16T04:42:23Z",
+      "title_en": "Gerasimov: The Russian Armed Forces are developing an offensive in the west of Kupyansk",
+      "lead_en": "The general direction of offensive actions is towards Shevchenkovo, said the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: ВС РФ развивают наступление на западе от Купянска",
+      "lead_raw": "Общее направление наступательных действий идет на Шевченково, сообщил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c8065b3cbe68084e4e24fa339b05b038745e32b7",
+      "fingerprint": "f83dc2be34a91efccb5aa17c1c00fda6518780b3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430485",
+      "published_utc": "2026-05-16T04:42:22Z",
+      "title_en": "The Russian Armed Forces are fighting to liberate Novy Mir, Druzhelyubovka and Cherneshchyna",
+      "lead_en": "This was announced during a visit to the West grouping of troops by Chief of the General Staff Army General Valery Gerasimov",
+      "title_raw": "ВС РФ ведут бои по освобождению Нового Мира, Дружелюбовки и Чернещины",
+      "lead_raw": "Об этом сообщил в ходе посещения группировки войск \"Запад\" начальник Генштаба генерал армии Валерий Герасимов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "332b8a85288464f468f97cf6a900e316e1090349",
+      "fingerprint": "cf4a40a8111481e28b845b4ec25cf13151612bea",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430439",
+      "published_utc": "2026-05-16T04:42:05Z",
+      "title_en": "Gerasimov: the West group is conducting active offensive operations",
+      "lead_en": "The width of the front is about 350 km, said the Chief of the General Staff of the Russian Armed Forces",
+      "title_raw": "Герасимов: группировка \"Запад\" ведет активные наступательные действия",
+      "lead_raw": "Ширина фронта составляет около 350 км, сообщил начальник Генштаба ВС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "567a1702922228b8d0c123b919734357c6a170d5",
+      "fingerprint": "ff7d53e318985621652b77765e3006b8607b362d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430477",
+      "published_utc": "2026-05-16T04:41:55Z",
+      "title_en": "The Russian Armed Forces advance west in the Kharkov region, completing the liberation of the LPR",
+      "lead_en": "This was announced during a visit to the West grouping of troops by Chief of the General Staff Army General Valery Gerasimov",
+      "title_raw": "ВС РФ наступают на запад в Харьковской области, завершив освобождение ЛНР",
+      "lead_raw": "Об этом сообщил в ходе посещения группировки войск \"Запад\" начальник Генштаба генерал армии Валерий Герасимов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3edc01d31c75d87ea63c6115c31012000de8ab1a",
+      "fingerprint": "980a89735879e9688b10b90e71231b7f103a7953",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430465",
+      "published_utc": "2026-05-16T04:41:26Z",
+      "title_en": "The Russian Armed Forces liberated the village of Borovaya",
+      "lead_en": "This was announced by Chief of the General Staff Valery Gerasimov",
+      "title_raw": "ВС РФ освободили населенный пункт Боровая",
+      "lead_raw": "Об этом сообщил начальник Генштаба Валерий Герасимов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "37942cb97ab58ebbbbbc0979eea21548f169f4ec",
+      "fingerprint": "3dfac422d7f5c4f9e519c94a9d263fcf16feb0b4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27430395",
+      "published_utc": "2026-05-16T04:36:37Z",
+      "title_en": "About 70% of Russians surveyed spent the May holidays at home",
+      "lead_en": "Domestic tourism remains the main direction for travelers, according to data from a joint study by the fintech company YuMoney and the federal mobile virtual operator Sbermobile.",
+      "title_raw": "Около 70% опрошенных россиян провели майские праздники дома",
+      "lead_raw": "Главным направлением для путешественников остается внутренний туризм, свидетельствуют данные совместного исследования финтех-компании ЮMoney и федерального мобильного виртуального оператора \"Сбермобайл\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c1e83636869e5b1d2ba685336acaee62b8d4fd31",
+      "fingerprint": "02ac961639248276a3b204ca1e8f6bcca9d6f60e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27430377",
+      "published_utc": "2026-05-16T04:31:18Z",
+      "title_en": "Commander Swat: the \"North\" group disrupted the logistics of the Ukrainian Armed Forces in the Kharkov region",
+      "lead_en": "Russian fighters destroyed delivery vehicles and ammunition depots, a serviceman said",
+      "title_raw": "Командир Сват: группировка \"Север\" нарушила логистику ВСУ в Харьковской области",
+      "lead_raw": "Российские бойцы уничтожили средства доставки и склады боекомплекта, сообщил военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e2b2d4fbc8cab8dc12bfa520a83a26106f8c025c",
       "fingerprint": "cf5fe4a09ec876b3d1efb6efb7d82057822bd9a1",
@@ -104,6 +828,26 @@
         "military"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "0629642b4cebd79a855b3766932d763cf72ed17f",
+      "fingerprint": "0fd8a3a61168f49d084fd2fda609ab9755d19aed",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2131723",
+      "published_utc": "2026-05-16T03:49:30Z",
+      "title_en": "Over 2,740 US citizens travel to Russia since start of 2026",
+      "lead_en": "The figure is higher than during the same period in 2025 by nearly 190",
+      "title_raw": "Over 2,740 US citizens travel to Russia since start of 2026",
+      "lead_raw": "The figure is higher than during the same period in 2025 by nearly 190",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
     },
     {
       "id": "63f1dcc87403392476b6bbf6686b2915e0d07e7f",
@@ -212,6 +956,28 @@
         "military"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "ab746b277ac1f66f65cc7c903de32c92071254d7",
+      "fingerprint": "f7f49facea612da1d90fb8f69e77613ba6a4b196",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2131719",
+      "published_utc": "2026-05-16T02:58:41Z",
+      "title_en": "Brazilian president’s special envoy to visit Russia on May 25 — newspaper",
+      "lead_en": "According to Metropoles, Celso Amorim is expected to hold diplomatic consultations during the trip",
+      "title_raw": "Brazilian president’s special envoy to visit Russia on May 25 — newspaper",
+      "lead_raw": "According to Metropoles, Celso Amorim is expected to hold diplomatic consultations during the trip",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "878fe2634c951d6d8ffd5daf3d4c65549e420b4d",
@@ -443,6 +1209,28 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "e12abf4ccd2fcf9468f31fd9f7ce88e666a763a2",
+      "fingerprint": "1caee221168ae5abc8303a6f7fdfdf767dea2b01",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2131711",
+      "published_utc": "2026-05-16T00:50:42Z",
+      "title_en": "Four Russian civilians killed during Victory Day ceasefire — diplomat",
+      "lead_en": "According to Rodion Miroshnik, 47 civilians were injured in the period",
+      "title_raw": "Four Russian civilians killed during Victory Day ceasefire — diplomat",
+      "lead_raw": "According to Rodion Miroshnik, 47 civilians were injured in the period",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
     },
     {
       "id": "25e4cfd08b5008e68c79418a6c111affcb2c9bb7",
@@ -10307,268 +11095,6 @@
       "lead_en": "Everyone is tired of Vladimir Zelensky, the Russian senator from the Kherson region emphasized",
       "title_raw": "Сенатор Кастюкевич: дело Ермака может помочь Западу избавиться от Зеленского",
       "lead_raw": "Владимир Зеленский всем надоел, подчеркнул сенатор РФ от Херсонской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b53121f785c164fac9cdff4f54d684fc88be2658",
-      "fingerprint": "4e31328710ecad62888a5c8946308805a7865633",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27405241",
-      "published_utc": "2026-05-14T07:14:01Z",
-      "title_en": "Hero of Russia Suvorov: the experience of the CTO in the Caucasus turned out to be useful in the special operation zone",
-      "lead_en": "The deputy commander of the assault company of the separate volunteer reconnaissance assault brigade \"Veterans\" noted that the teachers there were good",
-      "title_raw": "Герой России Суворов: опыт КТО на Кавказе оказался полезен в зоне спецоперации",
-      "lead_raw": "Заместитель командира штурмовой роты отдельной добровольческой разведывательной штурмовой бригады \"Ветераны\" отметил, что учителя там были хорошие",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "bd3639eb3672a021a84ce3f9a7fd77705f6e6a38",
-      "fingerprint": "6c78ca29df0630da2e53a7e87a272c943e94e964",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27405587",
-      "published_utc": "2026-05-14T07:11:41Z",
-      "title_en": "The first hotline in the Russian Federation to search for wounded SVO participants was launched in the Urals",
-      "lead_en": "It will operate daily from 09:00 to 19:00 local time",
-      "title_raw": "На Урале запустили первую в РФ горячую линию для поиска раненых участников СВО",
-      "lead_raw": "Она будет работать ежедневно с 09:00 до 19:00 по местному времени",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f50f241e132d288202ed459f3bca170fe00b047b",
-      "fingerprint": "b35d9629a58e0a2620d45c3952f9348446a270f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27404921",
-      "published_utc": "2026-05-14T07:11:38Z",
-      "title_en": "Medvedev believes that Zelensky's successor will accept all US demands",
-      "lead_en": "According to the deputy head of the Russian Security Council, the replacement may, among other things, agree to surrender",
-      "title_raw": "Медведев считает, что преемник Зеленского примет все требования США",
-      "lead_raw": "По словам замглавы Совбеза РФ, сменщик может в том числе согласиться на капитуляцию",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c162d9449e792e8dbc113fd7a3def8fa9cae7a3f",
-      "fingerprint": "d4aa1034cea17846ff42b021563e199559462498",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27405551",
-      "published_utc": "2026-05-14T07:02:11Z",
-      "title_en": "The Russian stock market is declining at the beginning of the main trading session",
-      "lead_en": "The yuan fell to 10.79 rubles",
-      "title_raw": "Российский рынок акций в начале основной торговой сессии снижается",
-      "lead_raw": "Курс юаня падал до 10,79 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "48ada194a925e3e4ea2a2e7f10fd211da291dc1b",
-      "fingerprint": "c1de48a4597c8446f20642b27d4d2295ca5bc74c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27405355",
-      "published_utc": "2026-05-14T06:51:47Z",
-      "title_en": "Medvedev called the Ermak case in Ukraine a public civil execution",
-      "lead_en": "The refusal of Western capitals from previously discussed assistance, as noted by the Deputy Chairman of the Security Council of the Russian Federation, became another difficulty for Kyiv",
-      "title_raw": "Медведев назвал публичной гражданской казнью дело Ермака на Украине",
-      "lead_raw": "Отказ западных столиц от ранее обсуждавшейся помощи, как отметил зампредседателя Совета безопасности РФ, стал еще одной сложностью для Киева",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "196b8013207780dd7e33fb3083bdb10290e0704e",
-      "fingerprint": "27416c1eee0a1c8380325e07b425748bd40becf6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27405383",
-      "published_utc": "2026-05-14T06:46:59Z",
-      "title_en": "The Investigative Committee began an investigation after a fire on Vernisazhnaya Street in Moscow",
-      "lead_en": "Chairman of the Investigative Committee of the Russian Federation Alexander Bastrykin demanded a report",
-      "title_raw": "СК начал проверку после пожара на Вернисажной улице в Москве",
-      "lead_raw": "Председатель Следственного комитета РФ Александр Бастрыкин потребовал доклад",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e5c58b1c4285ffeed3d991cf46ffba301762d6e0",
-      "fingerprint": "5b775bcf0ac57f2a76cbe2e7e1ab96c87e6e31a7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27405317",
-      "published_utc": "2026-05-14T06:44:00Z",
-      "title_en": "Yanchuk believes that tennis player Khachanov showed a good game at the tournament in Rome",
-      "lead_en": "The Russian reached the quarterfinals of the competition",
-      "title_raw": "Янчук считает, что теннисист Хачанов показал хорошую игру на турнире в Риме",
-      "lead_raw": "Россиянин дошел до четвертьфинала соревнования",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "bcee0517592ba34f38373bd0b8e3e516df5b565b",
-      "fingerprint": "57cc672450a644a6bb8638e68de38db8849c1eae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27405185",
-      "published_utc": "2026-05-14T06:31:23Z",
-      "title_en": "Kaprizov commented on the episode with Colorado’s winning goal",
-      "lead_en": "Shortly before the capture, the Russian made an inaccurate pass in the opponent's zone",
-      "title_raw": "Капризов прокомментировал эпизод с победным голом \"Колорадо\"",
-      "lead_raw": "Незадолго до взятия россиянин отдал неточную передачу в чужой зоне",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3df83acf8478000877f092979e86a7458f2c8765",
-      "fingerprint": "da32b0b731afed205ba89f45613c46adbdd6cf17",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kosmos/27405027",
-      "published_utc": "2026-05-14T06:25:36Z",
-      "title_en": "Russians will be able to see an asteroid flying past Earth through large telescopes",
-      "lead_en": "By the night of May 18-19, before flying past the Earth, it will quickly go into the southern celestial hemisphere, noted Mikhail Maslov, an engineer at the Vega Observatory of NSU.",
-      "title_raw": "Россияне смогут увидеть летящий мимо Земли астероид в большие телескопы",
-      "lead_raw": "К ночи 18-19 мая, перед пролетом мимо Земли, он быстро уйдет в южное небесное полушарие, отметил инженер обсерватории \"Вега\" НГУ Михаил Маслов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9a6644288b12f698b724bdaa539ad722da51f62d",
-      "fingerprint": "83f81ce6d01220ee4a17b26f872b488e2f53d70a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27405119",
-      "published_utc": "2026-05-14T06:25:01Z",
-      "title_en": "Russian table tennis players will perform at the European Championships",
-      "lead_en": "The tournament will take place in Romania from June 17 to 21",
-      "title_raw": "Российские игроки в настольный теннис выступят на первенстве Европы",
-      "lead_raw": "Турнир состоится в Румынии с 17 по 21 июня",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f2f4d11343790fcdbc5b1073aecc6b077b633ead",
-      "fingerprint": "abb1511a912e874b4fa00c43ca8e6943094f3d84",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27404361",
-      "published_utc": "2026-05-14T04:45:15Z",
-      "title_en": "Safonov: It was important for PSG to prove that the club is a champion by right",
-      "lead_en": "The Russian goalkeeper became the French football champion for the second time",
-      "title_raw": "Сафонов: ПСЖ было важно доказать, что клуб является чемпионом по праву",
-      "lead_raw": "Российский голкипер во второй раз стал чемпионом Франции по футболу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ea40da63fa01ffa75f328cc2c04efafb947fc8ec",
-      "fingerprint": "256bc70bbcbcff1ba4741eebd656a7f89dc7e3c6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27404315",
-      "published_utc": "2026-05-14T04:39:04Z",
-      "title_en": "About 180 thousand lost pets found in Russia in 2025",
-      "lead_en": "According to information from the pet search system Pet911.ru and the PetKa service, cats were the most frequently lost animals.",
-      "title_raw": "В России нашли около 180 тыс. потерявшихся домашних животных в 2025 году",
-      "lead_raw": "По информации системы поиска домашних животных Pet911.ru и сервиса PetKa, чаще всего терялись кошки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4657137da2d09bc73d5fe8d25641a0e2b022d3f8",
-      "fingerprint": "71551fbfb94a887967b8883a2c80c34ef9e2a2c4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27404313",
-      "published_utc": "2026-05-14T04:33:12Z",
-      "title_en": "Commander Swat: The Russian Armed Forces quickly identify the positions of the Armed Forces of Ukraine, from where they attack civilians",
-      "lead_en": "",
-      "title_raw": "Командир Сват: ВС РФ быстро выявляют позиции ВСУ, откуда бьют по гражданским",
-      "lead_raw": "",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
