@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-05-18T12:36:51Z",
+  "updated_at_utc": "2026-05-18T16:28:57Z",
   "topic": "energy",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "4780e59d821d33f3e9a46e65eae1860ffd8a5be1",
+      "fingerprint": "957c0395eb0bfcdbf3dfccf17063328fdbd5cc38",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27449537",
+      "published_utc": "2026-05-18T15:31:23Z",
+      "title_en": "Reuters: The United States will extend the easing of sanctions on transactions with oil from the Russian Federation for 30 days",
+      "lead_en": "According to the agency, several countries previously asked for this in order to have more time to purchase Russian oil.",
+      "title_raw": "Reuters: США продлят на 30 дней ослабление санкций на операции с нефтью из РФ",
+      "lead_raw": "Как пишет агентство, ранее несколько стран попросили об этом, чтобы иметь больше времени на закупку российской нефти",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "53d6384a8bb3eeef524fb38d8fda6cc757a6ce1f",
+      "fingerprint": "d7c92700f644b3e21f4d2191deff3b8502aeeea2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/18/a-14-year-old-girl-vanished-in-russia-after-a-drone-strike-burned-her-family-s-home-to-the-ground-her-body-was-never-found",
+      "published_utc": "2026-05-18T15:25:57Z",
+      "title_en": "A 14-year-old girl vanished in Russia after a drone strike burned her family’s home to the ground. Her body was never found.",
+      "lead_en": "Ukrainian drones struck Tuapse in the early hours of April 16 — the first in a series of large-scale attacks on the Tuapse oil refinery and the Rosneft marine terminal that together caused an environmental disaster in the city.",
+      "title_raw": "A 14-year-old girl vanished in Russia after a drone strike burned her family’s home to the ground. Her body was never found.",
+      "lead_raw": "Ukrainian drones struck Tuapse in the early hours of April 16 — the first in a series of large-scale attacks on the Tuapse oil refinery and the Rosneft marine terminal that together caused an environmental disaster in the city.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "fb802f97b0db4e66df4d7b133a29226a689d2772",
       "fingerprint": "9911b164d0d8126209c3b531a0b303fb7c315453",
@@ -291,30 +335,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "09f5021d1ff47ff377c1a26140ef8addc8760897",
-      "fingerprint": "c8388cec63bf35d50d7ffcdb7ed22c507f5ec106",
-      "source": "RT",
-      "url": "https://www.rt.com/news/640052-beijing-moscow-sanctions-partnership",
-      "published_utc": "2026-05-16T12:48:11Z",
-      "title_en": "Beijing can no longer treat Moscow as a junior partner",
-      "lead_en": "Russia and China are being pushed toward deeper strategic interdependence by sanctions, energy security, geography and Eurasian trade routes Read Full Article at RT.com",
-      "title_raw": "Beijing can no longer treat Moscow as a junior partner",
-      "lead_raw": "Russia and China are being pushed toward deeper strategic interdependence by sanctions, energy security, geography and Eurasian trade routes Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
