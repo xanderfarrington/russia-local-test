@@ -1,8 +1,616 @@
 {
-  "updated_at_utc": "2026-05-19T16:24:47Z",
+  "updated_at_utc": "2026-05-19T19:04:08Z",
   "keep_hours": 48,
-  "count": 474,
+  "count": 480,
   "articles": [
+    {
+      "id": "3150a2455ef60ac2a925335202449b31636752ec",
+      "fingerprint": "fe4872633d38cb51f34fe00b00ac98b282276f9a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133199",
+      "published_utc": "2026-05-19T19:01:53Z",
+      "title_en": "Air defenses destroy 56 Ukrainian UAVs over Russian regions within another six-hour period",
+      "lead_en": "The ministry reported earlier in the day that it destroyed 70 Ukrainian UAVs over various Russian regions between 8:00 a.m. and 2:00 p.m.",
+      "title_raw": "Air defenses destroy 56 Ukrainian UAVs over Russian regions within another six-hour period",
+      "lead_raw": "The ministry reported earlier in the day that it destroyed 70 Ukrainian UAVs over various Russian regions between 8:00 a.m. and 2:00 p.m.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "823b3a8af197ff61313f60117a56a177d24973d0",
+      "fingerprint": "030d04a85f2e01b390d9774b66f1b0ceb75f4db2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2133195",
+      "published_utc": "2026-05-19T18:50:35Z",
+      "title_en": "Russia to cooperate with Chinese universities, companies in high-tech sector — ASI",
+      "lead_en": "Svetlana Chupsheva noted that international cooperation is expanding in high-tech medicine and creative industries",
+      "title_raw": "Russia to cooperate with Chinese universities, companies in high-tech sector — ASI",
+      "lead_raw": "Svetlana Chupsheva noted that international cooperation is expanding in high-tech medicine and creative industries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2cecdc2a670aca529b4161c86f163af73b8d8806",
+      "fingerprint": "58093d402bcd63ab755529873ebb9033bd3258b3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133187",
+      "published_utc": "2026-05-19T18:35:24Z",
+      "title_en": "Russia, China to discuss energy projects during Russian delegation's visit — Novak",
+      "lead_en": "Moscow is satisfied with the ongoing cooperation with China on oil and gas supplies, the Russian deputy prime minister noted",
+      "title_raw": "Russia, China to discuss energy projects during Russian delegation's visit — Novak",
+      "lead_raw": "Moscow is satisfied with the ongoing cooperation with China on oil and gas supplies, the Russian deputy prime minister noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37a7b5cdd935c44ae65851ef164b307221eef437",
+      "fingerprint": "31125e09f137439a2f8590f1f94dfb4d15ec6d4b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27462817",
+      "published_utc": "2026-05-19T18:30:42Z",
+      "title_en": "FSTEC allowed mandatory signature of software using Russian cryptography",
+      "lead_en": "To implement it, it is necessary to work out the mechanisms, said the head of the service department, Dmitry Shevtsov.",
+      "title_raw": "ФСТЭК допустила обязательную подпись ПО российской криптографией",
+      "lead_raw": "Для реализации нужно отработать механизмы, указал начальник управления службы Дмитрий Шевцов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "66b7afb76f7af974c76797c114f316902c123fea",
+      "fingerprint": "fc8295da6e678400d5807b6fe02d4ade83bbdb8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27462757",
+      "published_utc": "2026-05-19T18:30:39Z",
+      "title_en": "United Russia will control the quality of road repairs in Chuvashia",
+      "lead_en": "A record 12 billion rubles will be spent on road infrastructure in the region this year",
+      "title_raw": "\"Единая Россия\" проконтролирует качество ремонта дорог в Чувашии",
+      "lead_raw": "На сферу дорожного хозяйства в регионе в этом году потратят рекордные 12 млрд рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a58796f51a589105f2c31f02795c0f8de8fea3b5",
+      "fingerprint": "9a925ca6e977d1f58cc749b33cbd0434baf35703",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133181",
+      "published_utc": "2026-05-19T18:24:14Z",
+      "title_en": "Boosting Russian oil transit to China via Kazakhstan being finalized — Novak",
+      "lead_en": "The Russian deputy prime minister said that this agreement was reached long ago",
+      "title_raw": "Boosting Russian oil transit to China via Kazakhstan being finalized — Novak",
+      "lead_raw": "The Russian deputy prime minister said that this agreement was reached long ago",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9286fa1ffc123511344a71d4f9bd6e559c409790",
+      "fingerprint": "b5950d024a91de1b02e7133e176abab2ea5dc8cb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27461759",
+      "published_utc": "2026-05-19T18:24:11Z",
+      "title_en": "The plant in the Urals was the first in the Russian Federation to begin producing spare parts for diesel locomotive engines",
+      "lead_en": "VSMPO-Avisma Corporation for the first time produced steel stamping for the crankshaft of a diesel engine",
+      "title_raw": "Завод на Урале первым в РФ начал производить запчасти для двигателей тепловозов",
+      "lead_raw": "Корпорация \"ВСМПО-Ависма\" впервые изготовила стальную штамповку для коленчатого вала дизельного двигателя",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "82f043d84c37a3dc22066368032f8dec3fff9386",
+      "fingerprint": "fc7ef91d287b9ddec9a13158039409bf26d4e0ca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27462697",
+      "published_utc": "2026-05-19T18:20:52Z",
+      "title_en": "Wagenknecht called Schroeder's mediation in negotiations with the Russian Federation a good idea",
+      "lead_en": "The founder of the German BSW party recalled that from the very beginning of the conflict in Ukraine she has been in favor of holding negotiations with Russia",
+      "title_raw": "Вагенкнехт назвала неплохой идеей посредничество Шрёдера на переговорах с РФ",
+      "lead_raw": "Основательница германской партии BSW напомнила, что с самого начала конфликта на Украине выступает за проведение переговоров с Россией",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1526cbda84ede1081854862828c3b9c59f67598f",
+      "fingerprint": "fe8fbb43d58fefd1c34d8e44b17b2107cc6779bf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27462767",
+      "published_utc": "2026-05-19T18:20:23Z",
+      "title_en": "The exhibition \"Flowers. Symbol of Beauty\" opened at the Tretyakov Gallery",
+      "lead_en": "The exhibition also includes sculpture, vases by Russian masters and works by Emile Galle",
+      "title_raw": "В Третьяковской галерее открылась выставка \"Цветы. Символ красоты\"",
+      "lead_raw": "В экспозиции также можно увидеть скульптуру, вазы российских мастеров и изделия Эмиля Галле",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bcf9f1f069f8da38f1e5b1bbb4d039d399d734bd",
+      "fingerprint": "e55717c09c7be823fe1594ad6818aa3d332c17e7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133169",
+      "published_utc": "2026-05-19T18:12:52Z",
+      "title_en": "US appears to sincerely want Ukrainian conflict to end — Russian diplomat",
+      "lead_en": "\"But Washington has a lot of other priorities as well,\" Vasily Nebenzya said",
+      "title_raw": "US appears to sincerely want Ukrainian conflict to end — Russian diplomat",
+      "lead_raw": "\"But Washington has a lot of other priorities as well,\" Vasily Nebenzya said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c9fe82875a60a3e015fd69f4d98a437c2ceff2f1",
+      "fingerprint": "273645ef7dffa44741726433e5cf201721892a0a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27462601",
+      "published_utc": "2026-05-19T17:58:45Z",
+      "title_en": "56 Ukrainian UAVs were shot down over Russian regions in six hours",
+      "lead_en": "Air defense forces worked from 14:00 to 20:00 Moscow time",
+      "title_raw": "Над регионами России за шесть часов сбили 56 украинских БПЛА",
+      "lead_raw": "Силы ПВО работали с 14:00 до 20:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "15fd6cad2a68c8c7e1528fb64bd361a73ecbaa48",
+      "fingerprint": "497f6b0aac2a47003f9708c089541b87cd82e1b7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27462565",
+      "published_utc": "2026-05-19T17:54:52Z",
+      "title_en": "Vance: US plan is not for Iranian uranium to be transferred to Russia",
+      "lead_en": "The American vice president noted that the issue of uranium transfer is being discussed at the negotiations",
+      "title_raw": "Вэнс: план США не заключается в том, чтобы иранский уран передали России",
+      "lead_raw": "Американский вице-президент отметил, что вопрос передачи урана обсуждается на переговорах",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "003c037c49159dcc1d3313c02c578a4f01c0eeab",
+      "fingerprint": "850576396e43fdd71742699db428339aa24b6baf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27462559",
+      "published_utc": "2026-05-19T17:54:40Z",
+      "title_en": "Murashko said there is no risk of Ebola spreading in Russia",
+      "lead_en": "The epicenter of the current Ebola outbreak is in the eastern DRC in Ituri province, bordering Uganda.",
+      "title_raw": "Мурашко заявил об отсутствии риска распространения Эболы в России",
+      "lead_raw": "Эпицентр нынешней вспышки Эболы находится на востоке ДРК в провинции Итури, граничащей с Угандой",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "998438694a1a90600777e7fca1030f24c90ca1b2",
+      "fingerprint": "d8d84f97504d3f61a17ae49876872657ebe9c971",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27462513",
+      "published_utc": "2026-05-19T17:54:16Z",
+      "title_en": "The Council of Judges of the Russian Federation approved the regulation on mentoring",
+      "lead_en": "In addition, a decision was made on more active participation of the council in the implementation of state policy in the field of patriotic activities",
+      "title_raw": "Совет судей РФ утвердил положение о наставничестве",
+      "lead_raw": "Кроме того, принято решение о более активном участии совета в реализации госполитики в области патриотической деятельности",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "86fe685efdb70d2c87ae6d1add42eff94e45c631",
+      "fingerprint": "6b6073e220c31eada94941411e221cf31f193b29",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2133159",
+      "published_utc": "2026-05-19T17:42:59Z",
+      "title_en": "Chinese man who met Putin in 2000 eager to build Russia-China friendship bridge",
+      "lead_en": "Peng Pai also revealed that it was a memorable encounter with Putin years ago that inspired him to pursue higher education in Russia",
+      "title_raw": "Chinese man who met Putin in 2000 eager to build Russia-China friendship bridge",
+      "lead_raw": "Peng Pai also revealed that it was a memorable encounter with Putin years ago that inspired him to pursue higher education in Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7106cffd02c752c8fe5cd4b5b8f1478ebb5c4c61",
+      "fingerprint": "78cbd0dd0e0d72f916ddd643b9958e0a88874165",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27462473",
+      "published_utc": "2026-05-19T17:41:44Z",
+      "title_en": "Hero of Russia Sergei Bogdan made the first flight on the Su-57D",
+      "lead_en": "The flight took place normally in accordance with the conditions of the flight mission, Rostec reported.",
+      "title_raw": "Герой России Сергей Богдан совершил первый полет на Су-57Д",
+      "lead_raw": "Вылет прошел штатно в соответствии с условиями полетного задания, сообщили в Ростехе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7808b090879e26369e84b78098ec3be4040df3d9",
+      "fingerprint": "e2bc05860f013216f0c408e5443e3a629bac8227",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27462407",
+      "published_utc": "2026-05-19T17:26:46Z",
+      "title_en": "Murashko called early diagnosis of rare diseases one of the achievements of the Russian Federation",
+      "lead_en": "The Minister of Health noted that Russia is an active participant in the development of many initiatives within the WHO, including assistance to patients with hemophilia and other rare diseases",
+      "title_raw": "Мурашко назвал раннюю диагностику редких заболеваний одним из достижений РФ",
+      "lead_raw": "Министр здравоохранения отметил, что Россия является активным участником разработки многих инициатив в рамках ВОЗ, включая помощь пациентам с гемофилией и другими редкими заболеваниями",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1f3cfd791a395b952d90b3c13a6402d2e399709c",
+      "fingerprint": "3fb0ff45de54f15bf56205a6fa52f25a2e54a7a3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27462351",
+      "published_utc": "2026-05-19T17:17:33Z",
+      "title_en": "Virtual security will be discussed at the Digital Industry of Industrial Russia",
+      "lead_en": "The main topics for discussion will be issues related to digital solutions in civil aviation, as well as the readiness of digital infrastructure for failures",
+      "title_raw": "На \"Цифровой индустрии промышленной России\" обсудят виртуальную безопасность",
+      "lead_raw": "Основными для дискуссии станут вопросы, связанные с цифровыми решениями в гражданской авиации, а также готовность цифровой инфраструктуры к сбоям",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "83178a5c26e2fe123cb7a25ee95e4cc08948f723",
+      "fingerprint": "7a868b17c7544604abba37077323d08802cb5508",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27461641",
+      "published_utc": "2026-05-19T17:16:53Z",
+      "title_en": "Investments of Russian divisions of Rockwool will amount to 10 billion rubles until 2028",
+      "lead_en": "The money will be used to restore competencies for the military-industrial complex and launch a new line of prefabricated modular buildings, said Timur Amirov, CEO of Construction Asset Development JSC",
+      "title_raw": "Инвестиции российских подразделений Rockwool составят 10 млрд рублей до 2028 года",
+      "lead_raw": "Деньги пойдут на восстановление компетенций для ВПК и запуск новой линейки - быстровозводимых модульных зданий, заявил гендиректор АО \"Развитие строительных активов\" Тимур Амиров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1d9732faae063d887c6162fb17be781261bd892b",
+      "fingerprint": "38e3c546b0df929c770a2855b036ed11ff5c58aa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133153",
+      "published_utc": "2026-05-19T17:15:31Z",
+      "title_en": "UK authorizes import of diesel and jet fuel produced from Russian oil from third countries",
+      "lead_en": "The exceptions to the sanctions rules come into force on May 20 and are of an indefinite duration",
+      "title_raw": "UK authorizes import of diesel and jet fuel produced from Russian oil from third countries",
+      "lead_raw": "The exceptions to the sanctions rules come into force on May 20 and are of an indefinite duration",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6ddd16f8376c3455f8c1a2233da87565e8681552",
+      "fingerprint": "9d1486daa076691e938d6862cd9659f7d7b4a948",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27462075",
+      "published_utc": "2026-05-19T17:13:44Z",
+      "title_en": "17 groups will take part in the oldest street theater festival in Russia in Pomorie",
+      "lead_en": "Chamber street puppet shows occupy a special place in the program",
+      "title_raw": "В старейшем в России фестивале уличных театров в Поморье примут участие 17 коллективов",
+      "lead_raw": "Отдельное место в программе занимают камерные уличные кукольные спектакли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9dc139172a964bcdbd66159ee8a5913cac7efb2a",
+      "fingerprint": "00f0d0e2be7d62a64dbe06a60cf55a7c118f23d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27462325",
+      "published_utc": "2026-05-19T17:13:40Z",
+      "title_en": "Russia, Abkhazia and South Ossetia discussed the situation in Transcaucasia",
+      "lead_en": "The Russian Foreign Ministry indicated that during the meeting it was “noted that there is no alternative to developing legally binding guarantees of the non-use of force by Tbilisi against Sukhum and Tskhinval.”",
+      "title_raw": "Россия, Абхазия и Южная Осетия обсудили ситуацию в Закавказье",
+      "lead_raw": "В МИД РФ указали, что в ходе встречи была \"отмечена безальтернативность выработки юридически обязывающих гарантий неприменения Тбилиси силы против Сухума и Цхинвала\"",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "19ce6735f16d91a1fd715f91ad59f5148ae71234",
+      "fingerprint": "893e016b3eeeae3f36f0e82bd1320f56cfff12d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27462305",
+      "published_utc": "2026-05-19T17:10:09Z",
+      "title_en": "Murashko: Russia will discuss with WHO the use of Russian Ebola vaccine",
+      "lead_en": "The epicenter of the current outbreak is in the eastern DRC in the province of Ituri",
+      "title_raw": "Мурашко: РФ обсудит с ВОЗ применение российской вакцины от Эболы",
+      "lead_raw": "Эпицентр нынешней вспышки находится на востоке ДРК в провинции Итури",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e6f31fe737645cb760196bd647f61080f734793a",
+      "fingerprint": "d29682605ddcc8373c5f21a5a1d323eb74f1646a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27462165",
+      "published_utc": "2026-05-19T17:09:16Z",
+      "title_en": "The start of the festival of young cellists of Russia was announced in St. Petersburg",
+      "lead_en": "The qualifying round of the show will last until September 30",
+      "title_raw": "В Петербурге объявили о старте фестиваля молодых виолончелистов России",
+      "lead_raw": "Отборочный тур смотра продлится до 30 сентября",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0e23e6507b1ae72fed30044097c2d7f1affb6b43",
+      "fingerprint": "edea01b8aea93ddba963765fba60da8f1611789a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27462295",
+      "published_utc": "2026-05-19T17:08:25Z",
+      "title_en": "Murashko announced great interest abroad in medical education in the Russian Federation",
+      "lead_en": "According to the Minister of Health, Russia is actively developing cooperation with countries in Africa, Southeast Asia and its closest neighbors",
+      "title_raw": "Мурашко заявил о большом интересе за рубежом к медицинскому образованию в РФ",
+      "lead_raw": "По словам министра здравоохранения, Россия активно развивает сотрудничество со странами Африки, Юго-Восточной Азии и ближайшими соседями",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2910d9d56864c24b7812a8ef358b680026452a62",
+      "fingerprint": "7f1cb7a88b32aae9e990c5be84445fe2b0fc25ee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27462285",
+      "published_utc": "2026-05-19T17:06:09Z",
+      "title_en": "Britain allowed the import of diesel fuel and kerosene from Russian oil from third countries",
+      "lead_en": "Exceptions to the sanctions rules come into force on May 20 and are indefinite.",
+      "title_raw": "Британия разрешила импорт из третьих стран дизтоплива и керосина из нефти РФ",
+      "lead_raw": "Исключения из санкционных правил вступают в силу 20 мая и имеют бессрочный характер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4143b06c1c52f9f958941bd1d0955a28cc9f747f",
+      "fingerprint": "f0d45764eb1534bbf162c036fe442c4a681ec50a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133147",
+      "published_utc": "2026-05-19T16:55:48Z",
+      "title_en": "Russian stock market closes mixed",
+      "lead_en": "The ruble-denominated MOEX Index fell 0.2% to 2,663.37 points, while the dollar-denominated RTS Index rose 1.28% to 1,176.87 points",
+      "title_raw": "Russian stock market closes mixed",
+      "lead_raw": "The ruble-denominated MOEX Index fell 0.2% to 2,663.37 points, while the dollar-denominated RTS Index rose 1.28% to 1,176.87 points",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8b9ac33fb5b213f3b25d406d04d99fe08fabbcd7",
+      "fingerprint": "14a3d9de37602227d6cff9e0cad53be463960ef0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27462149",
+      "published_utc": "2026-05-19T16:46:22Z",
+      "title_en": "Dmitriev announced the “enormous” interest of China in the construction of data centers in Russia",
+      "lead_en": "The cheapest energy in the world for artificial intelligence is the Russian Federation, said the special presidential representative for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев заявил о \"громадном\" интересе КНР к строительству дата-центров в России",
+      "lead_raw": "Самая дешевая энергетика в мире для искусственного интеллекта - это РФ, заявил спецпредставитель президента по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "96470515a8d1315fd13cea6cb85d0aa0c912e7b3",
+      "fingerprint": "00bf14c1b54aff766ccd803d46e14a9861d4fd93",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133135",
+      "published_utc": "2026-05-19T16:34:24Z",
+      "title_en": "India wants to build metallurgical plant together with Russia — Steel Secretary",
+      "lead_en": "Sandeep Poundrik also pointed to the possibility of establishing Russian-Indian joint ventures in the metallurgical sector",
+      "title_raw": "India wants to build metallurgical plant together with Russia — Steel Secretary",
+      "lead_raw": "Sandeep Poundrik also pointed to the possibility of establishing Russian-Indian joint ventures in the metallurgical sector",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "67bdc5f27b764229b86c5fad7963c5d419f185a9",
       "fingerprint": "307c2f2e108f3b96ac96ba8daa65b557a7e71e02",
@@ -9405,474 +10013,6 @@
       "lead_en": "The striker left the club before the final round of the Russian Championship",
       "title_raw": "Семак объяснил, почему Дурана отпустили из \"Зенита\" перед матчем с \"Ростовом\"",
       "lead_raw": "Нападающий покинул расположение клуба перед заключительным туром чемпионата России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3845226aca666d4119081b594ad05c925a899a5a",
-      "fingerprint": "45d13e8ee66360fc41d195cc55fe854852cb33e6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439451",
-      "published_utc": "2026-05-17T18:52:35Z",
-      "title_en": "Krasnodar coach Musaev will congratulate Semak on the Zenit championship",
-      "lead_en": "Krasnodar took second place in the Russian Championship, two points behind",
-      "title_raw": "Тренер \"Краснодара\" Мусаев поздравит Семака с чемпионством \"Зенита\"",
-      "lead_raw": "\"Краснодар\" занял второе место в чемпионате России, отстав на два очка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c6e19b8151cd6dd3d99c37de28ee6e7a01d35789",
-      "fingerprint": "6e2fcaea43058734e6dae0ef76a90e9e8113a1f3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439443",
-      "published_utc": "2026-05-17T18:50:42Z",
-      "title_en": "Dynamo Moscow won the Russian Volleyball Cup for the fifth time",
-      "lead_en": "In the final the team beat Zenit St. Petersburg",
-      "title_raw": "Московское \"Динамо\" в пятый раз выиграло Кубок России по волейболу",
-      "lead_raw": "В финале команда обыграла петербургский \"Зенит\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "438600e1678f223a0414126c0be0b6327bce9808",
-      "fingerprint": "f5178db8447468e82591ed179a5a8c2094862390",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439349",
-      "published_utc": "2026-05-17T18:25:22Z",
-      "title_en": "Koloskov believes that the fight between Krasnodar and Zenit is beneficial for the RPL",
-      "lead_en": "The team from St. Petersburg became the champion of Russia",
-      "title_raw": "Колосков считает, что борьба \"Краснодара\" и \"Зенита\" идет на пользу РПЛ",
-      "lead_raw": "Чемпионом России стала команда из Санкт-Петербурга",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8f24126ba712a0d2b89bae2b4fa88783c6eb9144",
-      "fingerprint": "e12e57e422bdfcf80872a928ea76ef9ab0871c56",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439343",
-      "published_utc": "2026-05-17T18:23:15Z",
-      "title_en": "Semin: the struggle between Krasnodar and Zenit shows the poor performance of other clubs",
-      "lead_en": "Zenit won the Russian championship for a record 11th time, Krasnodar came second",
-      "title_raw": "Семин: борьба \"Краснодара\" и \"Зенита\" показывает плохую работу других клубов",
-      "lead_raw": "\"Зенит\" в рекордный 11-й раз выиграл чемпионат России, \"Краснодар\" стал вторым",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f24e3d079ae6a2763ea8777b6d18cc5e7c044b51",
-      "fingerprint": "11d5882894f10df5106a080d63323429d3922fa9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27439295",
-      "published_utc": "2026-05-17T18:09:08Z",
-      "title_en": "36 Ukrainian UAVs shot down over Russian regions",
-      "lead_en": "Air defense forces destroyed the drones between 14:00 and 21:00 Moscow time",
-      "title_raw": "Над регионами России сбили 36 украинских БПЛА",
-      "lead_raw": "Силы ПВО уничтожили дроны в период с 14:00 до 21:00 мск",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b83ceaa820f39b06839e534e51f1a53585b554a7",
-      "fingerprint": "c337bf3fe66186c6825ef5b8f65e4eb6b420bebf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2132051",
-      "published_utc": "2026-05-17T18:03:09Z",
-      "title_en": "Russian forces moving in western part of Konstantinovka — DPR head",
-      "lead_en": "According to Denis Pushilin, fighting continues in the industrial zone and near the railway terminal",
-      "title_raw": "Russian forces moving in western part of Konstantinovka — DPR head",
-      "lead_raw": "According to Denis Pushilin, fighting continues in the industrial zone and near the railway terminal",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3b14ebd7a9080cacb6178e9b79605c4d89ca5371",
-      "fingerprint": "f54922bd1982350c2536be4b6431e7c404bbb56d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439257",
-      "published_utc": "2026-05-17T17:58:14Z",
-      "title_en": "Zenit coach Tymoshchuk admitted that he lost count of his victories",
-      "lead_en": "On Sunday, the St. Petersburg club beat Rostov and became the champion of Russia",
-      "title_raw": "Тренер \"Зенита\" Тимощук признался, что потерял счет своим победам",
-      "lead_raw": "В воскресенье петербургский клуб обыграл \"Ростов\" и стал чемпионом России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5fa29165a378d46c835a3593a5972a2f48c2c46c",
-      "fingerprint": "f2356afa2dede2ed109706439e8787258d20e346",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439243",
-      "published_utc": "2026-05-17T17:52:54Z",
-      "title_en": "Semak said that he is counting on Mostovoy and Nino next season",
-      "lead_en": "On Sunday, Zenit became the champion of Russia for the 11th time",
-      "title_raw": "Семак заявил, что рассчитывает на Мостового и Нино в следующем сезоне",
-      "lead_raw": "В воскресенье \"Зенит\" в 11-й раз стал чемпионом России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0a9afc6776441186b3cf5a38f666ea479acb3af4",
-      "fingerprint": "2a32e2a97f2efce5905d66f3dc90c34aa5a0b08a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27439223",
-      "published_utc": "2026-05-17T17:51:20Z",
-      "title_en": "Pushilin: The Russian Armed Forces are expanding the zone of control east of Svyatogorsk",
-      "lead_en": "The liberation of the settlement continues, the head of the DPR noted",
-      "title_raw": "Пушилин: ВС РФ расширяют зону контроля восточнее Святогорска",
-      "lead_raw": "Продолжается освобождение населенного пункта, отметил глава ДНР",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "060a263db430fe9f56ea90256e93020b8628f84c",
-      "fingerprint": "ffe3f100130492b050b9b6b1f991f022d66fc115",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439203",
-      "published_utc": "2026-05-17T17:46:20Z",
-      "title_en": "Gazzaev compared the confrontation between Zenit and Krasnodar to El Clasico",
-      "lead_en": "According to the expert, the distribution of places in the Russian Championship is natural",
-      "title_raw": "Газзаев сравнил противостояние \"Зенита\" и \"Краснодара\" с Эль-Класико",
-      "lead_raw": "По мнению эксперта, распределение мест в чемпионате России закономерно",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d358a139c22bf4588d957432471a04edc1bfcf72",
-      "fingerprint": "5c254fb26e8fbf6ea992ab823b70fbd4fb5d81aa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439187",
-      "published_utc": "2026-05-17T17:45:04Z",
-      "title_en": "Semak said that Krasnodar does not allow Zenit to relax for the third year in a row.",
-      "lead_en": "The St. Petersburg team became the Russian football champion for the 11th time",
-      "title_raw": "Семак заявил, что \"Краснодар\" третий год подряд не дает расслабиться \"Зениту\"",
-      "lead_raw": "Петербургская команда в 11-й раз стала чемпионом России по футболу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "886a8d5017ba0b8b1a5b499d0639cd39cb364d43",
-      "fingerprint": "c6d45ba7fa220f23dad3f038bc428ebf0af4929d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27439147",
-      "published_utc": "2026-05-17T17:40:39Z",
-      "title_en": "Pushilin: The Russian Armed Forces have advanced in the west of Konstantinovka",
-      "lead_en": "Russian troops are also expanding the zone of control from Ilyinovka, the head of the DPR noted.",
-      "title_raw": "Пушилин: ВС РФ продвинулись на западе Константиновки",
-      "lead_raw": "Также российские войска расширяют зону контроля со стороны Ильиновки, отметил глава ДНР",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a71db3e278e682bf40dded5b7e0cf7b7bfa2f479",
-      "fingerprint": "72d8966a4249c2e1d320735fcd63841ede8cbe4d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439155",
-      "published_utc": "2026-05-17T17:40:10Z",
-      "title_en": "RPL President Alaev was pleased with the past season",
-      "lead_en": "Zenit became the champion of Russia for the 11th time",
-      "title_raw": "Президент РПЛ Алаев остался доволен прошедшим сезоном",
-      "lead_raw": "Чемпионом России в 11-й раз стал \"Зенит\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8e4c48e4e99e465ba861c239e0e4dd34df95ed55",
-      "fingerprint": "698655c0945a79ab1ce2bc5386270e48b1b0e293",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27439133",
-      "published_utc": "2026-05-17T17:37:47Z",
-      "title_en": "Pushilin: The Russian Armed Forces are fighting within the city limits of Rai-Alexandrovka",
-      "lead_en": "The head of the DPR emphasized the importance of promoting",
-      "title_raw": "Пушилин: ВС РФ ведут бои в городской черте Рай-Александровки",
-      "lead_raw": "Глава ДНР подчеркнул важность продвижения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9336011579394fbbd5cc7091977147b3f3337339",
-      "fingerprint": "53ffff4751483ef68f6441e0b38f33b7f1a9e5eb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27439123",
-      "published_utc": "2026-05-17T17:27:15Z",
-      "title_en": "Degtyarev: Zenit has maintained a high level for many years",
-      "lead_en": "On Sunday, the St. Petersburg club won the Russian championship for a record 11th time",
-      "title_raw": "Дегтярев: \"Зенит\" на протяжении многих лет сохраняет высокий уровень",
-      "lead_raw": "В воскресенье петербургский клуб в рекордный 11-й раз выиграл чемпионат России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fcf10b1ebaf451a0b480ad2349c810839712585b",
-      "fingerprint": "002b60e7241288994f5cbfb9c3e919ca9376ea8c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438995",
-      "published_utc": "2026-05-17T17:01:03Z",
-      "title_en": "Football club \"Paris Nizhny Novgorod\" was expelled from the Russian Premier League",
-      "lead_en": "At the end of the championship, the team took 15th place",
-      "title_raw": "Футбольный клуб \"Пари Нижний Новгород\" вылетел из Российской премьер-лиги",
-      "lead_raw": "По итогам чемпионата команда заняла 15-е место",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c8d2e6dcd0d4fa18197b51a54c5b9bf5b2af8999",
-      "fingerprint": "c7d7eefba3b8b30b3d73e7c8a9cc58e7a9e04654",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438989",
-      "published_utc": "2026-05-17T17:00:35Z",
-      "title_en": "Lokomotiv became the bronze medalist of the Russian Football Championship",
-      "lead_en": "At the end of the championship, the team scored 53 points, one point ahead of Spartak.",
-      "title_raw": "\"Локомотив\" стал бронзовым призером чемпионата России по футболу",
-      "lead_raw": "По итогам чемпионата команда набрала 53 очка, опередив на одно очко \"Спартак\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9c4909c1c3d0d6c58c2a3317e83439918ef91536",
-      "fingerprint": "f1d99b2380ca905ad8875cff6e60fbdee57aba71",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438947",
-      "published_utc": "2026-05-17T16:58:33Z",
-      "title_en": "Zenit surpassed Spartak in the number of victories in the Russian football championship",
-      "lead_en": "The club became the champion of Russia for the 11th time",
-      "title_raw": "\"Зенит\" обошел \"Спартак\" по числу побед в чемпионатах России по футболу",
-      "lead_raw": "Клуб стал чемпионом России в 11-й раз",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ac03ea9b6a1f27d3e4d70024314e95c1cde15ac9",
-      "fingerprint": "72ec924a60dde8af469871fa546e84526effabca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438939",
-      "published_utc": "2026-05-17T16:57:11Z",
-      "title_en": "Krasnodar beat Orenburg and took second place in the RPL",
-      "lead_en": "Zenit St. Petersburg became the champion of Russia",
-      "title_raw": "\"Краснодар\" обыграл \"Оренбург\" и занял второе место в РПЛ",
-      "lead_raw": "Чемпионом России стал петербургский \"Зенит\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ae1bb4a65bc5550830314ca812287344ae1e01f9",
-      "fingerprint": "51ffb447c7694e8fbd915991c84c152f93f8712a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438931",
-      "published_utc": "2026-05-17T16:57:09Z",
-      "title_en": "Zenit won the Russian Football Championship for a record 11th time",
-      "lead_en": "In the last round, the St. Petersburg team beat Rostov.",
-      "title_raw": "\"Зенит\" в рекордный 11-й раз выиграл чемпионат России по футболу",
-      "lead_raw": "В последнем туре петербуржцы обыграли \"Ростов\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0db2481386b771d70deab2fb9bc3ec67e1b477e8",
-      "fingerprint": "65afaf82af78ffee955d72d8862cc630d8d8810e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438889",
-      "published_utc": "2026-05-17T16:39:40Z",
-      "title_en": "Zakharyan will play for Real Sociedad for the first time since March",
-      "lead_en": "The Russian footballer was included in the team's starting lineup for the match with Valencia",
-      "title_raw": "Захарян впервые с марта сыграет за \"Реал Сосьедад\"",
-      "lead_raw": "Российский футболист вошел в стартовый состав команды на матч с \"Валенсией\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "01e5220599f2ea316461ebbc98d8051069770c69",
-      "fingerprint": "012628cbfaeebdfbca1747f97310fc1727020517",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27438883",
-      "published_utc": "2026-05-17T16:39:37Z",
-      "title_en": "Putin called the successful test of Sarmat a big event in the life of Russia",
-      "lead_en": "On May 12, the commander of the Strategic Missile Forces, Sergei Karakaev, reported to the President of the Russian Federation on the testing of the complex",
-      "title_raw": "Путин назвал успешное испытание \"Сармата\" большим событием в жизни России",
-      "lead_raw": "Командующий Ракетными войсками стратегического назначения Сергей Каракаев 12 мая доложил президенту РФ о проведении испытаний комплекса",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7131506330b7410ad43354e8024eb622db5c2ccf",
-      "fingerprint": "7d771e19fbc7fb0bae2eec776f4bb29c0d8dcbfa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27438879",
-      "published_utc": "2026-05-17T16:33:25Z",
-      "title_en": "The production of Russian sports equipment was discussed at a forum in Moscow",
-      "lead_en": "The forum hosted a round table \"The sportswear and equipment industry in the Russian Federation: technological sovereignty, quality, accessibility\"",
-      "title_raw": "Производство российской спортивной экипировки обсудили на форуме в Москве",
-      "lead_raw": "На форуме состоялся круглый стол \"Индустрия спортивной одежды и экипировки в РФ: технологический суверенитет, качество, доступность\"",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
