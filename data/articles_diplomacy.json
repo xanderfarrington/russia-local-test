@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-05-19T21:23:23Z",
+  "updated_at_utc": "2026-05-19T23:07:03Z",
   "topic": "diplomacy",
-  "count": 82,
+  "count": 83,
   "articles": [
     {
       "id": "0e809c1234bcf76f8f2d6441480956b5654bf18e",
@@ -57,6 +57,50 @@
       "lead_en": "Also on the agenda of the upper house of parliament is a law on simplifying the procedure for disqualifying people from driving while drunk and the ratification of an agreement on deepening cooperation between Russia and South Ossetia",
       "title_raw": "СФ обсудит закон о привлечении ВС РФ для защиты арестованных за рубежом россиян",
       "lead_raw": "Также в повестке верхней палаты парламента закон об упрощении порядка отстранения от управления автомашиной в пьяном виде и ратификация договора об углублении взаимодействия между Россией и Южной Осетией",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b6d968949d04183d1c9ad85ef3b4698ea9dfbea2",
+      "fingerprint": "1c2605a00e1d322c2478e8527546b90a1e2db802",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640188-china-powerful-partner-russia-dmitriev",
+      "published_utc": "2026-05-19T20:49:47Z",
+      "title_en": "China is Russia’s ‘most powerful strategic partner’ – Putin investment envoy (VIDEO)",
+      "lead_en": "China is Russia’s most powerful strategic partner, cooperating on AI, logistics, and infrastructure, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
+      "title_raw": "China is Russia’s ‘most powerful strategic partner’ – Putin investment envoy (VIDEO)",
+      "lead_raw": "China is Russia’s most powerful strategic partner, cooperating on AI, logistics, and infrastructure, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "551c8bb60cb9bd186108a1b6a8057469ac36f79b",
+      "fingerprint": "d7df8e172a17a6b2bd4e3c6c998268efa8601437",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133223",
+      "published_utc": "2026-05-19T20:08:04Z",
+      "title_en": "Kiev’s attacks on Zaporozhye NPP impossible without West’s support — Russian diplomat",
+      "lead_en": "Foreign Ministry Spokeswoman Maria Zakharova says Western curators \"instill a false sense of impunity in the current Ukrainian authorities and provoke them to new ventures\"",
+      "title_raw": "Kiev’s attacks on Zaporozhye NPP impossible without West’s support — Russian diplomat",
+      "lead_raw": "Foreign Ministry Spokeswoman Maria Zakharova says Western curators \"instill a false sense of impunity in the current Ukrainian authorities and provoke them to new ventures\"",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -1797,29 +1841,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "754c622526beae9b115b797517311b050fd20aeb",
-      "fingerprint": "1f11f24fb55555038b42d91ea8b23e332d418b83",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2132077",
-      "published_utc": "2026-05-17T22:10:01Z",
-      "title_en": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
-      "lead_en": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
-      "title_raw": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
-      "lead_raw": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
       ],
       "primary_topic": "diplomacy"
     }

@@ -1,8 +1,48 @@
 {
-  "updated_at_utc": "2026-05-19T21:23:23Z",
+  "updated_at_utc": "2026-05-19T23:07:03Z",
   "keep_hours": 48,
-  "count": 490,
+  "count": 488,
   "articles": [
+    {
+      "id": "49cea749dc9057bd5e4a0e2c4883c24a46a9461b",
+      "fingerprint": "8006c5134719bfdb5fc46d77a53d0b1f5b58c454",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133261",
+      "published_utc": "2026-05-19T21:51:51Z",
+      "title_en": "Russia to respond proportionately if any country conducts nuclear tests — senior diplomat",
+      "lead_en": "Deputy Foreign Minister Sergey Ryabkov says the current situation requires the readiness of the national infrastructure",
+      "title_raw": "Russia to respond proportionately if any country conducts nuclear tests — senior diplomat",
+      "lead_raw": "Deputy Foreign Minister Sergey Ryabkov says the current situation requires the readiness of the national infrastructure",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "67f0c9b5e0ec4dbf0123c3b9c39a8198834dfe3f",
+      "fingerprint": "242750f00132a1c8fea0f55fcf2f69990016f292",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2133259",
+      "published_utc": "2026-05-19T21:32:35Z",
+      "title_en": "UK bans imports of Russian uranium",
+      "lead_en": "The new measures include a ban on the provision of technical assistance, financial services and funds, and brokering services related to these goods.",
+      "title_raw": "UK bans imports of Russian uranium",
+      "lead_raw": "The new measures include a ban on the provision of technical assistance, financial services and funds, and brokering services related to these goods.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "f2429390da3e9b5759852774b47e257de842ed0c",
       "fingerprint": "655c3a421a91f0264c86e64afd5797da92f21365",
@@ -190,6 +230,28 @@
       "primary_topic": null
     },
     {
+      "id": "b6d968949d04183d1c9ad85ef3b4698ea9dfbea2",
+      "fingerprint": "1c2605a00e1d322c2478e8527546b90a1e2db802",
+      "source": "RT",
+      "url": "https://www.rt.com/news/640188-china-powerful-partner-russia-dmitriev",
+      "published_utc": "2026-05-19T20:49:47Z",
+      "title_en": "China is Russia’s ‘most powerful strategic partner’ – Putin investment envoy (VIDEO)",
+      "lead_en": "China is Russia’s most powerful strategic partner, cooperating on AI, logistics, and infrastructure, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
+      "title_raw": "China is Russia’s ‘most powerful strategic partner’ – Putin investment envoy (VIDEO)",
+      "lead_raw": "China is Russia’s most powerful strategic partner, cooperating on AI, logistics, and infrastructure, Kremlin envoy Kirill Dmitriev has said Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "aa355ccc82ed8706bbf1bcf1a2b9e0540f409834",
       "fingerprint": "e8e364225c19891ea86da047ac4aaa1b99c50601",
       "source": "TASS (RU)",
@@ -239,6 +301,70 @@
       "lead_en": "The head of the IAEA indicated that attacks on peaceful nuclear facilities are unacceptable",
       "title_raw": "Гросси: удар по АЭС \"Барака\" может привести к масштабному выбросу радиации",
       "lead_raw": "Глава МАГАТЭ указал, что атаки на ядерные объекты мирного назначения неприемлемы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "551c8bb60cb9bd186108a1b6a8057469ac36f79b",
+      "fingerprint": "d7df8e172a17a6b2bd4e3c6c998268efa8601437",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133223",
+      "published_utc": "2026-05-19T20:08:04Z",
+      "title_en": "Kiev’s attacks on Zaporozhye NPP impossible without West’s support — Russian diplomat",
+      "lead_en": "Foreign Ministry Spokeswoman Maria Zakharova says Western curators \"instill a false sense of impunity in the current Ukrainian authorities and provoke them to new ventures\"",
+      "title_raw": "Kiev’s attacks on Zaporozhye NPP impossible without West’s support — Russian diplomat",
+      "lead_raw": "Foreign Ministry Spokeswoman Maria Zakharova says Western curators \"instill a false sense of impunity in the current Ukrainian authorities and provoke them to new ventures\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a35bbf28d42fd36f84bd9bb80fd9db2d0ca3a3f1",
+      "fingerprint": "6037380099014790f870d6dc0341073b5f540953",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2133209",
+      "published_utc": "2026-05-19T19:56:48Z",
+      "title_en": "Senior Russian diplomat warns NATO ‘hot heads’ against posing threats to Russia",
+      "lead_en": "Russia will use military and technical means to repel any threats to it, Sergey Ryabkov said",
+      "title_raw": "Senior Russian diplomat warns NATO ‘hot heads’ against posing threats to Russia",
+      "lead_raw": "Russia will use military and technical means to repel any threats to it, Sergey Ryabkov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e5ac837f9dd528c029c9eb7275a20ea6187f0c5f",
+      "fingerprint": "f82f9897420ddc3413a6cd0ba33fc3c58aa791c0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2133205",
+      "published_utc": "2026-05-19T19:52:30Z",
+      "title_en": "Fifth-generation Su-57 two-seater fighter jet prototype makes maiden flight",
+      "lead_en": "This jet will also be used as a trainer aircraft and a tactical control aircraft, Russian First Deputy Prime Minister Denis Manturov said",
+      "title_raw": "Fifth-generation Su-57 two-seater fighter jet prototype makes maiden flight",
+      "lead_raw": "This jet will also be used as a trainer aircraft and a tactical control aircraft, Russian First Deputy Prime Minister Denis Manturov said",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -10052,173 +10178,6 @@
       "lead_en": "The Deputy Prime Minister - Plenipotentiary Representative of the President of the Russian Federation in the district noted that the course of political relations between the Russian Federation and the PRC is set by the leaders of the countries",
       "title_raw": "Трутнев назвал Китай страной, где у него много замечательных друзей",
       "lead_raw": "Вице-премьер - полномочный представитель президента РФ в округе отметил, что курс политических отношений между РФ и КНР задается лидерами стран",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cfb703791e6f5b0946d2b7aa700eb75d36ce336b",
-      "fingerprint": "b1d7ae4e21ef1fa1e4515e01d83cdfdb0ed55c10",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27439983",
-      "published_utc": "2026-05-17T23:03:10Z",
-      "title_en": "Trutnev sees prospects for cooperation with China in energy and agriculture",
-      "lead_en": "The development of tourism is also a promising direction, says the Deputy Prime Minister - Plenipotentiary Representative of the President of the Russian Federation in the Far Eastern Federal District",
-      "title_raw": "Трутнев видит перспективы сотрудничества с КНР в энергетике и сельском хозяйстве",
-      "lead_raw": "Перспективным направлением также является развитие туризма, считает вице-премьер - полномочный представитель президента РФ в Дальневосточном федеральном округе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "25c88cf44e6a3a513e8a38b23072d681f192c735",
-      "fingerprint": "c0ba18be0aa2fbddb0c590b43168fa0cf27eeaea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27439969",
-      "published_utc": "2026-05-17T22:48:31Z",
-      "title_en": "Trutnev: 270 flights operate weekly between China and the Far Eastern Federal District, but this is not enough",
-      "lead_en": "The Deputy Prime Minister - Plenipotentiary Representative of the President of the Russian Federation in the district announced the availability of applications from regional heads to increase the number of direct flights",
-      "title_raw": "Трутнев: между КНР и ДФО еженедельно выполняется 270 авиарейсов, но этого мало",
-      "lead_raw": "Вице-премьер - полномочный представитель президента РФ в округе заявил о наличии заявок глав регионов на увеличение количества прямых рейсов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8a7e2c9acd2f3fbbe05f4f6d1bf600ccec5e804b",
-      "fingerprint": "b345ee967e67d2bdca8caf3c9636c522ff35247f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27439959",
-      "published_utc": "2026-05-17T22:37:46Z",
-      "title_en": "The Russians were named the maximum size of teachers' pensions",
-      "lead_en": "It could amount to almost 49 thousand rubles, said Alexander Safonov, a professor at the Financial University under the Government of the Russian Federation.",
-      "title_raw": "Россиянам назвали максимальный размер пенсий учителей",
-      "lead_raw": "Он может составить почти 49 тыс. рублей, рассказал профессор Финансового университета при правительстве РФ Александр Сафонов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6d85cccf1b040d86439686ecd67773c6914e0b02",
-      "fingerprint": "9e753c2437349d01cee81f9aac747c8ca6f1c030",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27439909",
-      "published_utc": "2026-05-17T22:10:34Z",
-      "title_en": "Trutnev: without Chinese investors, the Far Eastern Federal District would not have been able to develop so quickly",
-      "lead_en": "A fundamental role in the development of cooperation belongs to Russian President Vladimir Putin and Chairman of the People's Republic of China Xi Jinping, believes the Deputy Prime Minister and Plenipotentiary Representative of the President of the Russian Federation in the Far",
-      "title_raw": "Трутнев: без китайских инвесторов ДФО не смог бы развиваться так быстро",
-      "lead_raw": "Основополагающая роль в развитии сотрудничества принадлежит президенту России Владимиру Путину и председателю Китайской Народной Республики Си Цзиньпину, считает вице-премьер - полномочный представитель президента РФ в Дальневосточном федеральном округе",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "754c622526beae9b115b797517311b050fd20aeb",
-      "fingerprint": "1f11f24fb55555038b42d91ea8b23e332d418b83",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2132077",
-      "published_utc": "2026-05-17T22:10:01Z",
-      "title_en": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
-      "lead_en": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
-      "title_raw": "No signal from Kiev regarding new round of talks, senior Russian diplomat says",
-      "lead_raw": "Mikhail Galuzin noted that for successful negotiations Vladimir Zelensky will need to order the Ukrainian armed forces to cease fire and pull troops from Donbass",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7f577eeb5dfe84f36f436e711dd07db1c9764219",
-      "fingerprint": "6eff46f7604c80d5d501eaef58a795b9f44471af",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2132075",
-      "published_utc": "2026-05-17T21:57:25Z",
-      "title_en": "Finland to practice forcefully crossing Russian border during naval drills — expert",
-      "lead_en": "Alexander Stepanov warned that industrial facilities in northwestern Russia as well as taking control of Karelia may be priority objectives in the course of potential aggression against Russia",
-      "title_raw": "Finland to practice forcefully crossing Russian border during naval drills — expert",
-      "lead_raw": "Alexander Stepanov warned that industrial facilities in northwestern Russia as well as taking control of Karelia may be priority objectives in the course of potential aggression against Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5747055fe5df4c1a99a47bc7c759cfce949a2f3c",
-      "fingerprint": "2325a236299ab519987be31fed8ceadb2658e48d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27439879",
-      "published_utc": "2026-05-17T21:42:56Z",
-      "title_en": "Expert Brown: Russia does not want a conflict with NATO",
-      "lead_en": "Also, the former co-chairman of the International Peace Bureau believes that refusal of dialogue with Moscow will have catastrophic consequences",
-      "title_raw": "Эксперт Браун: Россия не хочет конфликта с НАТО",
-      "lead_raw": "Также бывший сопредседатель Международного бюро мира считает, что отказ от диалога с Москвой будет иметь катастрофические последствия",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b2ab5add622501200aaafad9aa92a776346c7675",
-      "fingerprint": "00848b85bdb4f702829785d92ff9bfd9906ea5db",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27439871",
-      "published_utc": "2026-05-17T21:39:57Z",
-      "title_en": "Expert Brown believes that Germany’s policy was determined by “the image of the enemy in the person of the Russian Federation”",
-      "lead_en": "Russia has the potential of a great power, added the former co-chairman of the International Peace Bureau",
-      "title_raw": "Эксперт Браун считает, что политику ФРГ определял \"образ врага в лице РФ\"",
-      "lead_raw": "Россия обладает потенциалом великой державы, добавил бывший сопредседатель Международного бюро мира",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
