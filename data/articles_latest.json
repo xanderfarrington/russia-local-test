@@ -1,8 +1,1185 @@
 {
-  "updated_at_utc": "2026-05-22T12:24:35Z",
+  "updated_at_utc": "2026-05-22T15:50:53Z",
   "keep_hours": 48,
-  "count": 546,
+  "count": 543,
   "articles": [
+    {
+      "id": "f04118a6fab04d3940bc5ec459bbc2bf34b04d4e",
+      "fingerprint": "549e9b2b5a5aa12d08b0d33ecb52c4692f7d1eff",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27503013",
+      "published_utc": "2026-05-22T15:42:02Z",
+      "title_en": "Putin greeted the participants of the \"Return to Life\" award",
+      "lead_en": "The award ceremony of the Russian Paralympic Committee takes place on Friday in Moscow",
+      "title_raw": "Путин поприветствовал участников премии \"Возвращение в жизнь\"",
+      "lead_raw": "Церемония награждения премией Паралимпийского комитета России проходит в пятницу в Москве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "261510127b381a9e68ba11c2b410f46def39b826",
+      "fingerprint": "8ae9b3aa7a67776caf932a12a9dc5fade8ad8238",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27503021",
+      "published_utc": "2026-05-22T15:41:25Z",
+      "title_en": "Russian Railways appointed double trains during SPIEF 2026",
+      "lead_en": "Tickets are already on sale, the company reported.",
+      "title_raw": "РЖД назначили сдвоенные составы в дни проведения ПМЭФ-2026",
+      "lead_raw": "Билеты уже в продаже, сообщили в компании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7d927fd89d0deef705fe32be781ecd689a4f40fa",
+      "fingerprint": "8b719c1639f37ea8428c55e231d729cfbec4f488",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502997",
+      "published_utc": "2026-05-22T15:39:22Z",
+      "title_en": "Putin: The Russian Federation has no doubts about the success of its military",
+      "lead_en": "",
+      "title_raw": "Путин: РФ не сомневается в успехе своих военных",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "538e08ab278dd98efbf057b14dc372fa70447535",
+      "fingerprint": "9623c196cc9f2d02369b8b5a2daea398b461102c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502957",
+      "published_utc": "2026-05-22T15:37:46Z",
+      "title_en": "Putin: the enemy will not succeed because in Russia they understand what and why they are fighting",
+      "lead_en": "",
+      "title_raw": "Путин: противник не добьется успеха, потому что в России понимают, за что и зачем борются",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7c181bc8d49e784b8d8e7d5f02c21965c11a5521",
+      "fingerprint": "c7bdcae1e9e5da9ce7f2106e35467040c3bd8df2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/22/no-fuel-none-at-all-independent-gas-stations-in-russia-face-gasoline-shortage-after-ukrainian-drone-strikes-on-refineries",
+      "published_utc": "2026-05-22T15:33:03Z",
+      "title_en": "‘No fuel — none at all.’ Independent gas stations in Russia face gasoline shortage after Ukrainian drone strikes on refineries",
+      "lead_en": "Independent gas station chains, which handle about 40% of fuel sales in Russia, can no longer restock their gasoline supplies. Chats used by oil traders and managers at those chains are “in a panic,” the independent Russian news outlet Novaya Gazeta Europe reported.",
+      "title_raw": "‘No fuel — none at all.’ Independent gas stations in Russia face gasoline shortage after Ukrainian drone strikes on refineries",
+      "lead_raw": "Independent gas station chains, which handle about 40% of fuel sales in Russia, can no longer restock their gasoline supplies. Chats used by oil traders and managers at those chains are “in a panic,” the independent Russian news outlet Novaya Gazeta Europe reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "952e645b74518b6b1e2d1b9cf6e956f1be716512",
+      "fingerprint": "b918d8c19be29f2159bc6c5a52271063885f7d8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27502667",
+      "published_utc": "2026-05-22T15:25:07Z",
+      "title_en": "Trade turnover of agricultural products between the Russian Federation and Egypt in January - April increased by 15%",
+      "lead_en": "Traditionally, Russia exports grain and oil and fat products, as well as legumes, to Egypt, the Ministry of Agriculture reported",
+      "title_raw": "Товарооборот продукции АПК между РФ и Египтом в январе - апреле вырос на 15%",
+      "lead_raw": "Традиционно Россия экспортирует в Египет зерновую и масложировую продукцию, а также бобовые, сообщил Минсельхоз",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1d67964b57a65d7e403f35297ef80215706bea7b",
+      "fingerprint": "8ffd8e3c6a0133f55e743f9f73aebbcb0cc6c55b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/22/sevastopol-begins-rationing-gasoline-due-to-logistical-challenges-a92825",
+      "published_utc": "2026-05-22T15:24:29Z",
+      "title_en": "Sevastopol Begins Rationing Gasoline Due to ‘Logistical Challenges’",
+      "lead_en": "The rationing measures in annexed Crimea’s largest city come as Ukrainian drone strikes against oil refineries across Russia cause a slump in fuel production.",
+      "title_raw": "Sevastopol Begins Rationing Gasoline Due to ‘Logistical Challenges’",
+      "lead_raw": "The rationing measures in annexed Crimea’s largest city come as Ukrainian drone strikes against oil refineries across Russia cause a slump in fuel production.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0d6b7b52059a081192a5e7117d232a71f03c4a5f",
+      "fingerprint": "08de231fb95cc7a4067b1a80b7fabaefd481ac1a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502757",
+      "published_utc": "2026-05-22T15:22:41Z",
+      "title_en": "Putin: only by strengthening interethnic unity can Russia be saved",
+      "lead_en": "Issues of a religious and interethnic nature are the most sensitive, the Russian President noted",
+      "title_raw": "Путин: только укрепляя межнациональное единство, можно сохранить Россию",
+      "lead_raw": "Вопросы религиозного, межэтнического характера - самые чувствительные, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "93bb6785f1bb70fdf5498d3fc626aff64f441fe5",
+      "fingerprint": "0ae234bd50d7671ecc72e5feca6287343b263fbe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27502725",
+      "published_utc": "2026-05-22T15:21:52Z",
+      "title_en": "Lyubimova: Russia and Serbia are united by a common cultural code",
+      "lead_en": "The Minister of Culture of the Russian Federation emphasized the importance of upholding the right of the peoples of the two countries to their own cultural identity, respect for their history and traditions",
+      "title_raw": "Любимова: Россию и Сербию объединяет общий культурный код",
+      "lead_raw": "Министр культуры РФ подчеркнула важность отстаивания права народов двух стран на собственную культурную идентичность, уважение к своей истории и традициям",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "022b19bb3094258f8681ebbb6dc6b0277955fe3c",
+      "fingerprint": "5c40b37ac16b3118e8ee77e2469da78199addd2c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27502735",
+      "published_utc": "2026-05-22T15:21:11Z",
+      "title_en": "Putin said that many people from Dagestan receive the title of Hero of Russia",
+      "lead_en": "Soldiers from this region are fighting with dignity in the Northern Military District, the president pointed out.",
+      "title_raw": "Путин рассказал, что многие выходцы из Дагестана получают звание Героя России",
+      "lead_raw": "Бойцы из этого региона достойно воюют на СВО, указал президент",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cd58ccbd61680298aa3f9980f63308aa8f67252d",
+      "fingerprint": "cbc3582b8d5c6932359525b6795aaed919451615",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27502619",
+      "published_utc": "2026-05-22T15:20:41Z",
+      "title_en": "TSU will create the first robotic ultrasonic welding cells in Russia for AvtoVAZ",
+      "lead_en": "The universal design allows you to weld parts of the trunk upholstery for Lada Vesta and Lada Azimut models in automatic mode without readjusting equipment",
+      "title_raw": "ТГУ создаст первые в России роботизированные ячейки ультразвуковой сварки для \"Автоваза\"",
+      "lead_raw": "Универсальная конструкция позволяет заниматься сваркой деталей обивки багажника для моделей Lada Vesta и Lada Azimut в автоматическом режиме без переналадки оборудования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bf2dbdb8fd9779f1b064825faf1e8c129ab4dabd",
+      "fingerprint": "52f9ea517aea21aced64c95225f9da5985ff6b5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502703",
+      "published_utc": "2026-05-22T15:19:58Z",
+      "title_en": "Putin: Russia did not suffer a single needless sacrifice during the Northern Military District",
+      "lead_en": "The President of Russia announced this at a meeting with graduates of the “Time of Heroes” program",
+      "title_raw": "Путин: Россия не понесла ни одной напрасной жертвы в ходе СВО",
+      "lead_raw": "Президент России заявил об этом на встрече с выпускниками программы \"Время героев\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "281ac4298eb249aab860ede0f2a60d4016eb2da5",
+      "fingerprint": "374b40c346af976174111c08d833ca1dbccba88c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27502689",
+      "published_utc": "2026-05-22T15:19:58Z",
+      "title_en": "Putin: the Russian military is advancing in the Zaporozhye direction every day",
+      "lead_en": "The soldiers successfully carry out combat missions, the Russian leader noted",
+      "title_raw": "Путин: военные РФ каждый день продвигаются на запорожском направлении",
+      "lead_raw": "Бойцы успешно выполняют боевые задачи, отметил российский лидер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dc0c17d8b0469e47c30ed6bdc385080675cbcc88",
+      "fingerprint": "2580bb2d552045c9a3836294f9485b2d253a48f3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502601",
+      "published_utc": "2026-05-22T15:17:29Z",
+      "title_en": "The Flowers of Russia festival will be held as part of the 80th anniversary of the Kaliningrad region",
+      "lead_en": "The event will take place in June in Victory Park in Chernyakhovsk",
+      "title_raw": "Фестиваль \"Цветы России\" пройдет в рамках 80-летия Калининградской области",
+      "lead_raw": "Мероприятие состоится в июне в парке Победы в Черняховске",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "89aeffd046fbdda4606d2e99f17250ef52f472f0",
+      "fingerprint": "71c9c7ca25e8efbf5dcfbd44dd0e8abead087307",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/22/putin-says-six-killed-nearly-40-wounded-in-strike-on-college-in-self-proclaimed-lnr-orders-russia-s-defense-ministry-to-prepare-a-response",
+      "published_utc": "2026-05-22T15:15:54Z",
+      "title_en": "Putin says six killed, nearly 40 wounded in strike on college in self-proclaimed ‘LNR,’ orders Russia’s Defense Ministry to prepare a response",
+      "lead_en": "Vladimir Putin called a strike on a college dormitory in Starobilsk, in the self-proclaimed Luhansk People’s Republic (“LNR”), a terrorist attack and ordered Russia’s Defense Ministry to submit proposals for a response.",
+      "title_raw": "Putin says six killed, nearly 40 wounded in strike on college in self-proclaimed ‘LNR,’ orders Russia’s Defense Ministry to prepare a response",
+      "lead_raw": "Vladimir Putin called a strike on a college dormitory in Starobilsk, in the self-proclaimed Luhansk People’s Republic (“LNR”), a terrorist attack and ordered Russia’s Defense Ministry to submit proposals for a response.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c751aa2a497acc164e787d522d85f907eb7b05ab",
+      "fingerprint": "19e39afad8658cea40fe75ca0d35c398d7775442",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502553",
+      "published_utc": "2026-05-22T15:12:56Z",
+      "title_en": "The head of the Yunarmiya asked Putin to send greetings to the Yunarmiya members",
+      "lead_en": "Young Army members are ready to support all the decisions of the president, as they know that the interests of Russia and its citizens are the main priority for the head of state, noted Vladislav Golovin",
+      "title_raw": "Глава \"Юнармии\" попросил Путина направить приветствие юнармейцам",
+      "lead_raw": "Юнармейцы готовы поддержать все решения президента, так как знают, что интересы России и ее граждан стоят главным приоритетом для главы государства, отметил Владислав Головин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1c4dcbc89ca7d5441542338b1f2ae605ac7b6795",
+      "fingerprint": "2d97542b24e76fca6e10d87591ba5947e1d5741e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/22/report-st-petersburg-state-university-orders-staff-and-students-to-use-russia-s-state-backed-messaging-app-max",
+      "published_utc": "2026-05-22T15:10:18Z",
+      "title_en": "Report: St. Petersburg State University orders staff and students to use Russia’s state-backed messaging app Max",
+      "lead_en": "St. Petersburg State University has ordered students and staff to use the Max messenger as its internal communications platform “for online communication and information sharing,” the independent Russian news outlet T-invariant reported.",
+      "title_raw": "Report: St. Petersburg State University orders staff and students to use Russia’s state-backed messaging app Max",
+      "lead_raw": "St. Petersburg State University has ordered students and staff to use the Max messenger as its internal communications platform “for online communication and information sharing,” the independent Russian news outlet T-invariant reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d6051644fa2dbf75e22e3f194d5e3716b12ac36d",
+      "fingerprint": "8c21e46e6414ee87b4dfdd72c183dbc8c05cb7db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502513",
+      "published_utc": "2026-05-22T15:09:26Z",
+      "title_en": "Putin: every local problem, minor for the entire state, is very important locally",
+      "lead_en": "The President of the Russian Federation noted that he also means the fact that people pose the problems they face, but the solution does not always lie at the municipal level",
+      "title_raw": "Путин: каждая локальная проблема, мелкая для всего государства, очень важна на местах",
+      "lead_raw": "Президент РФ отметил, что имеет в виду еще и тот факт, что люди ставят проблемы, с которыми они сталкиваются, но не всегда решение лежит на муниципальном уровне",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "27f79ebbdc4cf498f1bdf1c58cabc67155bb4ec2",
+      "fingerprint": "e59b9bb05d42fd04a0fd4e7ae1687608712e7d3a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27502487",
+      "published_utc": "2026-05-22T15:09:22Z",
+      "title_en": "Rescuers are exploring a riverbed in Georgia in search of a missing Russian woman",
+      "lead_en": "A woman and a young man accompanying her fell from a suspension bridge over the Liakhva River in South Ossetia",
+      "title_raw": "Спасатели исследуют русло реки в Грузии в поисках пропавшей россиянки",
+      "lead_raw": "Женщина и сопровождающий ее молодой человек сорвались с подвесного моста через реку Лиахва в Южной Осетии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5b62d46156e27721f81a0e187f79931b84094c9f",
+      "fingerprint": "8cbda3859ee3d0891ffcb36567ec63407fdbfcf0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502495",
+      "published_utc": "2026-05-22T15:07:55Z",
+      "title_en": "Putin supported the recommendation to start civil service at the municipal level",
+      "lead_en": "It is three times more complex and responsible, the President of the Russian Federation believes",
+      "title_raw": "Путин поддержал рекомендацию начинать госслужбу на муниципальном уровне",
+      "lead_raw": "Она втройне сложна и ответственна, считает президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "966b2ce4ba2a43d7b121e72ca6c2c4f21eee4de3",
+      "fingerprint": "2848bee6c85aabdc17ce67853b7d9ef5504853ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502483",
+      "published_utc": "2026-05-22T15:07:11Z",
+      "title_en": "Hero of Russia Saibel wants to give Putin his book",
+      "lead_en": "At a meeting of the head of state with graduates of the first cohort of the “Time of Heroes” program, he said that he had decided to write about the feat of his comrades in arms",
+      "title_raw": "Герой России Сайбель хочет подарить Путину свою книгу",
+      "lead_raw": "На встрече главы государства с выпускниками первого потока программы \"Время героев\" он рассказал, что принял решение написать о подвиге своих боевых товарищей",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "66b96a54dcfde35a3b4216ac1c49f55a91096261",
+      "fingerprint": "a7b0e7b4b886dec6220f85ed8741f92c73ee6393",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502465",
+      "published_utc": "2026-05-22T15:05:08Z",
+      "title_en": "Putin spoke about the importance of the ability to “work in a team”",
+      "lead_en": "The President of the Russian Federation drew attention to the words of one of the meeting participants that he called his colleagues in the “Time of Heroes” and they felt like a single team",
+      "title_raw": "Путин заявил о важности умения \"работать в команде\"",
+      "lead_raw": "Президент РФ обратил внимание на слова одного из участников встречи, что тот созванивается со своими коллегами по \"Времени героев\" и они чувствуют себя единой командой",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f713e82a15159630d8aa48d1ba9d9f56ce12d6d0",
+      "fingerprint": "ffa5d0793dabe1814b462e471a1e1daf1f62fd16",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502451",
+      "published_utc": "2026-05-22T15:05:05Z",
+      "title_en": "A Vietnamese university has become interested in AI and IT programs at the largest university in the North Caucasus Federal District",
+      "lead_en": "Representatives of the largest university in the North Caucasus took part in the III Forum of University Rectors of Russia and Vietnam",
+      "title_raw": "Вьетнамский вуз заинтересовался программами ИИ и IT в крупнейшем вузе СКФО",
+      "lead_raw": "Представители крупнейшего вуза Северного Кавказа стали участниками III Форума ректоров университетов России и Вьетнама",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d7b16ebfb7d67febbd5bd87e79ae05b34973f4d7",
+      "fingerprint": "9328a1c21857573fdeba3abbca1f1e0b2419fe86",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/22/arrests-of-clerics-highlight-fractures-in-russias-muslim-leadership-a92822",
+      "published_utc": "2026-05-22T15:05:02Z",
+      "title_en": "Arrests of Clerics Highlight Fractures in Russia’s Muslim Leadership",
+      "lead_en": "Experts said the arrests may be part of “a pre-planned operation” aimed at “instilling fear in the Muslim community” and smearing the reputation of structures led by Grand Mufti Gaynutdin.",
+      "title_raw": "Arrests of Clerics Highlight Fractures in Russia’s Muslim Leadership",
+      "lead_raw": "Experts said the arrests may be part of “a pre-planned operation” aimed at “instilling fear in the Muslim community” and smearing the reputation of structures led by Grand Mufti Gaynutdin.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "76e96c77f60e6c1e168c68cc0f8a07d32ea50909",
+      "fingerprint": "8500bb4164feebaba4753f8909aa0bdcd1d0be2f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502445",
+      "published_utc": "2026-05-22T15:04:20Z",
+      "title_en": "Putin called for abandoning patterns and stereotypes in work",
+      "lead_en": "Such activities do not bring the expected results, the President of the Russian Federation noted",
+      "title_raw": "Путин призвал отказываться от лекал и стереотипов в работе",
+      "lead_raw": "Такая деятельность не приносит ожидаемого результата, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e80dc21e58f352376d0f595b70da68618a15883e",
+      "fingerprint": "6be164e551577b9ea7d57f0e1c1d3d2a939dfde6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502427",
+      "published_utc": "2026-05-22T15:03:35Z",
+      "title_en": "Putin called on managers from among the Northern Military District veterans not to forget their military brotherhood",
+      "lead_en": "Communication with people working in different fields helps broaden one’s horizons and make the right decisions at the right time, noted the President of the Russian Federation",
+      "title_raw": "Путин призвал управленцев из числа ветеранов СВО не забывать боевое братство",
+      "lead_raw": "Общение с людьми, работающими в разных сферах, помогает расширять кругозор и принимать правильные решения в нужный момент, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3de33fc965096c16214b46bc0a4e5f74c231e83f",
+      "fingerprint": "80ede628d4feda8b9aee741a731d23458a6b298d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27502387",
+      "published_utc": "2026-05-22T15:01:03Z",
+      "title_en": "Rosselkhoznadzor: Armenia's share in Russian flower imports is less than 5%",
+      "lead_en": "The head of the department, Sergei Dankvert, noted that several years ago, flower supplies from the republic amounted to 4-5 million pieces, by the end of 2025 - 96 million pieces",
+      "title_raw": "Россельхознадзор: доля Армении в российском импорте цветов составляет менее 5%",
+      "lead_raw": "Руководитель ведомства Сергей Данкверт отметил, что несколько лет назад поставки цветов из республики составляли 4-5 млн шт, по итогам 2025 года - 96 млн шт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e8740113367bf4f5980fdfd03a39fd3b84302d64",
+      "fingerprint": "e138e4ceceb4535ffe828dca01bfd9c109807815",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502363",
+      "published_utc": "2026-05-22T14:59:42Z",
+      "title_en": "Putin: military and civilian medicine in the Russian Federation have become better linked",
+      "lead_en": "The Russian President added that there is still work to be done",
+      "title_raw": "Путин: военная и гражданская медицина в РФ стали лучше сопряжены",
+      "lead_raw": "Президент России добавил, что еще есть над чем работать",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5f7ca02ce42d92790f4802702e28f5a4c0a32297",
+      "fingerprint": "434bb36cc538264e3c9579f34293d8aefba531d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502345",
+      "published_utc": "2026-05-22T14:58:55Z",
+      "title_en": "Putin: Russian military medicine is developing well",
+      "lead_en": "The President of the Russian Federation noted that Russian military medicine has good roots",
+      "title_raw": "Путин: военная медицина России хорошо развивается",
+      "lead_raw": "Президент РФ отметил, что российская военная медицина имеет хорошие корни",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6d61060ebe8c35b1bf2dcd218acfcc89e63735a4",
+      "fingerprint": "dd34d8646cc908afab3a4adcb181b89ab112d379",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502329",
+      "published_utc": "2026-05-22T14:58:26Z",
+      "title_en": "Putin called for using the capabilities of both military and civilian medicine",
+      "lead_en": "All the country’s capabilities must be used to achieve goals, the Russian President noted",
+      "title_raw": "Путин призвал использовать возможности и военной, и гражданской медицины",
+      "lead_raw": "Все возможности страны должны использоваться для достижения целей, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a79acc2c3df19d5f1dd39426a78be9c733a1319a",
+      "fingerprint": "5e76c949ccb7dc9fc4f6c3472cf78b503ca08e81",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27502177",
+      "published_utc": "2026-05-22T14:54:43Z",
+      "title_en": "The Russian Embassy appealed to the prosecutor's office because of Russophobic slogans at an exhibition in Berlin",
+      "lead_en": "The diplomatic mission noted that they are outraged by the public dissemination of calls that contribute to inciting violence",
+      "title_raw": "Посольство РФ обратилось в прокуратуру из-за русофобских лозунгов на выставке в Берлине",
+      "lead_raw": "В диппредставительстве отметили, что возмущены публичным распространением призывов, способствующих разжиганию насилия",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6e4511bdf7a15314700b8fa33a24485257056266",
+      "fingerprint": "34ed7d2735ba824381aadf17ef549827ac29dd7d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502267",
+      "published_utc": "2026-05-22T14:54:34Z",
+      "title_en": "Putin wished good luck to Hero of the Russian Federation Saibel in the State Duma elections",
+      "lead_en": "",
+      "title_raw": "Путин пожелал удачи Герою РФ Сайбелю на выборах в Госдуму",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "623faa931762add74121c8138d3028decd04d2e0",
+      "fingerprint": "051e93a599dc609bd3fa04509ea3d83619f7b69d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502191",
+      "published_utc": "2026-05-22T14:52:31Z",
+      "title_en": "Putin called social support for veterans the work of educating the whole society",
+      "lead_en": "When society today sees how people who need state help are treated and it educates, the President of the Russian Federation emphasized",
+      "title_raw": "Путин назвал социальную поддержку ветеранов работой по воспитанию всего общества",
+      "lead_raw": "Когда общество сегодня видит, как относятся к людям, которые нуждаются в помощи государства и, то это воспитывает, подчеркнул президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c221e961d5f02630a9ca51c54d75b59e6e4468da",
+      "fingerprint": "8265c8b5b5b8f5d19e585ff3f55c5522b36b3548",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502165",
+      "published_utc": "2026-05-22T14:51:53Z",
+      "title_en": "Putin: “Time of Heroes” is a unique platform for supporting veterans",
+      "lead_en": "This has never happened before, the Russian President noted",
+      "title_raw": "Путин: \"Время героев\" - уникальная платформа поддержки ветеранов",
+      "lead_raw": "Такого раньше не было, отметил президент России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cf821222787db7b877abb17a7eb8fab8053432e7",
+      "fingerprint": "80f694d8bf8d31973712c8afe093e986cdc5c5c0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502151",
+      "published_utc": "2026-05-22T14:49:27Z",
+      "title_en": "Putin: from time immemorial, Russia has treated the defenders of the Fatherland with respect",
+      "lead_en": "The President of the Russian Federation noted that the walls of the St. George Hall of the Grand Kremlin Palace are decorated with marble plaques with the names of military units and military conflicts in which these units took part in defending the Fatherland",
+      "title_raw": "Путин: в России испокон веков с уважением относились к защитникам Отечества",
+      "lead_raw": "Президент РФ отметил, что стены Георгиевского зала Большого Кремлевского дворца украшены мраморными досками с названиями воинских подразделений и военных конфликтов, в которых эти подразделения принимали участие, защищая Отечество",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ebc1058e38312d155b6f60917987cc3a8043c79d",
+      "fingerprint": "2e01b80931fc9e419ddaabfc14388a586e323612",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502123",
+      "published_utc": "2026-05-22T14:48:34Z",
+      "title_en": "Hero of Russia Yurgin told Putin that his first child Yaropolk was born",
+      "lead_en": "Igor Yurgin noted that he became even more aware of the responsibility for educating the younger generation",
+      "title_raw": "Герой России Юргин рассказал Путину, что у него родился первенец Ярополк",
+      "lead_raw": "Игорь Юргин отметил, что еще больше осознал ответственность за воспитание подрастающего поколения",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4612d7093f4380f70b0b04bb13e2d46dd38c7952",
+      "fingerprint": "541cb7ef83776403bf4193d275bf62336537c79a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502087",
+      "published_utc": "2026-05-22T14:43:50Z",
+      "title_en": "Putin wished good luck to the youth members going to the State Duma elections",
+      "lead_en": "The President of the Russian Federation said that they will be supported in every possible way",
+      "title_raw": "Путин пожелал удачи юнармейцам, идущим на выборы в Госдуму",
+      "lead_raw": "Президент РФ сообщил, что их будут всячески поддерживать",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c29255c6b60d5bbcec849277241436c5336ec333",
+      "fingerprint": "e4d1008825ebcf4923cfb3341075d02d6a4da9cf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502081",
+      "published_utc": "2026-05-22T14:43:43Z",
+      "title_en": "Putin: when coming to power, you need to be ready to meet voters' expectations",
+      "lead_en": "Willingness to work and responsibility are also very important in political work, the President of the Russian Federation noted",
+      "title_raw": "Путин: приходя к власти, нужно быть готовым оправдывать ожидания избирателей",
+      "lead_raw": "Готовность работать и ответственность также очень важны в политической работе, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "36f1afa83238c73ef44b83dff2751f4eeffe122a",
+      "fingerprint": "15adfc2b8331d4520951d67bac98217ca6b58cf2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27502067",
+      "published_utc": "2026-05-22T14:43:16Z",
+      "title_en": "Putin called parliament an extremely important institution",
+      "lead_en": "He helps the government prepare acts regulating relations in all areas, the President of the Russian Federation noted",
+      "title_raw": "Путин назвал парламент чрезвычайно важным институтом",
+      "lead_raw": "Он помогает правительству готовить акты, регулирующие отношения во всех сферах, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "df827ee7cee2f433e682b83e1d461671e1cbaf98",
+      "fingerprint": "c0d58f30e71389e072576a0b0b618cfcaa14693b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502039",
+      "published_utc": "2026-05-22T14:42:51Z",
+      "title_en": "Putin called bureaucracy and formalism the main enemies of the teacher",
+      "lead_en": "The Russian leader noted that “everything must be done with the heart, with the soul and by personal example”",
+      "title_raw": "Путин назвал главными врагами воспитателя бюрократизм и формализм",
+      "lead_raw": "Российский лидер отметил, что \"все делать нужно с сердцем, с душой и на личном примере\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6f340c9e47c91e8feb461af21095191d95267bdd",
+      "fingerprint": "5e99f1bcd42f221466dfcaffdfd656bb9b793571",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502045",
+      "published_utc": "2026-05-22T14:42:33Z",
+      "title_en": "Putin urged participants of the “Time of Heroes” not to become apparatchiks",
+      "lead_en": "The President of the Russian Federation asked them about this “convincingly”",
+      "title_raw": "Путин призвал участников \"Времени героев\" не становиться аппаратчиками",
+      "lead_raw": "Президент РФ попросил их об этом \"убедительно\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7898b900950036b300635b18e91f5eb6693ee1bf",
+      "fingerprint": "136d289d25f557e384a0247cc60dcea4be4ad5df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27501547",
+      "published_utc": "2026-05-22T14:42:31Z",
+      "title_en": "72 managers worked with participants in the Time of Heroes",
+      "lead_en": "Among them are the head of the presidential administration of the Russian Federation Anton Vaino, the first deputy head and deputy head of the presidential administration Sergei Kiriyenko and Maxim Oreshkin",
+      "title_raw": "С участниками \"Времени героев\" работали 72 руководителя",
+      "lead_raw": "В их числе глава администрации президента РФ Антон Вайно, первый замглавы и замглавы администрации президента Сергей Кириенко и Максим Орешкин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3046b653cfd3703b8ceabba7330ac048d4ceec2e",
+      "fingerprint": "139786f2158b79130dc6dd5809ad4e13610d6aba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502033",
+      "published_utc": "2026-05-22T14:42:08Z",
+      "title_en": "Putin: Patriotic education should be intelligent and unobtrusive",
+      "lead_en": "The President of the Russian Federation noted that then “the result can be very significant and necessary for the country, for its future”",
+      "title_raw": "Путин: патриотическое воспитание должно быть интеллигентным и ненавязчивым",
+      "lead_raw": "Президент РФ отметил, что тогда \"результат может быть очень значимым и нужным для страны, для ее будущего\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ea6bb3ed13b63365342c1af5c9b523dd19413632",
+      "fingerprint": "bb16317f3269d0a453f1a1618ccbc273ada337bf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502027",
+      "published_utc": "2026-05-22T14:41:55Z",
+      "title_en": "Putin noted the importance of educational work in the Yunarmiya",
+      "lead_en": "Patriotic education is one of the main components of working with youth, said the President of the Russian Federation",
+      "title_raw": "Путин отметил важность воспитательной работы в \"Юнармии\"",
+      "lead_raw": "Патриотическое воспитание - одна из основных составляющих работы с молодежью, заявил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "550f4d9dd457edc39a9e851ab283b65d1a9a8f1e",
+      "fingerprint": "f3970ea59a6e11b08d66da23eb5ececbf51ad416",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27502001",
+      "published_utc": "2026-05-22T14:41:39Z",
+      "title_en": "Six people from the “Youth Army” were awarded the title “Hero of Russia” during their participation in the North Military District",
+      "lead_en": "The Chief of the General Staff of the movement, Vladislav Golovin, noted that it is a great pride that members of the Young Army, graduates, and leaders take part in a special military operation",
+      "title_raw": "Шесть выходцев из \"Юнармии\" удостоены звания \"Герой России\" за время участия в СВО",
+      "lead_raw": "Начальник Главного штаба движения Владислав Головин отметил, что большой гордостью является тот факт, что юнармейцы, выпускники, руководители принимают участие в специальной военной операции",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1a12603df440f3519796a0fcd069ec6bf70022e2",
+      "fingerprint": "a163269800d729d4311bc4196f7063ba86456eb8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27501883",
+      "published_utc": "2026-05-22T14:35:35Z",
+      "title_en": "Putin advised to constantly study",
+      "lead_en": "The President of the Russian Federation noted that it is important to increase your knowledge base",
+      "title_raw": "Путин посоветовал постоянно учиться",
+      "lead_raw": "Президент РФ отметил, что важно наращивать свой багаж знаний",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9bc5f75319e45e186387f58ab9e942c265f06d99",
+      "fingerprint": "8d1c003f4addcd55b8c81793b2ae1102b39e0adc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27501877",
+      "published_utc": "2026-05-22T14:34:47Z",
+      "title_en": "Putin: the personal example of heroes will help young people make the right choice",
+      "lead_en": "The President of the Russian Federation noted that the information space is very complex, “it is filled with all sorts of rubbish,” and filtering it is difficult, but it is possible, especially if you have a personal example",
+      "title_raw": "Путин: личный пример героев поможет молодежи делать правильный выбор",
+      "lead_raw": "Президент РФ отметил, что информационное пространство очень сложное, \"оно забито всяким хламом\", и фильтровать это сложно, но можно, особенно если есть личный пример",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cb2d35e5ba5f9d415c6773dec758f10a16a7a6f2",
+      "fingerprint": "0146ffcd2bad13276115e884a7bbe4ea955f89d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27501863",
+      "published_utc": "2026-05-22T14:33:50Z",
+      "title_en": "Putin: it’s difficult for young people to filter “trash” in a crowded information space",
+      "lead_en": "The President of Russia agreed with the words of one of the graduates of the “Time of Heroes” program that the struggle for education, for the minds of children is a “new front”",
+      "title_raw": "Путин: молодежи сложно фильтровать \"хлам\" в забитом информпространстве",
+      "lead_raw": "Президент России согласился со словами одного из выпускников программы \"Время героев\" о том, что борьба за воспитание, за умы детей - это \"новый фронт\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ea0d445d389ce43af82693c1737edc306e657f13",
+      "fingerprint": "3dcf30e710de77e1647bc27f056f143c1673f7b4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27501831",
+      "published_utc": "2026-05-22T14:32:52Z",
+      "title_en": "Tennis player Safiullin reached the main draw of Roland Garros",
+      "lead_en": "The Russian defeated the German Tom Gentzsch with a score of 6:3, 6:7 (2:7), 6:4",
+      "title_raw": "Теннисист Сафиуллин вышел в основную сетку Roland Garros",
+      "lead_raw": "Россиянин победил немца Тома Генцша со счетом 6:3, 6:7 (2:7), 6:4",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "741470a235bb6d51b0c130f1ce7c0c067fd13d7e",
+      "fingerprint": "043069d9969eeaf8c5294bbeb9eb63c95f77414a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27501825",
+      "published_utc": "2026-05-22T14:32:46Z",
+      "title_en": "Putin applauded the Hero of the Russian Federation, who announced the birth of his son",
+      "lead_en": "The President of Russia was supported by all those present",
+      "title_raw": "Путин аплодисментами поддержал Героя РФ, сообщившего о рождении сына",
+      "lead_raw": "Президента России поддержали все собравшиеся",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "75d5b8dc79b4971098665ed0a67973e07fc4db27",
+      "fingerprint": "c1fdbead2d77d7a7ec849cc6d1e2620b8105219d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27501419",
+      "published_utc": "2026-05-22T14:31:47Z",
+      "title_en": "Request for a UN Security Council meeting and a new page on terror. Reaction to the attack on a college in the LPR",
+      "lead_en": "There will be no leniency for any of those responsible for the attack, the Russian Foreign Ministry indicated.",
+      "title_raw": "Запрос заседания СБ ООН и новая страница террора. Реакция на удар по колледжу в ЛНР",
+      "lead_raw": "Снисхождения никому из виновных в атаке не будет, указали в МИД РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b695a9809e6fbd73efffcaf32b95086722c8c448",
+      "fingerprint": "52e9ffe4c6e45f9d935afa79685b4eccb1aedb76",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27501731",
+      "published_utc": "2026-05-22T14:27:33Z",
+      "title_en": "Putin said that Russia will go through all the tests",
+      "lead_en": "The President of the Russian Federation noted that managers from among the Northern Military District veterans “must take the country into their own hands, develop it in all directions, and protect it”",
+      "title_raw": "Путин заявил, что Россия пройдет через все испытания",
+      "lead_raw": "Президент РФ отметил, что управленцы из числа ветеранов СВО \"должны взять в свои руки страну, развивать ее по всем направлениям, защищать\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4047ac6f3cc2dcae6bf83c99c3f5662b15a63cea",
+      "fingerprint": "d6eea2ae2faf665d55f6c45b9fdae59e0b95c90e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27501417",
+      "published_utc": "2026-05-22T14:27:13Z",
+      "title_en": "Return of the Prodigal German. Prospects for Schwartz's second spell at Dynamo",
+      "lead_en": "About what made the coach return to Russia, what prospects he has in the Moscow club and the controversial parting of the blue and white with Rolan Gusev - in the TASS material",
+      "title_raw": "Возвращение блудного немца. Перспективы второго захода Шварца в \"Динамо\"",
+      "lead_raw": "О том, что заставило тренера вернуться в Россию, какие у него перспективы в московском клубе и неоднозначном расставании бело-голубых с Роланом Гусевым - в материале ТАСС",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "29c33a2f8ff49357156ba3d7c369ed9ebd3d2d9e",
+      "fingerprint": "24b6a5b4ffb6412dd407d73da1258a95cfc0200f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27501723",
+      "published_utc": "2026-05-22T14:26:54Z",
+      "title_en": "Putin said he knows the situation on the ground",
+      "lead_en": "The President of the Russian Federation is confident that managers from among the Northern Military District veterans will be able to solve existing problems",
+      "title_raw": "Путин заявил, что знает обстановку на местах",
+      "lead_raw": "Президент РФ уверен, что управленцы из числа ветеранов СВО смогут решать существующие проблемы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6f5c39955e83e6dc2809b3390e1895451e7de1d1",
+      "fingerprint": "61320648eb63fa5265308f74d63a7ee1578ecef5",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/22/russia-requests-un-security-council-meeting-after-deadly-ukrainian-attack-on-luhansk-vocational-school-a92818",
+      "published_utc": "2026-05-22T13:17:00Z",
+      "title_en": "Russia Requests UN Security Council Meeting After Deadly Ukrainian Attack on Luhansk Vocational School",
+      "lead_en": "At least six people were killed and dozens more were wounded in the attack early Friday, President Vladimir Putin said.",
+      "title_raw": "Russia Requests UN Security Council Meeting After Deadly Ukrainian Attack on Luhansk Vocational School",
+      "lead_raw": "At least six people were killed and dozens more were wounded in the attack early Friday, President Vladimir Putin said.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f952b51c27e561da1831cd13f05f8159767dbc4a",
+      "fingerprint": "e5654cccdd93c02b7857c0b8058fed61289ec5f0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/05/22/snow-melt-triggers-flooding-in-far-east-russias-buryatia-a92821",
+      "published_utc": "2026-05-22T13:00:56Z",
+      "title_en": "Snow Melt Triggers Flooding in Far East Russia’s Buryatia",
+      "lead_en": "A man drowned while trying to cross a river in the republic of Buryatia on foot on Thursday, regional authorities said.",
+      "title_raw": "Snow Melt Triggers Flooding in Far East Russia’s Buryatia",
+      "lead_raw": "A man drowned while trying to cross a river in the republic of Buryatia on foot on Thursday, regional authorities said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "4510de14f10366121f9bfe0155618b16b41a3b03",
+      "fingerprint": "0e09bb09fef813766d80c78f5bf15cb349a599d4",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/05/22/russia-s-institute-of-philosophy-raided-over-fraud-case-tied-to-aristotle-translation-project-the-institute-had-previously-been-accused-of-disloyalty-to-the-kremlin",
+      "published_utc": "2026-05-22T12:33:23Z",
+      "title_en": "Russia’s Institute of Philosophy raided over fraud case tied to Aristotle translation project — the institute had previously been accused of disloyalty to the Kremlin.",
+      "lead_en": "Security personnel raided the Institute of Philosophy of the Russian Academy of Sciences as part of a fraud investigation into funds allocated for a translation of Aristotle. The pro-government Telegram channels Zapiski Traditsionalista (“Notes of a Traditionalist”) and AGDChan — the latter linked to philosopher Alexander Dugin — were among the first to report the searches.",
+      "title_raw": "Russia’s Institute of Philosophy raided over fraud case tied to Aristotle translation project — the institute had previously been accused of disloyalty to the Kremlin.",
+      "lead_raw": "Security personnel raided the Institute of Philosophy of the Russian Academy of Sciences as part of a fraud investigation into funds allocated for a translation of Aristotle. The pro-government Telegram channels Zapiski Traditsionalista (“Notes of a Traditionalist”) and AGDChan — the latter linked to philosopher Alexander Dugin — were among the first to report the searches.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ba1852570076fce2604ea739e429dd7f9c74b4b5",
       "fingerprint": "240f85ad5da6d17655944c7ffbb90cfff2a52b16",
@@ -10190,1253 +11367,6 @@
       "lead_raw": "Подписание документа прошло в Истре, где лидеры региональных ассоциаций со всех регионов России приняли участие в спортивно-массовом мероприятии в рамках Кубка мужества",
       "topic_scores": {
         "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3559a7b2513ecc260c4acd70734a179f904d1aa7",
-      "fingerprint": "0791af2c822aa6e3e5b2d4339973e2151a07691d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27476605",
-      "published_utc": "2026-05-20T15:50:18Z",
-      "title_en": "Peskov called student exchange between Russia and China very active",
-      "lead_en": "The press secretary of the President of the Russian Federation noted that a lot of Chinese students study both through the state and come privately",
-      "title_raw": "Песков назвал очень активным студенческий обмен между Россией и Китаем",
-      "lead_raw": "Пресс-секретарь президента РФ отметил, что очень много китайских студентов учатся и по государственной линии, и приезжают в частном порядке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8893f031d9bfce8d049ef2c2c86d990892207d0d",
-      "fingerprint": "2a8b9581c36b16db00a500e756b6073e79c4c07e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27476361",
-      "published_utc": "2026-05-20T15:47:20Z",
-      "title_en": "Lantratova plans to sign a memorandum with colleagues from China",
-      "lead_en": "This will be an important practical step that will strengthen the dialogue between human rights structures of the two countries, said the Commissioner for Human Rights in the Russian Federation",
-      "title_raw": "Лантратова планирует подписать меморандум с коллегами из Китая",
-      "lead_raw": "Это станет важным практическим шагом, который позволит укрепить диалог между правозащитными структурами двух стран, заявила уполномоченный по правам человека в РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4a3acfc7fe8d50ac68d4bd6e1ee397a1f2c2644e",
-      "fingerprint": "c48e915835db0f89a8a8ff8c419379d4b7920d31",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27476581",
-      "published_utc": "2026-05-20T15:45:38Z",
-      "title_en": "Central Bank: current price growth in the sustainable part will be around 4% in the second half of the year",
-      "lead_en": "According to the forecast of the Bank of Russia, taking into account the current monetary policy, annual inflation will drop to 4.5-5.5% in 2026",
-      "title_raw": "ЦБ: текущий рост цен в устойчивой части сложится вблизи 4% в II полугодии",
-      "lead_raw": "По прогнозу Банка России, с учетом проводимой денежно-кредитной политики годовая инфляция снизится до 4,5-5,5% в 2026 году",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f0ae12a1a1f34ee45d792c881a98d76930543357",
-      "fingerprint": "e3294818028a345939526bdd203bbb744f64bc6b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27475319",
-      "published_utc": "2026-05-20T15:45:28Z",
-      "title_en": "Murashko noted the contribution of Professor Pokrovsky to reducing mortality in Russia",
-      "lead_en": "The Minister of Health of the Russian Federation noted that the Doctor of Medical Sciences devoted his entire life to serving medicine",
-      "title_raw": "Мурашко отметил вклад профессора Покровского в снижение смертности в России",
-      "lead_raw": "Министр здравоохранения РФ отметил, что доктор медицинских наук всю свою жизнь посвятил служению медицине",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2a352f1e1e9eb8a7745fa66581bae70ee75134a4",
-      "fingerprint": "025ed67733a2e2e2d419c30e58dbe50f7179be0e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27476575",
-      "published_utc": "2026-05-20T15:44:28Z",
-      "title_en": "The Consulate General of the Russian Federation in Hurghada did not receive information about the poisoning of Russians in the hotel",
-      "lead_en": "Rospotrebnadzor sent a request to the Egyptian Ministry of Health to provide official data on the results of the investigation",
-      "title_raw": "Генконсульство РФ в Хургаде не получало информации об отравлении россиян в отеле",
-      "lead_raw": "Роспотребнадзор направил в Министерство здравоохранения Египта запрос о предоставлении официальных данных по результатам расследования",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4cf936082a652d73783e9234d6173052e62a43dd",
-      "fingerprint": "9b8284c2d86ad228f59094309bda2a5240736ad9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27475541",
-      "published_utc": "2026-05-20T15:42:50Z",
-      "title_en": "The Russian Ministry of Defense has published archives about Nazi atrocities in Mariupol during the Second World War",
-      "lead_en": "The Russian military department timed this to coincide with the next anniversary of the liberation of the city during the Northern Military District",
-      "title_raw": "Минобороны РФ опубликовало архивы про зверства нацистов в Мариуполе в годы ВОВ",
-      "lead_raw": "Российское военное ведомство приурочило это к очередной годовщине освобождения города в ходе СВО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "25bc717f47fbbefc8f3a7fda84a05213bc5e26ec",
-      "fingerprint": "b78ce1e5f050b7381902fe1797b7049aed32b58a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134101",
-      "published_utc": "2026-05-20T15:34:18Z",
-      "title_en": "Armenia made series of unfriendly steps towards Russia recently — top security official",
-      "lead_en": "According to Sergey Shoigu, this is how Moscow views the decisions to join the International Criminal Court, to extradite Russian citizens to third countries, and to make things harder for Russian economic entities",
-      "title_raw": "Armenia made series of unfriendly steps towards Russia recently — top security official",
-      "lead_raw": "According to Sergey Shoigu, this is how Moscow views the decisions to join the International Criminal Court, to extradite Russian citizens to third countries, and to make things harder for Russian economic entities",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d65425777be33d1ae0479c0005dab4e2fc5d06c5",
-      "fingerprint": "cf72cc7bf9d9f6e5c7a7acbc5e2321b356df9e1d",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/05/20/finland-to-deport-anti-war-russian-who-donated-to-navalnys-banned-political-group-a92804",
-      "published_utc": "2026-05-20T15:33:27Z",
-      "title_en": "Finland to Deport Anti-War Russian Who Donated to Navalny’s Banned Political Group",
-      "lead_en": "Roman Golikov’s lawyer has filed a final appeal with the Finnish Supreme Court alongside an injunction request to suspend the expulsion.",
-      "title_raw": "Finland to Deport Anti-War Russian Who Donated to Navalny’s Banned Political Group",
-      "lead_raw": "Roman Golikov’s lawyer has filed a final appeal with the Finnish Supreme Court alongside an injunction request to suspend the expulsion.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fb395c861d953a9bec2b80cec92dc33b195f67fa",
-      "fingerprint": "3adb468c05146cc12a620bc327203729bfcf173a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27476163",
-      "published_utc": "2026-05-20T15:31:05Z",
-      "title_en": "Expert Dolgushina: the infertility rate in the Russian Federation does not change significantly",
-      "lead_en": "However, there are more treatment methods, said the chief freelance specialist of the Russian Ministry of Health for women’s reproductive health",
-      "title_raw": "Эксперт Долгушина: показатель бесплодия в РФ значимо не меняется",
-      "lead_raw": "Однако методов лечения стало больше, сообщила главный внештатный специалист Минздрава России по репродуктивному здоровью женщин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "66c090d4dc8a09219e5c5ce3a0f4a8cb14e7f34b",
-      "fingerprint": "8ebb292bfa1c554f8a607c57a61a31da077cbe2e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27476467",
-      "published_utc": "2026-05-20T15:30:59Z",
-      "title_en": "Smith called the Chinese Esports Association a long-time partner of Russia",
-      "lead_en": "Earlier, in a joint statement following negotiations between the leaders of the Russian Federation and China in Beijing, it was emphasized that Moscow and Beijing intend to develop interaction in the field of physical culture and sports",
-      "title_raw": "Смит назвал Китайскую ассоциацию киберспорта давним партнером России",
-      "lead_raw": "Ранее в совместном заявлении по итогам переговоров лидеров РФ и КНР в Пекине подчеркивалось, что Москва и Пекин намерены развивать взаимодействие в сфере физической культуры и спорта",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7401dd20f9cd35f094cb830ce63fcda8439efcc4",
-      "fingerprint": "9142c2fcf3a70ca73cddbddc75e84d9380ca7b25",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27476419",
-      "published_utc": "2026-05-20T15:21:41Z",
-      "title_en": "Head of the FSMTC of the Russian Federation: the People's Republic of China made it clear that they are happy for Russia amid the launch of Sarmat",
-      "lead_en": "Director of the Russian Federal Service for Military-Technical Cooperation Dmitry Shugaev said that their Chinese colleagues did this “without calling a spade a spade”",
-      "title_raw": "Глава ФСВТС РФ: в КНР дали понять, что рады за Россию на фоне запуска \"Сармата\"",
-      "lead_raw": "Директор российской Федеральной службы по военно-техническому сотрудничеству Дмитрий Шугаев сообщил, что китайские коллеги сделали это, \"не называя вещи своими именами\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a334c802791cb0f043004bbc488132c90348c49b",
-      "fingerprint": "5b2b000aa20168bca3f01307ad65484eb9655996",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2134099",
-      "published_utc": "2026-05-20T15:21:03Z",
-      "title_en": "Bank of Russia lowers dollar exchange rate for May 21 to 70.95 rubles",
-      "lead_en": "The official euro exchange rate was lowered by 80.48 kopecks to 81.9823 rubles",
-      "title_raw": "Bank of Russia lowers dollar exchange rate for May 21 to 70.95 rubles",
-      "lead_raw": "The official euro exchange rate was lowered by 80.48 kopecks to 81.9823 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b72b36383d6286383aa5b93b59acdcc61d4186d4",
-      "fingerprint": "4527100cd81e06b16829dff900281387ba945400",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27476331",
-      "published_utc": "2026-05-20T15:19:31Z",
-      "title_en": "In Zaporozhye, most government institutions switched to domestic software",
-      "lead_en": "Working on Russian programs and equipment ensures the information security of institutions, noted Minister of Digital Development of the region Grigory Prokhvatilov",
-      "title_raw": "На Запорожье большинство госучреждений перешли на отечественный софт",
-      "lead_raw": "Работа на российских программах и оборудовании обеспечивает информационную безопасность учреждений, отметил министр цифрового развития региона Григорий Прохватилов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5af59e1ab20c35bf14f45cfccdd95777e1b2214c",
-      "fingerprint": "f715a33f8c76826291128efacfc3301d9db072b9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kosmos/27476333",
-      "published_utc": "2026-05-20T15:14:24Z",
-      "title_en": "Russian Space Systems signed an agreement on the implementation of AI",
-      "lead_en": "Experts plan to create and train AI models for industry-specific tasks",
-      "title_raw": "\"Российские космические системы\" подписали соглашение о внедрении ИИ",
-      "lead_raw": "Специалисты планируют создать и обучить ИИ-модели под отраслевые задачи",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a99f10457ddda40bdbcb5519c10444ec072e2b66",
-      "fingerprint": "163bec809bdf5e0fb382e565cb4c1a61f7bc7123",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27476285",
-      "published_utc": "2026-05-20T15:14:16Z",
-      "title_en": "Armenia's actions and relations are like a \"two-way street.\" Shoigu's statements",
-      "lead_en": "Cooperation with Russia is the main engine of the Armenian economy, the Secretary of the Security Council indicated",
-      "title_raw": "Действия Армении и отношения как \"улица с двусторонним движением\". Заявления Шойгу",
-      "lead_raw": "Сотрудничество с Россией - основной двигатель экономики Армении, указал секретарь Совета безопасности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1f4c9690f50ddcdb4695e480ec2231386cc51bd1",
-      "fingerprint": "08953e6085b7edc24851981e1960b96061b6c03b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27476349",
-      "published_utc": "2026-05-20T15:11:23Z",
-      "title_en": "Arshavin admitted that 10-year-old children call him cool",
-      "lead_en": "At the All-Russian Congress of Physical Education Teachers, Andrei Arshavin took part in the discussion of the Russian Football Union \"Football at school: from methods to results\"",
-      "title_raw": "Аршавин признался, что 10-летние дети называют его крутым",
-      "lead_raw": "На Всероссийском съезде учителей физической культуры Андрей Аршавин принял участие в дискуссии Российского футбольного союза \"Футбол в школе: от методик до результата\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5eb6558af3d081e5f76f042235c825d6e792ac3a",
-      "fingerprint": "e1fc214224bfb318e10a2ebb0982a367551d0f0e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27476299",
-      "published_utc": "2026-05-20T15:11:07Z",
-      "title_en": "Lantratova: the humanitarian agenda plays an important role in the dialogue with China",
-      "lead_en": "Behind any interstate relations there are always people, said the Commissioner for Human Rights in the Russian Federation",
-      "title_raw": "Лантратова: гуманитарная повестка играет важную роль в диалоге c Китаем",
-      "lead_raw": "За любыми межгосударственными отношениями всегда стоят люди, заявила уполномоченный по правам человека в РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "afd2dee2601d69c80242253274ed9553bbf69061",
-      "fingerprint": "0567f14c493411694d439d486139589a748287bb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27475967",
-      "published_utc": "2026-05-20T15:09:28Z",
-      "title_en": "\"Collaboration is a two-way street.\" Shoigu about Armenia",
-      "lead_en": "Moscow understands the desire of the Yerevan leadership to derive economic benefits from cooperation with Russia, the Secretary of the Security Council said",
-      "title_raw": "\"Сотрудничество - это улица с двусторонним движением\". Шойгу об Армении",
-      "lead_raw": "Москва понимает желание руководства Еревана извлекать экономическую выгоду от сотрудничества с Россией, заявил секретарь Совета безопасности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72a8dd34e3609ca49385c9455b048b8bd8f79880",
-      "fingerprint": "ed3008c70afd918a15868c7648c03776ba736508",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134085",
-      "published_utc": "2026-05-20T14:57:15Z",
-      "title_en": "Putin concludes his visit to China",
-      "lead_en": "A brief farewell ceremony was organized for the Russian leader upon his arrival at the airport",
-      "title_raw": "Putin concludes his visit to China",
-      "lead_raw": "A brief farewell ceremony was organized for the Russian leader upon his arrival at the airport",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ef7354506adfebd3fc4fc68a3c795009332a027a",
-      "fingerprint": "54cf7b614a5af0db5b472718a9687f3baf8bcf98",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134051",
-      "published_utc": "2026-05-20T14:21:20Z",
-      "title_en": "Putin thanks Xi Jinping for extensive joint work in Beijing",
-      "lead_en": "The Russian president stressed that Moscow and Beijing had carried out productive and substantial work",
-      "title_raw": "Putin thanks Xi Jinping for extensive joint work in Beijing",
-      "lead_raw": "The Russian president stressed that Moscow and Beijing had carried out productive and substantial work",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a08c12ac22df9dc8a24688caec471fc376638540",
-      "fingerprint": "d8ca96a13d1e63d760fc8351f070baa0d56970d9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134045",
-      "published_utc": "2026-05-20T14:14:41Z",
-      "title_en": "Numerous actors 'capitalizing' on Iran nuclear narrative — Russian senior diplomat",
-      "lead_en": "According to Sergey Ryabkov, time will tell how realistic it is to reach a comprehensive agreement in the spirit of the Joint Comprehensive Plan of Action",
-      "title_raw": "Numerous actors 'capitalizing' on Iran nuclear narrative — Russian senior diplomat",
-      "lead_raw": "According to Sergey Ryabkov, time will tell how realistic it is to reach a comprehensive agreement in the spirit of the Joint Comprehensive Plan of Action",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8c0196f0d73caf1b54179c030d38c6aa9c8cb1a7",
-      "fingerprint": "b193c4d5fb0fd0a018c6b3ea36476960f3b08a69",
-      "source": "RT",
-      "url": "https://www.rt.com/news/640278-uk-eases-russian-oil-sanctions",
-      "published_utc": "2026-05-20T14:05:08Z",
-      "title_en": "UK dilutes Russian oil sanctions amid fuel crisis",
-      "lead_en": "The UK has issued a sanctions carve-out allowing imports of fuel refined from Russian crude in third countries as fuel prices soar Read Full Article at RT.com",
-      "title_raw": "UK dilutes Russian oil sanctions amid fuel crisis",
-      "lead_raw": "The UK has issued a sanctions carve-out allowing imports of fuel refined from Russian crude in third countries as fuel prices soar Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "15c4bbea5ccc5ec4a8d3ca18c1e017f35d019a38",
-      "fingerprint": "931e0252d6a888173e8080e9a86ba6616912180b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134043",
-      "published_utc": "2026-05-20T14:01:16Z",
-      "title_en": "Brussels mulls gaining nuclear status — Russian deputy foreign minister",
-      "lead_en": "Sergey Ryabkov said that Finland is examining the modalities of nuclear weapons transit through its territory",
-      "title_raw": "Brussels mulls gaining nuclear status — Russian deputy foreign minister",
-      "lead_raw": "Sergey Ryabkov said that Finland is examining the modalities of nuclear weapons transit through its territory",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d9224a4c9c2eb32fa085ce9a55f7359a65e46b5d",
-      "fingerprint": "64773007f271779ce619804659d8159c3dbc440b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134041",
-      "published_utc": "2026-05-20T13:59:59Z",
-      "title_en": "Russian upper house approves bill allowing military to protect citizens arrested abroad",
-      "lead_en": "In line with the document, the Russian president is allowed to send Russian military units to defend Russians from being tried by foreign and international courts, whose authority is not recognized by Russia",
-      "title_raw": "Russian upper house approves bill allowing military to protect citizens arrested abroad",
-      "lead_raw": "In line with the document, the Russian president is allowed to send Russian military units to defend Russians from being tried by foreign and international courts, whose authority is not recognized by Russia",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7d33233642b23b5eaf3602072e228d6a502ce83f",
-      "fingerprint": "29329f87e79e3e653832650d450f5170bd0d2281",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2134029",
-      "published_utc": "2026-05-20T13:52:19Z",
-      "title_en": "World cannot cope without Russian oil, several countries lifting restrictions — Novak",
-      "lead_en": "The market situation is very tense due to the closure of the Strait of Hormuz, the official noted",
-      "title_raw": "World cannot cope without Russian oil, several countries lifting restrictions — Novak",
-      "lead_raw": "The market situation is very tense due to the closure of the Strait of Hormuz, the official noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c4c5ec617ab0b25650ad6fa9730b4d1493f10824",
-      "fingerprint": "d7eb6fa2e6c28706ddc1e3efaa5aaf726c7accf2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134015",
-      "published_utc": "2026-05-20T13:45:20Z",
-      "title_en": "Russia admits more retaliatory measures against Norway in fisheries sector — envoy",
-      "lead_en": "Cooperation between Russia and Norway in the fisheries sector became more complicated after Oslo joined the EU’s illegitimate sanctions against the Russian fishing companies",
-      "title_raw": "Russia admits more retaliatory measures against Norway in fisheries sector — envoy",
-      "lead_raw": "Cooperation between Russia and Norway in the fisheries sector became more complicated after Oslo joined the EU’s illegitimate sanctions against the Russian fishing companies",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a83755e69d79b07974f709b1cadd2046740fbe43",
-      "fingerprint": "72831f4c06cbbd9116db989ad01d767fb77da0c6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2134017",
-      "published_utc": "2026-05-20T13:43:53Z",
-      "title_en": "Stable relations enable Russia, China to resist threats — Chinese premier",
-      "lead_en": "Li Qiang stressed that amid the current turbulence in global affairs, Putin and Chinese President Xi Jinping had outlined \"an ambitious plan for further development of bilateral relations\"",
-      "title_raw": "Stable relations enable Russia, China to resist threats — Chinese premier",
-      "lead_raw": "Li Qiang stressed that amid the current turbulence in global affairs, Putin and Chinese President Xi Jinping had outlined \"an ambitious plan for further development of bilateral relations\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "aaf5d9d96662021cc3c80d888dc7e94393914bd5",
-      "fingerprint": "9072fa3e1380ab675a008728b9ec2bd5a81d37be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134011",
-      "published_utc": "2026-05-20T13:43:29Z",
-      "title_en": "Russia ready to lend hand to Iran-US negotiations — senior diplomat",
-      "lead_en": "Russia does not intend to impose its services, Sergey Ryabkov said",
-      "title_raw": "Russia ready to lend hand to Iran-US negotiations — senior diplomat",
-      "lead_raw": "Russia does not intend to impose its services, Sergey Ryabkov said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ad1b248c25692197805a6d3025b53be3c8d774a0",
-      "fingerprint": "9fc79ff05d1bddd33d540cdb97d25b1408931662",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27475031",
-      "published_utc": "2026-05-20T13:36:43Z",
-      "title_en": "Putin thanked Xi Jinping for joint work in Beijing",
-      "lead_en": "The President emphasized that the Russian and Chinese sides had done fruitful and intensive work",
-      "title_raw": "Путин поблагодарил Си Цзиньпина за совместную работу в Пекине",
-      "lead_raw": "Президент подчеркнул, что российской и китайской сторонами была проделана плодотворная насыщенная работа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0327ae99f30628313b32fe65ea05717c9da60c40",
-      "fingerprint": "213f8a88d592c972b3d866b4162e5736e270f49b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134007",
-      "published_utc": "2026-05-20T13:31:05Z",
-      "title_en": "Putin, Xi attend TASS-Xinhua photo exhibit on Russia-China relations’ development",
-      "lead_en": "TASS Director General Andrey Kondrashov and Xinhua CEO Fu Hua took the high-ranking guests to an improvised tour, presenting 26 photographs",
-      "title_raw": "Putin, Xi attend TASS-Xinhua photo exhibit on Russia-China relations’ development",
-      "lead_raw": "TASS Director General Andrey Kondrashov and Xinhua CEO Fu Hua took the high-ranking guests to an improvised tour, presenting 26 photographs",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1b7afa9a75d63144e20bc86af92f1c5b4e4e4a1e",
-      "fingerprint": "2637d24d672e23c4d7e0e38d931bfed1852b2a44",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134005",
-      "published_utc": "2026-05-20T13:30:40Z",
-      "title_en": "Russia, China discuss with each other their relations with US — Kremlin aide",
-      "lead_en": "Presidential Aide Yury Ushakov is among other Russian officials as part of the delegation escorting President Vladimir Putin during his official visit to China",
-      "title_raw": "Russia, China discuss with each other their relations with US — Kremlin aide",
-      "lead_raw": "Presidential Aide Yury Ushakov is among other Russian officials as part of the delegation escorting President Vladimir Putin during his official visit to China",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c87554036d14a9c0ea2612f3e78837cdfce8d18a",
-      "fingerprint": "297e47c95c1f3f6704b40a32bf127927d6b08eff",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2133979",
-      "published_utc": "2026-05-20T13:29:59Z",
-      "title_en": "Development of Russia-China partnership: key Putin’s statements",
-      "lead_en": "Trade turnover between Russia and China has grown by more than 10% this year",
-      "title_raw": "Development of Russia-China partnership: key Putin’s statements",
-      "lead_raw": "Trade turnover between Russia and China has grown by more than 10% this year",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "61b8149d540e0a3367db2f163fad3154c09f64d4",
-      "fingerprint": "ee62801ec2f412e4805e4a50f3fcc489db31713b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2134001",
-      "published_utc": "2026-05-20T13:28:33Z",
-      "title_en": "Russian minister announces increase in food supplies to China",
-      "lead_en": "Russian Economic Development Minister Maxim Reshetnikov added that shipments of chemical products are expanding as well",
-      "title_raw": "Russian minister announces increase in food supplies to China",
-      "lead_raw": "Russian Economic Development Minister Maxim Reshetnikov added that shipments of chemical products are expanding as well",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "90facd9b5dfa6c6a68169928a1e602f2a8b12997",
-      "fingerprint": "0af5d41af50a7ab50a51cd319b6e639074aec721",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2133987",
-      "published_utc": "2026-05-20T13:26:36Z",
-      "title_en": "Contract approval for Power of Siberia 2 is in final stage — Novak",
-      "lead_en": "The Russian deputy prime minister noted that agreements at the level of national leaders were reached earlier",
-      "title_raw": "Contract approval for Power of Siberia 2 is in final stage — Novak",
-      "lead_raw": "The Russian deputy prime minister noted that agreements at the level of national leaders were reached earlier",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0696caca19298c44f8ab4daacdfdc3cdee655fbb",
-      "fingerprint": "41993598a3595fc05b6226c4c384c68103373164",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2134003",
-      "published_utc": "2026-05-20T13:25:12Z",
-      "title_en": "Russian upper house ratifies treaty on deepening cooperation with South Ossetia",
-      "lead_en": "According to the treaty, the parties plan to boost cooperation in various fields, particularly in order to pursue a coordinated foreign and defense policy, ensure socio-economic development and infrastructure growth",
-      "title_raw": "Russian upper house ratifies treaty on deepening cooperation with South Ossetia",
-      "lead_raw": "According to the treaty, the parties plan to boost cooperation in various fields, particularly in order to pursue a coordinated foreign and defense policy, ensure socio-economic development and infrastructure growth",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "10519b17a7e435a165cb30385430298d2270c297",
-      "fingerprint": "d84175bb43acbd3ce8f5daabd7212b976f55d29a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2133975",
-      "published_utc": "2026-05-20T13:21:12Z",
-      "title_en": "Russia, China working for peace and general prosperity, says Putin",
-      "lead_en": "The Russian president said that Moscow and Beijing held an exchange of opinions on essential international issues",
-      "title_raw": "Russia, China working for peace and general prosperity, says Putin",
-      "lead_raw": "The Russian president said that Moscow and Beijing held an exchange of opinions on essential international issues",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "526e5c27a4f389e0a5978b87eee6fa8d3e8ce86b",
-      "fingerprint": "55fb1d2174af26144b86472e5ef1b6e55345340a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27474859",
-      "published_utc": "2026-05-20T13:18:05Z",
-      "title_en": "Putin noted the contribution of the Constitutional Court to the development of the Russian Federation as a democratic legal state",
-      "lead_en": "The President emphasized that the issues on the event’s agenda are relevant and significant",
-      "title_raw": "Путин отметил вклад КС в развитие РФ как демократического правового государства",
-      "lead_raw": "Президент подчеркнул, что вопросы повестки мероприятия являются актуальными и значимыми",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a96bb0b8dafc153661820ea4ae16460713f2051a",
-      "fingerprint": "19d7770df9b8c92a0febc69c43fa3c4454823556",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2133993",
-      "published_utc": "2026-05-20T13:18:01Z",
-      "title_en": "Agriculture trade turnover between Russia, China up 21% in 2025 — minister",
-      "lead_en": "Russia is growing in its relationship with China, Oksana Lut noted",
-      "title_raw": "Agriculture trade turnover between Russia, China up 21% in 2025 — minister",
-      "lead_raw": "Russia is growing in its relationship with China, Oksana Lut noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "de83c160484f85c9a428a57fc076f5399f7b16bf",
-      "fingerprint": "facfba0b034949c619b63ddfc8bcd07866753b6d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27474813",
-      "published_utc": "2026-05-20T13:14:48Z",
-      "title_en": "Vulin: relations between the Russian Federation and Serbia should not turn into a meeting of history buffs",
-      "lead_en": "The head of the representative office of the Russian Historical Society in Belgrade noted that it is necessary to be focused on the future",
-      "title_raw": "Вулин: отношения РФ и Сербии не должны превратиться в собрание любителей истории",
-      "lead_raw": "Глава представительства Российского исторического общества в Белграде отметил, что необходимо быть нацеленными на будущее",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d8040fbdbb47c7074cdd0e81bfde4cd7eb79d242",
-      "fingerprint": "0535a05bc4ffa2f2147ad0774dd2578991aca199",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2133983",
-      "published_utc": "2026-05-20T13:13:02Z",
-      "title_en": "Russia, China oppose use of AI by individual countries to maintain dominance",
-      "lead_en": "Moscow and Beijing support strengthening international cooperation in the area of AI to reap the benefits of technology development and overcome potential risks and challenges associated with the implementation of the technology",
-      "title_raw": "Russia, China oppose use of AI by individual countries to maintain dominance",
-      "lead_raw": "Moscow and Beijing support strengthening international cooperation in the area of AI to reap the benefits of technology development and overcome potential risks and challenges associated with the implementation of the technology",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4c00b1b4dc264284066801d6855470e940a1f90b",
-      "fingerprint": "5596965f98d51dae168657fc32bf9018d376be66",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2133981",
-      "published_utc": "2026-05-20T13:11:38Z",
-      "title_en": "Russia, China concerned about threats to global information security",
-      "lead_en": "The parties emphasize the key role of the UN in responding to threats in the information space, the statement reads",
-      "title_raw": "Russia, China concerned about threats to global information security",
-      "lead_raw": "The parties emphasize the key role of the UN in responding to threats in the information space, the statement reads",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "01f133f4b313744a5e78c2f2c93493be90705ea9",
-      "fingerprint": "af570583f1c52b61aceb2235c004c6a0fcf5db5c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27473763",
-      "published_utc": "2026-05-20T13:11:02Z",
-      "title_en": "Informal tea party between Putin and Xi Jinping. Video broadcast has ended",
-      "lead_en": "The President of the Russian Federation visits China on May 19-20",
-      "title_raw": "Неформальное чаепитие Путина и Си Цзиньпина. Видеотрансляция завершена",
-      "lead_raw": "Президент РФ посещает Китай 19-20 мая",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "920659caf28f160731ca29ed2959611dfcebe843",
-      "fingerprint": "78d275d60d40e28f76daeb13929caad86c09f1e9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27474681",
-      "published_utc": "2026-05-20T13:09:58Z",
-      "title_en": "A veteran who sat at the parade with Putin and Xi noted their role in preventing nuclear war",
-      "lead_en": "Evgeny Znamensky noted that the friendship between Russia and China “greatly influences our enemies”",
-      "title_raw": "Сидевший на параде с Путиным и Си ветеран отметил их роль в предотвращении ядерной войны",
-      "lead_raw": "Евгений Знаменский отметил, что дружба России и Китая \"очень влияет на наших недругов\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "41410180030366466562f81122361441051347af",
-      "fingerprint": "562137ead5cde34022fc32bf7d3f7f547211878d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2133973",
-      "published_utc": "2026-05-20T13:09:34Z",
-      "title_en": "Russia, China note importance of scientific, technical, innovative cooperation — statement",
-      "lead_en": "The parties believe deepening scientific, technical and innovative cooperation is of great strategic importance for increasing the pace of development and enhancing the international competitiveness of the two countries",
-      "title_raw": "Russia, China note importance of scientific, technical, innovative cooperation — statement",
-      "lead_raw": "The parties believe deepening scientific, technical and innovative cooperation is of great strategic importance for increasing the pace of development and enhancing the international competitiveness of the two countries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7beb37c1ce458527a85b615a7c0b1d3c28504af3",
-      "fingerprint": "43b7e5e958b2d5c6f757766dfda66288d3cb56da",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27474619",
-      "published_utc": "2026-05-20T13:09:09Z",
-      "title_en": "GLONASS CEO said that integration with Beidou will increase data accuracy",
-      "lead_en": "Alexey Raikevich noted that this will also strengthen the technological sovereignty of Russia and China",
-      "title_raw": "Гендиректор ГЛОНАСС заявил, что интеграция с Beidou повысит точность данных",
-      "lead_raw": "Алексей Райкевич отметил, что это также усилит технологический суверенитет России и Китая",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fd0ed21f8e879be3288bb061361b527697437865",
-      "fingerprint": "2c1def1d39fa86cd80794b071969a896853f99ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27474717",
-      "published_utc": "2026-05-20T13:06:35Z",
-      "title_en": "Russian streamer Stint was added to the “Peacemaker” database",
-      "lead_en": "Maxim Shabanov is accused of supporting Russia's actions and \"attacking the territorial integrity of Ukraine\"",
-      "title_raw": "В базу \"Миротворца\" внесли российского стримера Stint",
-      "lead_raw": "Максима Шабанова обвиняют в поддержке действий России и \"покушении на территориальную целостность Украины\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "32c35eac1f417951a64d444b7ca9c73cffefe847",
-      "fingerprint": "92f31c5c547a06ba194518a381bf5bc5e9985ee7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27474551",
-      "published_utc": "2026-05-20T12:56:09Z",
-      "title_en": "Russian State Pedagogical University: a module on AI will help students develop awareness of neural networks",
-      "lead_en": "Rector of the university named after. A.",
-      "title_raw": "РГПУ: модуль по ИИ позволит формировать у школьников осознанность к нейросетям",
-      "lead_raw": "Ректор вуза им. А.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "56d0f9c1fecb89f0b6033ff71a8069e2ffdefd31",
-      "fingerprint": "c6689209050579bb17b5346b3c92fff5f0463d10",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27474561",
-      "published_utc": "2026-05-20T12:54:43Z",
-      "title_en": "The Russian Armed Forces \"Lancet\" destroyed a Ukrainian unmanned boat in the Black Sea",
-      "lead_en": "He presumably left the port of Odessa and was heading towards the Crimean peninsula",
-      "title_raw": "ВС РФ \"Ланцетом\" уничтожили украинский безэкипажный катер в Черном море",
-      "lead_raw": "Он вышел, предположительно, из порта Одессы и направлялся в сторону Крымского полуострова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a8b77e4163124cb1425a9ee7bad1cdb2baab2f7b",
-      "fingerprint": "51964d6db6fda7aa3343d4086b351354a809257c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27474499",
-      "published_utc": "2026-05-20T12:53:55Z",
-      "title_en": "Subtropical heat covered the Russian Plain and the Volga region",
-      "lead_en": "Also, abnormally high temperatures are recorded in Arkhangelsk, Karelia, and St. Petersburg",
-      "title_raw": "Русскую равнину и Поволжье накрыла субтропическая жара",
-      "lead_raw": "Также аномально высокую температуру регистрируют в Архангельске, Карелии, Санкт-Петербурге",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "48185329f75c38004f5044769f14dd9eb1a1b0a0",
-      "fingerprint": "3de9a2976afc129164b5fb84b8ada7f24c439bc0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27474539",
-      "published_utc": "2026-05-20T12:53:19Z",
-      "title_en": "The veteran who conveyed greetings to Putin and Xi called on the Russian Federation and China to solve problems together",
-      "lead_en": "The peoples of the two countries should be friends, said Evgeny Znamensky",
-      "title_raw": "Передавший привет Путину и Си ветеран призвал РФ и КНР вместе решать проблемы",
-      "lead_raw": "Народы двух стран должны дружить, заявил Евгений Знаменский",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f5ecd6af82afe7a59fd2738a08a76ede37fd227f",
-      "fingerprint": "69d8d6005ea54da1a3a55110df1e8f4ca96d7e66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27474521",
-      "published_utc": "2026-05-20T12:51:06Z",
-      "title_en": "Putin and Xi Jinping said hello to the veteran with whom they watched the Victory Parade in 2025",
-      "lead_en": "A photograph of the two leaders in the company of a veteran, taken by TASS photographer Vladimir Smirnov, was included in the exhibition “Indestructible Friendship of Great Nations, Strategic Partnership of Great Powers”, launched at the Great Hall of the People in Beijing on the",
-      "title_raw": "Путин и Си Цзиньпин передали привет ветерану, с которым смотрели парад Победы в 2025 году",
-      "lead_raw": "Фотография двух лидеров в компании ветерана, сделанная фотографом ТАСС Владимиром Смирновым, вошла в экспозицию \"Нерушимая дружба великих народов, стратегическое партнерство великих держав\", развернутую в Доме народных собраний в Пекине по случаю визита российского лидера",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c0a261cdbb9876a353f740f669ed375b2a85cc47",
-      "fingerprint": "47d5b26c3657be111f97e927c9ff9ee035de7568",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/20/vadim-pokrovsky-academic-who-led-russia-s-fight-against-aids-dies-at-71",
-      "published_utc": "2026-05-20T12:42:56Z",
-      "title_en": "Vadim Pokrovsky, academic who led Russia’s fight against AIDS, dies at 71",
-      "lead_en": "Vadim Pokrovsky, a full member of the Russian Academy of Sciences who spent his career fighting AIDS, has died at 71.",
-      "title_raw": "Vadim Pokrovsky, academic who led Russia’s fight against AIDS, dies at 71",
-      "lead_raw": "Vadim Pokrovsky, a full member of the Russian Academy of Sciences who spent his career fighting AIDS, has died at 71.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fa407eda47ac26562973bccaa361a00755d9907c",
-      "fingerprint": "9fd94b0e852ccfde0c583a45a8de10f4271e10b9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27473251",
-      "published_utc": "2026-05-20T12:42:13Z",
-      "title_en": "Lopatin named the main problem for justices of the peace",
-      "lead_en": "According to the General Director of the Judicial Department at the Supreme Court of the Russian Federation, this is a lack of funding from regional budgets",
-      "title_raw": "Лопатин назвал главную проблему для мировых судей",
-      "lead_raw": "По словам гендиректора Судебного департамента при Верховном суде РФ, это недостаточность финансирования из региональных бюджетов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "46a9c138db291de7f52de13e181474da55c4666c",
-      "fingerprint": "ad254f1f384e09090b4d415024400a4df1dc0a9f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/05/20/china-extends-visa-free-entry-for-russians-through-end-of-2027",
-      "published_utc": "2026-05-20T12:36:05Z",
-      "title_en": "China extends visa-free entry for Russians through end of 2027",
-      "lead_en": "China will extend visa-free entry for Russian citizens through December 31, 2027, Foreign Ministry spokesman Guo Jiakun announced on May 20.",
-      "title_raw": "China extends visa-free entry for Russians through end of 2027",
-      "lead_raw": "China will extend visa-free entry for Russian citizens through December 31, 2027, Foreign Ministry spokesman Guo Jiakun announced on May 20.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "40f9e1378d6101677f82595fb4484fb1f6036b15",
-      "fingerprint": "0da523b148c6a81606531775a7f3802390777abd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27474377",
-      "published_utc": "2026-05-20T12:35:27Z",
-      "title_en": "A book about Blok and his wife will be published in Russia",
-      "lead_en": "The book will be published this year by the Molodaya Gvardiya publishing house.",
-      "title_raw": "В России издадут книгу о Блоке и его жене",
-      "lead_raw": "Книга выйдет в этом году в издательстве \"Молодая гвардия\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "784c38d75d1b84b6fa3d0e0553e257974e2e1ae3",
-      "fingerprint": "8d3bf1e460093f3b7a294f39c6f78bb49946a80a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2133967",
-      "published_utc": "2026-05-20T12:33:42Z",
-      "title_en": "Russia, China have agreed to jointly combat trade protectionism",
-      "lead_en": "Russian Economic Development Minister Maxim Reshetnikov and Chinese Minister of Commerce Wang Wentao agreed to support open and fair trade and jointly oppose unilateral coercive measures and trade protectionism",
-      "title_raw": "Russia, China have agreed to jointly combat trade protectionism",
-      "lead_raw": "Russian Economic Development Minister Maxim Reshetnikov and Chinese Minister of Commerce Wang Wentao agreed to support open and fair trade and jointly oppose unilateral coercive measures and trade protectionism",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cf14a68408c7157988bb4dec93cd1ae80693eed2",
-      "fingerprint": "43a48024b1681b1e393e884dbf0964e55293159d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2133965",
-      "published_utc": "2026-05-20T12:33:09Z",
-      "title_en": "Russia, China to cooperate in fight against doping abuse in sports — statement",
-      "lead_en": "The parties advocate further promotion of equal international sports cooperation based on Olympic values and principles",
-      "title_raw": "Russia, China to cooperate in fight against doping abuse in sports — statement",
-      "lead_raw": "The parties advocate further promotion of equal international sports cooperation based on Olympic values and principles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6b407eac98af0752309ec2643be70a1cf3bb9d9e",
-      "fingerprint": "a92ca4712690d0a5e92192bdf92cedda0b28b75e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27474339",
-      "published_utc": "2026-05-20T12:31:33Z",
-      "title_en": "Basketball player Goldin spoke about his desire to play for the Russian national team",
-      "lead_en": "The player plays for the NBA Miami team",
-      "title_raw": "Баскетболист Голдин рассказал о желании сыграть за сборную России",
-      "lead_raw": "Игрок выступает за клуб НБА \"Майами\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "edf049ee4ed2f79672fa884901db79783408a2cf",
-      "fingerprint": "519e829bfd46dfe49c6b138c1ea0a819efd82da6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2133959",
-      "published_utc": "2026-05-20T12:27:29Z",
-      "title_en": "Root causes of conflict in Ukraine, visa formalities: Russia-China statement highlights",
-      "lead_en": "Russia and China will improve military cooperation mechanisms",
-      "title_raw": "Root causes of conflict in Ukraine, visa formalities: Russia-China statement highlights",
-      "lead_raw": "Russia and China will improve military cooperation mechanisms",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "351edb38f807effa836a4625ab89febcf0e03438",
-      "fingerprint": "0f5ec4b7d2ce9b08826d12a0698b260415fa9526",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27474287",
-      "published_utc": "2026-05-20T12:27:19Z",
-      "title_en": "Deripaska: Russia and China agreed on joint projects in Africa",
-      "lead_en": "The businessman called the key aspect of the negotiations the achievements that the countries have achieved over the years of cooperation",
-      "title_raw": "Дерипаска: Россия и Китай договорились о совместных проектах в Африке",
-      "lead_raw": "Бизнесмен назвал ключевым аспектом переговоров достижения, которых страны добились за годы сотрудничества",
-      "topic_scores": {
-        "diplomacy": 2,
         "military": 0,
         "energy": 0,
         "economy": 0,
