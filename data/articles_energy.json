@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-24T05:03:45Z",
+  "updated_at_utc": "2026-05-24T08:34:28Z",
   "topic": "energy",
-  "count": 14,
+  "count": 13,
   "articles": [
+    {
+      "id": "b1f08dc36e26a73b154e2ea049d21797becd213f",
+      "fingerprint": "f68f83fd37c8094f491bcd30a3ff5463efce8102",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27513247",
+      "published_utc": "2026-05-24T08:32:59Z",
+      "title_en": "The Russian Armed Forces hit oil refining and energy facilities used in the interests of the Armed Forces of Ukraine",
+      "lead_en": "",
+      "title_raw": "ВС РФ поразили объекты нефтепереработки и энергетики, используемые в интересах ВСУ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3e1229be76001ba6681ccaa3879ddc33eac25447",
       "fingerprint": "1cded98620d6c0f6042ea9f40b0fae020ffde7d4",
@@ -268,51 +290,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "96cd783018256a2c9552d81b9edfaf06f6bf869c",
-      "fingerprint": "30efc3e5733eb204050f1825a6138e79944aeee8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2134881",
-      "published_utc": "2026-05-22T07:51:46Z",
-      "title_en": "EU will not return to Russian oil and gas purchases under any circumstances",
-      "lead_en": "European Commissioner for Economy Valdis Dombrovskis said the largest gas supplies for the European Union now come from Norway",
-      "title_raw": "EU will not return to Russian oil and gas purchases under any circumstances",
-      "lead_raw": "European Commissioner for Economy Valdis Dombrovskis said the largest gas supplies for the European Union now come from Norway",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "274bed4c0b244133a88be988aa59c6b0c59a4b4d",
-      "fingerprint": "1495679faaef7732a8d1ee87cf53177da111f294",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2134875",
-      "published_utc": "2026-05-22T07:42:51Z",
-      "title_en": "Russia sees 78 foiled terrorist attacks in 2026 — FSB",
-      "lead_en": "The Russian Federal Security Service added that Ukrainian intelligence services continue to actively search the internet, social media platforms, and messaging apps for potential perpetrators of terrorist attacks",
-      "title_raw": "Russia sees 78 foiled terrorist attacks in 2026 — FSB",
-      "lead_raw": "The Russian Federal Security Service added that Ukrainian intelligence services continue to actively search the internet, social media platforms, and messaging apps for potential perpetrators of terrorist attacks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
