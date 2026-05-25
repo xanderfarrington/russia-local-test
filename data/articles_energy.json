@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-25T12:39:55Z",
+  "updated_at_utc": "2026-05-25T15:53:58Z",
   "topic": "energy",
-  "count": 6,
+  "count": 7,
   "articles": [
+    {
+      "id": "fd834670e6f106bd88c5df6c03fb96e06cd05d5c",
+      "fingerprint": "300e09e558ab7bf96c48b63a435f0a28939966c5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/25/fsb-says-ship-arriving-at-russian-port-from-belgium-was-found-to-have-sea-mines-attached-to-its-hull",
+      "published_utc": "2026-05-25T15:00:03Z",
+      "title_en": "FSB says ship arriving at Russian port from Belgium was found to have sea mines attached to its hull",
+      "lead_en": "Russia’s Federal Security Service said magnetic mines were found on the hull of the gas tanker Arrhenius after the vessel arrived at the Russian port of Ust-Luga in the Leningrad region from Antwerp.",
+      "title_raw": "FSB says ship arriving at Russian port from Belgium was found to have sea mines attached to its hull",
+      "lead_raw": "Russia’s Federal Security Service said magnetic mines were found on the hull of the gas tanker Arrhenius after the vessel arrived at the Russian port of Ust-Luga in the Leningrad region from Antwerp.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d503b89758a562548d13e2d0370875ebd58d20f8",
+      "fingerprint": "fdc26b7cb0e50f74ad012c8e45f44381651cf429",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/25/kazakhstan-will-not-enforce-ruling-allowing-ukraine-s-naftogaz-to-collect-1-4-billion-from-russia-s-gazprom-justice-minister-says",
+      "published_utc": "2026-05-25T13:53:05Z",
+      "title_en": "Kazakhstan will not enforce ruling allowing Ukraine’s Naftogaz to collect $1.4 billion from Russia’s Gazprom, Justice Minister says",
+      "lead_en": "Kazakhstan will not enforce a ruling by the Astana International Financial Centre court that recognized Ukraine’s Naftogaz’s right to collect $1.4 billion from Russia’s Gazprom, Justice Minister Yerlan Sarsenbaev said.",
+      "title_raw": "Kazakhstan will not enforce ruling allowing Ukraine’s Naftogaz to collect $1.4 billion from Russia’s Gazprom, Justice Minister says",
+      "lead_raw": "Kazakhstan will not enforce a ruling by the Astana International Financial Centre court that recognized Ukraine’s Naftogaz’s right to collect $1.4 billion from Russia’s Gazprom, Justice Minister Yerlan Sarsenbaev said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0d577c29e978c7cc650806fe6cf9a7c8f8104b81",
       "fingerprint": "3d121163b2e542f166051d74520bf7b3a700f6b7",
@@ -107,28 +152,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3e1229be76001ba6681ccaa3879ddc33eac25447",
-      "fingerprint": "1cded98620d6c0f6042ea9f40b0fae020ffde7d4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27509935",
-      "published_utc": "2026-05-23T14:27:40Z",
-      "title_en": "Rubio: the issue of Russian oil supplies to India will not be a prominent topic on the agenda",
-      "lead_en": "The US Secretary of State noted that the issue of Russian oil purchases did not directly concern New Delhi",
-      "title_raw": "Рубио: вопрос поставок нефти РФ в Индию не будет заметной темой в повестке дня",
-      "lead_raw": "Госсекретарь США отметил, что вопрос о закупках российской нефти напрямую не касался Нью-Дели",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
