@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-25T04:12:46Z",
+  "updated_at_utc": "2026-05-25T08:59:35Z",
   "topic": "economy",
   "count": 3,
   "articles": [
+    {
+      "id": "9ee6922b04da27a3811620279708362852e9a595",
+      "fingerprint": "11d00e801621f9fc56e2e64a064a1505716e79f0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27519377",
+      "published_utc": "2026-05-25T08:07:17Z",
+      "title_en": "Central Bank: the Russian payment market continues to show stability",
+      "lead_en": "Alla Bukina, Director of the National Payments System of the Bank of Russia, noted that the share of non-cash payments remains at a consistently high level",
+      "title_raw": "ЦБ: платежный рынок РФ продолжает показывать устойчивость",
+      "lead_raw": "Директор департамента Национальной платежей системы Банка России Алла Букина отметила, что доля безналичных платежей держится на стабильно высоком уровне",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "8f28a946cfb06e621412e97b172d85db5c821da6",
       "fingerprint": "edc40b7cfbcb3e74ef10ee2bee2ae32838c41ab5",
@@ -44,28 +66,6 @@
       },
       "topics": [
         "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "161bb601d79929cfe168fe3a448fa261e0827492",
-      "fingerprint": "d6cee24d7aa9fc82bf8bb03cdd000422e710e4ab",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27507031",
-      "published_utc": "2026-05-23T05:43:34Z",
-      "title_en": "VTB: the Russian financial market returned to the control of sellers by the end of the week",
-      "lead_en": "Clients of VTB My Investments actively bought shares of T-Technologies and Alrosa this week, the bank noted",
-      "title_raw": "ВТБ: российский финансовый рынок к концу недели вернулся под контроль продавцов",
-      "lead_raw": "Клиенты \"ВТБ мои инвестиции\" на неделе активно покупали акции \"Т-технологий\" и \"Алросы\", отметили в банке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
