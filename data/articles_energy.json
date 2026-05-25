@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-05-25T08:59:35Z",
+  "updated_at_utc": "2026-05-25T12:39:55Z",
   "topic": "energy",
   "count": 6,
   "articles": [
+    {
+      "id": "0d577c29e978c7cc650806fe6cf9a7c8f8104b81",
+      "fingerprint": "3d121163b2e542f166051d74520bf7b3a700f6b7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2136029",
+      "published_utc": "2026-05-25T10:10:00Z",
+      "title_en": "Russian security services thwart terrorist attack aboard ship arriving from Belgium — FSB",
+      "lead_en": "The Arrhenius gas carrier was supposed to to be loaded and then head to the Turkish port of Samsun",
+      "title_raw": "Russian security services thwart terrorist attack aboard ship arriving from Belgium — FSB",
+      "lead_raw": "The Arrhenius gas carrier was supposed to to be loaded and then head to the Turkish port of Samsun",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "88536bf940a904bda87d24be5558a1ec56dc1827",
       "fingerprint": "58251d0f3c9df68b20d164de5475d8a1a51244a6",
@@ -102,28 +125,6 @@
       "lead_en": "The US Secretary of State noted that the issue of Russian oil purchases did not directly concern New Delhi",
       "title_raw": "Рубио: вопрос поставок нефти РФ в Индию не будет заметной темой в повестке дня",
       "lead_raw": "Госсекретарь США отметил, что вопрос о закупках российской нефти напрямую не касался Нью-Дели",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "04e39e4806c002099e1748830800c135fc2ddd50",
-      "fingerprint": "faa7fb673ff54b29385fb1f6c643f7f3636418ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27508011",
-      "published_utc": "2026-05-23T09:01:03Z",
-      "title_en": "Medvedev pointed out the inevitability of Armenia's transition to European gas prices",
-      "lead_en": "If Yerevan continues its course of rapprochement with the EU, it will not be possible to remain a member of the EAEU, noted the Deputy Head of the Russian Security Council",
-      "title_raw": "Медведев указал на неизбежность перехода Армении на европейские цены на газ",
-      "lead_raw": "Если Ереван продолжит свой курс сближения с ЕС, оставаться членом ЕАЭС не получится, отметил замглавы Совбеза РФ",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
