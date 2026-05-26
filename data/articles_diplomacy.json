@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-26T20:56:50Z",
+  "updated_at_utc": "2026-05-26T22:26:10Z",
   "topic": "diplomacy",
-  "count": 90,
+  "count": 92,
   "articles": [
+    {
+      "id": "a042550c8e3c71121185d67a2cbe262de8af818d",
+      "fingerprint": "f9e7535dc691e8fe0c3469f3e8de0e5709a1b119",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27542209",
+      "published_utc": "2026-05-26T21:37:50Z",
+      "title_en": "Russian Ambassador: Russia and Venezuela are exploring the possibility of launching charter flights",
+      "lead_en": "The parties are considering the start of flights to Margarita Island, noted Sergei Melik-Bagdasarov",
+      "title_raw": "Посол РФ: Россия и Венесуэла прорабатывают возможность запуска чартерных рейсов",
+      "lead_raw": "Стороны рассматривают старт рейсов на остров Маргарита, отметил Сергей Мелик-Багдасаров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0ff5d03d8263b675cbb676435e978b4ae4f12e0e",
+      "fingerprint": "c87d013936085929972afdc4d4db7f4ee0825a80",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27542085",
+      "published_utc": "2026-05-26T21:09:15Z",
+      "title_en": "Russian Ambassador: oil production volumes at Russian-Venezuelan enterprises have recovered",
+      "lead_en": "Sergey Melik-Bagdasarov suggested that the growth in indicators had a positive impact on the overall statistics in the republic",
+      "title_raw": "Посол РФ: объемы добычи нефти на российско-венесуэльских предприятиях восстановились",
+      "lead_raw": "Сергей Мелик-Багдасаров предположил, что рост показателей положительно сказался на общей статистике в республике",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "82fc62b4e28eed0d4c89ed45f4db272a0eb0bfd7",
       "fingerprint": "96de160f37dcfa1b34d513b1f6dc535171e79613",
@@ -25,6 +70,28 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "e79301e2928a35271b7581eea48262515c623691",
+      "fingerprint": "36ad070d46a4ebcc705b9f33cb72e9c9feb174d2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137063",
+      "published_utc": "2026-05-26T20:37:01Z",
+      "title_en": "Russia to continue developing cooperation with Kazakhstan — Putin",
+      "lead_en": "The Russian president expressed confidence that the negotiations during the upcoming visit will give a powerful impetus to the further strengthening of Russia-Kazakhstan partnership",
+      "title_raw": "Russia to continue developing cooperation with Kazakhstan — Putin",
+      "lead_raw": "The Russian president expressed confidence that the negotiations during the upcoming visit will give a powerful impetus to the further strengthening of Russia-Kazakhstan partnership",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "8c1022919bae16500caf07093fd3d50fe049faac",
@@ -72,6 +139,29 @@
       "primary_topic": "diplomacy"
     },
     {
+      "id": "7b2de5edc0be33459bd558a216b3609fb0ef7ad7",
+      "fingerprint": "ef22277706decc85512f6b6d2bc2a6a052b666c4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137035",
+      "published_utc": "2026-05-26T19:32:39Z",
+      "title_en": "Guterres should be concerned about Kiev killing innocent children — Russian MFA",
+      "lead_en": "The Ukrainian military launched drones at the academic building and dormitory of the Lugansk Pedagogical University’s Vocational College in the city of Starobelsk in the early hours of May 22",
+      "title_raw": "Guterres should be concerned about Kiev killing innocent children — Russian MFA",
+      "lead_raw": "The Ukrainian military launched drones at the academic building and dormitory of the Lugansk Pedagogical University’s Vocational College in the city of Starobelsk in the early hours of May 22",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "4eb78c84ef1877282b9bdf070bafc7b21ddbd90b",
       "fingerprint": "597924b44df9f2521f324cc98f496a84f6274394",
       "source": "TASS (RU)",
@@ -103,6 +193,28 @@
       "lead_en": "The head of state is convinced that the negotiations will give a significant impetus to the further strengthening of the Russian-Kazakh partnership",
       "title_raw": "Путин: Россия и дальше будет развивать сотрудничество с Казахстаном",
       "lead_raw": "Глава государства убежден, что переговоры придадут существенный импульс дальнейшему укреплению российско-казахстанского партнерства",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e85a87d5ad8b17293d27b08d83ed4c702bbd5da3",
+      "fingerprint": "31e95421c8327495a34537b46792bd93a1b26b94",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2137029",
+      "published_utc": "2026-05-26T18:46:56Z",
+      "title_en": "Russia's UN envoy calls West’s reaction to Starobelsk tragedy 'complete disgrace'",
+      "lead_en": "Vasily Nebenzya noted that when children die as a result of the deliberate actions of the Kiev regime, the tragedy is shrouded in excuses and doubts in Western capitals",
+      "title_raw": "Russia's UN envoy calls West’s reaction to Starobelsk tragedy 'complete disgrace'",
+      "lead_raw": "Vasily Nebenzya noted that when children die as a result of the deliberate actions of the Kiev regime, the tragedy is shrouded in excuses and doubts in Western capitals",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
@@ -1942,73 +2054,6 @@
       "lead_raw": "All attempts to resolve the differences through negotiations have proven fruitless, the Russian Foreign Ministry said",
       "topic_scores": {
         "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3cbffb8a9b815c2fa3a51b0d54ccac7dc36b88e6",
-      "fingerprint": "d511b57c094876690aaf0fcd8e825460f1fee950",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27516559",
-      "published_utc": "2026-05-24T21:49:02Z",
-      "title_en": "Miroshnik: Europe’s “indulgence” provokes strikes by the Ukrainian Armed Forces on civilian targets",
-      "lead_en": "According to the Ambassador-at-Large of the Russian Foreign Ministry on the crimes of the Kyiv regime, European countries deliberately ignore violations of international and humanitarian law by Ukraine",
-      "title_raw": "Мирошник: \"индульгенция\" Европы провоцирует удары ВСУ по гражданским объектам",
-      "lead_raw": "По словам посла по особым поручениям МИД России по вопросам преступлений киевского режима, европейские страны сознательно игнорируют нарушения международного и гуманитарного права со стороны Украины",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d8dfadd5c3d9ea68125250f932fc33bb10706791",
-      "fingerprint": "bacc9cbd89a24c5c780e0a2da3f40126fa7e0166",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27516547",
-      "published_utc": "2026-05-24T21:48:14Z",
-      "title_en": "The Russian Federation will appeal to the International Court of Justice in connection with the infringement of Russians in the Baltics",
-      "lead_en": "The Russian Foreign Ministry noted that attempts to resolve this issue through negotiations led nowhere",
-      "title_raw": "РФ обратится в Международный суд ООН в связи с ущемлением русских в Прибалтике",
-      "lead_raw": "В МИД России отметили, что попытки решить этот вопрос путем переговоров ни к чему не привели",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e0f81b6b9e0773331465429fcc671b9375406d3c",
-      "fingerprint": "d9c8077635fdfd415ff6eb52cd181028867449d7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27516413",
-      "published_utc": "2026-05-24T21:01:29Z",
-      "title_en": "Grossi will visit Kazakhstan on May 25-27 and hold talks with Tokayev",
-      "lead_en": "During the visit of the IAEA Director General, a roadmap to deepen cooperation between the republic and the agency for 10 years is expected to be signed",
-      "title_raw": "Гросси посетит Казахстан 25-27 мая и проведет переговоры с Токаевым",
-      "lead_raw": "Во время визита гендиректора МАГАТЭ ожидается подписание дорожной карты по углублению сотрудничества республики с агентством на 10 лет",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
