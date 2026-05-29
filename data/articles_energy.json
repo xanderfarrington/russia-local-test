@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-05-29T08:43:32Z",
+  "updated_at_utc": "2026-05-29T12:18:23Z",
   "topic": "energy",
-  "count": 44,
+  "count": 41,
   "articles": [
+    {
+      "id": "7b30b0fffb4541fd1f3de158005414aa30336585",
+      "fingerprint": "ce92d51d231c1e464ca5b7669818a944d60044ca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27577337",
+      "published_utc": "2026-05-29T11:56:02Z",
+      "title_en": "Vice President of Cuba thanks Russia for help with oil supplies",
+      "lead_en": "Since the beginning of the year, only one ship with 100 thousand tons of oil has arrived in the country, indicated Salvador Valdez Mesa",
+      "title_raw": "Вице-президент Кубы поблагодарил Россию за помощь с поставками нефти",
+      "lead_raw": "С начала года в страну прибыло лишь одно судно с 100 тыс. тонн нефти, указал Сальвадор Вальдес Меса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "506fc9a07c5029368afb29ded3a6c7c88a77e298",
+      "fingerprint": "f746cb6d6d12708e23d5675108ff23233111b9d8",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/05/29/ukrainian-drones-kill-two-in-russia-lukoil-refinery-catches-fire",
+      "published_utc": "2026-05-29T10:43:29Z",
+      "title_en": "Ukrainian drones kill two in Russia. Lukoil refinery catches fire.",
+      "lead_en": "A Ukrainian drone strike on a synthetic fiber plant in the city of Volzhsky in the Volgograd region killed one person, regional Governor Andrei Bocharov said. The victim was a 60-year-old man.",
+      "title_raw": "Ukrainian drones kill two in Russia. Lukoil refinery catches fire.",
+      "lead_raw": "A Ukrainian drone strike on a synthetic fiber plant in the city of Volzhsky in the Volgograd region killed one person, regional Governor Andrei Bocharov said. The victim was a 60-year-old man.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5ea28238e124304bc10d5b9d2f7a53a1e30c286d",
       "fingerprint": "462fed90c984cb1829e3ea63cddc1188e564b84b",
@@ -867,117 +912,6 @@
         "diplomacy": 3,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "54bb8f75f3b5b0be445ee9195202f82749bf4677",
-      "fingerprint": "fedfc5d0a279ce34def14c0ec2cd58f0ee0f4492",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2137353",
-      "published_utc": "2026-05-27T11:28:37Z",
-      "title_en": "Gas discounts Armenia receives are aid from Russia — Kremlin",
-      "lead_en": "This is truly Russia’s contribution to the development of Armenia, Dmitry Peskov said",
-      "title_raw": "Gas discounts Armenia receives are aid from Russia — Kremlin",
-      "lead_raw": "This is truly Russia’s contribution to the development of Armenia, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7188fe4d73a785c8aa3f78037a709e4579199b4b",
-      "fingerprint": "af4fcf457124ec14bbcb2e459e011df13f2c704b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2137345",
-      "published_utc": "2026-05-27T11:06:10Z",
-      "title_en": "Russia's proposal to remove Iran's highly enriched uranium ‘on table’ — senior diplomat",
-      "lead_en": "The material can be used to produce fuel for Iranian reactors",
-      "title_raw": "Russia's proposal to remove Iran's highly enriched uranium ‘on table’ — senior diplomat",
-      "lead_raw": "The material can be used to produce fuel for Iranian reactors",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e178bc387b43ccd1f5e381081cf07a0d724f2a5c",
-      "fingerprint": "352953e7f0a7b8a03729373300a208641250b21b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27547377",
-      "published_utc": "2026-05-27T09:16:29Z",
-      "title_en": "Within 24 hours, the Russian Armed Forces hit a military-industrial complex and energy facilities of the Armed Forces of Ukraine",
-      "lead_en": "The Russian army struck enemy temporary deployment points in 144 districts",
-      "title_raw": "ВС РФ за сутки поразили предприятие ВПК и объекты энергетики ВСУ",
-      "lead_raw": "Российская армия ударила по пунктам временной дислокации противника в 144 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a38874243544b67b4fde265cb08d34ac7753705c",
-      "fingerprint": "d124ad90ffb50fe6be18c8bdf3adb69b4e15fc9e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27547367",
-      "published_utc": "2026-05-27T09:16:26Z",
-      "title_en": "Peskov called the gas benefits Armenia receives as help from Russia",
-      "lead_en": "We need to call a spade a spade, the Kremlin representative noted",
-      "title_raw": "Песков назвал получаемые Арменией льготы на газ помощью со стороны России",
-      "lead_raw": "Нужно называть вещи своими именами, отметил представитель Кремля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dd8619735189f56eacc5ee4ab28419b78798dc8a",
-      "fingerprint": "1c52887ffbeea02d955bd2454f47c879d7dd5496",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27547337",
-      "published_utc": "2026-05-27T09:16:00Z",
-      "title_en": "Peskov called gas agreements with Armenia a commercial issue",
-      "lead_en": "The press secretary of the Russian President noted that he knows nothing about the possible denunciation of agreements with Yerevan",
-      "title_raw": "Песков назвал газовые соглашения с Арменией коммерческим вопросом",
-      "lead_raw": "Пресс-секретарь президента РФ отметил, что ему ничего не известно о возможной денонсации соглашений с Ереваном",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
