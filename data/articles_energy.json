@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-05-31T23:03:39Z",
+  "updated_at_utc": "2026-06-01T04:42:03Z",
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "8dadc8a6586f9cc464698321078704063723a8c1",
+      "fingerprint": "c1b40a8231d45cf8d41a85e2a99e2123b8a9e667",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27594321",
+      "published_utc": "2026-06-01T03:06:51Z",
+      "title_en": "Russians will be able to pay for goods with a “WB wallet” in all Rive Gauche stores",
+      "lead_en": "According to Tatyana Kim, founder of Wildberries, the choice of payment method is at the discretion of the buyer",
+      "title_raw": "Россияне смогут оплачивать товары \"WB кошельком\" во всех магазинах \"Рив гош\"",
+      "lead_raw": "По словам основательницы Wildberries Татьяны Ким, выбор способа оплаты остается на усмотрение покупателя",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3d581554d47d42e29059d5a968faa2fcf7f3fcb3",
       "fingerprint": "fb6cc6b1d853dbf378a31c3b08aaabc8f2c748ef",
@@ -348,28 +370,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b6d2418e441755dad0dee87c3d60915eff98e5dc",
-      "fingerprint": "051c5aa8affc665da078e9023d86a2dfb971468d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27584015",
-      "published_utc": "2026-05-29T23:43:11Z",
-      "title_en": "Izvestia: Ghana is considering the possibility of increasing purchases of fertilizers from the Russian Federation",
-      "lead_en": "According to the newspaper, the republic is interested in this because China has suspended the export of fertilizers due to the war in Iran",
-      "title_raw": "\"Известия\": Гана рассматривает возможность увеличить закупки удобрений РФ",
-      "lead_raw": "По данным газеты, республика заинтересована в этом, поскольку Китай приостановил экспорт удобрений из-за войны в Иране",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
