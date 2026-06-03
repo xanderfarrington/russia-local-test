@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-03T04:41:13Z",
+  "updated_at_utc": "2026-06-03T09:54:51Z",
   "topic": "local_events",
-  "count": 2,
+  "count": 3,
   "articles": [
+    {
+      "id": "28c8bb6f9ec5287920dda5a357ee752877771932",
+      "fingerprint": "3ca8e0a6a3f072bec4f64f72f53d900e26a38c90",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/03/russia-s-defense-ministry-says-air-defenses-downed-more-than-350-drones-overnight-two-firefighters-killed-in-russia",
+      "published_utc": "2026-06-03T07:17:20Z",
+      "title_en": "Russia’s Defense Ministry says air defenses downed more than 350 drones overnight. Two firefighters killed in Russia.",
+      "lead_en": "Ukrainian drones struck Russia’s Tambov region, damaging an apartment building, a library, and an arts school in Michurinsk, Tambov Governor Yevgeny Pervyshov said. There were no casualties.",
+      "title_raw": "Russia’s Defense Ministry says air defenses downed more than 350 drones overnight. Two firefighters killed in Russia.",
+      "lead_raw": "Ukrainian drones struck Russia’s Tambov region, damaging an apartment building, a library, and an arts school in Michurinsk, Tambov Governor Yevgeny Pervyshov said. There were no casualties.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "961ca80ff76b413b636d815b4210fb001eaf5121",
+      "fingerprint": "095b1e1e3e3cc84ac166f78a1901cae681da383e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2140571",
+      "published_utc": "2026-06-03T06:43:06Z",
+      "title_en": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia’s Smolensk, Leningrad regions",
+      "lead_en": "Two emergency workers were killed and another two suffered injuries in a drone strike in the country’s western Smolensk Region",
+      "title_raw": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia’s Smolensk, Leningrad regions",
+      "lead_raw": "Two emergency workers were killed and another two suffered injuries in a drone strike in the country’s western Smolensk Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c1bc5fe8081dd3c0f536a41bb46b123e8b2f5e22",
       "fingerprint": "6a85d2e7e906438a2afedadafdc5942f9a4a9ee9",
@@ -22,28 +67,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3c3759224833f1bf2dd187713fc89b66ae69b869",
-      "fingerprint": "869de6f025fd34c95f573d540b437e7a31ff85e7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2139485",
-      "published_utc": "2026-06-01T09:14:35Z",
-      "title_en": "Russia’s Zaporozhye Region reveals number of kids killed in Ukrainian attacks since 2022",
-      "lead_en": "The regional health ministry reported that 16 children died, while 118 minors were injured",
-      "title_raw": "Russia’s Zaporozhye Region reveals number of kids killed in Ukrainian attacks since 2022",
-      "lead_raw": "The regional health ministry reported that 16 children died, while 118 minors were injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
