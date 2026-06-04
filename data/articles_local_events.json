@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-03T23:47:52Z",
+  "updated_at_utc": "2026-06-04T04:25:45Z",
   "topic": "local_events",
   "count": 3,
   "articles": [
+    {
+      "id": "a976cbdf80ab6fb539763cb26bb383597e688500",
+      "fingerprint": "1d40a553a1adc0508a471afd9ad95a84974ef846",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27636617",
+      "published_utc": "2026-06-04T03:02:15Z",
+      "title_en": "The Russian Navy patented a rescue unmanned towing boat",
+      "lead_en": "The vessel is capable of evacuating small surface objects",
+      "title_raw": "ВМФ России запатентовал спасательный безэкипажный катер-буксировщик",
+      "lead_raw": "Судно способно выполнить эвакуацию малоразмерных надводных объектов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "28c8bb6f9ec5287920dda5a357ee752877771932",
       "fingerprint": "3ca8e0a6a3f072bec4f64f72f53d900e26a38c90",
@@ -44,29 +66,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c1bc5fe8081dd3c0f536a41bb46b123e8b2f5e22",
-      "fingerprint": "6a85d2e7e906438a2afedadafdc5942f9a4a9ee9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27608073",
-      "published_utc": "2026-06-02T03:33:34Z",
-      "title_en": "The Ministry of Emergency Situations reminded that power banks should only be charged under supervision",
-      "lead_en": "Fire safety requirements, which determine the behavior of people, maintenance of territories, buildings, structures in order to ensure fire safety, are established by the Rules of the fire regime in the Russian Federation, the department noted",
-      "title_raw": "В МЧС напомнили, что пауэрбанки надо заряжать только под присмотром",
-      "lead_raw": "Требования пожарной безопасности, определяющие порядок поведения людей, содержания территорий, зданий, сооружений в целях обеспечения пожарной безопасности, устанавливаются Правилами противопожарного режима в РФ, отметили в ведомстве",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
