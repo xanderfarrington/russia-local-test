@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-05T20:48:55Z",
+  "updated_at_utc": "2026-06-05T22:17:53Z",
   "topic": "energy",
-  "count": 87,
+  "count": 88,
   "articles": [
+    {
+      "id": "085321604c28686d68d6267afffe8b65d1cdaffd",
+      "fingerprint": "f892e7f561f4f9db36488b306f5259114d1a863b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27677257",
+      "published_utc": "2026-06-05T21:39:47Z",
+      "title_en": "Novak: Britain continues to buy Russian oil through oil products from Asia",
+      "lead_en": "After the introduction of sanctions, Russia redirected supplies to friendly countries and does not experience problems with sales, the Deputy Prime Minister noted",
+      "title_raw": "Новак: Британия продолжает покупать нефть РФ через нефтепродукты из Азии",
+      "lead_raw": "После введения санкций Россия переориентировала поставки в дружественные страны и не испытывает проблем со сбытом, отметил вице-премьер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a7c8a07c02ce2881dacbac5b74c7e4dd0add2734",
+      "fingerprint": "dbf9340a65f02574586811909c622bdb93a91baa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27677059",
+      "published_utc": "2026-06-05T21:15:34Z",
+      "title_en": "Sechin: Rosneft is ready to move from Moscow if ordered by the president",
+      "lead_en": "Vladimir Putin previously announced that some large companies will move to the constituent entities of the Russian Federation",
+      "title_raw": "Сечин: \"Роснефть\" готова переехать из Москвы в случае поручения президента",
+      "lead_raw": "Владимир Путин ранее сообщил, что некоторые крупные компании переедут в субъекты РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "006b9014627686e92decafd83315b0c12c9126e0",
       "fingerprint": "e6f65e35ff2bfec879cc70bbea5983ff175b02d6",
@@ -1921,29 +1966,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "19eb2fb4b37b88f355ff678c99a5f82a51f4150c",
-      "fingerprint": "4003e120bea0d11aaed5ab72ac240dabca25b158",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27635567",
-      "published_utc": "2026-06-03T21:30:50Z",
-      "title_en": "Member of the Bundestag: the German delegation will discuss the work of German companies in the Russian Federation at SPIEF",
-      "lead_en": "Deputy leader of the Alternatives for Germany faction Markus Frohnmayer noted that the conversation will also come to the energy crisis",
-      "title_raw": "Депутат Бундестага: делегация ФРГ обсудит работу немецких компаний в РФ на ПМЭФ",
-      "lead_raw": "Замруководителя фракции \"Альтернативы для Германии\" Маркус Фронмайер отметил, что речь зайдет и об энергетическом кризисе",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
