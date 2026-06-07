@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-06-07T05:25:13Z",
+  "updated_at_utc": "2026-06-07T09:20:03Z",
   "topic": "energy",
-  "count": 59,
+  "count": 60,
   "articles": [
+    {
+      "id": "1777c1a58017a21337b677ff7d7218e75757b152",
+      "fingerprint": "2cbc00a2407a05b21b9dd20b0ac2de34dbaaf8e1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2143675",
+      "published_utc": "2026-06-07T06:52:05Z",
+      "title_en": "Russia has world’s cheapest energy for AI — envoy",
+      "lead_en": "That Russia can take the lead in this sphere is key, Kirill Dmitriev, Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries and Head of the Russian Direct Investment Fund said",
+      "title_raw": "Russia has world’s cheapest energy for AI — envoy",
+      "lead_raw": "That Russia can take the lead in this sphere is key, Kirill Dmitriev, Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries and Head of the Russian Direct Investment Fund said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ffe97391de6a0520f491cf98287ed9f99e86b6d5",
+      "fingerprint": "1f31a9432fcb6dd47ef0b528dc508acb91c5a4c0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27685355",
+      "published_utc": "2026-06-07T06:02:45Z",
+      "title_en": "Dmitriev: Russia has the cheapest energy in the world for data centers",
+      "lead_en": "The head of the RDIF noted that this may be of interest to many countries against the backdrop of the rapid development of AI",
+      "title_raw": "Дмитриев: Россия обладает самой дешевой энергией в мире для дата-центров",
+      "lead_raw": "Глава РФПИ отметил, что это может быть интересно многим странам на фоне бурного развития ИИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "286023ca95a4571f4c123f7a6ef3fab54a7ede0b",
       "fingerprint": "250610d58a7da22ad352f08b591c979fce7f4024",
@@ -1288,28 +1334,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6007b7b8fd3e73201064254f17e5bdf9834a80bd",
-      "fingerprint": "8b5824f2bca072b512c6e7c0f0fd5bcd8985f607",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27663145",
-      "published_utc": "2026-06-05T09:13:12Z",
-      "title_en": "The Ukrainian Armed Forces attacked a building in Energodar where a post office, a bank, and a branch of the Communist Party of the Russian Federation are located",
-      "lead_en": "No one was hurt",
-      "title_raw": "ВСУ атаковали в Энергодаре здание, где находятся почта, банк, отделение КПРФ",
-      "lead_raw": "Никто не пострадал",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
