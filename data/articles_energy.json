@@ -1,8 +1,121 @@
 {
-  "updated_at_utc": "2026-06-08T11:04:32Z",
+  "updated_at_utc": "2026-06-08T16:00:16Z",
   "topic": "energy",
-  "count": 19,
+  "count": 15,
   "articles": [
+    {
+      "id": "a07fa78877ae85bfb0ef673a2b4388593aa0e37c",
+      "fingerprint": "69795a90ca0fef74591c28d48647f13775bec213",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2144147",
+      "published_utc": "2026-06-08T15:55:15Z",
+      "title_en": "IN BRIEF: EU authorizes its ships to detain tankers carrying Russian oil",
+      "lead_en": "This applies to tankers described by Brussels as \"shadow fleet\"",
+      "title_raw": "IN BRIEF: EU authorizes its ships to detain tankers carrying Russian oil",
+      "lead_raw": "This applies to tankers described by Brussels as \"shadow fleet\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1e3471a6c6129f283bff8e30383e4367b90e19de",
+      "fingerprint": "0194cafba85429ccfe9d1e5df562649239a6eaee",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27697375",
+      "published_utc": "2026-06-08T15:12:31Z",
+      "title_en": "Alcohol sales will be limited in Kazan during the Russia-ASEAN summit",
+      "lead_en": "The ban will affect stores located near the event venues and hotels where participants will be accommodated.",
+      "title_raw": "В Казани ограничат продажу алкоголя на время саммита Россия - АСЕАН",
+      "lead_raw": "Запрет затронет магазины, расположенные рядом с площадками проведения мероприятия и отелями, где разместятся участники",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8806379ceaaafbbd76418388f9e24a1e96c61fda",
+      "fingerprint": "7f009f71bdf3a2b155dc0ea5ccb2f2c280f1f1d5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27697591",
+      "published_utc": "2026-06-08T14:37:34Z",
+      "title_en": "The EU allowed its ships to detain tankers with Russian oil. What is known",
+      "lead_en": "We are talking about tankers, which in Brussels are called the “shadow fleet”",
+      "title_raw": "ЕС разрешил своим кораблям задерживать танкеры с российской нефтью. Что известно",
+      "lead_raw": "Речь идет о танкерах, которые в Брюсселе называют \"теневым флотом\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aacc6fba7aac0fcfc4bf6e1b97e611e20e9af62c",
+      "fingerprint": "52949f6dc2607fa1ca77debeda98eabb00e75d4d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/08/sevastopol-introduces-qr-codes-for-gas-rationing-available-only-through-russia-s-state-backed-messaging-app-max",
+      "published_utc": "2026-06-08T13:28:55Z",
+      "title_en": "Sevastopol introduces QR codes for gas rationing — available only through Russia’s state-backed messaging app Max",
+      "lead_en": "The TES gas station network in occupied Sevastopol has begun rationing fuel sales through QR codes, Russia-appointed Governor Mikhail Razvozhaev announced on the evening of June 6.",
+      "title_raw": "Sevastopol introduces QR codes for gas rationing — available only through Russia’s state-backed messaging app Max",
+      "lead_raw": "The TES gas station network in occupied Sevastopol has begun rationing fuel sales through QR codes, Russia-appointed Governor Mikhail Razvozhaev announced on the evening of June 6.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "332395d88d38802415229225b6c5f1af77f36c5c",
+      "fingerprint": "e5545c983c3d04037f667cfb246da6e385b18969",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2144021",
+      "published_utc": "2026-06-08T11:21:28Z",
+      "title_en": "Russian oil supplies to India rise to 2-2.5 mln barrels per day",
+      "lead_en": "Indian Minister of Petroleum and Natural Gas Hardeep Singh Puri noted that there has been no ban on buying Russian oil",
+      "title_raw": "Russian oil supplies to India rise to 2-2.5 mln barrels per day",
+      "lead_raw": "Indian Minister of Petroleum and Natural Gas Hardeep Singh Puri noted that there has been no ban on buying Russian oil",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "98681105f1b7ab2579da74e0eaaaab4ffa6f428b",
       "fingerprint": "e684beef409a6da318a15c344095862e082aec57",
@@ -222,211 +335,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dd5201d445711e100f4d042da97b05acffad148d",
-      "fingerprint": "14d1db720c8db2f42a91e47017fefecfab38aa60",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143537",
-      "published_utc": "2026-06-06T12:04:54Z",
-      "title_en": "Russia among five countries with lowest fuel prices — Novak",
-      "lead_en": "Russian Deputy Prime Minister added that such a system allows Russia to maintain fairly low prices for petroleum products",
-      "title_raw": "Russia among five countries with lowest fuel prices — Novak",
-      "lead_raw": "Russian Deputy Prime Minister added that such a system allows Russia to maintain fairly low prices for petroleum products",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bf8c44acc132b1d0991039f194074fc3fd6ac064",
-      "fingerprint": "7eb860b76f72f92492f474a95aff39d954e831ff",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143501",
-      "published_utc": "2026-06-06T11:48:02Z",
-      "title_en": "Reduction in Russian oil supplies would be more problematic than Hormuz crisis — Sechin",
-      "lead_en": "The world should analyze the situation surrounding the closure of the Strait of Hormuz, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "title_raw": "Reduction in Russian oil supplies would be more problematic than Hormuz crisis — Sechin",
-      "lead_raw": "The world should analyze the situation surrounding the closure of the Strait of Hormuz, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 4,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "20d88b8059444791f83128a89d6186de36c15149",
-      "fingerprint": "9926ffa73ecd31b46c13f2cf0e87ea3664724355",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27681931",
-      "published_utc": "2026-06-06T11:41:56Z",
-      "title_en": "Kobyakov: The Middle East is weakened in the energy sector by the conflict ahead of the market rush",
-      "lead_en": "Demand is also forecast for resources for the “new economy,” said the adviser to the President of the Russian Federation",
-      "title_raw": "Кобяков: Ближний Восток ослаблен в энергетике конфликтом в преддверии ажиотажа на рынке",
-      "lead_raw": "Спрос также прогнозируется на ресурсы на для \"новой экономики\", заявил советник президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b66ad24355b379b438cfc68b1f1965b6371e22a4",
-      "fingerprint": "24d66f047baa17758b4f4e09eebf76d695b35e93",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143499",
-      "published_utc": "2026-06-06T11:40:38Z",
-      "title_en": "Sechin estimates investments for oil output growth in Russia at $136.15 bln",
-      "lead_en": "Russia reduced oil production by 1.5 mln barrels per day, or 15%, during the period of OPEC+ restrictions, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "title_raw": "Sechin estimates investments for oil output growth in Russia at $136.15 bln",
-      "lead_raw": "Russia reduced oil production by 1.5 mln barrels per day, or 15%, during the period of OPEC+ restrictions, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 6,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "47b71b5667b84ceb23af0448fe4bf50a4b454b87",
-      "fingerprint": "a9465465b727343f1cf2fcb3c9468615df618b24",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143497",
-      "published_utc": "2026-06-06T11:39:15Z",
-      "title_en": "China and India gain $40 bln in benefits from Russian oil supplies since April 2022",
-      "lead_en": "According to Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO Igor Sechin, Russia cannot be excluded from global supply chains",
-      "title_raw": "China and India gain $40 bln in benefits from Russian oil supplies since April 2022",
-      "lead_raw": "According to Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO Igor Sechin, Russia cannot be excluded from global supply chains",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 4,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8b9811ff02e61979ccb6fb47f15b3ba679946086",
-      "fingerprint": "071308fbaac3c785f6bf3f4cd127b55b977640a0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143491",
-      "published_utc": "2026-06-06T11:32:50Z",
-      "title_en": "Russia could have earned over $400 bln from rise in gold prices — Sechin",
-      "lead_en": "The share of gold in the Bank of Russia’s reserves has been growing at an accelerated pace: over the past four years, it increased from 21% to 45%, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Ros",
-      "title_raw": "Russia could have earned over $400 bln from rise in gold prices — Sechin",
-      "lead_raw": "The share of gold in the Bank of Russia’s reserves has been growing at an accelerated pace: over the past four years, it increased from 21% to 45%, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Ros",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "23f2a392cbf88ee4355b72fc363f176b4cff657b",
-      "fingerprint": "0b3836a7baf12a8c408db8a18f58ff3d4b5f4aab",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27681779",
-      "published_utc": "2026-06-06T11:13:40Z",
-      "title_en": "Kobyakov: Malaysia plans to create a hub with Russian LNG producers",
-      "lead_en": "Adviser to the President of the Russian Federation noted growing cooperation with the countries of Southeast Asia",
-      "title_raw": "Кобяков: Малайзия планирует создание хаба с российскими производителями СПГ",
-      "lead_raw": "Советник президента РФ отметил нарастающее сотрудничество со странами Юго-Восточной Азии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b75d23d51ee3e0c96f57fdfeb860beb7f1bebced",
-      "fingerprint": "b28c540496252fd22eadb081412c9a00bfd37742",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143489",
-      "published_utc": "2026-06-06T11:08:56Z",
-      "title_en": "Russia faces 32,000 restrictions, sanctions become global norm — Sechin",
-      "lead_en": "Sanctions pressure has become global norm, Executive Secretary of presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "title_raw": "Russia faces 32,000 restrictions, sanctions become global norm — Sechin",
-      "lead_raw": "Sanctions pressure has become global norm, Executive Secretary of presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4c341de29e9608efac322bf7e4b8b519225b29ba",
-      "fingerprint": "08e571ee4ced935b82acd9d3dd68a35bbde4341d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143487",
-      "published_utc": "2026-06-06T11:07:37Z",
-      "title_en": "Oil prices may rise to $250 under new restrictions against Russian fuel — Sechin",
-      "lead_en": "If another 7 mln barrels of Russian oil exports are added to the existing 16 million barrels under restrictions, then former International Energy Agency head Nobuo Tanaka Mr. Tanaka is most likely right, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "title_raw": "Oil prices may rise to $250 under new restrictions against Russian fuel — Sechin",
-      "lead_raw": "If another 7 mln barrels of Russian oil exports are added to the existing 16 million barrels under restrictions, then former International Energy Agency head Nobuo Tanaka Mr. Tanaka is most likely right, Executive Secretary of the presidential commission on fuel and energy sector development strategy and environmental security and Rosneft CEO said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 4,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
         "energy"
       ],
       "primary_topic": "energy"
