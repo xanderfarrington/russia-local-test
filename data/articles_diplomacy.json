@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-06-09T03:54:58Z",
+  "updated_at_utc": "2026-06-09T07:54:59Z",
   "topic": "diplomacy",
-  "count": 60,
+  "count": 63,
   "articles": [
+    {
+      "id": "c7700b5ac599f538d8cf812061c0db72852cd269",
+      "fingerprint": "13fa73ad8254f2fa7eb2d8d008461897229cc9b8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2144377",
+      "published_utc": "2026-06-09T07:41:59Z",
+      "title_en": "Ukrainian strikes killed more than 40 Russians over past week — envoy",
+      "lead_en": "234 people, including 18 minors, sustained injuries",
+      "title_raw": "Ukrainian strikes killed more than 40 Russians over past week — envoy",
+      "lead_raw": "234 people, including 18 minors, sustained injuries",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3c08f43e676603dac2c898b8baa834e5007b8616",
+      "fingerprint": "3e9b842019b544da288c9112dee0f2db6b68cca1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27702927",
+      "published_utc": "2026-06-09T07:26:56Z",
+      "title_en": "Zakharova believes that Ukrainian athletes are being “trained” into Russophobia",
+      "lead_en": "The official representative of the Russian Foreign Ministry noted that citizens of Ukraine are “brainwashed” every day",
+      "title_raw": "Захарова считает, что украинских спортсменов \"натаскивают\" на русофобию",
+      "lead_raw": "Официальный представитель МИД РФ отметила, что гражданам Украины каждый день \"промывают мозги\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "975bed1d005763c70166f86b212d2b689afa0da2",
+      "fingerprint": "78d29d576032c26457be3ab6259a0f1c55ade570",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2144343",
+      "published_utc": "2026-06-09T05:02:50Z",
+      "title_en": "Russian envoy calls Kiev’s attacks on Zaporozhye nuke challenge to international security",
+      "lead_en": "Rodion Miroshnik emphasized that the attacks demonstrated the Kiev regime's disregard for the basic principles of nuclear safety",
+      "title_raw": "Russian envoy calls Kiev’s attacks on Zaporozhye nuke challenge to international security",
+      "lead_raw": "Rodion Miroshnik emphasized that the attacks demonstrated the Kiev regime's disregard for the basic principles of nuclear safety",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "eb62c8cf8d68872cfd486c0b3e703a6017da4aa3",
+      "fingerprint": "21c0ce89ef397b21a456debacaaaf65385a0a284",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2144335",
+      "published_utc": "2026-06-09T04:13:03Z",
+      "title_en": "Russia, Belarus have no problems in gas cooperation — ambassador to Russia",
+      "lead_en": "Yury Seliverstov added that the countries would like to decide on a longer-term period of collaboration",
+      "title_raw": "Russia, Belarus have no problems in gas cooperation — ambassador to Russia",
+      "lead_raw": "Yury Seliverstov added that the countries would like to decide on a longer-term period of collaboration",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "e79b13bd291b411c9465320ed976713947634503",
       "fingerprint": "c4b43e04e600921d2e36372225b17a66159f600f",
@@ -1310,30 +1400,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1777c1a58017a21337b677ff7d7218e75757b152",
-      "fingerprint": "2cbc00a2407a05b21b9dd20b0ac2de34dbaaf8e1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2143675",
-      "published_utc": "2026-06-07T06:52:05Z",
-      "title_en": "Russia has world’s cheapest energy for AI — envoy",
-      "lead_en": "That Russia can take the lead in this sphere is key, Kirill Dmitriev, Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries and Head of the Russian Direct Investment Fund said",
-      "title_raw": "Russia has world’s cheapest energy for AI — envoy",
-      "lead_raw": "That Russia can take the lead in this sphere is key, Kirill Dmitriev, Special Representative of the Russian President for Investment and Economic Cooperation with Foreign Countries and Head of the Russian Direct Investment Fund said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
