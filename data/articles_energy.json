@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-10T04:06:11Z",
+  "updated_at_utc": "2026-06-10T08:51:55Z",
   "topic": "energy",
-  "count": 42,
+  "count": 41,
   "articles": [
+    {
+      "id": "22ee2794fdac349f3a32f3f3556c3569ffb9eb15",
+      "fingerprint": "21672b996d64e093826b6a384055f020f4d6e343",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/10/ukrainian-drone-attacks-damage-russian-industrial-sites-a92967",
+      "published_utc": "2026-06-10T08:45:08Z",
+      "title_en": "Ukrainian Drone Attacks Damage Russian Industrial Sites",
+      "lead_en": "Unverified reports suggested that a defense plant and an oil refinery were among the sites targeted in the overnight airstrikes.",
+      "title_raw": "Ukrainian Drone Attacks Damage Russian Industrial Sites",
+      "lead_raw": "Unverified reports suggested that a defense plant and an oil refinery were among the sites targeted in the overnight airstrikes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ecf150b55e3d02ec8579d6485a7d1f5cfb330237",
+      "fingerprint": "27760e24caf224b3a04561b29211a3a0944b6004",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/10/ukraine-strikes-defense-plant-in-russia-drone-attack-sets-oil-refinery-ablaze",
+      "published_utc": "2026-06-10T06:53:39Z",
+      "title_en": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
+      "lead_en": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
+      "title_raw": "Ukraine strikes defense plant in Russia, drone attack sets oil refinery ablaze",
+      "lead_raw": "Ukrainian drones and missiles struck Russian regions and occupied Crimea overnight on June 10. Russia’s Defense Ministry said air defense forces shot down 326 drones.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3fca3ecabb9ba5de11544021f25d30f76feb040d",
       "fingerprint": "6a9d2c7acf6f2f516c6b219229ef01167071e885",
@@ -866,73 +911,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "90227ed9c15b076af23acfc2c8e1d4ed70afac7e",
-      "fingerprint": "7d634db5f231f2096d10e0fa73d0363ea0a2128a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2143895",
-      "published_utc": "2026-06-08T07:31:47Z",
-      "title_en": "EU authorizes ships in Mediterranean to detain tankers carrying Russian oil — Kallas",
-      "lead_en": "The EU high representative for foreign affairs and security policy said the main objective of the measure is to \"curb Russia from funding\" its military operation in Ukraine",
-      "title_raw": "EU authorizes ships in Mediterranean to detain tankers carrying Russian oil — Kallas",
-      "lead_raw": "The EU high representative for foreign affairs and security policy said the main objective of the measure is to \"curb Russia from funding\" its military operation in Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0d5001a5ad56676ea769d3f1289e57101f0d69f7",
-      "fingerprint": "8e3463cff7e761084a0955c1f7bfa02211ceb44f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27690619",
-      "published_utc": "2026-06-08T04:26:49Z",
-      "title_en": "Expert Banerjee: Energy sovereignty and US rebuff are a matter of honor for India",
-      "lead_en": "Commenting on Russian President Vladimir Putin’s statements at SPIEF about Russian-Indian cooperation, the founder and head of the P3 think tank in Kolkata noted that these relations “have always aroused the envy of many world powers",
-      "title_raw": "Эксперт Банерджи: энергетический суверенитет и отпор США для Индии - дело чести",
-      "lead_raw": "Комментируя заявления на ПМЭФ президента России Владимира Путина о российско-индийском взаимодействии, основатель и глава аналитического центра P3 в Калькутте отметил, что эти отношения \"всегда вызывали зависть у многих мировых держав",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9fa1742c98294addbf02985ac1845318821d5043",
-      "fingerprint": "af68dbceb96934c40ae5e2e05ed5c17a8828f9bd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27690445",
-      "published_utc": "2026-06-08T04:06:20Z",
-      "title_en": "AKORT: foreign retail chains in the Russian Federation continue to invest in their development",
-      "lead_en": "Companies are opening new stores, investing in regions and new formats, noted Stanislav Bogdanov, Chairman of the Association of Omnichannel Retail Companies",
-      "title_raw": "АКОРТ: зарубежные торговые сети в РФ продолжают инвестировать в свое развитие",
-      "lead_raw": "Компании открывают новые магазины, инвестируют в регионы и новые форматы, отметил председатель Ассоциации компаний омниканальной розничной торговли Станислав Богданов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
