@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-13T11:18:14Z",
+  "updated_at_utc": "2026-06-13T14:08:04Z",
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "091b577116e5f51a4094eb3f16b965ed40509631",
+      "fingerprint": "228b0d99a76209ea6e088230bebc7c3e6fad35aa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27748713",
+      "published_utc": "2026-06-13T13:18:24Z",
+      "title_en": "Foreign airlines began to refuel more at Russian airports",
+      "lead_en": "When landing at alternate airfields, airlines began to refuel in quantities higher than those required for the flight, which is reflected in the planning of supplies and logistics of energy resources to several airports",
+      "title_raw": "Иностранные авиакомпании стали больше заправляться в аэропортах России",
+      "lead_raw": "При посадках на запасных аэродромах авиакомпании стали дозаправляться в объемах выше необходимых для выполнения рейса, что отражается на планировании поставок и логистике энергоресурсов в адрес нескольких аэропортов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0535c0590111cf01ae6fa0a2cee94ca82fc4810e",
       "fingerprint": "1fd2fccfa9e49c27e246f2a9b168c42803d4330e",
@@ -560,28 +582,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "323fe0383b4f4100b39bd7da244e5787661057f5",
-      "fingerprint": "30035556fa30a07b2b0c48204375dbac55549088",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145509",
-      "published_utc": "2026-06-11T12:25:06Z",
-      "title_en": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_en": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "title_raw": "Russia lowered oil production in May by 9,000 bpd — OPEC",
-      "lead_raw": "According to the report, Russia’s oil production was below the OPEC+ target with compensations and voluntary cuts taken into account by 690,000 bpd",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
