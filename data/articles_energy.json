@@ -1,8 +1,76 @@
 {
-  "updated_at_utc": "2026-06-13T08:24:10Z",
+  "updated_at_utc": "2026-06-13T11:18:14Z",
   "topic": "energy",
-  "count": 28,
+  "count": 26,
   "articles": [
+    {
+      "id": "0535c0590111cf01ae6fa0a2cee94ca82fc4810e",
+      "fingerprint": "1fd2fccfa9e49c27e246f2a9b168c42803d4330e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27747787",
+      "published_utc": "2026-06-13T11:05:53Z",
+      "title_en": "Putin thanked the residents of Donbass and Novorossiya for their courage",
+      "lead_en": "The President noted that in total, more than 25 thousand different facilities were restored and rebuilt in Donbass and Novorossiya, including schools, hospitals, clinics, sports grounds, energy and utility infrastructure",
+      "title_raw": "Путин поблагодарил жителей Донбасса и Новороссии за мужество",
+      "lead_raw": "Президент отметил, что в общей сложности в Донбассе и Новороссии было восстановлено и построено заново более 25 тыс. различных объектов, в их числе школы, больницы, поликлиники, спортивные площадки, энергетическая и коммунальная инфраструктура",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e3da8c64a6f50e2ce9b818d61bf7aada2f9aa737",
+      "fingerprint": "661edb3a13c961365c8bf44a4492333c6370d0a9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2145995",
+      "published_utc": "2026-06-13T10:29:21Z",
+      "title_en": "Russian troops strike Ukrainian army’s energy, transport sites in past day",
+      "lead_en": "Russian troops liberate 172 buildings in Konstantinovka in Donetsk region over past day",
+      "title_raw": "Russian troops strike Ukrainian army’s energy, transport sites in past day",
+      "lead_raw": "Russian troops liberate 172 buildings in Konstantinovka in Donetsk region over past day",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "22a6c18d8ea85d122b9b52d44513d7cb0de1a819",
+      "fingerprint": "faaae5ceb1791ae096cfe8f398bf065ddce45ae5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27747223",
+      "published_utc": "2026-06-13T09:05:45Z",
+      "title_en": "The Russian Armed Forces hit energy and transport infrastructure facilities of the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also inflicted defeats on temporary infantry deployment sites in 142 districts, the Russian Ministry of Defense noted.",
+      "title_raw": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
+      "lead_raw": "Российские силы также нанесли поражение по местам временной дислокации пехоты в 142 районах, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "19db63ea5e71a26708ac2d66223ed9df96891207",
       "fingerprint": "c57d9358b2c2118e438d486b0dd8e2fdd82d99d9",
@@ -508,116 +576,6 @@
         "military": 0,
         "energy": 3,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4efe0cebe27f0b9b40a8efa0d5b27f34ed2cc01e",
-      "fingerprint": "eca9f3dd453b47d90f05d6c4a3492e7b126987e7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27732003",
-      "published_utc": "2026-06-11T10:26:47Z",
-      "title_en": "In Russia, a state prize was awarded for a method of oil production in difficult conditions",
-      "lead_en": "It was awarded to senior adviser to Promsyreimport, Doctor of Technical Sciences Oleg Zhdaneev, chief designer of the Titan-Barricades production center Igor Kovshov and specialist from the Moscow Institute of Thermal Engineering Elena Korsa-Vavilova",
-      "title_raw": "В России присудили госпремию за способ добычи нефти в сложных условиях",
-      "lead_raw": "Ее удостоены старший советник \"Промсырьеимпорта\", доктор технических наук Олег Жданеев, главный конструктор производственного центра \"Титан-Баррикады\" Игорь Ковшов и специалист Московского института теплотехники Елена Корса-Вавилова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "91163c768bcb3bf3759017762214a5b0ea553b05",
-      "fingerprint": "5fb61c9216671c565598f2684428a7a449d298aa",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/11/reuters-ukrainian-drone-attack-forces-kuibyshev-oil-refinery-in-russia-to-halt-operations",
-      "published_utc": "2026-06-11T10:00:55Z",
-      "title_en": "Reuters: Ukrainian drone attack forces Kuibyshev oil refinery in Russia to halt operations",
-      "lead_en": "Ukraine’s drone attack on Samara on June 10 forced the Kuibyshev oil refinery to halt crude processing, two industry sources told Reuters.",
-      "title_raw": "Reuters: Ukrainian drone attack forces Kuibyshev oil refinery in Russia to halt operations",
-      "lead_raw": "Ukraine’s drone attack on Samara on June 10 forced the Kuibyshev oil refinery to halt crude processing, two industry sources told Reuters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ac5ea4540449b76656e5f3517d7b6f7fb3afba0f",
-      "fingerprint": "94c36f700047fc39eba0455edc64f0fb818b756b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2145359",
-      "published_utc": "2026-06-11T10:00:00Z",
-      "title_en": "Press review: India eyes Russian LNG as Rubio’s visit pushes Central Asia minerals trade",
-      "lead_en": "Top stories from the Russian press on Thursday, June 11th",
-      "title_raw": "Press review: India eyes Russian LNG as Rubio’s visit pushes Central Asia minerals trade",
-      "lead_raw": "Top stories from the Russian press on Thursday, June 11th",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "20c4deb373e495b888470a2a3e6b97ca3dfcaa23",
-      "fingerprint": "0c47cdd296567c006e095def7aa55c415c21f6ad",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/11/waiting-in-line-is-pointless-fuel-trucks-fail-to-reach-sevastopol-russia-installed-governor-says",
-      "published_utc": "2026-06-11T09:37:38Z",
-      "title_en": "‘Waiting in line is pointless’: Fuel trucks fail to reach Sevastopol, Russian-installed governor says",
-      "lead_en": "Officials in occupied Sevastopol failed to issue a new batch of QR codes for fuel purchases on the evening of June 10, Russian-installed governor Mikhail Razvozhayev said. He blamed the disruption on fuel supply problems: “Fuel trucks were unable to reach the city last night.”",
-      "title_raw": "‘Waiting in line is pointless’: Fuel trucks fail to reach Sevastopol, Russian-installed governor says",
-      "lead_raw": "Officials in occupied Sevastopol failed to issue a new batch of QR codes for fuel purchases on the evening of June 10, Russian-installed governor Mikhail Razvozhayev said. He blamed the disruption on fuel supply problems: “Fuel trucks were unable to reach the city last night.”",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f7284edbd5aaf65568eee331054d8c3cfd9dbef0",
-      "fingerprint": "9a85b89bfd3a3902c9874bd5fc0631e995b9ef4f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2145415",
-      "published_utc": "2026-06-11T09:31:23Z",
-      "title_en": "Russia resumes wheat exports to Madagascar",
-      "lead_en": "According to the Agroexport Federal Center, in the first five months of 2026, Russia exported more than 30,000 tons of wheat",
-      "title_raw": "Russia resumes wheat exports to Madagascar",
-      "lead_raw": "According to the Agroexport Federal Center, in the first five months of 2026, Russia exported more than 30,000 tons of wheat",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
