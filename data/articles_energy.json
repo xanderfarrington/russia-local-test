@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-13T14:08:04Z",
+  "updated_at_utc": "2026-06-13T16:17:02Z",
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "9ca515df5bf143bd9d0d2c1bcfb3819af6ea2f7f",
+      "fingerprint": "29f5bedf3a9ce6a5e524ee74221cdfe404cf323e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27749213",
+      "published_utc": "2026-06-13T15:27:31Z",
+      "title_en": "The Ukrainian Armed Forces launched 26 strikes on the Energodar administration on Russia Day and City Day",
+      "lead_en": "This is a record number of arrivals for the building.",
+      "title_raw": "ВСУ нанесли 26 ударов по администрации Энергодара в День России и День города",
+      "lead_raw": "Это рекордное количество прилетов по зданию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "091b577116e5f51a4094eb3f16b965ed40509631",
       "fingerprint": "228b0d99a76209ea6e088230bebc7c3e6fad35aa",
@@ -559,29 +581,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "950c28ec913709b4aed805a7fc6368b2ef430d9e",
-      "fingerprint": "b6b5f1c9d568f48c7fdcc0b027889a79f3dcc7c9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27736107",
-      "published_utc": "2026-06-11T16:15:47Z",
-      "title_en": "Former German Foreign Minister: Putin sometimes knows the Germans better than they know themselves",
-      "lead_en": "Sigmar Gabriel noted that the Russian leader “watches German television, reads German newspapers”",
-      "title_raw": "Экс-глава МИД ФРГ: Путин знает немцев порой лучше, чем они сами себя",
-      "lead_raw": "Зигмар Габриэль отметил, что российский лидер \"смотрит немецкое телевидение, читает немецкие газеты\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
