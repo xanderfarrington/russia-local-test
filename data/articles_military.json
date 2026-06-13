@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-06-13T18:11:35Z",
+  "updated_at_utc": "2026-06-13T20:18:34Z",
   "topic": "military",
   "count": 88,
   "articles": [
+    {
+      "id": "53136c6518e216ab964d91b93976e80bfbaa84e1",
+      "fingerprint": "9aa3ead893d5dde71ad94db20890bd188807fda9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2146099",
+      "published_utc": "2026-06-13T18:30:02Z",
+      "title_en": "Company making Hornet drones for attacks on Russia owned by Google ex-head — envoy",
+      "lead_en": "The first combat use of such drones in the zone of the special military operation was recorded in March 2026, when these drones attacked Donetsk, said Ambassador-at-Large of the Russian Foreign Ministry for the Crimes of the Kiev Regime Rodion Miroshnik",
+      "title_raw": "Company making Hornet drones for attacks on Russia owned by Google ex-head — envoy",
+      "lead_raw": "The first combat use of such drones in the zone of the special military operation was recorded in March 2026, when these drones attacked Donetsk, said Ambassador-at-Large of the Russian Foreign Ministry for the Crimes of the Kiev Regime Rodion Miroshnik",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "41b57e109746e9498e0d75418b4f596937a25340",
       "fingerprint": "b3a4e6d9ef89d69f511e7ee35bd5cb3a523abe79",
@@ -1929,28 +1952,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4fb7f2573e90ef95f2605faafd508bbc9472fa65",
-      "fingerprint": "0dfd7fddd6b87a66c03c6370855ef7bfd3fdb739",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27737083",
-      "published_utc": "2026-06-11T18:29:00Z",
-      "title_en": "TASS: in the Khmelnitsky region, the TCC detained the rector of the temple",
-      "lead_en": "The priest was forcibly taken to Teofipol to undergo a military medical commission, Russian security forces reported",
-      "title_raw": "ТАСС: в Хмельницкой области ТЦК задержали настоятеля храма",
-      "lead_raw": "Cвященник был принудительно доставлен в Теофиполь для прохождения военно-лечебной комиссии, сообщили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
