@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-14T18:16:30Z",
+  "updated_at_utc": "2026-06-14T20:21:02Z",
   "topic": "military",
   "count": 71,
   "articles": [
+    {
+      "id": "5260a73b587e6a517c5f4cddef37c0139d2ce388",
+      "fingerprint": "505fd31767efceaa8ac2358a3f33c63050bcbacb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27754601",
+      "published_utc": "2026-06-14T19:17:14Z",
+      "title_en": "104 Ukrainian UAVs shot down over Russia",
+      "lead_en": "Air defense forces worked from 14:00 to 21:00 Moscow time",
+      "title_raw": "Над Россией сбили 104 украинских БПЛА",
+      "lead_raw": "Силы ПВО работали с 14:00 до 21:00 мск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c89e90d78da38a1f2f447ce732fe87297f1758d9",
       "fingerprint": "c1a1705d90ca6b2fd42d77a758c055389c08b1f6",
@@ -1550,29 +1572,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "45d2e9623f4e74bf0714459a2926cc842d8490d9",
-      "fingerprint": "c0bc75947420d250ac23ae0ec0e65d08d8f5dfcd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2145895",
-      "published_utc": "2026-06-12T19:08:37Z",
-      "title_en": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
-      "lead_en": "The Russian president Vladimir Putin has held a Kremlin meeting with participants in the special military operation on Russia Day",
-      "title_raw": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
-      "lead_raw": "The Russian president Vladimir Putin has held a Kremlin meeting with participants in the special military operation on Russia Day",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

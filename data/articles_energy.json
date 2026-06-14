@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-14T18:16:30Z",
+  "updated_at_utc": "2026-06-14T20:21:02Z",
   "topic": "energy",
   "count": 13,
   "articles": [
+    {
+      "id": "7b78c58f18bbadc023ab9e718edd73dbbd98c9a6",
+      "fingerprint": "98d6db5124e438f929a16f3cb2c0a37ba388b78c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27754553",
+      "published_utc": "2026-06-14T19:04:58Z",
+      "title_en": "Bild: in Germany, a castle-hotel owned by owners from the Russian Federation was put up for sale for €11 million",
+      "lead_en": "According to the Bild newspaper, this historic estate is one of the most exclusive and expensive properties in Germany.",
+      "title_raw": "Bild: в ФРГ принадлежащий владельцам из РФ замок-отель выставили на продажу за €11 млн",
+      "lead_raw": "По информации газеты Bild, это историческое поместье является одним из самых эксклюзивных и дорогих объектов недвижимости в Германии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bb1e8ce2ac2eaaaef2bae5cf4242bc5d8cee56e3",
       "fingerprint": "0d482c9cd87ab66e0c006e7a73df2f7b45421f15",
@@ -270,29 +292,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b28a7d230780c5b9c723d5a9cf6f43a7317c0ac0",
-      "fingerprint": "6e3e4980cb40ce64ad8feea83fd43312fd9213c7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27745313",
-      "published_utc": "2026-06-12T20:11:16Z",
-      "title_en": "Britain will ban the import of diesel fuel and kerosene from Russian oil on January 1",
-      "lead_en": "The Ministry of Business and Trade explained that the relief for this type of fuel was initially only temporary",
-      "title_raw": "Британия 1 января запретит импорт дизтоплива и керосина из российской нефти",
-      "lead_raw": "В министерстве по делам бизнеса и торговли пояснили, что послабление в отношении этого вида топлива изначально было лишь временным",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
