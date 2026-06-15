@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-15T21:46:27Z",
+  "updated_at_utc": "2026-06-15T23:49:22Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "10dff5d75ba7ecb8ff4ba8ae8135df38f282e974",
+      "fingerprint": "c7854017fcf34ee2dad42aa75302bcea0ab26735",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27766853",
+      "published_utc": "2026-06-15T22:41:10Z",
+      "title_en": "The UK announced that LNG tankers will be included in a new package of sanctions against the Russian Federation",
+      "lead_en": "The number of vessels allegedly linked to Russia on British blacklists will exceed 600, the office of Prime Minister Keir Starmer said in a statement.",
+      "title_raw": "В Великобритании заявили, что СПГ-танкеры войдут в новый пакет санкций против РФ",
+      "lead_raw": "Количество якобы связанных с Россией судов в британских черных списках превысит 600, говорится в заявлении канцелярии премьер-министра Соединенного Королевства Кира Стармера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d9ea6ac0790749a60d4968ea6227e0b93f644530",
       "fingerprint": "5b381670cffc7c33fb42603b9f2952e7cdbe3275",
@@ -445,29 +467,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14d2f279aaa9cb016ebc8c404dba323b8268780c",
-      "fingerprint": "6c18b444350663e5dc897e33664b4c0175f6b9be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2146123",
-      "published_utc": "2026-06-13T22:00:00Z",
-      "title_en": "Issue with Power of Siberia 2 gas pipeline to be solved soon — envoy",
-      "lead_en": "Chairman of the Russian part of the Russia-China Committee of Friendship, Peace and Development Boris Titov emphasized that the issue relates more to logistics, but not to the price",
-      "title_raw": "Issue with Power of Siberia 2 gas pipeline to be solved soon — envoy",
-      "lead_raw": "Chairman of the Russian part of the Russia-China Committee of Friendship, Peace and Development Boris Titov emphasized that the issue relates more to logistics, but not to the price",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
