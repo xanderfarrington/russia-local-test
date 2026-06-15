@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-06-15T13:19:33Z",
+  "updated_at_utc": "2026-06-15T18:43:02Z",
   "topic": "energy",
-  "count": 14,
+  "count": 17,
   "articles": [
+    {
+      "id": "8726b1a2feb745211ac98ba1b3ddba75fc09ffec",
+      "fingerprint": "c3ab558282f2aae613a16f7b583e479c81e4c4f7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2146823",
+      "published_utc": "2026-06-15T18:04:56Z",
+      "title_en": "Bank of Russia set official dollar rate at 72.45 rubles for June 16",
+      "lead_en": "The official euro exchange rate grew by 83.01 kopecks to 83.8044 rubles",
+      "title_raw": "Bank of Russia set official dollar rate at 72.45 rubles for June 16",
+      "lead_raw": "The official euro exchange rate grew by 83.01 kopecks to 83.8044 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "559c4a12e4d9db02640959ab716ea67729b10ed6",
+      "fingerprint": "74e2681583976271f123b0b2a519afe3e55cc37e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2146821",
+      "published_utc": "2026-06-15T18:04:26Z",
+      "title_en": "Russia, Laos ink agreement on cooperation in peaceful nuclear energy",
+      "lead_en": "The signing ceremony took place in the House of the Government of the Russian Federation",
+      "title_raw": "Russia, Laos ink agreement on cooperation in peaceful nuclear energy",
+      "lead_raw": "The signing ceremony took place in the House of the Government of the Russian Federation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "83bb6396ac0f65bef0177b06294d5415397f7073",
+      "fingerprint": "05cca865c10d7ab42dd8653059a0d58f8c4305da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27765019",
+      "published_utc": "2026-06-15T15:56:42Z",
+      "title_en": "Gazprom Neft called the creation of a Russian hydraulic fracturing fleet critically important",
+      "lead_en": "About 60% of hydraulic fracturing fleets operated in Russia are more than 10 years old, with an average service life of 15 years, noted Bogdan Kostyuk, head of the company’s technological development department.",
+      "title_raw": "\"Газпром нефть\" назвала критически важным создание российского флота ГРП",
+      "lead_raw": "Около 60% эксплуатируемых в России флотов гидравлического разрыва пласта имеют возраст более 10 лет при среднем сроке службы в 15 лет, отметил начальник департамента по технологическому развитию компании Богдан Костюк",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a82cfc3be6cf930d29cd7f26b74df52a2d1c05b2",
+      "fingerprint": "ffd023f36963ac4bdcff5104d85b347581076a5b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/15/tatneft-limits-gasoline-sales-across-several-russian-regions",
+      "published_utc": "2026-06-15T14:19:48Z",
+      "title_en": "Tatneft limits gasoline sales across several Russian regions",
+      "lead_en": "Fuel shortages have emerged at Tatneft gas stations across several Russian regions.",
+      "title_raw": "Tatneft limits gasoline sales across several Russian regions",
+      "lead_raw": "Fuel shortages have emerged at Tatneft gas stations across several Russian regions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "679947f39e4b91c71a79aa8acb410780ab53d37f",
       "fingerprint": "cab794fca777d264321df5268e0ac498a751de1b",
@@ -289,28 +379,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9ca515df5bf143bd9d0d2c1bcfb3819af6ea2f7f",
-      "fingerprint": "29f5bedf3a9ce6a5e524ee74221cdfe404cf323e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27749213",
-      "published_utc": "2026-06-13T15:27:31Z",
-      "title_en": "The Ukrainian Armed Forces launched 26 strikes on the Energodar administration on Russia Day and City Day",
-      "lead_en": "This is a record number of arrivals for the building.",
-      "title_raw": "ВСУ нанесли 26 ударов по администрации Энергодара в День России и День города",
-      "lead_raw": "Это рекордное количество прилетов по зданию",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
         "energy"
       ],
       "primary_topic": "energy"
