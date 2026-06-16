@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-15T23:49:22Z",
+  "updated_at_utc": "2026-06-16T04:48:39Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "fbcb85d6ea9d70276ebb813bdb040cda912ea9d9",
+      "fingerprint": "e2286f23705e1b9057832e8369ed9c592277f597",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27767581",
+      "published_utc": "2026-06-16T03:07:36Z",
+      "title_en": "Biologist Glazkov: drinking beer increases the risk of a mosquito bite by 10-15%",
+      "lead_en": "Insects detect prey by the concentration of carbon dioxide, thermal radiation and the smell of sweat, noted a member of the Russian Geographical Society",
+      "title_raw": "Биолог Глазков: употребление пива повышает риск укуса комара на 10-15%",
+      "lead_raw": "Насекомые обнаруживают жертву по концентрации углекислого газа, тепловому излучению и запаху пота, отметил член Русского географического общества",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a8c719f6d67af8c0050b9ce167019e3de6b88dfd",
+      "fingerprint": "da4c6ce1243e0df0ad30bdaf973d9ebe647d6148",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2146909",
+      "published_utc": "2026-06-16T01:09:20Z",
+      "title_en": "Fire breaks out at oil depot in Russia’s Krasnodar Region due to fallen drone debris",
+      "lead_en": "There were no fatalities or injuries",
+      "title_raw": "Fire breaks out at oil depot in Russia’s Krasnodar Region due to fallen drone debris",
+      "lead_raw": "There were no fatalities or injuries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "10dff5d75ba7ecb8ff4ba8ae8135df38f282e974",
       "fingerprint": "c7854017fcf34ee2dad42aa75302bcea0ab26735",
@@ -426,50 +471,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "8211dde1d6aa70ebedee2e1a857199fd4ab85998",
-      "fingerprint": "28457c084b8daacfafcafb163e064903b8f74222",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2146151",
-      "published_utc": "2026-06-14T03:40:00Z",
-      "title_en": "Cooperation with Russia to benefit Japan amid Hormuz closure — lawmaker",
-      "lead_en": "When asked about the possibility of lifting the price cap on Russian oil, Shoji Nishida expressed the view that Washington is standing in the way of this",
-      "title_raw": "Cooperation with Russia to benefit Japan amid Hormuz closure — lawmaker",
-      "lead_raw": "When asked about the possibility of lifting the price cap on Russian oil, Shoji Nishida expressed the view that Washington is standing in the way of this",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14852d9cbb7ef53285bc59a912591613ba6414bf",
-      "fingerprint": "fddacaeec42fa634c9435c9898c423b034cebded",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27750465",
-      "published_utc": "2026-06-14T02:02:26Z",
-      "title_en": "Japan said that the abolition of the ceiling on oil prices from the Russian Federation is hampered by the position of the United States",
-      "lead_en": "Cooperation with Moscow in the energy sector would be beneficial for Tokyo, which has suffered from interruptions in the supply of resources due to the closure of the Strait of Hormuz, said Shoji Nishida, a deputy from Japan’s ruling Liberal Democratic Party.",
-      "title_raw": "В Японии заявили, что отмене потолка цен на нефть из РФ мешает позиция США",
-      "lead_raw": "Сотрудничество с Москвой в энергетике было бы выгодно Токио, пострадавшему от перебоев в поставках ресурсов из-за перекрытия Ормузского пролива, отметил депутат от правящей в Японии Либерально-демократической партии Сёдзи Нисида",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
