@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-16T15:58:51Z",
+  "updated_at_utc": "2026-06-16T19:47:22Z",
   "topic": "energy",
   "count": 33,
   "articles": [
+    {
+      "id": "4b6af4a19f0f187b00e21522f043ca9c292302bf",
+      "fingerprint": "331bf8429ce93fdd9df6a9a2eb2f1dfd43885f8d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27777781",
+      "published_utc": "2026-06-16T17:53:51Z",
+      "title_en": "The Russian Ambassador in Havana discussed with a representative of the UN WFP the issues of providing assistance to Cuba",
+      "lead_en": "The situation in Cuba deteriorated sharply at the end of January after the US administration announced measures aimed at a complete blockade of fuel supplies to the island",
+      "title_raw": "Посол РФ в Гаване обсудил с представителем ВПП ООН вопросы оказания помощи Кубе",
+      "lead_raw": "Ситуация на Кубе резко ухудшилась в конце января после того, как администрация США объявила о мерах, направленных на полную блокаду поставок топлива на остров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "686fbf83ef7b42aa1bddaeef5dc32e813a843c94",
+      "fingerprint": "e01de434315a6d7e79f128951ac314613ef25fc0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2147355",
+      "published_utc": "2026-06-16T16:27:06Z",
+      "title_en": "Russia, Singapore continue trade — Kremlin",
+      "lead_en": "Supplies of Russian energy resources to Singapore constitute the basis of the trade turnover",
+      "title_raw": "Russia, Singapore continue trade — Kremlin",
+      "lead_raw": "Supplies of Russian energy resources to Singapore constitute the basis of the trade turnover",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3a7c2c2cca7cabf0850b1c8f759e9cf21b141e25",
       "fingerprint": "d36bf5bde00238dea26d0e396b3297d879680787",
@@ -694,52 +739,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "7b78c58f18bbadc023ab9e718edd73dbbd98c9a6",
-      "fingerprint": "98d6db5124e438f929a16f3cb2c0a37ba388b78c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27754553",
-      "published_utc": "2026-06-14T19:04:58Z",
-      "title_en": "Bild: in Germany, a castle-hotel owned by owners from the Russian Federation was put up for sale for €11 million",
-      "lead_en": "According to the Bild newspaper, this historic estate is one of the most exclusive and expensive properties in Germany.",
-      "title_raw": "Bild: в ФРГ принадлежащий владельцам из РФ замок-отель выставили на продажу за €11 млн",
-      "lead_raw": "По информации газеты Bild, это историческое поместье является одним из самых эксклюзивных и дорогих объектов недвижимости в Германии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bb1e8ce2ac2eaaaef2bae5cf4242bc5d8cee56e3",
-      "fingerprint": "0d482c9cd87ab66e0c006e7a73df2f7b45421f15",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27754205",
-      "published_utc": "2026-06-14T17:29:14Z",
-      "title_en": "Russian Foreign Ministry: the attack of the Armed Forces of Ukraine on a store in the Kursk region has signs of a war crime",
-      "lead_en": "Two people were injured in the attack",
-      "title_raw": "МИД РФ: атака ВСУ на магазин в Курской области имеет признаки военного преступления",
-      "lead_raw": "При атаке пострадали два человека",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
