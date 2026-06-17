@@ -1,8 +1,121 @@
 {
-  "updated_at_utc": "2026-06-17T11:52:26Z",
+  "updated_at_utc": "2026-06-17T15:43:11Z",
   "topic": "economy",
-  "count": 28,
+  "count": 29,
   "articles": [
+    {
+      "id": "b7f503de40b88931852f2306d82a4f86f7eebf19",
+      "fingerprint": "f86aa5dffe9ce2a23b5fb78e0b10079ea556b993",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27789573",
+      "published_utc": "2026-06-17T15:34:12Z",
+      "title_en": "The Ministry of Construction announced that developers have postponed the commissioning of more than a third of new buildings in the Russian Federation",
+      "lead_en": "This situation leads to a drop in confidence in the market, as well as to the risk of penalties for developers, said Olga Kornienko, director of the housing policy department.",
+      "title_raw": "Минстрой сообщил о переносе застройщиками ввода более трети новостроек в РФ",
+      "lead_raw": "Такая ситуация приводит к падению доверия к рынку, а также к риску штрафных санкций к девелоперам, заявила директор департамента жилищной политики Ольга Корниенко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b979424196c7e5c45377a32465b3c2c801b8af77",
+      "fingerprint": "cf3f3dbbdf0b4e26c66309dd239d8077d71abf29",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27789251",
+      "published_utc": "2026-06-17T15:10:09Z",
+      "title_en": "Ukrainian request for missile production and responsibility for the conflict. Trump's statements",
+      "lead_en": "The United States is considering the possibility of canceling exemptions from American sanctions against Russian oil due to the emerging decline in fuel prices on world markets, the American leader indicated",
+      "title_raw": "Украинский запрос по производству ракет и ответственность за конфликт. Заявления Трампа",
+      "lead_raw": "США рассматривают возможность отмены изъятий из американских санкций в отношении российской нефти в связи с наметившимся снижением цен на топливо на мировых рынках, указал американский лидер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a2a501c089df7e63c6c80b3a447619ec1b8cbb39",
+      "fingerprint": "3cc0b7492f6801aec63f4ac509d8aa5f107706c2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2147797",
+      "published_utc": "2026-06-17T14:11:08Z",
+      "title_en": "Meeting between leaders of Russia, Philippines to send positive message globally",
+      "lead_en": "According to Philippine Undersecretary of Trade and Industry Allan Gepty, this is a good opportunity to show that the states have a robust economic partnership",
+      "title_raw": "Meeting between leaders of Russia, Philippines to send positive message globally",
+      "lead_raw": "According to Philippine Undersecretary of Trade and Industry Allan Gepty, this is a good opportunity to show that the states have a robust economic partnership",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f721487908ab9159b8dab79d70d741d26007caf0",
+      "fingerprint": "1d677c1ddaf86629ceae83239984531688e9cecc",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2147767",
+      "published_utc": "2026-06-17T13:36:23Z",
+      "title_en": "Russian investments in Uzbekistan's economy exceed $55.18 bln — PM Mishustin",
+      "lead_en": "Mikhail Mishustin noted that Russia is among the leading investors in Uzbekistan's economy",
+      "title_raw": "Russian investments in Uzbekistan's economy exceed $55.18 bln — PM Mishustin",
+      "lead_raw": "Mikhail Mishustin noted that Russia is among the leading investors in Uzbekistan's economy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9876ef2087d4c91d9e96bb257a87d46015605811",
+      "fingerprint": "047838eb490f928de03c48d62fb14f28f5c7f12f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2147729",
+      "published_utc": "2026-06-17T12:27:22Z",
+      "title_en": "Japan-Russia trade turnover rises by 5.76% to $666.8 mln in May",
+      "lead_en": "Imports from Russia rose by 3.4% during the period",
+      "title_raw": "Japan-Russia trade turnover rises by 5.76% to $666.8 mln in May",
+      "lead_raw": "Imports from Russia rose by 3.4% during the period",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "09c15a97f2f50b09d2cc06b787faf5a79264715f",
       "fingerprint": "07b66746dccee369f44ab141f88486aa64351f02",
@@ -528,95 +641,6 @@
       "lead_en": "Laos has significant reserves of bauxite, which are important for the development of the Russian aluminum industry, the Cabinet noted",
       "title_raw": "Решетников: Россия заинтересована увеличивать экспорт продовольствия в Лаос",
       "lead_raw": "Лаос обладает значительными запасами бокситов, которые являются важными для развития российской алюминиевой промышленности, отметили в кабмине",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7d1950e120299050836efd18737eba2016165f23",
-      "fingerprint": "48a4fa0750c9007f95f45eb51db86bc626ea0f3e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2146673",
-      "published_utc": "2026-06-15T13:34:39Z",
-      "title_en": "Trade, economic cooperation between Russia, Belarus to reach records — Belarusian minister",
-      "lead_en": "The foreign ministries of Russia and Belarus also prepared their third annual report on the human rights situation in individual countries",
-      "title_raw": "Trade, economic cooperation between Russia, Belarus to reach records — Belarusian minister",
-      "lead_raw": "The foreign ministries of Russia and Belarus also prepared their third annual report on the human rights situation in individual countries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b3aa92f420dc110c0125ef81b121b20c6d444f73",
-      "fingerprint": "f99d1ff2a5a4c1417d9604de4c732f35440deb17",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/15/russia-s-central-bank-chief-nabiullina-to-appear-at-press-conference-after-nearly-two-weeks-out-of-public-view-she-missed-the-st-petersburg-international-economic-forum-and-a-meeting-with-putin",
-      "published_utc": "2026-06-15T13:06:44Z",
-      "title_en": "Russia’s central bank chief Nabiullina to appear at press conference after nearly two weeks out of public view — she missed the St. Petersburg International Economic Forum and a meeting with Putin",
-      "lead_en": "Russia’s central bank chair, Elvira Nabiullina, will appear at a press conference on June 19 following a Board of Directors meeting on monetary policy, the bank’s press service announced.",
-      "title_raw": "Russia’s central bank chief Nabiullina to appear at press conference after nearly two weeks out of public view — she missed the St. Petersburg International Economic Forum and a meeting with Putin",
-      "lead_raw": "Russia’s central bank chair, Elvira Nabiullina, will appear at a press conference on June 19 following a Board of Directors meeting on monetary policy, the bank’s press service announced.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5740e200e266b946a64f8421d40ecfcbf6387dfd",
-      "fingerprint": "e324c008cd285aa72bdf711df7960b48524dcd03",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27763245",
-      "published_utc": "2026-06-15T12:59:56Z",
-      "title_en": "Aksakov predicts a reduction in the key rate to 13% by the end of summer",
-      "lead_en": "At the next meeting on June 19, the Board of Directors of the Bank of Russia may lower it by 0.5 percentage points, to 14%, says the head of the State Duma Committee on the Financial Market",
-      "title_raw": "Аксаков прогнозирует снижение ключевой ставки до 13% к концу лета",
-      "lead_raw": "На ближайшем заседании 19 июня совет директоров Банка России может понизить ее на 0,5 процентного пункта, до 14%, считает глава комитета Госдумы по финансовому рынку",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a2e85c9fbd2f73c170426e68076aadba99e58162",
-      "fingerprint": "5792ca62910b5d839dc314aae4ca5f0eb60a71df",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27762307",
-      "published_utc": "2026-06-15T12:26:04Z",
-      "title_en": "Mishustin suggested that Laos more actively use electronic trading platforms of the Russian Federation",
-      "lead_en": "The Prime Minister noted that they provide an opportunity for good promotion of Laotian goods on the Russian market",
-      "title_raw": "Мишустин предложил Лаосу активнее использовать электронные торговые площадки РФ",
-      "lead_raw": "Премьер отметил, что они дают возможность хорошего продвижения лаосских товаров на российском рынке",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
