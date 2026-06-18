@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-06-17T23:42:01Z",
+  "updated_at_utc": "2026-06-18T04:21:50Z",
   "topic": "energy",
-  "count": 44,
+  "count": 43,
   "articles": [
+    {
+      "id": "8ebd6f1bf5a6edb04b7cac694ced66463722ce8d",
+      "fingerprint": "ce17f9913406850293261ff999e477ef32f0f465",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sammit-rossiya-asean-2026/27794217",
+      "published_utc": "2026-06-18T02:27:25Z",
+      "title_en": "Ambassador to the Russian Federation: The Philippines is studying the possibility of using nuclear energy",
+      "lead_en": "In the use of small modular nuclear reactors, the country is focusing on Russia, noted Igor Baylen",
+      "title_raw": "Посол в РФ: Филиппины изучают возможность использования ядерной энергии",
+      "lead_raw": "В применении малых модульных ядерных реакторов страна ориентируется на Россию, отметил Игорь Байлен",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6a346393570c8a89654d3a43f8487f331a9a7e57",
       "fingerprint": "ed8c1c1dba78bd4e00ef293df26fde17cf2a541e",
@@ -935,51 +958,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fbcb85d6ea9d70276ebb813bdb040cda912ea9d9",
-      "fingerprint": "e2286f23705e1b9057832e8369ed9c592277f597",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27767581",
-      "published_utc": "2026-06-16T03:07:36Z",
-      "title_en": "Biologist Glazkov: drinking beer increases the risk of a mosquito bite by 10-15%",
-      "lead_en": "Insects detect prey by the concentration of carbon dioxide, thermal radiation and the smell of sweat, noted a member of the Russian Geographical Society",
-      "title_raw": "Биолог Глазков: употребление пива повышает риск укуса комара на 10-15%",
-      "lead_raw": "Насекомые обнаруживают жертву по концентрации углекислого газа, тепловому излучению и запаху пота, отметил член Русского географического общества",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a8c719f6d67af8c0050b9ce167019e3de6b88dfd",
-      "fingerprint": "da4c6ce1243e0df0ad30bdaf973d9ebe647d6148",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2146909",
-      "published_utc": "2026-06-16T01:09:20Z",
-      "title_en": "Fire breaks out at oil depot in Russia’s Krasnodar Region due to fallen drone debris",
-      "lead_en": "There were no fatalities or injuries",
-      "title_raw": "Fire breaks out at oil depot in Russia’s Krasnodar Region due to fallen drone debris",
-      "lead_raw": "There were no fatalities or injuries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"
