@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-19T01:45:52Z",
+  "updated_at_utc": "2026-06-19T07:12:10Z",
   "topic": "military",
-  "count": 89,
+  "count": 86,
   "articles": [
+    {
+      "id": "f63e140c0cad826fd1a688d15423914fb4546428",
+      "fingerprint": "b170c169630b439dc1a272433a4da8a8a480a1c7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27811021",
+      "published_utc": "2026-06-19T06:48:12Z",
+      "title_en": "The Russian Armed Forces destroyed an important power facility used by the Ukrainian Armed Forces near Zolochev",
+      "lead_en": "A Geranium UAV was used to destroy an energy facility, the Ministry of Defense noted.",
+      "title_raw": "ВС РФ уничтожили используемый ВСУ важный энергообъект у Золочева",
+      "lead_raw": "Для уничтожения энергетического объекта применили БПЛА \"Герань\", отметили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "84f0fb8976a15b0027fadcdd3d53b885b6725031",
+      "fingerprint": "e3ff0e1aa990909f65c195376e6deafc16b6f16c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27810717",
+      "published_utc": "2026-06-19T06:02:31Z",
+      "title_en": "The Russian Armed Forces destroyed five UAV control centers of the Ukrainian Armed Forces",
+      "lead_en": "The Russian military also eliminated more than 70 Ukrainian Armed Forces soldiers near Sumy and Kharkov",
+      "title_raw": "ВС РФ уничтожили пять пунктов управления БПЛА ВСУ",
+      "lead_raw": "Российские военные также ликвидировали более 70 солдат ВСУ под Сумами и Харьковом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "520c609cb9ef0eca05d618a83f2c3129edcb1beb",
       "fingerprint": "338b09d55bba77c9e65a025fd2f737e5603e7b02",
@@ -1850,116 +1895,6 @@
       "lead_en": "The Ukrainian forces sustained the heaviest casualties from actions by Russia’s battlegroups Center and East",
       "title_raw": "Ukraine loses more than 21,000 troops in first 15 days of June",
       "lead_raw": "The Ukrainian forces sustained the heaviest casualties from actions by Russia’s battlegroups Center and East",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1642873101486962d18befff92ea66e2435e6864",
-      "fingerprint": "d960bc6d3b2a7303f1b5581dfbefc90c26c0425b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27780809",
-      "published_utc": "2026-06-17T06:10:28Z",
-      "title_en": "TASS: “Sever” destroyed more than 70 Ukrainian Armed Forces soldiers near Sumy and Kharkov",
-      "lead_en": "The Russian military also hit nine UAV control centers",
-      "title_raw": "ТАСС: \"Север\" уничтожил более 70 солдат ВСУ под Сумами и Харьковом",
-      "lead_raw": "Российские военные также поразили девять пунктов управления БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "28456acc83e0f4e913b20f4ebfc0bb4a104779bf",
-      "fingerprint": "238ead12142e8db0f600f3524c12657efbfdb44c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27780801",
-      "published_utc": "2026-06-17T06:10:24Z",
-      "title_en": "Air defense forces of the North destroyed more than 60 drones of the Ukrainian Armed Forces",
-      "lead_en": "UAVs flew towards regions of the Russian Federation",
-      "title_raw": "Силы ПВО \"Севера\" уничтожили более 60 беспилотников ВСУ",
-      "lead_raw": "БПЛА летели в сторону регионов РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0af6e81f8621678b9bac9a7b3928451c2bb9105e",
-      "fingerprint": "d6393c6890492eace6ac87dd27ee3884d6a41072",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27780431",
-      "published_utc": "2026-06-17T05:16:20Z",
-      "title_en": "Expert Knutov: the new tactics of the Russian Armed Forces could lead to growing losses of the Armed Forces of Ukraine",
-      "lead_en": "The air defense force historian noted that Russian units use infiltration tactics in small groups, while at the same time UAV operators are blocking the airspace and creating drone-free zones",
-      "title_raw": "Эксперт Кнутов: новая тактика ВС РФ могла привести к растущим потерям ВСУ",
-      "lead_raw": "Историк войск ПВО отметил, что российские подразделения применяют тактику просачивания малыми группами, параллельно с этим операторами БПЛА блокируется воздушное пространство и создаются бездроновые зоны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4531ae2ed696bd6bbf23d12f638f04e9da26d84a",
-      "fingerprint": "a92cad261fec577aa90334e3f4272c66a7506a5f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27780385",
-      "published_utc": "2026-06-17T05:08:17Z",
-      "title_en": "Soldier Kasper: thanks to reconnaissance of the Russian Armed Forces, two Humvees of the Ukrainian Armed Forces were destroyed",
-      "lead_en": "The Russian military also hit the UAV control center",
-      "title_raw": "Боец Каспер: благодаря разведке ВС РФ уничтожили два Humvee ВСУ",
-      "lead_raw": "Также российские военные поразили пункт управления БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6a0345d929d2e4305c71b2e329fb7634d31daf73",
-      "fingerprint": "fb451c72e2b6687e9f97b2b09c343c67bc1c4259",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2147475",
-      "published_utc": "2026-06-17T02:45:22Z",
-      "title_en": "Russian forces successfully advance near Belitskoye under Rodinskoye in DPR — expert",
-      "lead_en": "According to Andrey Marochko, Russian troops will continue to advance in this sector",
-      "title_raw": "Russian forces successfully advance near Belitskoye under Rodinskoye in DPR — expert",
-      "lead_raw": "According to Andrey Marochko, Russian troops will continue to advance in this sector",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
