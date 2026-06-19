@@ -1,8 +1,658 @@
 {
-  "updated_at_utc": "2026-06-19T16:08:38Z",
+  "updated_at_utc": "2026-06-19T18:58:28Z",
   "keep_hours": 48,
-  "count": 499,
+  "count": 456,
   "articles": [
+    {
+      "id": "30c43480ed4dad2050d398102119124fbc7ebcb9",
+      "fingerprint": "fa734718472aa1eaa10cb7b5df29bb0e39b0c370",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2149169",
+      "published_utc": "2026-06-19T18:52:41Z",
+      "title_en": "Macron believes EU cannot mediate in Ukrainian settlement",
+      "lead_en": "The French president said the European Union cannot be an intermediary, as it supports Ukraine and has imposed sanctions against Russia",
+      "title_raw": "Macron believes EU cannot mediate in Ukrainian settlement",
+      "lead_raw": "The French president said the European Union cannot be an intermediary, as it supports Ukraine and has imposed sanctions against Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "db8a2a6ef37e2beed0469d24f7ead978f0625281",
+      "fingerprint": "988d29eae51b5caebda2a3c5e14a5819e536f30d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2149157",
+      "published_utc": "2026-06-19T18:26:34Z",
+      "title_en": "Bank of Russia set dollar at 73.44 rubles for June 20-22",
+      "lead_en": "The official euro rate was lowered by 86.21 kopecks to 84.1684 rubles",
+      "title_raw": "Bank of Russia set dollar at 73.44 rubles for June 20-22",
+      "lead_raw": "The official euro rate was lowered by 86.21 kopecks to 84.1684 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "22c495e0e4f1fc4e703fb77ddc8fdc7362f45b22",
+      "fingerprint": "22f5d100570ad8880d8939b94ac2986cb0435d41",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27819837",
+      "published_utc": "2026-06-19T18:21:59Z",
+      "title_en": "Trump: preserving the G8 with Russia's participation could have prevented the crisis in Ukraine",
+      "lead_en": "The American leader noted that former US President Barack Obama did not want to see Russian President Vladimir Putin there",
+      "title_raw": "Трамп: сохранение G8 с участием России могло предотвратить кризис на Украине",
+      "lead_raw": "Американский лидер отметил, что экс-президент США Барак Обама не хотел видеть там российского президента Владимира Путина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "eb1ab925ce00242465484bff3dd9e2afddeddf85",
+      "fingerprint": "73c6dbdc18ed8dcf748834577fd02f434dd02fbc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27819773",
+      "published_utc": "2026-06-19T18:11:12Z",
+      "title_en": "The governor of the Kirov region will lead the United Russia list in the elections to the legislative assembly",
+      "lead_en": "Alexander Sokolov named the interests of the region’s families, their happiness and well-being as the main ones in his election program",
+      "title_raw": "Губернатор Кировской области возглавит список ЕР на выборах в заксобрание",
+      "lead_raw": "Александр Соколов назвал интересы семей региона, их счастье и благополучие главным в своей предвыборной программе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ab1cd835ed9435758828809244611fef11271d5b",
+      "fingerprint": "23180f10ba779be1fc1ead2d02770a99e9954a29",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27819709",
+      "published_utc": "2026-06-19T17:54:17Z",
+      "title_en": "Daniil Medvedev lost to the 81st racket of the world in the quarterfinals of the ATP tournament in Halle",
+      "lead_en": "The Russian lost in three sets",
+      "title_raw": "Даниил Медведев уступил 81-й ракетке мира в четвертьфинале турнира ATP в Галле",
+      "lead_raw": "Россиянин уступил в трех сетах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d58528e65b66925b1a0b1fd851c8f55d78a21c9d",
+      "fingerprint": "950f63e57cb5908a0cedce496e82763ee683f8f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819671",
+      "published_utc": "2026-06-19T17:52:49Z",
+      "title_en": "The United States introduced a bill on the purchase of weapons to Ukraine at the expense of frozen assets of the Russian Federation",
+      "lead_en": "The authors were Democrats Tim Kaine, Chris Coons and Sheldon Whitehouse, as well as their Republican colleagues John Cornyn, Roger Wicker and Chuck Grassley",
+      "title_raw": "В США внесли законопроект о покупке оружия Украине за счет замороженных активов РФ",
+      "lead_raw": "Авторами стали демократы Тим Кейн, Крис Кунс и Шелдон Уайтхаус, а также их коллеги-республиканцы Джон Корнин, Роджер Уикер и Чак Грассли",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f1233b8bf0505290a3d94a80e6b8fcde310714ac",
+      "fingerprint": "5b6644fce48193ddb041757d529e56d5d1bd1750",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27819493",
+      "published_utc": "2026-06-19T17:51:24Z",
+      "title_en": "The UN announced support for linguistic diversity due to Kyiv's Russian language law",
+      "lead_en": "Vladimir Zelensky previously signed the relevant law",
+      "title_raw": "В ООН заявили о поддержке языкового многообразия из-за закона Киева о русском языке",
+      "lead_raw": "Владимир Зеленский ранее подписал соответствующий закон",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "081d70174e236fe66bf22ae19fab7c1903bb824e",
+      "fingerprint": "d0edbac23197aacdee799afe7911a1ad9b833195",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27819665",
+      "published_utc": "2026-06-19T17:49:24Z",
+      "title_en": "Over the regions of the Russian Federation and the Black Sea, 50 Ukrainian UAVs were shot down in six hours",
+      "lead_en": "Air defense systems on duty were operating",
+      "title_raw": "Над регионами РФ и Черным морем за шесть часов сбили 50 украинских БПЛА",
+      "lead_raw": "Работали дежурные средства ПВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ddc71b0ed505a462eb36416310ef4cc4013c7471",
+      "fingerprint": "81aa9f55b895a71b52a2ba112e8c36b42409f2ab",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819649",
+      "published_utc": "2026-06-19T17:48:43Z",
+      "title_en": "Penza airport opened for international flights",
+      "lead_en": "The order was signed by Russian Prime Minister Mikhail Mishustin",
+      "title_raw": "Аэропорт Пензы открыли для международных рейсов",
+      "lead_raw": "Распоряжение подписал председатель правительства России Михаил Мишустин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5f77fddc50a8e084c2dc3bd55a24e0f7ab01a6c4",
+      "fingerprint": "a9874f5250b92d8a43d184f6b1ef171aec8228cd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27819661",
+      "published_utc": "2026-06-19T17:48:31Z",
+      "title_en": "Fighter Shlemenko defeated Dipchikov at a tournament in Omsk",
+      "lead_en": "In the second round, the Russian performed a choke hold",
+      "title_raw": "Боец Шлеменко победил Дипчикова на турнире в Омске",
+      "lead_raw": "Во втором раунде россиянин провел удушающий прием",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b62dad284b455c15dfdb6728589212891ac42f7c",
+      "fingerprint": "ca7bd6e979590c310a2acaa33bb271c1763d84ec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819639",
+      "published_utc": "2026-06-19T17:46:43Z",
+      "title_en": "Ministry of Economic Development: the number of SMEs in Russia has reached 7 million",
+      "lead_en": "This is the maximum figure since 2016, said Alexander Sitnikov, representative of the Russian Ministry of Economic Development in India.",
+      "title_raw": "Минэкономразвития: число субъектов МСП в России достигло 7 млн",
+      "lead_raw": "Это является максимальным показателем с 2016 года, заявил представитель Министерства экономического развития России в Индии Александр Ситников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "544ef9506cb213015cac2f9d86b1d9f4d4890672",
+      "fingerprint": "c263d3d0092a9107be0d0aa1690ef8dc88c18dfe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819621",
+      "published_utc": "2026-06-19T17:39:37Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "The yuan exchange rate increased by 1 kopeck",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Курс юаня вырос на 1 копейку",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9e791dfa5d8f4088494314a291c5e3687cdb2e74",
+      "fingerprint": "9551730e4bff3273c1ba9d27c8a9cc0bcd28d15d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2149143",
+      "published_utc": "2026-06-19T17:36:45Z",
+      "title_en": "Russia increases mineral fertilizer exports by 7% YTD — Agriculture Ministry",
+      "lead_en": "Brazil is the top buyer of Russian mineral fertilizers",
+      "title_raw": "Russia increases mineral fertilizer exports by 7% YTD — Agriculture Ministry",
+      "lead_raw": "Brazil is the top buyer of Russian mineral fertilizers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "57ff365e4670efc507e63e3b45b436b9ad4917dc",
+      "fingerprint": "19c8ae60aaf8526c1aa84bc3b1d0a0b3579b1bba",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149141",
+      "published_utc": "2026-06-19T17:35:45Z",
+      "title_en": "Russia to continue to support Cuba, help republic — ambassador",
+      "lead_en": "Viktor Coronelli said that Russia is looking for every opportunity to support Cuba politically and provide all possible financial assistance",
+      "title_raw": "Russia to continue to support Cuba, help republic — ambassador",
+      "lead_raw": "Viktor Coronelli said that Russia is looking for every opportunity to support Cuba politically and provide all possible financial assistance",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ebcf60e496b3181fb17d7328cf3afa1242f29415",
+      "fingerprint": "783dd7bd5d497ff33ab98bbd7a5520740608ca07",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819545",
+      "published_utc": "2026-06-19T17:31:02Z",
+      "title_en": "ATOR: Russian demand for tours to the UAE may recover by 50-60% by August",
+      "lead_en": "However, the market is unlikely to be able to reach the 2025 levels, the Association of Tour Operators of Russia reported.",
+      "title_raw": "АТОР: спрос россиян на туры в ОАЭ к августу может восстановиться на 50-60%",
+      "lead_raw": "Однако выйти на показатели 2025 года рынку уже вряд ли удастся, сообщили в Ассоциации туроператоров России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "96e910bc44e31cfc1b39cdb7e308882784506306",
+      "fingerprint": "6f6332fe78205dfdf357443e8e9f2cbbf8409d2b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819501",
+      "published_utc": "2026-06-19T17:17:38Z",
+      "title_en": "Russia will introduce an 8% export duty on diamonds from September 1",
+      "lead_en": "It applies to rough diamonds weighing from 0.45 carats to 10.8 carats and diamonds of special sizes",
+      "title_raw": "Россия с 1 сентября введет экспортную пошлину на алмазы в размере 8%",
+      "lead_raw": "Она распространяется на необработанные алмазы массой от 0,45 карата до 10,8 карата и алмазы специальных размеров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f14b703871da02696fc6078892dd7a4faf0dee12",
+      "fingerprint": "8de21be26c4869166aa021a4ee80f6b222d70ace",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2149137",
+      "published_utc": "2026-06-19T17:14:45Z",
+      "title_en": "Vietnam, Russia discuss future of cooperation in Kazan — Vietnam’s Foreign Ministry",
+      "lead_en": "Le Hoai Trung noted that Russia provided a \"particularly warm welcome\" to the Vietnamese delegation",
+      "title_raw": "Vietnam, Russia discuss future of cooperation in Kazan — Vietnam’s Foreign Ministry",
+      "lead_raw": "Le Hoai Trung noted that Russia provided a \"particularly warm welcome\" to the Vietnamese delegation",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3b8be6011a8499f344fb7a6acba530dc818cc8a1",
+      "fingerprint": "1a7dbc41f95ef0725bd33777094f93ab84810de6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27819351",
+      "published_utc": "2026-06-19T17:03:13Z",
+      "title_en": "Tusk: Europe does not want to ask the Russian Federation for negotiations on Ukraine for fear of losing",
+      "lead_en": "The Polish Prime Minister also confirmed that during a closed discussion of such negotiations at the EU summit he spoke out sharply against their conduct by a narrow group of countries, for example France and Germany, on behalf of the entire community",
+      "title_raw": "Туск: в Европе не хотят просить РФ о переговорах по Украине из-за боязни проиграть",
+      "lead_raw": "Польский премьер также подтвердил, что в ходе закрытого обсуждения таких переговоров на саммите ЕС выступил резко против их ведения узкой группой стран, например Францией и Германией, от имени всего сообщества",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d19c2572f4b7944dabb406718b01450c14e02f92",
+      "fingerprint": "1f7c8f2df931ef55557a62ebd7e3f66eb5ca86e6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27819313",
+      "published_utc": "2026-06-19T17:00:27Z",
+      "title_en": "Zelensky made new threats against Belarus",
+      "lead_en": "Vladimir Zelensky said that he is ready to give the order to attack the equipment, which, according to him, is located on Belarusian territory along the border with Ukraine, if it is not removed from there within a week",
+      "title_raw": "Зеленский выступил с новыми угрозами в адрес Белоруссии",
+      "lead_raw": "Владимир Зеленский заявил, что готов отдать приказ атаковать технику, которая, по его словам, расположена на белорусской территории вдоль границы с Украиной, если в течение недели ее оттуда не уберут",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e17573d99092c0284ae429c970b0fd044af86980",
+      "fingerprint": "ba34e5229e611f861feca5a72f4d2e20a1ec50ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27819319",
+      "published_utc": "2026-06-19T16:56:42Z",
+      "title_en": "The Cabinet of Ministers approved the rules for the transfer of genetic data outside the Russian Federation",
+      "lead_en": "A commission has also been formed that will regulate these issues.",
+      "title_raw": "Кабмин утвердил правила передачи генетических данных за пределы РФ",
+      "lead_raw": "Также образована комиссия, которая будет регулировать эти вопросы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b572ef2297989de355f8808e6eeb04e74b9446ea",
+      "fingerprint": "eb8842ff29e4e7218aab4d3eed897d7b1def322a",
+      "source": "RT",
+      "url": "https://www.rt.com/news/641830-asean-russia-not-isolated",
+      "published_utc": "2026-06-19T16:47:39Z",
+      "title_en": "Russia isn’t isolated – ASEAN has just proved it",
+      "lead_en": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
+      "title_raw": "Russia isn’t isolated – ASEAN has just proved it",
+      "lead_raw": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "27ec74ddd0f13b89c3f1a19e2f6d4ae4f3232330",
+      "fingerprint": "dea06c39bfacb29117fa4e365ab5ac5f33b73924",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2149129",
+      "published_utc": "2026-06-19T16:43:30Z",
+      "title_en": "Media jumping the gun reporting US-Israel rift , Russian expert says",
+      "lead_en": "As Sergey Lebedev noted, the office of Israeli Prime Minister Benjamin Netanyahu has made it clear it does not intend to comply with the US-Iran agreement, particularly regarding Lebanon",
+      "title_raw": "Media jumping the gun reporting US-Israel rift , Russian expert says",
+      "lead_raw": "As Sergey Lebedev noted, the office of Israeli Prime Minister Benjamin Netanyahu has made it clear it does not intend to comply with the US-Iran agreement, particularly regarding Lebanon",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2b2afabc6a529f8f76a96135e27dc4056e629dd1",
+      "fingerprint": "326d1a8b826115113dbea05db386878e142bd0c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819281",
+      "published_utc": "2026-06-19T16:43:30Z",
+      "title_en": "Rosstat: in the Russian Federation, labor productivity increased by 1.7% in the first quarter",
+      "lead_en": "The highest growth was recorded in the activities of sea passenger transport and the activities of sea freight transport",
+      "title_raw": "Росстат: в РФ производительность труда в I квартале выросла на 1,7%",
+      "lead_raw": "Наиболее высокий рост зафиксирован в деятельности морского пассажирского транспорта и деятельность морского грузового транспорта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e328bf1d24d4611d4f7462ab786d9789690527e4",
+      "fingerprint": "078626721b7e34f3ca9f88ecc680a56421bf083f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27819271",
+      "published_utc": "2026-06-19T16:39:23Z",
+      "title_en": "Kozhevnikov set a Russian record and the best result of the season in the world in 10 km walking",
+      "lead_en": "The athlete set an achievement at the Russian Cup",
+      "title_raw": "Кожевников установил рекорд РФ и лучший результат сезона в мире в ходьбе на 10 км",
+      "lead_raw": "Спортсмен установил достижение на Кубке России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8b1686141491bac601364c6c21957ffce80fe7a1",
+      "fingerprint": "78a6445d88a1bec8efdfa9608fa7c4a8eac72320",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27819215",
+      "published_utc": "2026-06-19T16:35:06Z",
+      "title_en": "The Estonian Minister of Education gave part of her speech at the gymnasium in Russian",
+      "lead_en": "Kristina Kallas thanked the parents and grandparents who supported the transition to teaching their children in Estonian",
+      "title_raw": "Министр образования Эстонии произнесла часть речи в гимназии на русском языке",
+      "lead_raw": "Кристина Каллас поблагодарила родителей, бабушек и дедушек, которые поддержали переход на обучение своих детей на эстонском языке",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "14a942582e47cd2f55ce9adc850b4512566725fa",
+      "fingerprint": "226b69ebd8cec29d2d8734ebec962ab3e72b6be4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149121",
+      "published_utc": "2026-06-19T16:28:46Z",
+      "title_en": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
+      "lead_en": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
+      "title_raw": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
+      "lead_raw": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ff847fce63d8558c693bba0e1efc4804be7afec3",
+      "fingerprint": "d0265f7c018385d2948da5e744a56878e421a4a2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2149119",
+      "published_utc": "2026-06-19T16:22:54Z",
+      "title_en": "Bank of Russia to revise key rate forecast in July",
+      "lead_en": "Central Bank chief Elvira Nabiullina believes there will be more certainty in this regard by the next meeting",
+      "title_raw": "Bank of Russia to revise key rate forecast in July",
+      "lead_raw": "Central Bank chief Elvira Nabiullina believes there will be more certainty in this regard by the next meeting",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0bc1b7623854bb3313d630197ca85dff991300ae",
+      "fingerprint": "55de323d7512e65ed72795647ac647e37d2eef51",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/19/russia-went-from-world-cup-host-to-football-outcast-or-did-it-a93058",
+      "published_utc": "2026-06-19T16:21:00Z",
+      "title_en": "Russia Went From World Cup Host to Football Outcast. Or Did It?",
+      "lead_en": "As Russia misses another World Cup, its players continue to find opportunities abroad and officials are quietly discussing a return to international football.",
+      "title_raw": "Russia Went From World Cup Host to Football Outcast. Or Did It?",
+      "lead_raw": "As Russia misses another World Cup, its players continue to find opportunities abroad and officials are quietly discussing a return to international football.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "47ce665ed809e4c5e766420a9f4f9776101b5d05",
+      "fingerprint": "9b48c80fdf439fe254c3973f4e3ea87b3ebfd435",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2149117",
+      "published_utc": "2026-06-19T16:16:51Z",
+      "title_en": "Costa confirms he tried to establish diplomatic contacts with Russia",
+      "lead_en": "The European Council president stressed that he only intends to defend the interests of the EU",
+      "title_raw": "Costa confirms he tried to establish diplomatic contacts with Russia",
+      "lead_raw": "The European Council president stressed that he only intends to defend the interests of the EU",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7c99aafaa14c948ace6abf4af01ef517c414b374",
+      "fingerprint": "5a19367ba72b25ce9acd230a7e09085c212a2423",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819083",
+      "published_utc": "2026-06-19T16:12:20Z",
+      "title_en": "MAYOR: business actively uses Max for promotion and advertising",
+      "lead_en": "“Platformization of the economy” is becoming an important trend in Russia, said the agency’s representative in India, Alexander Sitnikov.",
+      "title_raw": "МЭР: бизнес активно использует \"Макс\" для продвижения и рекламы",
+      "lead_raw": "Важным трендом в России становится \"платформизация экономики\", указал представитель ведомства в Индии Александр Ситников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "91425c60b76e6932540d0d26671ad7aa7c49901a",
+      "fingerprint": "fe92c72c4239ac934ddb6c82f1d473150d1ad499",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27819059",
+      "published_utc": "2026-06-19T16:08:55Z",
+      "title_en": "Ministry of Economic Development: the volume of trade between the Russian Federation and the BRICS countries is stable",
+      "lead_en": "The representative of the Russian Ministry of Economic Development in India, Alexander Sitnikov, noted that the countries of the association play a particularly important role as trading partners of Russia",
+      "title_raw": "Минэкономразвития: объем торговли РФ и стран БРИКС стабилен",
+      "lead_raw": "Представитель Министерства экономического развития России в Индии Александр Ситников отметил, что страны объединения играют особенно важную роль в качестве торговых партнеров России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4788e1a7ef3e669ad2f90dc19aacd6672e47a51e",
       "fingerprint": "9d2e2d81ada366e43be9d4fc86b7c95e8580cb25",
@@ -8975,1563 +9625,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "3e49f9342cbc982e37166e11f4031c0a0eb12941",
-      "fingerprint": "197d3e829d763e276a0a880ef741509e8cc1e91b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/17/a-russian-deserter-crossed-into-lithuania-without-a-passport-and-asked-for-asylum-lithuania-sent-him-to-kaliningrad-where-russia-arrested-him",
-      "published_utc": "2026-06-17T18:50:51Z",
-      "title_en": "A Russian deserter crossed into Lithuania without a passport and asked for asylum. Lithuania sent him to Kaliningrad, where Russia arrested him.",
-      "lead_en": "Lithuanian authorities deported a Russian military deserter to Kaliningrad on June 15 after he fled the front lines in Ukraine, the Slovo Zashchite project reported. Russian authorities arrested him after he crossed the border into Russia, and his fate remains unknown.",
-      "title_raw": "A Russian deserter crossed into Lithuania without a passport and asked for asylum. Lithuania sent him to Kaliningrad, where Russia arrested him.",
-      "lead_raw": "Lithuanian authorities deported a Russian military deserter to Kaliningrad on June 15 after he fled the front lines in Ukraine, the Slovo Zashchite project reported. Russian authorities arrested him after he crossed the border into Russia, and his fate remains unknown.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5e658b5a91e1434d933f0ba3110529c799f70341",
-      "fingerprint": "664a79d39ef07d01bb7950e6ef0e0e9cde446357",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147999",
-      "published_utc": "2026-06-17T18:48:40Z",
-      "title_en": "Russian-Turkish relations on the rise — Putin",
-      "lead_en": "According to the Russian president, the contacts between both countries have long stopped being purely formal",
-      "title_raw": "Russian-Turkish relations on the rise — Putin",
-      "lead_raw": "According to the Russian president, the contacts between both countries have long stopped being purely formal",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e8a9a425872fe78457d0d997c8f1e1452534223d",
-      "fingerprint": "3cfb62e6a34a19305562b0b1fd76b9162fdbdd14",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147997",
-      "published_utc": "2026-06-17T18:44:26Z",
-      "title_en": "Moscow appreciates Malaysia’s support of Russia's partnership with ASEAN, Putin says",
-      "lead_en": "The Russian president added that he was pleased to welcome the Malaysian delegation to Russia to participate in the summit",
-      "title_raw": "Moscow appreciates Malaysia’s support of Russia's partnership with ASEAN, Putin says",
-      "lead_raw": "The Russian president added that he was pleased to welcome the Malaysian delegation to Russia to participate in the summit",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7bdf5376ed43fde1cd024723e15247f2e6df025c",
-      "fingerprint": "121dcf28d3c0f7f63bacbe1fec4879e895d431a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27792195",
-      "published_utc": "2026-06-17T18:43:55Z",
-      "title_en": "Dmitriev: Russia is expecting a delegation from the United States in the near future",
-      "lead_en": "There is no exact date yet",
-      "title_raw": "Дмитриев: Россия ждет делегацию из США в ближайшее время",
-      "lead_raw": "Точной даты пока нет",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5fa060437ffc3f73affdcaaabc697da97146951b",
-      "fingerprint": "fc0084dbe2854295268068bfd1721df7cb1fcf6f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27791633",
-      "published_utc": "2026-06-17T18:43:36Z",
-      "title_en": "In Kazan, tourists wished Putin health and happiness",
-      "lead_en": "On June 17, before the start of bilateral meetings on the sidelines of the Russia-ASEAN summit, accompanied by the head of Tatarstan Rustam Minnikhanov, he visited the Annunciation Cathedral of the Kazan Kremlin and the Kul-Sharif Mosque",
-      "title_raw": "В Казани туристы пожелали Путину здоровья и счастья",
-      "lead_raw": "Президент России 17 июня перед началом двусторонних встреч на полях саммита РФ - АСЕАН в сопровождении главы Татарстана Рустама Минниханова посетил Благовещенский собор Казанского Кремля и мечеть Кул-Шариф",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c2ddc4c816630d68369f3bc4b02b56b994955ba2",
-      "fingerprint": "24516fa7f566b10a69e603e8c0e6fa5c57a313d0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147993",
-      "published_utc": "2026-06-17T18:42:31Z",
-      "title_en": "Putin calls Malaysia Russia’s reliable partner in Asia-Pacific region",
-      "lead_en": "The US leader said the next year marks the 60th anniversary of the establishment of diplomatic relations between the two nations",
-      "title_raw": "Putin calls Malaysia Russia’s reliable partner in Asia-Pacific region",
-      "lead_raw": "The US leader said the next year marks the 60th anniversary of the establishment of diplomatic relations between the two nations",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "17ff69ef9c1cce5cc5903857427ddbdcf5f6435b",
-      "fingerprint": "b55e46d1846d6ae0b8da480ed00fc9bcfbf773ad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147991",
-      "published_utc": "2026-06-17T18:38:23Z",
-      "title_en": "Putin receives Turkish Foreign Minister Hakan Fidan",
-      "lead_en": "As Russian Presidential Aide Yury Ushakov said earlier, Hakan Fidan asked for a meeting with the Russian leader, and his request was granted",
-      "title_raw": "Putin receives Turkish Foreign Minister Hakan Fidan",
-      "lead_raw": "As Russian Presidential Aide Yury Ushakov said earlier, Hakan Fidan asked for a meeting with the Russian leader, and his request was granted",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bc80a7dfbfadd453a205bba87a27f3347d7230cb",
-      "fingerprint": "06ba21d1754b74a755a3bd18239b4ffe1a1d02a9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27792103",
-      "published_utc": "2026-06-17T18:33:13Z",
-      "title_en": "Fidan admired the building of the Kamala Theater in Kazan",
-      "lead_en": "The Turkish Foreign Minister noted the importance of the Russia-ASEAN summit being held in the capital of Tatarstan",
-      "title_raw": "Фидан восхитился зданием театра Камала в Казани",
-      "lead_raw": "Глава МИД Турции отметил важность проводимого в столице Татарстана саммита Россия - АСЕАН",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "74cfbd1457fd7313a4fed3172f7a64e8e232bfa2",
-      "fingerprint": "c48b7d5d038ae73859d876d69737cda10e7a70f7",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/17/putin-leaves-moscow-and-st-petersburg-for-the-first-time-in-seven-months-to-stage-a-walkabout-in-kazan",
-      "published_utc": "2026-06-17T18:31:29Z",
-      "title_en": "Putin leaves Moscow and St. Petersburg for the first time in seven months — to stage a walkabout in Kazan",
-      "lead_en": "Russian President Vladimir Putin arrived in Kazan on June 17 for a two-day visit to attend the Russia–ASEAN summit — his first trip outside Moscow and St. Petersburg in seven months, according to the independent Russian political newsletter Faridaily.",
-      "title_raw": "Putin leaves Moscow and St. Petersburg for the first time in seven months — to stage a walkabout in Kazan",
-      "lead_raw": "Russian President Vladimir Putin arrived in Kazan on June 17 for a two-day visit to attend the Russia–ASEAN summit — his first trip outside Moscow and St. Petersburg in seven months, according to the independent Russian political newsletter Faridaily.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4a7fdf415ed08906b867da0a6d792c2cb17e33f6",
-      "fingerprint": "8bd4a260640542ec17a4e60d333ab8e00ba9f694",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27792055",
-      "published_utc": "2026-06-17T18:27:55Z",
-      "title_en": "Russian foil fencer Penyushkina became bronze medalist at the European Championship",
-      "lead_en": "In the semi-finals the athlete lost to Italian Arianna Errigo",
-      "title_raw": "Российская рапиристка Пенюшкина стала бронзовым призером чемпионата Европы",
-      "lead_raw": "В полуфинале спортсменка проиграла итальянке Арианне Эрриго",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7e267172138be86a8282f790ceb0a2d31b2619d7",
-      "fingerprint": "255c35ba7675a308d17411f86b40187e4ed54aab",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27791799",
-      "published_utc": "2026-06-17T18:09:53Z",
-      "title_en": "Daniil Medvedev reached the quarterfinals of the tennis tournament in Halle",
-      "lead_en": "In the second round the Russian will play with the German Daniel Altmaier",
-      "title_raw": "Даниил Медведев вышел в четвертьфинал теннисного турнира в Галле",
-      "lead_raw": "Во втором круге россиянин сыграет с немцем Даниэлем Альтмайером",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9a8963c4ca5031a20323f7d44b9e32dc18b788c5",
-      "fingerprint": "eb9f09c2b094935f3d5da3e303bda5206c6d7e70",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2147969",
-      "published_utc": "2026-06-17T18:08:07Z",
-      "title_en": "Russia, Malaysia boost trade turnover by 12.9% in 2025 — Putin",
-      "lead_en": "The Russian president said it is a good result",
-      "title_raw": "Russia, Malaysia boost trade turnover by 12.9% in 2025 — Putin",
-      "lead_raw": "The Russian president said it is a good result",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5a16b1fd7c2832a536e978b78cca4329a305bcb4",
-      "fingerprint": "235acd796bc8c39a68e67fa582da09b62dd402fe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791769",
-      "published_utc": "2026-06-17T18:05:15Z",
-      "title_en": "Fidan: Erdogan sends his best regards to Putin",
-      "lead_en": "The Turkish Foreign Minister met with the Russian leader on the sidelines of the Russia-ASEAN summit",
-      "title_raw": "Фидан: Эрдоган передает большой привет Путину",
-      "lead_raw": "Глава МИД Турции встретился с российским лидером на полях саммита Россия - АСЕАН",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a812564eae92151c54b221fb2ed6228cedab8424",
-      "fingerprint": "b300c2bc6115c76cee4b519507af97c5c165dac6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791737",
-      "published_utc": "2026-06-17T18:03:51Z",
-      "title_en": "Putin: contacts between the Russian Federation and Turkey have long ceased to be formal",
-      "lead_en": "Relations between Moscow and Ankara are friendly, the head of state noted",
-      "title_raw": "Путин: контакты между РФ и Турцией давно перестали быть формальными",
-      "lead_raw": "Отношения Москвы и Анкары носят дружеский характер, отметил глава государства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "20c6604eddffcf07a5717d4d035e97dcec11bcba",
-      "fingerprint": "51896e6b3e8c1a106c5749743abd7f0d6a268c0c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27791673",
-      "published_utc": "2026-06-17T18:03:30Z",
-      "title_en": "27 Ukrainian UAVs shot down over Russian regions",
-      "lead_en": "Air defense forces worked from 14:00 to 20:00 Moscow time",
-      "title_raw": "Над регионами России сбили 27 украинских БПЛА",
-      "lead_raw": "Силы ПВО работали с 14:00 до 20:00 мск",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2d7c1a7dc5f2c64c33826b8d508579de5ed52ec9",
-      "fingerprint": "c034915c877274fe35d78f280a4cd397183d93bf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791691",
-      "published_utc": "2026-06-17T18:02:01Z",
-      "title_en": "Putin said that Erdogan is always welcome in Russia",
-      "lead_en": "The head of state noted that he was glad to meet with Turkish Foreign Minister Hakan Fidan",
-      "title_raw": "Путин заявил, что Эрдогана всегда рады видеть в России",
-      "lead_raw": "Глава государства отметил, что рад встрече с министром иностранных дел Турции Хаканом Фиданом",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8c3f3a24e625dd30affe44bead0fdffc18965c2f",
-      "fingerprint": "72c5971e922fa8c72790fa1ea9c5dcd69ad39f70",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791655",
-      "published_utc": "2026-06-17T18:01:20Z",
-      "title_en": "Putin: relations between the Russian Federation and Turkey are developing upward",
-      "lead_en": "Contacts between Moscow and Ankara have long ceased to be formal, the head of state noted",
-      "title_raw": "Путин: отношения между РФ и Турцией развиваются по восходящей",
-      "lead_raw": "Контакты между Москвой и Анкарой давно перестали быть формальными, отметил глава государства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b939ee7d915d75223dc05a77e93da46b2f69aace",
-      "fingerprint": "a92d3331e860fdd68630bca467e89ae7ac28dcd2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791597",
-      "published_utc": "2026-06-17T17:59:13Z",
-      "title_en": "Lukashenko ordered the removal of Belarusian citizens from the Bryansk region",
-      "lead_en": "The President of Belarus said that two of them are in serious condition",
-      "title_raw": "Лукашенко поручил вывезти белорусских граждан из Брянской области",
-      "lead_raw": "Президент Белоруссии заявил, что двое из них находятся в тяжелом состоянии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4a77fede8471bd9f0697c244e87d72fff78ad3d9",
-      "fingerprint": "447845a1af414f2edaf10464e4c4aa64579d5554",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/06/17/a-decade-ago-russian-state-tv-turned-diana-shurygina-s-rape-case-into-a-talk-show-sensation-now-the-state-is-charging-her-with-distributing-pornography-through-onlyfans",
-      "published_utc": "2026-06-17T17:59:11Z",
-      "title_en": "A decade ago, Russian state TV turned Diana Shurygina’s rape case into a talk show sensation. Now the state is charging her with distributing pornography through OnlyFans.",
-      "lead_en": "Diana Shurygina became a public figure in 2017 when the Russian state-controlled television network Channel One devoted several episodes of its talk show Pust’ Govoryat (“Let Them Talk”) to her rape case, drawing enormous public attention.",
-      "title_raw": "A decade ago, Russian state TV turned Diana Shurygina’s rape case into a talk show sensation. Now the state is charging her with distributing pornography through OnlyFans.",
-      "lead_raw": "Diana Shurygina became a public figure in 2017 when the Russian state-controlled television network Channel One devoted several episodes of its talk show Pust’ Govoryat (“Let Them Talk”) to her rape case, drawing enormous public attention.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9846be5a975504def11eca1cac9a333bb8aa431d",
-      "fingerprint": "ef0066fc415af575a1ee89bedc8a791a185db5d6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791507",
-      "published_utc": "2026-06-17T17:53:57Z",
-      "title_en": "Putin: Moscow appreciates that Kuala Lumpur supports Russia’s partnership with ASEAN",
-      "lead_en": "According to the head of state, the countries are coordinating actions in other international formats, including the UN and BRICS",
-      "title_raw": "Путин: Москва ценит, что Куала-Лумпур поддерживает партнерство РФ с АСЕАН",
-      "lead_raw": "По словам главы государства, страны координируют действия и в других международных форматах, включая ООН и БРИКС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d7edf44efd032a8dd5800bfea488a6e7ee6ef6f1",
-      "fingerprint": "9c322901f0abc623fce1898438a096f7b79ba63a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27791395",
-      "published_utc": "2026-06-17T17:50:47Z",
-      "title_en": "In Kazan, “Beryozka” and a medley of Tatarstan songs were performed for guests from ASEAN",
-      "lead_en": "On behalf of Russian President Vladimir Putin, a gala reception was given in honor of foreign guests",
-      "title_raw": "В Казани для гостей из АСЕАН исполнили \"Березку\" и попурри песен Татарстана",
-      "lead_raw": "От имени президента РФ Владимира Путина в честь иностранных гостей дан торжественный прием",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c1b834950f18f42ffa24c98f1c4dc274e5236b32",
-      "fingerprint": "50b70b340fa0501dae8cb7f514a5403340b0052f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2147961",
-      "published_utc": "2026-06-17T17:50:34Z",
-      "title_en": "US would like to come to terms with Russia, China on reducing nuke arsenals — Trump",
-      "lead_en": "The US leader pointed out that the United States has the largest arsenal of nuclear weapons, followed by Russia in second, while China is actively building up its stockpiles",
-      "title_raw": "US would like to come to terms with Russia, China on reducing nuke arsenals — Trump",
-      "lead_raw": "The US leader pointed out that the United States has the largest arsenal of nuclear weapons, followed by Russia in second, while China is actively building up its stockpiles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0fe01d04d69b87054cf380671bfa0255a729e2d1",
-      "fingerprint": "3f52acc890bb1a2f446ba9e8fbefb52ff5240bff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791477",
-      "published_utc": "2026-06-17T17:47:56Z",
-      "title_en": "Putin called Malaysia a reliable partner of Russia in the Asia-Pacific region",
-      "lead_en": "The head of state noted that interaction between the two countries is invariably built on the principles of mutual respect and consideration of interests",
-      "title_raw": "Путин назвал Малайзию надежным партнером России в АТР",
-      "lead_raw": "Глава государства отметил, что взаимодействие двух стран неизменно выстраивается на основе принципов взаимного уважения и учета интересов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fad752c4af89df10da56d8fb8f1da6ea66f3e138",
-      "fingerprint": "e07937bae8f49a133f106edfedd2bcf9e89e4654",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147959",
-      "published_utc": "2026-06-17T17:46:53Z",
-      "title_en": "Putin meets with prime minister of Malaysia",
-      "lead_en": "The Kremlin highlighted that Malaysia is one of Russia's key partners in the Asia-Pacific region",
-      "title_raw": "Putin meets with prime minister of Malaysia",
-      "lead_raw": "The Kremlin highlighted that Malaysia is one of Russia's key partners in the Asia-Pacific region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "442e3e0c931099d695211a625f28deb91081a9e6",
-      "fingerprint": "399e24b7da7dc8ed96333d7895d3d89d732435d9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27791425",
-      "published_utc": "2026-06-17T17:45:46Z",
-      "title_en": "Drones of the Russian Armed Forces destroyed two Bucephalus armored personnel carriers of the Ukrainian Armed Forces",
-      "lead_en": "In total, the enemy lost more than 125 servicemen in the zone of responsibility of the Southern Group of Forces, the Russian Ministry of Defense reported.",
-      "title_raw": "Дроны ВС РФ уничтожили два бронетранспортера \"Буцефал\" ВСУ",
-      "lead_raw": "Всего в полосе ответственности Южной группировки войск противник потерял более 125 военнослужащих, сообщили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3933a2fb64e2b193058223c50d6703be4e45425a",
-      "fingerprint": "0d3e52c0d92cb08986c9aa93784480a2d89b4b45",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2147951",
-      "published_utc": "2026-06-17T17:44:19Z",
-      "title_en": "Trump thanks Putin, Xi for Russian, Chinese attitude to US war with Iran",
-      "lead_en": "According to the US president, everything could have been made \"much more difficult\", but it was neutral",
-      "title_raw": "Trump thanks Putin, Xi for Russian, Chinese attitude to US war with Iran",
-      "lead_raw": "According to the US president, everything could have been made \"much more difficult\", but it was neutral",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d6a2ba61726cfbb25b6f6ad8ffcca7b9455db2c3",
-      "fingerprint": "299d85a343ef5e3b4e905b9896e65fd668651cbc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27789767",
-      "published_utc": "2026-06-17T17:40:36Z",
-      "title_en": "VK: 45% of Russians surveyed fall asleep listening to videos",
-      "lead_en": "The average evening viewing time is 31 minutes, reported VK Video.",
-      "title_raw": "VK: 45% опрошенных россиян засыпают под видео",
-      "lead_raw": "Среднее время вечернего просмотра занимает 31 минуту, сообщили в \"VK Видео\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a1e2dd255907b4fc4524d91fdf5a600776088752",
-      "fingerprint": "71fa3846c2066f71b0a4dd2d86a68fd2d5916a7a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27791359",
-      "published_utc": "2026-06-17T17:39:08Z",
-      "title_en": "Prime Minister of Malaysia: the kingdom plans to develop air links with Russia",
-      "lead_en": "Anwar Ibrahim expects Russian leader Vladimir Putin to provide greater support for this issue",
-      "title_raw": "Премьер Малайзии: королевство планирует развивать авиасообщение с Россией",
-      "lead_raw": "Анвар Ибрагим рассчитывает, что российский лидер Владимир Путин окажет этому вопросу большую поддержку",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d3841ed969a07cbf5778562cc7b46e78edd06b00",
-      "fingerprint": "896fce2c3fc8ac6cc8b6bda19a6864c0a435c5f7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147953",
-      "published_utc": "2026-06-17T17:38:29Z",
-      "title_en": "Russia to continue special op in response to attack on bus with kids — Kremlin",
-      "lead_en": "The Ukrainian armed forces earlier used a fixed-wing drone to strike a bus carrying a Belarusian children's football team",
-      "title_raw": "Russia to continue special op in response to attack on bus with kids — Kremlin",
-      "lead_raw": "The Ukrainian armed forces earlier used a fixed-wing drone to strike a bus carrying a Belarusian children's football team",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "744538a814f22f4ab3a4676b12e8d1d79381be52",
-      "fingerprint": "87e5f5aa73410405f2bd7d174b0fc847cf7bd0a6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147947",
-      "published_utc": "2026-06-17T17:38:15Z",
-      "title_en": "Russia ready to continue active cooperation with ASEAN member states, says Putin",
-      "lead_en": "According to the Russian president, the goal is to strengthen the strategic partnership that benefits interests of ensuring the security, well-being and prosperity of the countries",
-      "title_raw": "Russia ready to continue active cooperation with ASEAN member states, says Putin",
-      "lead_raw": "According to the Russian president, the goal is to strengthen the strategic partnership that benefits interests of ensuring the security, well-being and prosperity of the countries",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "14ba01f42d0d1523ab119be0373367a759aa182b",
-      "fingerprint": "9c130915edbf22686fb318abaeaa2bb918cdb8f9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27791329",
-      "published_utc": "2026-06-17T17:37:59Z",
-      "title_en": "Putin venerated the shrine in the Annunciation Cathedral of the Kazan Kremlin",
-      "lead_en": "Then the Russian leader lit candles",
-      "title_raw": "Путин приложился к святыне в Благовещенском соборе Казанского Кремля",
-      "lead_raw": "Затем российский лидер поставил свечи",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9d7352b6dea973914d71adc27174aa4eab6288cf",
-      "fingerprint": "6cbb3c74340d918f055c34a6aed42c91a063938d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791341",
-      "published_utc": "2026-06-17T17:36:35Z",
-      "title_en": "Prime Minister of Malaysia: Russia has provided great support to Malaysia on the issue of energy supplies",
-      "lead_en": "Especially against the backdrop of the energy crisis, Anwar Ibrahim pointed out",
-      "title_raw": "Премьер Малайзии: РФ оказала большую поддержку Малайзии в вопросе энергопоставок",
-      "lead_raw": "Особенно на фоне энергетического кризиса, указал Анвар Ибрагим",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a244b3d44aa5fe779400210a1f54e4be6714ee99",
-      "fingerprint": "45d15eeb1984a5dfdd3cbfd24574082637eaf6dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791295",
-      "published_utc": "2026-06-17T17:35:56Z",
-      "title_en": "Prime Minister of Malaysia: Russia is important for Malaysia and ASEAN",
-      "lead_en": "Anwar Ibrahim announced Malaysia's readiness to develop cooperation in economics and finance",
-      "title_raw": "Премьер Малайзии: Россия имеет важное значение для Малайзии и АСЕАН",
-      "lead_raw": "Анвар Ибрагим заявил о готовности Малайзии развивать сотрудничество в экономике и финансах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7e9aa57a223140449b543997b9f3d42c2cef19d5",
-      "fingerprint": "b4d301dd941f01bf68c278943c3a59ed428551fb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147945",
-      "published_utc": "2026-06-17T17:35:01Z",
-      "title_en": "Putin opens Russia-ASEAN summit with welcome address",
-      "lead_en": "Addressing the esteemed delegations, the Russian president said that their presence \"convincingly illustrates the mutual desire of Russia and southeastern Asian nations to strengthen partnership\"",
-      "title_raw": "Putin opens Russia-ASEAN summit with welcome address",
-      "lead_raw": "Addressing the esteemed delegations, the Russian president said that their presence \"convincingly illustrates the mutual desire of Russia and southeastern Asian nations to strengthen partnership\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c643c662db782332ee891f21cfd36f597834b009",
-      "fingerprint": "13dcb55d2198b71de9454d498311d745643121aa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791273",
-      "published_utc": "2026-06-17T17:34:26Z",
-      "title_en": "Grushko: The West has turned the OSCE into an instrument of confrontation with Russia",
-      "lead_en": "Deputy Foreign Minister of the Russian Federation met with Swiss Foreign Minister Ignazio Cassis",
-      "title_raw": "Грушко: Запад превратил ОБСЕ в инструмент конфронтации с Россией",
-      "lead_raw": "Замглавы МИД РФ встретился с главой МИД Швейцарии Иньяцио Кассисом",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e2204a08c9df5ef02ca7ad8c3d722e180f90e72a",
-      "fingerprint": "2ae280f1792b661a3e7d5cb6f4353850c530a56b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2147941",
-      "published_utc": "2026-06-17T17:32:37Z",
-      "title_en": "Developments around Iran leading to Russia-ASEAN trade increase",
-      "lead_en": "Sergey Katyrin, head of the Russian Chamber of Commerce and Industry, noted that Russia and the ASEAN countries saw \"very strong growth in the first half of the year\"",
-      "title_raw": "Developments around Iran leading to Russia-ASEAN trade increase",
-      "lead_raw": "Sergey Katyrin, head of the Russian Chamber of Commerce and Industry, noted that Russia and the ASEAN countries saw \"very strong growth in the first half of the year\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "efd4e2e9c30c354442da8c42d979c28ffcda672b",
-      "fingerprint": "ca6926330a7f536184928d0554f2823eef14055f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791223",
-      "published_utc": "2026-06-17T17:28:19Z",
-      "title_en": "Prime Minister of Malaysia: Sultan Ibrahim considers Putin his friend",
-      "lead_en": "Anwar Ibrahim promised to convey greetings to the Supreme Ruler of Malaysia from the Russian leader",
-      "title_raw": "Премьер Малайзии: султан Ибрагим считает Путина своим другом",
-      "lead_raw": "Анвар Ибрагим обещал передать привет верховному правителю Малайзии от российского лидера",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ef1e6ffd4e9591b111b8188c4a7d8a4f9ab8a7fb",
-      "fingerprint": "5037d4bbf1692db8fb188849c141b31d4ebbd9e0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791193",
-      "published_utc": "2026-06-17T17:27:09Z",
-      "title_en": "Russian Foreign Ministry: The West has transferred hybrid activity on maritime communications to the Atlantic",
-      "lead_en": "Deputy Head of the Minister of Foreign Affairs Alexander Grushko emphasized that the Westerners, without any hesitation, are trying to reformat the legal framework for themselves in order to free up the hands of their security forces",
-      "title_raw": "МИД РФ: Запад перенес гибридную активность на морских коммуникациях в Атлантику",
-      "lead_raw": "Замглавы министра иностранных дел Александр Грушко подчеркнул, что западники без всякого стеснения пытаются переформатировать под себя правовую базу, с тем чтобы развязать руки своим силовикам",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "52ce9bd4833052799fc2d4fff73ffbe83f40e6ab",
-      "fingerprint": "87b51ea1f1ac8d05fcf01cfb1466e66fd724c28f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27791203",
-      "published_utc": "2026-06-17T17:26:49Z",
-      "title_en": "The Prime Minister of Malaysia thanked Putin and Minnikhanov for the reception at the Russia-ASEAN summit",
-      "lead_en": "Anwar Ibrahim said this during a conversation with the Russian leader",
-      "title_raw": "Премьер Малайзии поблагодарил Путина и Минниханова за прием на саммите Россия - АСЕАН",
-      "lead_raw": "Анвар Ибрагим сказал об этом в ходе беседы с российским лидером",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0bbff610d2f901890b75f4698caf4fdc60777614",
-      "fingerprint": "2cc6f4efa4b91bd5695a4a74a91c785d101ec80e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27790269",
-      "published_utc": "2026-06-17T17:26:03Z",
-      "title_en": "A gala reception on the occasion of Russia Day was held in Ho Chi Minh City",
-      "lead_en": "Russia and Vietnam, as noted by Consul General Timur Sadykov, have gone through many trials, destructive wars, hardships and suffering",
-      "title_raw": "В Хошимине прошел торжественный прием по случаю Дня России",
-      "lead_raw": "Россия и Вьетнам, как отметил генконсул Тимур Садыков, прошли через многие испытания, разрушительные войны, лишения и страдания",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cfa0341ae12b591995d3967fff939c5c96ab99a9",
-      "fingerprint": "dcc9de1471c3225592b9a3b7b5d416570e0257ec",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147937",
-      "published_utc": "2026-06-17T17:25:24Z",
-      "title_en": "Russia, ASEAN cooperation based on strong bonds of friendship — Putin",
-      "lead_en": "A ceremonial reception on behalf of the President of the Russian Federation Putin in honor of the attending heads of delegations is held today at the Galiaskar Kamal Tatar State Academic Theatre",
-      "title_raw": "Russia, ASEAN cooperation based on strong bonds of friendship — Putin",
-      "lead_raw": "A ceremonial reception on behalf of the President of the Russian Federation Putin in honor of the attending heads of delegations is held today at the Galiaskar Kamal Tatar State Academic Theatre",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "696d89d80e23d115f7aa78acc5bdbfe84d261e06",
-      "fingerprint": "37720fb309c914650ca1d3152ac0cf4f21aab3da",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27791159",
-      "published_utc": "2026-06-17T17:23:57Z",
-      "title_en": "Putin: Russia and Malaysia increased trade turnover by 12.9% in 2025",
-      "lead_en": "This is a good result, the Russian leader noted.",
-      "title_raw": "Путин: РФ и Малайзия в 2025 году нарастили товарооборот на 12,9%",
-      "lead_raw": "Это хороший результат, отметил российский лидер",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1382522f34225397298d1508ee77db2fc15f8188",
-      "fingerprint": "016aafb010c3a297283e32531aa7d948b7aa40f4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27791151",
-      "published_utc": "2026-06-17T17:23:39Z",
-      "title_en": "Putin asked to convey best wishes to the Supreme Ruler of Malaysia",
-      "lead_en": "During the meeting, the Russian leader noted the intensification of political dialogue between the two countries",
-      "title_raw": "Путин попросил передать наилучшие пожелания верховному правителю Малайзии",
-      "lead_raw": "Российский лидер во время встречи отметил активизацию политического диалога между двумя странами",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "64d64406b09a337077e44181593e74308ac0af43",
-      "fingerprint": "2bc0ced460871924be156cf8b53a083d2ca3f752",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27791103",
-      "published_utc": "2026-06-17T17:23:23Z",
-      "title_en": "Reshetnikov: the consequences of the crisis in the Strait of Hormuz will be felt for a long time",
-      "lead_en": "The recovery of economic growth rates will most likely be gradual, said the Minister of Economic Development of the Russian Federation",
-      "title_raw": "Решетников: последствия кризиса в Ормузском проливе будут еще долго ощущаться",
-      "lead_raw": "Восстановление темпов роста экономики, скорее всего, будет постепенным, заявил министр экономического развития РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "434100fa880ac0245dc0a48f27ae4b53a9da86a6",
-      "fingerprint": "5b3ffc7e562b7a0ad4f93645d416d928ceac5d8d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27791089",
-      "published_utc": "2026-06-17T17:21:07Z",
-      "title_en": "Reshetnikov: countries are interested in Russia’s participation in projects to create oil storage facilities",
-      "lead_en": "Some states are showing interest in purchasing Russian liquefied natural gas and oil, the Minister of Economic Development noted",
-      "title_raw": "Решетников: страны интересуются участием РФ в проектах создания нефтехранилищ",
-      "lead_raw": "Некоторые государства проявляют интерес к закупкам российского сжиженного природного газа и нефти, отметил министр экономического развития",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "edb48c3162dff9ec08b82017afcfb77b8f8136ae",
-      "fingerprint": "5ae29029608f9d4d9a6c889f9704727a9db76c89",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27791079",
-      "published_utc": "2026-06-17T17:20:39Z",
-      "title_en": "Reshetnikov: the opening of Hormuz will partially restore supply on the goods market",
-      "lead_en": "But for some goods for which the production process was disrupted, there are no prerequisites for a rapid increase in supply from the Gulf countries, said the Minister of Economic Development of the Russian Federation",
-      "title_raw": "Решетников: открытие Ормуза частично восстановит предложение на рынке товаров",
-      "lead_raw": "Но по некоторым товарам, по которым был нарушен производственный процесс, предпосылок для быстрого роста предложения из стран Персидского залива не просматривается, заявил министр экономического развития РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ef953f94f1bbe8d896b9c591dccc6b5ec5401d91",
-      "fingerprint": "b00f6971119deac800e5d71680f82a78e3a6866e",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641719-simonyan-putin-ai-china",
-      "published_utc": "2026-06-17T17:20:31Z",
-      "title_en": "RT editor-in-chief describes Putin’s ‘main trait’ (VIDEO)",
-      "lead_en": "Russian President Vladimir Putin may seem like a harsh man, but it’s not the case, Margarita Simonyan has said Read Full Article at RT.com",
-      "title_raw": "RT editor-in-chief describes Putin’s ‘main trait’ (VIDEO)",
-      "lead_raw": "Russian President Vladimir Putin may seem like a harsh man, but it’s not the case, Margarita Simonyan has said Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c9acd6dadc83b8829e226b48d490b8b7b6ca5e26",
-      "fingerprint": "e065ce219295526295e61075854cbc308f17a310",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27791065",
-      "published_utc": "2026-06-17T17:18:54Z",
-      "title_en": "Alexandrova lost to Sabalenko and failed to reach the quarter finals of the tournament in Berlin",
-      "lead_en": "The meeting ended with a score of 6:4, 6:4 in favor of the Belarusian tennis player",
-      "title_raw": "Александрова проиграла Соболенко и не смогла выйти в 1/4 финала турнира в Берлине",
-      "lead_raw": "Встреча завершилась со счетом 6:4, 6:4 в пользу белорусской теннисистки",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c0e8237dd08b5aa3ade444b5da1dee100e07d501",
-      "fingerprint": "033e7a685e93a946f330ed123083a07e7a0eb482",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147931",
-      "published_utc": "2026-06-17T17:17:03Z",
-      "title_en": "Putin begins Russia-ASEAN program with visit to church and mosque",
-      "lead_en": "The Russian leader visited the Annunciation Cathedral of the Kazan Kremlin and the Kul Sharif Mosque, accompanied by Tatarstan President Rustam Minnikhanov",
-      "title_raw": "Putin begins Russia-ASEAN program with visit to church and mosque",
-      "lead_raw": "The Russian leader visited the Annunciation Cathedral of the Kazan Kremlin and the Kul Sharif Mosque, accompanied by Tatarstan President Rustam Minnikhanov",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7693187a8cef9e29cd95055cbaaf4f94c44f9a0c",
-      "fingerprint": "6988e3ff8a4498aba5be46316eba2a733264a116",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790971",
-      "published_utc": "2026-06-17T17:13:39Z",
-      "title_en": "Beglov: Lyudmila Verbitskaya always fought for the Russian language",
-      "lead_en": "The head of the city clarified that St. Petersburg and Leningrad residents remember Verbitskaya as a significant scientist; she has done a lot for the Russian language, for its protection, development and promotion in the world",
-      "title_raw": "Беглов: Людмила Вербицкая всегда боролась за русский язык",
-      "lead_raw": "Глава города уточнил, что петербуржцы и ленинградцы помнят Вербицкую как значимого ученого, она много сделала для русского языка, для его защиты, развития и продвижения в мире",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7090b3832f2575558eec735c1cf9b4eb66a2e8cd",
-      "fingerprint": "c0b124b5825833557e1f374e349cb818b309a055",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27791001",
-      "published_utc": "2026-06-17T17:09:58Z",
-      "title_en": "At a reception in Kazan, foreign delegates were treated to Russian wines",
-      "lead_en": "The menu includes white Chardonnay and red Cabernet Sauvignon from the Divnomorskoe Estate winery.",
-      "title_raw": "На приеме в Казани иностранных делегатов угостили российскими винами",
-      "lead_raw": "В меню - белое \"Шардоне\" и красное \"Каберне совиньон\" винодельни \"Усадьба Дивноморское\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e11272e20051d3422fcdc68e32a7d822cbfdc4c4",
-      "fingerprint": "846eafbea117b6257b19886eb0fa109e8053c563",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147925",
-      "published_utc": "2026-06-17T17:07:59Z",
-      "title_en": "Ukrainian attack on bus carrying children was deliberate — Lavrov",
-      "lead_en": "The Russian foreign minister said this is absolutely typical of the Kiev regime",
-      "title_raw": "Ukrainian attack on bus carrying children was deliberate — Lavrov",
-      "lead_raw": "The Russian foreign minister said this is absolutely typical of the Kiev regime",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5da9848bd30ac4977a855dabeb2b591d5a78cb7d",
-      "fingerprint": "d077e9bcb4ee41966d61fa6c1c630bcb45a7f57e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2147923",
-      "published_utc": "2026-06-17T17:05:27Z",
-      "title_en": "North Korean delegation to attend journalists’ forum in Sochi for first time",
-      "lead_en": "The 30th All Russia Forum of Contemporary Journalism will take place in the Black Sea resort city of Sochi from August 25-31",
-      "title_raw": "North Korean delegation to attend journalists’ forum in Sochi for first time",
-      "lead_raw": "The 30th All Russia Forum of Contemporary Journalism will take place in the Black Sea resort city of Sochi from August 25-31",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f682b495f6253c509d5542fdb7a2512f42de1661",
-      "fingerprint": "1fb4b92262b0ca9a66450fbea2d92af4a9901668",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27790897",
-      "published_utc": "2026-06-17T17:04:39Z",
-      "title_en": "Expert Babaev: ASEAN considers the Russian Federation a stable energy supplier",
-      "lead_en": "Russian energy is in demand in the region, said the director of the Institute of China and Modern Asia of the Russian Academy of Sciences",
-      "title_raw": "Эксперт Бабаев: АСЕАН считает РФ стабильным поставщиком энергоносителей",
-      "lead_raw": "В регионе востребована российская энергетика, заявил директор Института Китая и современной Азии РАН",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1a36788267a4d8b7c16fc447fbfe585c03dacb42",
-      "fingerprint": "4b96b39290bcc49b9d0db2c27a3a17a1b30276f8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790907",
-      "published_utc": "2026-06-17T17:02:44Z",
-      "title_en": "Guests of the reception in Kazan were treated to Kystyby flatbread and Pavlova dessert.",
-      "lead_en": "The reception was organized on behalf of Russian President Vladimir Putin for the heads of foreign delegations",
-      "title_raw": "Гостей приема в Казани угостили лепешкой \"Кыстыбый\" и десертом \"Павлова\"",
-      "lead_raw": "Прием устроен от имени президента РФ Владимира Путина в часть глав иностранных делегаций",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "49ddb61241d9edaf26cdc88625b02571cb24e33d",
-      "fingerprint": "b75e310cc7b2278df6a94592691d6cc1768e5fb3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27790877",
-      "published_utc": "2026-06-17T17:01:44Z",
-      "title_en": "The Russian stock market closed with a decline in the main indices",
-      "lead_en": "The yuan exchange rate rose to 10.78 rubles",
-      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_raw": "Курс юаня вырос до 10,78 рубля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "526fa3372ab47b849a79d927ed9e6e70f136931a",
-      "fingerprint": "5c0fa1e14501b7f310ed68c46266ca18baf57712",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790869",
-      "published_utc": "2026-06-17T17:00:02Z",
-      "title_en": "“It will be warmer in Kazan.” Putin responded to a tourist from Murmansk with a smile",
-      "lead_en": "The head of state, before the start of bilateral meetings on the sidelines of the Russia-ASEAN summit, visited the Annunciation Cathedral of the Kazan Kremlin and the Kul-Sharif Mosque, where he talked with parishioners",
-      "title_raw": "\"В Казани потеплее будет\". Путин с улыбкой отреагировал на туристку из Мурманска",
-      "lead_raw": "Глава государства перед началом двусторонних встреч на полях саммита РФ - АСЕАН посетил Благовещенский собор Казанского кремля и мечеть Кул-Шариф, где пообщался с прихожанами",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "616e15e6a7849cc1cdd86669acc5109e085a6843",
-      "fingerprint": "ec599409cbfad70b32edd69a8a7bf8b31ece062a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/06/17/its-like-winning-at-roulette-war-quotas-squeeze-russian-students-out-of-free-university-spots-a93035",
-      "published_utc": "2026-06-17T17:00:00Z",
-      "title_en": "'It's Like Winning at Roulette': War Quotas Squeeze Russian Students Out of Free University Spots",
-      "lead_en": "Students say university admissions quotas for soldiers and their families are making state-funded places harder to win on merit alone.",
-      "title_raw": "'It's Like Winning at Roulette': War Quotas Squeeze Russian Students Out of Free University Spots",
-      "lead_raw": "Students say university admissions quotas for soldiers and their families are making state-funded places harder to win on merit alone.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "817881b898bb091145d7f2f38412ed9273327fc3",
-      "fingerprint": "6374eb5e91757e74b85ef3b423dcaa7f610aa967",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147919",
-      "published_utc": "2026-06-17T16:59:20Z",
-      "title_en": "Russia, ASEAN jointly advocate for fair world order — Putin",
-      "lead_en": "The head of state added that Russia and ASEAN nations share common moral values, respect each other’s national identity, and recognize the world’s cultural and civilizational diversity",
-      "title_raw": "Russia, ASEAN jointly advocate for fair world order — Putin",
-      "lead_raw": "The head of state added that Russia and ASEAN nations share common moral values, respect each other’s national identity, and recognize the world’s cultural and civilizational diversity",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3ea1480926f328a7fee2d1f329fc0c2c2c7216c1",
-      "fingerprint": "f62d09b9b3afc78a1d36d933015003d7d205b656",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790847",
-      "published_utc": "2026-06-17T16:58:45Z",
-      "title_en": "Guests of the Russia-ASEAN summit in Kazan were greeted with Tatar songs",
-      "lead_en": "A gala reception was organized at the Tatar State Academic Theater named after Galiasgar Kamal on behalf of Russian President Vladimir Putin",
-      "title_raw": "Гостей саммита Россия - АСЕАН в Казани встретили татарскими песнями",
-      "lead_raw": "В Татарском государственном академическом театре имени Галиасгара Камала организован торжественный прием от имени президента России Владимира Путина",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c8c1d570eeaa038333706fb14defd3923f935015",
-      "fingerprint": "121d1cd043e9bfdeccb42911cc142f8b57c19da8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27790669",
-      "published_utc": "2026-06-17T16:57:37Z",
-      "title_en": "Putin greeted participants in the Russian-ASEAN summit in Russia",
-      "lead_en": "The President noted that such a representative composition of participants “convincingly demonstrates the mutual desire of Russia and the states of Southeast Asia to strengthen the partnership, to bring it to a new and even more advanced level.”",
-      "title_raw": "Путин поприветствовал в России участников саммита РФ - АСЕАН",
-      "lead_raw": "Президент отметил, что такой представительный состав участников \"убедительно свидетельствует о взаимном стремлении России и государств Юго-Восточной Азии к укреплению партнерства, к тому, чтобы вывести его на новый и еще более продвинутый уровень\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e4994c74c1a59b52f0760baa5289598c849816c6",
-      "fingerprint": "be0cb5127e250ec49566f03bd3d3c66a5002df51",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2147917",
-      "published_utc": "2026-06-17T16:57:01Z",
-      "title_en": "Air Tanzania confirms start of direct flights between Tanzania, Russia",
-      "lead_en": "Flights will be made three times per week",
-      "title_raw": "Air Tanzania confirms start of direct flights between Tanzania, Russia",
-      "lead_raw": "Flights will be made three times per week",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9268a447e5faaa6e816f795b509299e40537ecb5",
-      "fingerprint": "9816d5629c616b626aecb6b54e60b43220545a54",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790579",
-      "published_utc": "2026-06-17T16:53:29Z",
-      "title_en": "TASS: The Ukrainian Armed Forces are transferring equipment and special forces towards Moldova",
-      "lead_en": "They can organize a provocation against Russian military personnel and peacekeepers in Transnistria, Russian security forces said",
-      "title_raw": "ТАСС: ВСУ перебрасывают технику и спецподразделения в сторону Молдавии",
-      "lead_raw": "Они могут организовать провокацию в отношении российских военнослужащих и миротворцев в Приднестровье, рассказали в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f6b70d738dc80c88839fee9897e8e897a28fb5f3",
-      "fingerprint": "b1b8d4560ef1c9be63681ce3b19b0171d9ee6170",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147915",
-      "published_utc": "2026-06-17T16:53:15Z",
-      "title_en": "Putin welcomes heads of delegations at Russia-ASEAN summit reception",
-      "lead_en": "The event officially marked the opening of the anniversary summit",
-      "title_raw": "Putin welcomes heads of delegations at Russia-ASEAN summit reception",
-      "lead_raw": "The event officially marked the opening of the anniversary summit",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "74f1fa8939c6c988a8f2b0e68933036a3f0ae637",
-      "fingerprint": "0a0aeac5fadd8165b4ca2bd648421ff03f75b8ed",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641708-eu-targets-russia-dialogue-kartheiser",
-      "published_utc": "2026-06-17T16:52:17Z",
-      "title_en": "‘Surreal’: EU targets Russia dialogue while seeking peace talk role – MEP (VIDEO)",
-      "lead_en": "Luxembourg MEP Fernand Kartheiser has described as “surreal” a reported European Parliament inquiry into his contacts with Russia Read Full Article at RT.com",
-      "title_raw": "‘Surreal’: EU targets Russia dialogue while seeking peace talk role – MEP (VIDEO)",
-      "lead_raw": "Luxembourg MEP Fernand Kartheiser has described as “surreal” a reported European Parliament inquiry into his contacts with Russia Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cd32d5b0a3376c4fe6f8a9327b13679958fcf731",
-      "fingerprint": "2a4584cd18c701f59a7d6522c31170155e7ce66a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790621",
-      "published_utc": "2026-06-17T16:50:37Z",
-      "title_en": "TASS: Ukraine is trying to destabilize the situation on the border with Belarus",
-      "lead_en": "Russian security forces drew attention to the fact that earlier the Commander-in-Chief of the Armed Forces of Ukraine, Alexander Syrsky, announced “strengthening the defense of the state border in the northern direction” through new UAV units",
-      "title_raw": "ТАСС: Украина пытается дестабилизировать обстановку на границе с Белоруссией",
-      "lead_raw": "В российских силовых структурах обратили внимание на то, что ранее главком ВСУ Александр Сырский заявил \"об усиления обороны государственной границы на северном направлении\" за счет новых подразделений БПЛА",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2139487b375eccdc2520dfebc3611e64add8272d",
-      "fingerprint": "dc7e3bd5a07097226554b9ad08d5dad46a3996c3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27790689",
-      "published_utc": "2026-06-17T16:48:28Z",
-      "title_en": "US journalist Owens said that no one will force her to hate Russia",
-      "lead_en": "The political commentator previously reported that she and her husband plan to apply for a long-term visa in the near future in order to regularly come to the Russian Federation",
-      "title_raw": "Журналистка из США Оуэнс заявила, что никто не заставит ее ненавидеть Россию",
-      "lead_raw": "Политический комментатор ранее сообщала, что вместе с мужем планирует в ближайшее время подать документы на долгосрочную визу, чтобы регулярно приезжать в РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a815241fa0347b65fca06f29f27418340d4d4d43",
-      "fingerprint": "0bc2aaab348d1ba3f5ebec51a259ad034651dcfc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27790697",
-      "published_utc": "2026-06-17T16:47:56Z",
-      "title_en": "Air Tanzania has officially confirmed the launch of direct flights between Tanzania and the Russian Federation",
-      "lead_en": "The flight duration from Moscow to Zanzibar will be about 8.5 hours",
-      "title_raw": "Air Tanzania официально подтвердила запуск прямых рейсов между Танзанией и РФ",
-      "lead_raw": "Продолжительность перелета из Москвы на Занзибар составит около 8,5 часа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "48bc216f001720822e8ba7a9d2c27252fcaa0f3d",
-      "fingerprint": "30e428a8b5d94644e491d62942c70f18f2a9ec25",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147905",
-      "published_utc": "2026-06-17T16:34:06Z",
-      "title_en": "Russia-ASEAN summit gathered global majority, unlike G7 summit in France — expert",
-      "lead_en": "Kirill Babayev emphasized that the global majority advocates for a multipolar world, recognizing that the majority of the global GDP and technological innovation now stems from Asian nations",
-      "title_raw": "Russia-ASEAN summit gathered global majority, unlike G7 summit in France — expert",
-      "lead_raw": "Kirill Babayev emphasized that the global majority advocates for a multipolar world, recognizing that the majority of the global GDP and technological innovation now stems from Asian nations",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "337f6c06abdad2deef7dec42d1eb49762f5239c0",
-      "fingerprint": "ac0d656de2e1871788073b47f0e447abd75aaad4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147897",
-      "published_utc": "2026-06-17T16:31:11Z",
-      "title_en": "Russia, Brunei have high potential in tourism — Putin",
-      "lead_en": "The strategic partnership between Russia and ASEAN is the stabilizing factor in the Asia-Pacific Region, the Russian president added",
-      "title_raw": "Russia, Brunei have high potential in tourism — Putin",
-      "lead_raw": "The strategic partnership between Russia and ASEAN is the stabilizing factor in the Asia-Pacific Region, the Russian president added",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a0721d9416138be9516155d9cc5436ac1bd109a3",
-      "fingerprint": "ff7cc779e42b516768d4f01f78e37428788c6132",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2147895",
-      "published_utc": "2026-06-17T16:28:14Z",
-      "title_en": "Trump questions decision to sideline Russia from G8",
-      "lead_en": "The US president repeatedly criticized this association being reduced to \"seven\"",
-      "title_raw": "Trump questions decision to sideline Russia from G8",
-      "lead_raw": "The US president repeatedly criticized this association being reduced to \"seven\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cfedb2320fd7f44866e404f087637d5575b79f07",
-      "fingerprint": "3d1b4b077e62a303ffb7b796d76c5ef4a5cfe80f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/17/poland-releases-two-belarusian-nationals-detained-in-connection-with-killing-of-russian-satirist-semyon-skrepetsky",
-      "published_utc": "2026-06-17T16:27:52Z",
-      "title_en": "Poland releases two Belarusian nationals detained in connection with killing of Russian satirist Semyon Skrepetsky",
-      "lead_en": "Polish prosecutors said two Belarusian nationals detained in connection with the killing of Russian artist Semyon Skrepetsky in Biala Podlaska were released after investigators found no link between them and the attack.",
-      "title_raw": "Poland releases two Belarusian nationals detained in connection with killing of Russian satirist Semyon Skrepetsky",
-      "lead_raw": "Polish prosecutors said two Belarusian nationals detained in connection with the killing of Russian artist Semyon Skrepetsky in Biala Podlaska were released after investigators found no link between them and the attack.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "62cc5d0bc661886a3ed9bf31e2f473bae9c1a6d9",
-      "fingerprint": "b0e5d1082d95c732829447a3f9ec0a85fea980fb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2147893",
-      "published_utc": "2026-06-17T16:20:44Z",
-      "title_en": "Putin suggests considering establishment of Russia-Brunei intergovernmental commission",
-      "lead_en": "According to the Russian leader, it would be possible to carry out the systemic work on development of fuel and energy",
-      "title_raw": "Putin suggests considering establishment of Russia-Brunei intergovernmental commission",
-      "lead_raw": "According to the Russian leader, it would be possible to carry out the systemic work on development of fuel and energy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b3e6949413867a51dca970682678ba3109a51ec1",
-      "fingerprint": "6273bfb4e66b825861d017bb00d0e153460e050f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2147889",
-      "published_utc": "2026-06-17T16:15:06Z",
-      "title_en": "Trade turnover between Russia, Brunei close to $1 bln — Putin",
-      "lead_en": "The Russian president said the ties between the countries were steadily developing on the basis of friendship and mutually beneficial cooperation",
-      "title_raw": "Trade turnover between Russia, Brunei close to $1 bln — Putin",
-      "lead_raw": "The Russian president said the ties between the countries were steadily developing on the basis of friendship and mutually beneficial cooperation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
     }
   ]
 }
