@@ -1,22 +1,22 @@
 {
-  "updated_at_utc": "2026-06-20T09:23:24Z",
+  "updated_at_utc": "2026-06-20T11:59:33Z",
   "topic": "energy",
-  "count": 37,
+  "count": 35,
   "articles": [
     {
-      "id": "a6ca4c9bba5d967341b242dd2a9498fbc1cf89d7",
-      "fingerprint": "2d0f21eb814e7bba81d35fcefece63813edba1e3",
+      "id": "5f91881278e66073e69b7b23e4c46057b768fbb7",
+      "fingerprint": "134b9f9ede4538fb0f98881d1d5531bcf62d4b0f",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27823211",
-      "published_utc": "2026-06-20T09:12:52Z",
-      "title_en": "The Russian Armed Forces hit the facilities of the fuel and energy complex of the Armed Forces of Ukraine",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили объекты топливно-энергетического комплекса ВСУ",
-      "lead_raw": "",
+      "url": "https://tass.ru/proisshestviya/27823939",
+      "published_utc": "2026-06-20T11:19:16Z",
+      "title_en": "In Donbass and Novorossia, 25 power engineers died due to the Ukrainian Armed Forces",
+      "lead_en": "Another 75 were injured",
+      "title_raw": "В Донбассе и Новороссии из-за ВСУ погибли 25 энергетиков",
+      "lead_raw": "Еще 75 пострадали",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 2,
+        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
@@ -24,6 +24,29 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "488f5f8bb3694597e564de17b5715696e29b54ea",
+      "fingerprint": "2d0f21eb814e7bba81d35fcefece63813edba1e3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27823211",
+      "published_utc": "2026-06-20T09:12:52Z",
+      "title_en": "The Russian Armed Forces hit energy and transport facilities of the Armed Forces of Ukraine in one day",
+      "lead_en": "The targets were eliminated by operational-tactical aviation, attack unmanned aerial vehicles, missile forces and artillery",
+      "title_raw": "ВС РФ поразили за сутки объекты энергетики и транспорта ВСУ",
+      "lead_raw": "Цели ликвидировали оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "536683487f2f1116902c51194d42417eb50877eb",
@@ -766,74 +789,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "88a49ee7e32c772233cc6837a70b56a45423425a",
-      "fingerprint": "f43582ad41155f567b748e0e1938ab94eb57ec8b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148323",
-      "published_utc": "2026-06-18T11:06:46Z",
-      "title_en": "Russia, ASEAN to diversify energy supplies",
-      "lead_en": "The parties plan to achieve this, among other measures, through the expansion of trade, investment and long-term commercial partnerships in the fields of oil, gas, LNG and electricity, in accordance with market principles and national legislation",
-      "title_raw": "Russia, ASEAN to diversify energy supplies",
-      "lead_raw": "The parties plan to achieve this, among other measures, through the expansion of trade, investment and long-term commercial partnerships in the fields of oil, gas, LNG and electricity, in accordance with market principles and national legislation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 5,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6845cd0888ad01a7ac92ec0f5545c7cdbaa1a194",
-      "fingerprint": "a30517646d82e296249428b11c1e7a83739946d8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148305",
-      "published_utc": "2026-06-18T10:51:57Z",
-      "title_en": "Russia, ASEAN concerned about growing global energy instability",
-      "lead_en": "The joint declaration notes that such developments have a direct impact on regional stability, economic resilience, and development",
-      "title_raw": "Russia, ASEAN concerned about growing global energy instability",
-      "lead_raw": "The joint declaration notes that such developments have a direct impact on regional stability, economic resilience, and development",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f31d62aab00a2e840a3f742062801c81f18895d3",
-      "fingerprint": "027902743253f85255e0741f078a39decd71ca4b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2148293",
-      "published_utc": "2026-06-18T10:40:01Z",
-      "title_en": "Russia, ASEAN adopt joint statements on energy, cultural cooperation",
-      "lead_en": "The document was approved by Russian President Vladimir Putin and the heads of the other delegations attending the summit",
-      "title_raw": "Russia, ASEAN adopt joint statements on energy, cultural cooperation",
-      "lead_raw": "The document was approved by Russian President Vladimir Putin and the heads of the other delegations attending the summit",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
