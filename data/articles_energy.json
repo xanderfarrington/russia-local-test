@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-06-21T15:56:10Z",
+  "updated_at_utc": "2026-06-21T17:44:33Z",
   "topic": "energy",
-  "count": 15,
+  "count": 14,
   "articles": [
+    {
+      "id": "738bcd132afdd0144254d0b52d0601471f5e6f76",
+      "fingerprint": "ef152c511621b813ae2bcaa8b3f1fdb582a4ebde",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2149555",
+      "published_utc": "2026-06-21T16:31:58Z",
+      "title_en": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
+      "lead_en": "The strikes were followed by a strong fire, the Russian defense ministry said",
+      "title_raw": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
+      "lead_raw": "The strikes were followed by a strong fire, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f89b0efa829c62a8d6bcd13c2fe38282bd432a91",
       "fingerprint": "bc6a76acebee952d48f65bde262ccd00aadba1ab",
@@ -291,52 +314,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b572ef2297989de355f8808e6eeb04e74b9446ea",
-      "fingerprint": "eb8842ff29e4e7218aab4d3eed897d7b1def322a",
-      "source": "RT",
-      "url": "https://www.rt.com/news/641830-asean-russia-not-isolated",
-      "published_utc": "2026-06-19T16:47:39Z",
-      "title_en": "Russia isn’t isolated – ASEAN has just proved it",
-      "lead_en": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
-      "title_raw": "Russia isn’t isolated – ASEAN has just proved it",
-      "lead_raw": "The Kazan summit showed Southeast Asia still values Russia for energy, trade, and strategic balance in an increasingly multipolar world Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "14a942582e47cd2f55ce9adc850b4512566725fa",
-      "fingerprint": "226b69ebd8cec29d2d8734ebec962ab3e72b6be4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2149121",
-      "published_utc": "2026-06-19T16:28:46Z",
-      "title_en": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
-      "lead_en": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
-      "title_raw": "Creation of independent payment systems to be discussed at the Russia-Africa Summit",
-      "lead_raw": "Russian Foreign Minister Sergey Lavrov said the agenda will include not only traditional areas such as energy, including nuclear power, but also digital technologies",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
