@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-06-21T00:12:12Z",
+  "updated_at_utc": "2026-06-21T06:06:43Z",
   "topic": "energy",
-  "count": 26,
+  "count": 23,
   "articles": [
+    {
+      "id": "e66130a5c7ffc80229ea5529c6c85ac95e76742b",
+      "fingerprint": "6cc4b8c7780c84d2d9fb43eccf45cec6a9b82d5e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27826857",
+      "published_utc": "2026-06-21T05:08:06Z",
+      "title_en": "The Russian Armed Forces hit important energy facilities used by the Armed Forces of Ukraine",
+      "lead_en": "In particular, Russian troops hit targets in the Kyiv, Sumy, and Chernigov regions",
+      "title_raw": "ВС РФ поразили важные используемые ВСУ энергообъекты",
+      "lead_raw": "В частности, российские войска поразили объекты в Киевской, Сумской, Черниговской областях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e2668ccf2eab1d2bcf328a17a24c4e60ac91dea7",
       "fingerprint": "556f5595698f974ab86f868894c54b8bbf0792b6",
@@ -494,95 +517,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c88ddae25aa0be4dcd9e3d84e4d4b3efa1fefdea",
-      "fingerprint": "7769d88dba6a5eb02043d943a6403a115d0ead12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27809139",
-      "published_utc": "2026-06-19T06:05:05Z",
-      "title_en": "\"Autostat\": Russians' spending on new passenger cars fell by 7.4% in May",
-      "lead_en": "The indicator decreased after a noticeable increase in April, as noted in a joint study by the agency and the Gazprombank Autoleasing company.",
-      "title_raw": "\"Автостат\": траты россиян на новые легковые авто в мае упали на 7,4%",
-      "lead_raw": "Показатель снизился после заметного роста в апреле, отмечается в совместном исследовании агентства с компанией \"Газпромбанк автолизинг\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5fa92a45003296e322b334ffbcc14eccc8f42b4e",
-      "fingerprint": "85859840ac23e5d3821bb34f8e0f8cc936df5234",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27810599",
-      "published_utc": "2026-06-19T05:51:39Z",
-      "title_en": "Indonesia announced its intention to cooperate with the Russian Federation in the field of nuclear energy",
-      "lead_en": "Possible cooperation should include technology transfer, training and compliance with international security standards, said Indonesian Foreign Minister Sugiono",
-      "title_raw": "В Индонезии заявили о намерении сотрудничать с РФ в сфере ядерной энергетики",
-      "lead_raw": "Возможное сотрудничество должно предусматривать передачу технологий, подготовку кадров и соблюдение международных стандартов безопасности, заявил индонезийский министр иностранных дел Сугионо",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "002ac940493f0834b2bbc52b147fb995e5cf82f3",
-      "fingerprint": "c83305cf4e23f31b7971cd1be63019d412598a12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27810547",
-      "published_utc": "2026-06-19T05:40:40Z",
-      "title_en": "Sadovnichy joined the board of directors of Rosneft",
-      "lead_en": "He replaced the rector of the Russian State University of Oil and Gas named after I.M. Gubkin Viktor Martynov",
-      "title_raw": "Садовничий вошел в совет директоров \"Роснефти\"",
-      "lead_raw": "Он сменил в составе совета ректора РГУ нефти и газа имени И.М. Губкина Виктора Мартынова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8db99d4af1cc4b87f37514f3d79d39ddfa8b849d",
-      "fingerprint": "cc46b0fc4d5507c1d805eb1267150300cbb16bb5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27809093",
-      "published_utc": "2026-06-19T00:17:02Z",
-      "title_en": "Izvestia: oil and gas revenues of the Russian budget can reach 1 trillion rubles",
-      "lead_en": "According to the newspaper's sources, this is possible despite the decline in oil prices.",
-      "title_raw": "\"Известия\": нефтегазовые доходы бюджета России могут достигнуть 1 трлн рублей",
-      "lead_raw": "По информации источников газеты, это возможно, несмотря на снижение цен на нефть",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
