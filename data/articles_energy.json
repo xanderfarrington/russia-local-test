@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-22T15:56:08Z",
+  "updated_at_utc": "2026-06-22T19:35:40Z",
   "topic": "energy",
-  "count": 18,
+  "count": 19,
   "articles": [
+    {
+      "id": "a286b2e006c0732208e0d7cfb4c7b01169a6548a",
+      "fingerprint": "77c518bee70f4b9c83affe16a772080736fbd228",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/22/russia-s-three-biggest-online-marketplaces-ban-fuel-sales",
+      "published_utc": "2026-06-22T18:17:05Z",
+      "title_en": "Russia’s three biggest online marketplaces ban fuel sales",
+      "lead_en": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
+      "title_raw": "Russia’s three biggest online marketplaces ban fuel sales",
+      "lead_raw": "Avito, Ozon, and Wildberries banned fuel sales on their platforms at the request of the Federal Antimonopoly Service (FAS), the Russian state news agency RIA Novosti reported, citing a statement from the antimonopoly service.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "467eacecd1893d3e373a97fc1b505d0a12a8d052",
+      "fingerprint": "9c05020720cb8b4a7ab94f445f3158cc07da1a42",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27840771",
+      "published_utc": "2026-06-22T17:10:05Z",
+      "title_en": "The Russian stock market closed with a decline in the main indices",
+      "lead_en": "In part, the market is reacting to a slowdown in the rate of sequestration of the Central Bank’s key rate, and in part to a decline in oil prices, explained BCS World of Investments expert Andrei Smirnov",
+      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
+      "lead_raw": "Отчасти рынок реагирует на замедление темпа секвестра ключевой ставки ЦБ, отчасти - на снижение цен на нефть, пояснил эксперт \"БКС мир инвестиций\" Андрей Смирнов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4f1edfa1b22c6a733df282e7c4b4c33e3c982cfd",
       "fingerprint": "e16d3bc4593d6b9bbb0b55b839f412fc0c69cb23",
@@ -383,28 +428,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "e2668ccf2eab1d2bcf328a17a24c4e60ac91dea7",
-      "fingerprint": "556f5595698f974ab86f868894c54b8bbf0792b6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2149359",
-      "published_utc": "2026-06-20T18:20:59Z",
-      "title_en": "EU demands Turkey does not supply Russian gas to union",
-      "lead_en": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
-      "title_raw": "EU demands Turkey does not supply Russian gas to union",
-      "lead_raw": "As German Economy Minister Katherina Reiche noted, Turkey takes into account the great importance that the EU places \"on weaning itself off Russian commodity supplies,\" but made it clear that replacing Russian supplies is impossible overnight",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
