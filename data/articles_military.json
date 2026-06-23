@@ -1,8 +1,368 @@
 {
-  "updated_at_utc": "2026-06-23T00:10:57Z",
+  "updated_at_utc": "2026-06-23T05:05:14Z",
   "topic": "military",
-  "count": 70,
+  "count": 80,
   "articles": [
+    {
+      "id": "088d890ba49a408856f96f1070aff224deb2491e",
+      "fingerprint": "562e7935dfb5ed5a1a0d9ba46693d1088700f6fe",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/06/23/for-years-ukrainian-strikes-stalled-within-a-few-kilometers-of-the-front-meduza-mapped-thousands-of-geolocated-attacks-and-found-they-now-reach-far-behind-russian-lines",
+      "published_utc": "2026-06-23T04:17:22Z",
+      "title_en": "For years, Ukrainian strikes stalled within a few kilometers of the front. Meduza mapped thousands of geolocated attacks and found they now reach far behind Russian lines.",
+      "lead_en": "The war in Ukraine is entering a new phase: while the Russian military’s offensive is bogged down at the front, the Ukrainian Armed Forces have pulled ahead in the drone race. Meduza has already written about how this Ukrainian success led to a fuel collapse in Crimea, how drones broke through Moscow’s layered air defenses, and how strikes on oil refineries have plunged entire regions into a gasoline crisis.",
+      "title_raw": "For years, Ukrainian strikes stalled within a few kilometers of the front. Meduza mapped thousands of geolocated attacks and found they now reach far behind Russian lines.",
+      "lead_raw": "The war in Ukraine is entering a new phase: while the Russian military’s offensive is bogged down at the front, the Ukrainian Armed Forces have pulled ahead in the drone race. Meduza has already written about how this Ukrainian success led to a fuel collapse in Crimea, how drones broke through Moscow’s layered air defenses, and how strikes on oil refineries have plunged entire regions into a gasoline crisis.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "19201739e39df7a17abb90b956f7a710834b20b5",
+      "fingerprint": "d03a9b443d51f0eb89f01708e38c03a8377f39d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27843243",
+      "published_utc": "2026-06-23T04:17:10Z",
+      "title_en": "Near Novosibirsk, the construction of a megascience class installation \"SKIF\" was completed",
+      "lead_en": "This center will be the first in the Russian Federation and the most powerful source of synchrotron radiation of the “4+” generation in the world.",
+      "title_raw": "Под Новосибирском завершили строительство установки класса мегасайенс \"СКИФ\"",
+      "lead_raw": "Этот центр станет первым в РФ и самым мощным в мире источником синхротронного излучения поколения \"4+\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "809c8ae73504a8cbd9377e838a51fa68b58aeb48",
+      "fingerprint": "dc08d04309fb1d515f1021f45b073e7ecd067838",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27843269",
+      "published_utc": "2026-06-23T04:14:25Z",
+      "title_en": "Sever's artillery destroyed 10 UAV points and 11 armored vehicles of the Ukrainian Armed Forces",
+      "lead_en": "Russian military personnel managed to eliminate all targets overnight",
+      "title_raw": "Артиллерия \"Севера\" уничтожила 10 пунктов БПЛА и 11 бронированных машин ВСУ",
+      "lead_raw": "Ликвидировать все цели российским военнослужащим удалось за ночь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "bb5296ae934a585d842f42b1ddc64e82b067f425",
+      "fingerprint": "7024734b3d113b4add63815f268eb78b99b61a45",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27843233",
+      "published_utc": "2026-06-23T04:05:36Z",
+      "title_en": "Miroshnik: Kyiv increased the intensity of UAV strikes on Zaporozhye NPP this week",
+      "lead_en": "The Ambassador-at-Large of the Russian Foreign Ministry noted that Kyiv subjected the station's transport workshop to a massive raid",
+      "title_raw": "Мирошник: Киев на неделе усилил интенсивность ударов БПЛА по ЗАЭС",
+      "lead_raw": "Посол по особым поручениям МИД России отметил, что Киев подверг массированному налету транспортный цех станции",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0def6d9ad96f525ffbc59bd247b80ffc17cd1766",
+      "fingerprint": "9dbb48d99ffe7b71396f87b45b2c7c1fa5ac9241",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27843217",
+      "published_utc": "2026-06-23T04:04:54Z",
+      "title_en": "Miroshnik: The Ukrainian Armed Forces attacked the Belgorod region up to 260 times a day this week",
+      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry clarified that most often Ukrainian troops attacked the Belgorod, Shebekinsky, Krasnoyaruzhsky, Valuysky, Volokonovsky and Grayvoronsky districts",
+      "title_raw": "Мирошник: ВСУ до 260 раз в сутки атаковали на неделе Белгородскую область",
+      "lead_raw": "Посол по особым поручениям МИД России уточнил, что чаще всего украинские войска атаковали Белгородский, Шебекинский, Краснояружский, Валуйский, Волоконовский и Грайворонский округа",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "013234229fb12e0c2ba279bb274a065aee542b09",
+      "fingerprint": "e79a2ff2a7bf9dfd6019c99bf09ea6fa28c1114e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27843207",
+      "published_utc": "2026-06-23T04:03:36Z",
+      "title_en": "Miroshnik called the Ukrainian Armed Forces' strike on a bus with children a war crime",
+      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that the attack by the Ukrainian army was targeted",
+      "title_raw": "Мирошник назвал военным преступлением удар ВСУ по автобусу с детьми",
+      "lead_raw": "Посол по особым поручениям МИД России отметил, что атака украинской армии была целенаправленной",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a725ab0f57c03a783f708bacade9a332b9bb31ad",
+      "fingerprint": "786500693c2df0c41f8ec311c984a3826eaaa576",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27843167",
+      "published_utc": "2026-06-23T04:02:49Z",
+      "title_en": "Commander Kedr: the Sever drone destroyed a Ukrainian Armed Forces shelter in the Sumy region",
+      "lead_en": "The target was hidden in the ruins, the Russian serviceman said",
+      "title_raw": "Командир Кедр: дрон \"Севера\" уничтожил укрытие ВСУ на Сумщине",
+      "lead_raw": "Цель была замаскирована в развалинах, рассказал российский военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b1f27adce2dfeddc02c75c2f30edf83444bfc8f6",
+      "fingerprint": "0a158f7633fa7944191155a30ef86e1311c87ff9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27843185",
+      "published_utc": "2026-06-23T04:02:45Z",
+      "title_en": "Miroshnik: Moscow faced an unprecedented intensity of attacks by the Ukrainian Armed Forces this week",
+      "lead_en": "In the Moscow region, 23 civilians were injured, noted the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: Москва на неделе столкнулась с беспрецедентной интенсивностью атак ВСУ",
+      "lead_raw": "В Московском регионе пострадали 23 мирных жителя, отметил посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "563843db466d67a65d414cbfc4c45f4e23676d4a",
+      "fingerprint": "2309d88517f71929cf61e787c3d6ebe093c7ecab",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27843145",
+      "published_utc": "2026-06-23T04:00:46Z",
+      "title_en": "Miroshnik: more than 290 people were injured by Ukrainian Armed Forces strikes in the Russian Federation this week",
+      "lead_en": "This is the highest figure in 2026, noted the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: в РФ на неделе от ударов ВСУ пострадали более 290 человек",
+      "lead_raw": "Это наибольший показатель в 2026 году, отметил посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d0c8f95423eb42ef0e1b2d8f856566b4abd0a1f1",
+      "fingerprint": "6dc5193ee732730bff1e399befb212b2d1d88575",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27843021",
+      "published_utc": "2026-06-23T03:31:50Z",
+      "title_en": "TASS: The Ukrainian Armed Forces near Kharkov sent 18-year-old UAV operators to the front line",
+      "lead_en": "The servicemen were transferred to the disposal of the commanders of mechanized brigades, the Russian security forces clarified.",
+      "title_raw": "ТАСС: ВСУ под Харьковом отправили на передовую 18-летних операторов БПЛА",
+      "lead_raw": "Военнослужащих перевели в распоряжение командиров механизированных бригад, уточнили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e4ec79392ebe35beb22b819358344b6e4bb51907",
+      "fingerprint": "69444980ecdafb7d6caaa3655905eca008064096",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27843029",
+      "published_utc": "2026-06-23T03:31:07Z",
+      "title_en": "TASS: more than 50 military personnel of the Armed Forces of Ukraine were detained in the Chernihiv region for criticizing the authorities",
+      "lead_en": "According to the agency's interlocutor, some military personnel support Russian policy",
+      "title_raw": "ТАСС: в Черниговской области задержали более 50 военных ВСУ за критику власти",
+      "lead_raw": "По словам собеседника агентства, отдельные военнослужащие поддерживают политику России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ec5f2c7c891b4985753ba8706d54b3041afd650f",
+      "fingerprint": "7d8a18e16e8b14921f94cb47871edd4758a96783",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27842889",
+      "published_utc": "2026-06-23T03:08:23Z",
+      "title_en": "The Russian Armed Forces destroyed two assault platoons of the Ukrainian Armed Forces and five UAV points",
+      "lead_en": "Three Ukrainian Armed Forces pickup trucks were also hit, the group of troops said.",
+      "title_raw": "ВС РФ уничтожили два штурмовых взвода ВСУ и пять пунктов БПЛА",
+      "lead_raw": "Также были поражены три пикапа ВСУ, заявили в группировке войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "bdf4f5abaf1ae9afb515edb73ebdd06638225935",
+      "fingerprint": "cc2daa047c876e746f5a5fc2a677cd98c45439f5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27842879",
+      "published_utc": "2026-06-23T03:03:20Z",
+      "title_en": "Air defense forces of the North destroyed 90 Ukrainian Armed Forces drones flying on the Russian border",
+      "lead_en": "Target coordinates were recorded and transmitted by radar calculations",
+      "title_raw": "Силы ПВО \"Севера\" уничтожили 90 летящих на приграничье РФ беспилотников ВСУ",
+      "lead_raw": "Координаты целей зафиксировали и передали расчеты радиолокационных станций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ba8e61b1e32533a76fe38506c716c48ca23e8b57",
+      "fingerprint": "513c52fc3fca8838db95de105d96e03e39221523",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27842807",
+      "published_utc": "2026-06-23T02:47:14Z",
+      "title_en": "Fighter Fedor: Vostok UAVs were smoked out of cover and destroyed saboteurs of the Ukrainian Armed Forces",
+      "lead_en": "Russian military personnel eliminated enemy personnel using FPV drones",
+      "title_raw": "Боец Федор: БПЛА \"Востока\" выкурили из укрытия и уничтожили диверсантов ВСУ",
+      "lead_raw": "Российские военнослужащие ликвидировали живую силу противника при помощи FPV-дронов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "482c7d6fa6f1b559f868f9aa2adb3b17dc041d84",
+      "fingerprint": "c9163d458238a168c16ba15a093a292c7d8ca229",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150039",
+      "published_utc": "2026-06-23T02:30:01Z",
+      "title_en": "Russian security official, his BRICS counterparts to discuss security threats",
+      "lead_en": "Russian Security Council Secretary Sergey Shoigu is also expected to hold several bilateral meetings with heads of delegations from leading BRICS countries",
+      "title_raw": "Russian security official, his BRICS counterparts to discuss security threats",
+      "lead_raw": "Russian Security Council Secretary Sergey Shoigu is also expected to hold several bilateral meetings with heads of delegations from leading BRICS countries",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0b0739838654f9030359c0ee1dade7dd2a0e9c21",
+      "fingerprint": "7c3cf98bc20b6628b7ca05774b3e0851b0d1c204",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150037",
+      "published_utc": "2026-06-23T02:03:00Z",
+      "title_en": "Russia crushes new incarnation of Nazism in Europe through special military op — envoy",
+      "lead_en": "Alexander Darchiev stated that \"reckless figures in Germany, having forgotten the lessons of history, now dream of a 'Fourth Reich' and a new march eastward\"",
+      "title_raw": "Russia crushes new incarnation of Nazism in Europe through special military op — envoy",
+      "lead_raw": "Alexander Darchiev stated that \"reckless figures in Germany, having forgotten the lessons of history, now dream of a 'Fourth Reich' and a new march eastward\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "aca841f6e6aedc4263eb1b977d49f49b0c4d6d3f",
       "fingerprint": "c61993d4efc2742e781e14f324809fd35f3f5f9f",
@@ -1420,138 +1780,6 @@
       "topics": [
         "military",
         "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "58a845b044e2f3a1c807f189d5ef20ac041777dd",
-      "fingerprint": "a9f3d8bb3d63403780ecde5d91a1a3b22eb29667",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826813",
-      "published_utc": "2026-06-21T04:36:57Z",
-      "title_en": "Commander Chek: the Sever group destroyed more than 10 electronic warfare stations of the Ukrainian Armed Forces in a week",
-      "lead_en": "The military man said that the defeat of the installations allows Russian military personnel to more accurately carry out drone strikes on enemy positions",
-      "title_raw": "Командир Чек: группировка \"Север\" уничтожила более 10 станций РЭБ ВСУ за неделю",
-      "lead_raw": "Военный рассказал, что поражение установок позволяет российским военнослужащим точнее наносить удары дронами по позициям противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d2c35429f2b872700343c9086ab482a1ff88d857",
-      "fingerprint": "29f4013660a1c23034f85ee8212aadae04d72886",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27826703",
-      "published_utc": "2026-06-21T03:58:14Z",
-      "title_en": "NYT: Ukraine still does not have ballistic missiles similar to Russian ones",
-      "lead_en": "It was strikes with such shells that repeatedly overloaded the Ukrainian air defense system, the publication noted.",
-      "title_raw": "NYT: у Украины по-прежнему нет баллистических ракет, аналогичных российским",
-      "lead_raw": "Именно удары такими снарядами неоднократно перегружали украинскую систему противовоздушной обороны, отметило издание",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6a08027dc38bc2a74e89fdc7de1b97e729bb9def",
-      "fingerprint": "ec1adcede371762b72229e05109db0828f5ee308",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826687",
-      "published_utc": "2026-06-21T03:33:53Z",
-      "title_en": "Commander Vikhr: The Russian Armed Forces destroyed the rotational infantry of the Armed Forces of Ukraine in the Sumy region",
-      "lead_en": "The enemy's movement was recorded by aerial reconnaissance, the military said",
-      "title_raw": "Командир Вихрь: ВС РФ уничтожили совершавшую ротацию пехоту ВСУ на Сумщине",
-      "lead_raw": "Передвижение противника зафиксировала воздушная разведка, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "55c8dfa3c75ece44b5d5533fe8fbe164a9785202",
-      "fingerprint": "d6e4d4c78673259ca4db2382d1284953692a9f61",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826587",
-      "published_utc": "2026-06-21T02:40:44Z",
-      "title_en": "DZ commander: The Russian Armed Forces in Konstantinovka discovered caches with foreign mortars",
-      "lead_en": "The serviceman noted that there are practically no Ukrainian weapons among the trophies",
-      "title_raw": "Командир ДЗ: ВС РФ в Константиновке обнаружили схроны с иностранными минометами",
-      "lead_raw": "Военнослужащий отметил, что украинского оружия среди трофеев практически нет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "330c0b1f295ff1bc19663446cf11b03e760a449c",
-      "fingerprint": "001492d941e848714a9bbdfad957b68436f631ee",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826529",
-      "published_utc": "2026-06-21T02:04:28Z",
-      "title_en": "The Russian Armed Forces destroyed an ammunition depot and reinforcement forces of the Armed Forces of Ukraine near Konstantinovka",
-      "lead_en": "The targets were hit by fighters of the Southern group, the Ministry of Defense noted",
-      "title_raw": "ВС РФ уничтожили склад боеприпасов и силы подкрепления ВСУ у Константиновки",
-      "lead_raw": "Цели поразили бойцы Южной группировки, отметили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bc62fca4ed8e3ab6e551f53ec6217d030c27cb79",
-      "fingerprint": "3e6260732540cfc0c4502ac86f34fcdb834104f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826449",
-      "published_utc": "2026-06-21T01:01:29Z",
-      "title_en": "Marochko: advancing near Gulyai-Polye, the Russian Armed Forces are cutting off the logistics of the Ukrainian Armed Forces near Orekhov",
-      "lead_en": "Then Russian troops will begin the “systematic liberation” of this settlement, the military expert noted",
-      "title_raw": "Марочко: продвигаясь у Гуляйполя, ВС РФ отрезают логистику ВСУ у Орехова",
-      "lead_raw": "Затем российские войска приступят к \"планомерному освобождению\" этого населенного пункта, отметил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
       ],
       "primary_topic": "military"
     }
