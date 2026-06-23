@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-23T15:52:36Z",
+  "updated_at_utc": "2026-06-23T18:01:12Z",
   "topic": "economy",
-  "count": 9,
+  "count": 10,
   "articles": [
+    {
+      "id": "7efc1f90bce5481def6d9c623971375e16b30386",
+      "fingerprint": "b47f1ce493ccc0b9a8ddf8655ab23f78cabc80f2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150551",
+      "published_utc": "2026-06-23T16:37:26Z",
+      "title_en": "Russian government considers diesel fuel exports ban",
+      "lead_en": "The situation in the Russian fuel market is \"indeed challenging but controlled,\" Russian Deputy Prime Minister Alexander Novak said",
+      "title_raw": "Russian government considers diesel fuel exports ban",
+      "lead_raw": "The situation in the Russian fuel market is \"indeed challenging but controlled,\" Russian Deputy Prime Minister Alexander Novak said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e86bc77fc66c9b60a4138a441d9ecc386d735da4",
+      "fingerprint": "bef0c5f23718dae3b3828a6d624af95d292db6b8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27849583",
+      "published_utc": "2026-06-23T16:32:55Z",
+      "title_en": "The Russian stock market closed with multidirectional changes in stock indices",
+      "lead_en": "The yuan exchange rate dropped to 10.94 rubles",
+      "title_raw": "Российский рынок акций закрылся разнонаправленным изменением биржевых индексов",
+      "lead_raw": "Курс юаня снизился до 10,94 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "624781b9065c630c0a8326c11812d83282cfc5de",
       "fingerprint": "3ef20ad476e803a6f5a2880d610a271a9fa5260a",
@@ -179,28 +224,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8a473fb697839b066c2a579e5e3b24d869dcc93e",
-      "fingerprint": "7e005582e3191d6268a6a2d32ff9b7f7b6184c7e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27829939",
-      "published_utc": "2026-06-21T17:09:56Z",
-      "title_en": "Parliamentarians of the Russian Federation and Belarus approved changes to the SG budget for 2025-2026",
-      "lead_en": "The expenditure side of the budget for 2026 has been increased by more than 1 billion rubles, noted Secretary of State of the Union State Sergei Glazyev",
-      "title_raw": "Парламентарии РФ и Белоруссии утвердили изменения в бюджет СГ на 2025-2026 годы",
-      "lead_raw": "Расходная часть бюджета на 2026 год увеличена более чем на 1 млрд рублей, отметил госсекретарь Союзного государства Сергей Глазьев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"

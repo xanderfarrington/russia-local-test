@@ -1,8 +1,99 @@
 {
-  "updated_at_utc": "2026-06-23T15:52:36Z",
+  "updated_at_utc": "2026-06-23T18:01:12Z",
   "topic": "energy",
-  "count": 35,
+  "count": 38,
   "articles": [
+    {
+      "id": "6bbf94591f51452f969ee9317a6534762a5c22ca",
+      "fingerprint": "b23743f9841e69e445b63a0698235a6a87ea6687",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/23/putin-told-his-cabinet-that-ukrainian-strikes-on-russian-oil-refineries-are-having-no-effect-on-the-war-he-said-this-at-a-meeting-called-to-address-the-fuel-crisis-those-strikes-helped-create",
+      "published_utc": "2026-06-23T17:43:14Z",
+      "title_en": "Putin told his cabinet that Ukrainian strikes on Russian oil refineries are having no effect on the war. He said this at a meeting called to address the fuel crisis those strikes helped create.",
+      "lead_en": "Vladimir Putin chaired a government meeting where officials briefed him on fuel shortages spreading across Russia’s regions and occupied Crimea.",
+      "title_raw": "Putin told his cabinet that Ukrainian strikes on Russian oil refineries are having no effect on the war. He said this at a meeting called to address the fuel crisis those strikes helped create.",
+      "lead_raw": "Vladimir Putin chaired a government meeting where officials briefed him on fuel shortages spreading across Russia’s regions and occupied Crimea.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d445574481da059e49d0cbe3cbbfb7c97a7736d8",
+      "fingerprint": "dab5d143af318ad54dffdbf82f5ad20dca68ebcd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2150565",
+      "published_utc": "2026-06-23T17:16:44Z",
+      "title_en": "Bank of Russia set dollar rate at 74.62 rubles for June 24",
+      "lead_en": "The dollar rate was increased by 85.5 kopecks",
+      "title_raw": "Bank of Russia set dollar rate at 74.62 rubles for June 24",
+      "lead_raw": "The dollar rate was increased by 85.5 kopecks",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "10b0209b82293f7ab9e81ef4671756f8ef2db973",
+      "fingerprint": "bcbb421c0b25e37ffed1ee16d362f28a54cc675e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150561",
+      "published_utc": "2026-06-23T17:10:10Z",
+      "title_en": "BRICS countries to use common strategic reserves for mutual assistance — Shoigu",
+      "lead_en": "According to the Russian Security Council Secretary, this refers to fertilizers, LNG and oil, as well as medicines and a wide variety of other goods",
+      "title_raw": "BRICS countries to use common strategic reserves for mutual assistance — Shoigu",
+      "lead_raw": "According to the Russian Security Council Secretary, this refers to fertilizers, LNG and oil, as well as medicines and a wide variety of other goods",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7efc1f90bce5481def6d9c623971375e16b30386",
+      "fingerprint": "b47f1ce493ccc0b9a8ddf8655ab23f78cabc80f2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2150551",
+      "published_utc": "2026-06-23T16:37:26Z",
+      "title_en": "Russian government considers diesel fuel exports ban",
+      "lead_en": "The situation in the Russian fuel market is \"indeed challenging but controlled,\" Russian Deputy Prime Minister Alexander Novak said",
+      "title_raw": "Russian government considers diesel fuel exports ban",
+      "lead_raw": "The situation in the Russian fuel market is \"indeed challenging but controlled,\" Russian Deputy Prime Minister Alexander Novak said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "8436db9bfcc8b269ced48c1cb33e7e322319f63b",
       "fingerprint": "f4c0d3cfd75fc2a1f57f4d0d4c23f3bf38275313",
@@ -760,29 +851,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "738bcd132afdd0144254d0b52d0601471f5e6f76",
-      "fingerprint": "ef152c511621b813ae2bcaa8b3f1fdb582a4ebde",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2149555",
-      "published_utc": "2026-06-21T16:31:58Z",
-      "title_en": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
-      "lead_en": "The strikes were followed by a strong fire, the Russian defense ministry said",
-      "title_raw": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
-      "lead_raw": "The strikes were followed by a strong fire, the Russian defense ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
