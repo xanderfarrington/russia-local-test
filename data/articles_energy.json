@@ -1,8 +1,119 @@
 {
-  "updated_at_utc": "2026-06-23T05:05:14Z",
+  "updated_at_utc": "2026-06-23T09:49:48Z",
   "topic": "energy",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "7800ec85bfdc0386c047a11d630f8ebf7ac7b58f",
+      "fingerprint": "85d432019692444f5d20aa343e6eb13b01009d7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27847651",
+      "published_utc": "2026-06-23T09:35:58Z",
+      "title_en": "Peskov: volatility in oil markets equally affects all countries of the world, including the Russian Federation",
+      "lead_en": "",
+      "title_raw": "Песков: волатильность на нефтяных рынках равно влияет на все страны мира, включая РФ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "dbc33cd60c0df216a4541e4402b92dcec4ac577a",
+      "fingerprint": "2e6ba928ecdd1ac7400546c150d2e9d80923bbac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27847645",
+      "published_utc": "2026-06-23T09:35:39Z",
+      "title_en": "Peskov: the share of Russian budget revenues not from oil and gas is steadily growing",
+      "lead_en": "",
+      "title_raw": "Песков: доля доходов бюджета РФ не из нефтегаза поступательно растет",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37375d0d0801d8f1f93cc6c7c227422c96ca3716",
+      "fingerprint": "99ad25a478dd544aab1acbbc9051ec07feb120de",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27847643",
+      "published_utc": "2026-06-23T09:35:37Z",
+      "title_en": "Peskov: the stability of the Russian economy is ensured, despite the fall in world oil prices",
+      "lead_en": "",
+      "title_raw": "Песков: стабильность экономики России обеспечена, несмотря на падение мировых цен на нефть",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b70221e5f9c4bd6d3a9e746f692db42a35fb63bb",
+      "fingerprint": "bfd5a8bcedb6e78dee6199b31b95eb5a99ee9192",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2150143",
+      "published_utc": "2026-06-23T09:04:32Z",
+      "title_en": "Global reserves cannot replace lost Middle East, Russian supplies — Shoigu",
+      "lead_en": "The blocking of the Strait of Hormuz has put global food and energy security at risk, the senior Russian security official said",
+      "title_raw": "Global reserves cannot replace lost Middle East, Russian supplies — Shoigu",
+      "lead_raw": "The blocking of the Strait of Hormuz has put global food and energy security at risk, the senior Russian security official said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c1c61b5a4167228cc0802f226edc7a568d83279b",
+      "fingerprint": "3848d11a9661c59a3753e4db3d9a497d60c2d522",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/06/23/several-russian-regions-impose-restrictions-on-gasoline-sales",
+      "published_utc": "2026-06-23T07:19:05Z",
+      "title_en": "Several Russian regions impose restrictions on gasoline sales",
+      "lead_en": "The Irkutsk, Omsk, and Novosibirsk regions have imposed restrictions on gasoline sales.",
+      "title_raw": "Several Russian regions impose restrictions on gasoline sales",
+      "lead_raw": "The Irkutsk, Omsk, and Novosibirsk regions have imposed restrictions on gasoline sales.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "088d890ba49a408856f96f1070aff224deb2491e",
       "fingerprint": "562e7935dfb5ed5a1a0d9ba46693d1088700f6fe",
@@ -405,74 +516,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "95872fa7e8aacfd7a5061cdc7801f4a87e470e8e",
-      "fingerprint": "5fb2a1b192f0e4885d514176c05b45da35c97762",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27828017",
-      "published_utc": "2026-06-21T09:33:49Z",
-      "title_en": "The Russian Armed Forces hit oil refining facilities and the fuel and energy complex of Ukraine",
-      "lead_en": "Targets were eliminated in 147 districts",
-      "title_raw": "ВС РФ поразили объекты нефтепереработки и ТЭК Украины",
-      "lead_raw": "Цели ликвидировали в 147 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fd9f08e662249faf5cef8a216dc3464ba1d45c42",
-      "fingerprint": "2157c80e9f28d09d27a9d22585097c3d63bb678f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2149435",
-      "published_utc": "2026-06-21T06:55:43Z",
-      "title_en": "Russian forces strike Ukraine’s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
-      "lead_en": "The Russian Armed Forces used Gerbera drones, the Defense Ministry reported",
-      "title_raw": "Russian forces strike Ukraine’s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
-      "lead_raw": "The Russian Armed Forces used Gerbera drones, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e66130a5c7ffc80229ea5529c6c85ac95e76742b",
-      "fingerprint": "6cc4b8c7780c84d2d9fb43eccf45cec6a9b82d5e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27826857",
-      "published_utc": "2026-06-21T05:08:06Z",
-      "title_en": "The Russian Armed Forces hit important energy facilities used by the Armed Forces of Ukraine",
-      "lead_en": "In particular, Russian troops hit targets in the Kyiv, Sumy, and Chernigov regions",
-      "title_raw": "ВС РФ поразили важные используемые ВСУ энергообъекты",
-      "lead_raw": "В частности, российские войска поразили объекты в Киевской, Сумской, Черниговской областях",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
