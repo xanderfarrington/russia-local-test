@@ -1,8 +1,74 @@
 {
-  "updated_at_utc": "2026-06-28T08:24:07Z",
+  "updated_at_utc": "2026-06-28T11:10:55Z",
   "topic": "energy",
-  "count": 24,
+  "count": 19,
   "articles": [
+    {
+      "id": "866008a2fa40586a2d973d5e8465935b53fcfe90",
+      "fingerprint": "32cc9be4126ee39e2d833e0b8c1f22e7d752aa5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27865035",
+      "published_utc": "2026-06-28T10:51:58Z",
+      "title_en": "In Zaporozhye they believe that the region will become the energy capital of the south of the Russian Federation after the launch of the Zaporozhye NPP",
+      "lead_en": "The launch of all six reactors at the station will provide electricity not only to historical regions, but also to the Rostov region and the Krasnodar Territory",
+      "title_raw": "На Запорожье считают, что регион станет энергостолицей юга РФ после запуска ЗАЭС",
+      "lead_raw": "Запуск всех шести реакторов на станции позволит обеспечить электроэнергией не только исторические регионы, но и Ростовскую область с Краснодарским краем",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "997204021bbfec68cb873384d87ec464af203004",
+      "fingerprint": "f5f4c210b5e664fbf16d5e06e8bb5babda11d65c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27864919",
+      "published_utc": "2026-06-28T09:24:09Z",
+      "title_en": "FT: The head of the Spanish gas hub called on the EU to postpone the ban on LNG from Russia",
+      "lead_en": "Ivan Jimenez suggested that American leader Donald Trump will continue to put pressure on Europe to maintain the ban on Russian gas in order to increase exports from the United States",
+      "title_raw": "FT: глава испанского газового хаба призвал ЕС отложить запрет на СПГ из России",
+      "lead_raw": "Иван Хименес предположил, что американский лидер Дональд Трамп продолжит оказывать давление на Европу для сохранения запрета на российский газ, чтобы увеличить экспорт из США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b950035769270b7a0fd5dbe549d8d0bbf465af91",
+      "fingerprint": "87a69561f22c9e8215131ba3b73e5936f37267bd",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/06/28/ukrainian-strike-kills-one-in-southern-russia-refinery-on-fire-a93114",
+      "published_utc": "2026-06-28T08:57:00Z",
+      "title_en": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
+      "lead_en": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
+      "title_raw": "Ukrainian Strike Kills 1 in Southern Russia, Refinery on Fire",
+      "lead_raw": "Ukraine has targeted Russian energy infrastructure throughout the war in retaliation for Russian strikes on its civilians and energy infrastructure.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d2296a2234672c5243d5099d0210eb8a8d61fd7f",
       "fingerprint": "d2a95370f716b0357512829bf0a67a36f508d39a",
@@ -351,184 +417,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a33ec00ae04763d8befc2d20b5dd27e1222f3ac9",
-      "fingerprint": "8c9d0bf29e92e4802f82b38df757286939b526f9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2151963",
-      "published_utc": "2026-06-26T10:41:58Z",
-      "title_en": "Fuel stocks in Russia, potential ban on diesel exports: Novak’s statements",
-      "lead_en": "The frenzy in the Russian fuel market has led to an artificial surge in demand of around 20-30%, the official noted",
-      "title_raw": "Fuel stocks in Russia, potential ban on diesel exports: Novak’s statements",
-      "lead_raw": "The frenzy in the Russian fuel market has led to an artificial surge in demand of around 20-30%, the official noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5fd53b3e6eee45ad062594bc689bfdf472bd2798",
-      "fingerprint": "a83f986f32bc29f7e9500882dd7a3091b6244d12",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/06/26/russian-region-caps-fuel-sales-at-15-liters-per-vehicle-the-tightest-limit-in-the-country",
-      "published_utc": "2026-06-26T10:34:16Z",
-      "title_en": "Russian region caps fuel sales at 15 liters per vehicle — the tightest limit in the country",
-      "lead_en": "Zabaykalsky Krai imposed a heightened readiness regime on June 25 to manage fuel market conditions, the regional government announced.",
-      "title_raw": "Russian region caps fuel sales at 15 liters per vehicle — the tightest limit in the country",
-      "lead_raw": "Zabaykalsky Krai imposed a heightened readiness regime on June 25 to manage fuel market conditions, the regional government announced.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "41fe29d114edc79fd1bdb8f5331d1c179cf5d945",
-      "fingerprint": "c836d08672b84bb15bbb79cbec02cccda289a633",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2151957",
-      "published_utc": "2026-06-26T10:32:06Z",
-      "title_en": "Frenzy in Russia’s fuel market has artificially driven up demand by 20-30% — Novak",
-      "lead_en": "The official described the situation in the Russian fuel market as challenging but under control",
-      "title_raw": "Frenzy in Russia’s fuel market has artificially driven up demand by 20-30% — Novak",
-      "lead_raw": "The official described the situation in the Russian fuel market as challenging but under control",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "71c068dccc1ba177719570a98b6710be17363dc4",
-      "fingerprint": "12c1b6549292bb2d35a8e602595fa6dbc6045665",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2151947",
-      "published_utc": "2026-06-26T10:21:09Z",
-      "title_en": "Gazprom expects increase in gas supplies to China in 2026",
-      "lead_en": "\"The growth in supplies to China largely offsets the decline in exports to Europe,\" Deputy Chairman of the Russian holding Famil Sadygov said",
-      "title_raw": "Gazprom expects increase in gas supplies to China in 2026",
-      "lead_raw": "\"The growth in supplies to China largely offsets the decline in exports to Europe,\" Deputy Chairman of the Russian holding Famil Sadygov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "484e5a35f397a473c07d02e6888a9ff99bf871c9",
-      "fingerprint": "81f8e6caf1034bf1f7f3d06696927f28164be9f4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2151923",
-      "published_utc": "2026-06-26T09:51:50Z",
-      "title_en": "Gazprom, China discussing new gas supply opportunities in detail",
-      "lead_en": "According to the Russian holding’s Chief Executive Officer Alexey Miller, the increase in Gazprom’s contractual obligations \"demonstrates a high level of mutual trust and the demand for Russian gas on the Chinese market\"",
-      "title_raw": "Gazprom, China discussing new gas supply opportunities in detail",
-      "lead_raw": "According to the Russian holding’s Chief Executive Officer Alexey Miller, the increase in Gazprom’s contractual obligations \"demonstrates a high level of mutual trust and the demand for Russian gas on the Chinese market\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d27190354f14c115795062b066d2e0dc2b731217",
-      "fingerprint": "3ca428c0c4438ee8ad1ba9e3901d8e1659274cb7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2151883",
-      "published_utc": "2026-06-26T09:29:55Z",
-      "title_en": "Russia currently has sufficient fuel reserves — Novak",
-      "lead_en": "The authorities are currently restructuring logistics within the fuel market to meet demand, the Russian deputy prime minister said",
-      "title_raw": "Russia currently has sufficient fuel reserves — Novak",
-      "lead_raw": "The authorities are currently restructuring logistics within the fuel market to meet demand, the Russian deputy prime minister said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fe1acb728efbe4bfeac04b424a02d2344d0acacc",
-      "fingerprint": "9e100be6c1b4f3214d1ab884c38beae2a807f6c6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2151871",
-      "published_utc": "2026-06-26T08:56:52Z",
-      "title_en": "Russian deputy PM Novak to hold meeting on fuel market, diesel export ban to be discussed",
-      "lead_en": "In early June, the Russian government imposed a temporary ban on the export of aviation kerosene, which will remain in effect until November 30, 2026",
-      "title_raw": "Russian deputy PM Novak to hold meeting on fuel market, diesel export ban to be discussed",
-      "lead_raw": "In early June, the Russian government imposed a temporary ban on the export of aviation kerosene, which will remain in effect until November 30, 2026",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8ad22b767c691cb0281b7d21bcb34baec9bfc456",
-      "fingerprint": "845d3b6690892ac9c53a8c96d57c4388f94a578a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27859607",
-      "published_utc": "2026-06-26T08:39:40Z",
-      "title_en": "Fuel reserves in Russia and the possibility of a ban on diesel exports. Novak's statements",
-      "lead_en": "The excitement led to an artificial increase in demand by about 20-30%, the Deputy Prime Minister indicated",
-      "title_raw": "Запасы топлива в России и возможность запрета на экспорт дизеля. Заявления Новака",
-      "lead_raw": "Ажиотаж привел к искусственному росту спроса примерно на 20-30%, указал вице-премьер",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
