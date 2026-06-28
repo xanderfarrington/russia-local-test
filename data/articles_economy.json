@@ -1,8 +1,32 @@
 {
-  "updated_at_utc": "2026-06-28T17:17:34Z",
+  "updated_at_utc": "2026-06-28T19:26:43Z",
   "topic": "economy",
   "count": 9,
   "articles": [
+    {
+      "id": "84e1c677424b124cd17bb7b3f7b34fbb7f06a9ff",
+      "fingerprint": "a9d062589d220052a2e61b62e0498f9b5b0bb95a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27865913",
+      "published_utc": "2026-06-28T18:35:15Z",
+      "title_en": "Putin approved the new composition of the commission to ensure Russia's participation in the G20",
+      "lead_en": "It included representatives of the Kremlin, the Ministry of Foreign Affairs, the Ministry of Industry and Trade, the Ministry of Economic Development, the Ministry of Agriculture, the Ministry of Energy, the Ministry of Finance, the Ministry of Digital Development, the Ministry o",
+      "title_raw": "Путин утвердил новый состав комиссии по обеспечению участия России в G20",
+      "lead_raw": "В него вошли представители Кремля, МИД, Минпромторга, Минэкономразвития, Минсельхоза, Минэнерго, Минфина, Минцифры, Минприроды, Минобрнауки, Минпросвещения, Минтруда, Минздрава, Центробанка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "17c65edf68ef6ef55e863cc79ed365b17a1b4f8f",
       "fingerprint": "842c263e1d47ecccf4d569c1c2d8ff03b3f473c9",
@@ -184,28 +208,6 @@
         "economy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2e36e6be14ad27c6b46bfaf72c27674a3c0ea48d",
-      "fingerprint": "aadbb9791804001c90fe90f40abf8857f0e5bc69",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27862267",
-      "published_utc": "2026-06-26T19:16:16Z",
-      "title_en": "The volume of contracts concluded at the Forum of Regions has almost doubled",
-      "lead_en": "At the event in 2026, the figure exceeded 1.7 billion Belarusian rubles, said Roman Brodov, Chairman of the Standing Committee of the Council of the Republic of the National Assembly of Belarus on Economics, Budget and Finance",
-      "title_raw": "Объем заключенных контрактов на Форуме регионов вырос почти вдвое",
-      "lead_raw": "На мероприятии в 2026 году показатель превысил 1,7 млрд белорусских рублей, сообщил председатель постоянной комиссии Совета Республики Нацсобрания Белоруссии по экономике, бюджету и финансам Роман Бродов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

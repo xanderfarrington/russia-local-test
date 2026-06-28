@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-06-28T17:17:34Z",
+  "updated_at_utc": "2026-06-28T19:26:43Z",
   "topic": "diplomacy",
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "id": "84e1c677424b124cd17bb7b3f7b34fbb7f06a9ff",
+      "fingerprint": "a9d062589d220052a2e61b62e0498f9b5b0bb95a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27865913",
+      "published_utc": "2026-06-28T18:35:15Z",
+      "title_en": "Putin approved the new composition of the commission to ensure Russia's participation in the G20",
+      "lead_en": "It included representatives of the Kremlin, the Ministry of Foreign Affairs, the Ministry of Industry and Trade, the Ministry of Economic Development, the Ministry of Agriculture, the Ministry of Energy, the Ministry of Finance, the Ministry of Digital Development, the Ministry o",
+      "title_raw": "Путин утвердил новый состав комиссии по обеспечению участия России в G20",
+      "lead_raw": "В него вошли представители Кремля, МИД, Минпромторга, Минэкономразвития, Минсельхоза, Минэнерго, Минфина, Минцифры, Минприроды, Минобрнауки, Минпросвещения, Минтруда, Минздрава, Центробанка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a20c0d2958ddb95eeb9a3388417daab60fe910e9",
+      "fingerprint": "d21aae8d97a642b12289a47980677e8fb4cf4728",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27865891",
+      "published_utc": "2026-06-28T18:04:35Z",
+      "title_en": "The Russian national basketball team lost to the Hungarians in a friendly match",
+      "lead_en": "The meeting ended with a score of 72:71 in favor of the Hungarians",
+      "title_raw": "Сборная России по баскетболу проиграла венграм в товарищеском матче",
+      "lead_raw": "Встреча завершилась со счетом 72:71 в пользу венгров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "8529bda7689bc869c361bea95ede868cfe33a14d",
       "fingerprint": "feace4073da7d2e2890ab3b3582b86dbf0c18c8e",
@@ -1153,73 +1199,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "880cc9b058f63bf59971d324152357e2d1aa1bd3",
-      "fingerprint": "01c0d9b68c50976f015e645a6592ec53cf0684f0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27862279",
-      "published_utc": "2026-06-26T19:21:40Z",
-      "title_en": "Russian Ambassador: Four Russians were injured in the earthquake in Venezuela",
-      "lead_en": "The injured Russian citizens suffered mild to moderate injuries, said Sergei Melik-Bagdasarov",
-      "title_raw": "Посол РФ: при землетрясении в Венесуэле пострадали четверо россиян",
-      "lead_raw": "У пострадавших граждан России травмы легкой и средней тяжести, уточнил Сергей Мелик-Багдасаров",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4f67772868574b9e07f904e590c847173feaad81",
-      "fingerprint": "e96415f5d1a7a6e93e931628b8e99cdddc26b661",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27862167",
-      "published_utc": "2026-06-26T18:14:55Z",
-      "title_en": "Lavrov expressed condolences on the death of Ivanov",
-      "lead_en": "The head of the Russian Foreign Ministry called the former special presidential representative on environmental issues, ecology and transport a true patriot of the country and an outstanding statesman",
-      "title_raw": "Лавров выразил соболезнования в связи со смертью Иванова",
-      "lead_raw": "Глава МИД РФ назвал бывшего спецпредставителя президента по вопросам природоохранной деятельности, экологии и транспорта настоящим патриотом страны и выдающимся государственным деятелем",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f627d761a8573536dd22b70d0dea90858b8fa07c",
-      "fingerprint": "bd74424340d8333355cffa4fb165bfd46e4e9f24",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2152175",
-      "published_utc": "2026-06-26T18:07:33Z",
-      "title_en": "Novak orders additional fuel market support measures to be developed",
-      "lead_en": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "title_raw": "Novak orders additional fuel market support measures to be developed",
-      "lead_raw": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

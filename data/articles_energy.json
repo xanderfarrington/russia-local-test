@@ -1,8 +1,99 @@
 {
-  "updated_at_utc": "2026-06-28T17:17:34Z",
+  "updated_at_utc": "2026-06-28T19:26:43Z",
   "topic": "energy",
-  "count": 20,
+  "count": 23,
   "articles": [
+    {
+      "id": "bf24a05770751884f980c71156e981c6bbdbd12d",
+      "fingerprint": "23cf8d96467b5ff765778cdb622180646cc6f6b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27865945",
+      "published_utc": "2026-06-28T19:03:15Z",
+      "title_en": "Putin: to cover the energy deficit, imports will also be established",
+      "lead_en": "It is also necessary to “coordinate the work of all levels and structures involved in repelling attacks by unmanned aerial vehicles and missiles on our infrastructure and people,” the Russian President noted",
+      "title_raw": "Путин: для покрытия дефицита в энергетике будет в том числе налаживаться импорт",
+      "lead_raw": "Также необходимо \"слаживание работы всех уровней и структур, участвующих в отражении атак беспилотных летательных аппаратов и ракет на нашу инфраструктурыу и людей\", отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "acc0e0959103c29c413f062288258d85729ec061",
+      "fingerprint": "63753196ad95b2990c46c19bd855bea0c6b0f18b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27865941",
+      "published_utc": "2026-06-28T19:02:18Z",
+      "title_en": "Putin: there is a deficit in the energy sector after the Ukrainian Armed Forces’ strikes, but not critical",
+      "lead_en": "As the president noted, it is obvious that the Kyiv regime’s attacks on the Russian energy sector create certain problems",
+      "title_raw": "Путин: дефицит после ударов ВСУ по энергетике наблюдается, но не критичный",
+      "lead_raw": "Как отметил президент, то, что удары киевского режима по энергетике РФ создают определенные проблемы, является очевидным",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3c8edf321e27d731b23c9547b7e3446f867f1bc4",
+      "fingerprint": "7485ffd9e00c5b5af310523e41a59f5b90a1c939",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27865939",
+      "published_utc": "2026-06-28T19:01:47Z",
+      "title_en": "Putin: attacks on Russia's energy sector create problems",
+      "lead_en": "",
+      "title_raw": "Путин: удары по энергетике России создают проблемы",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "84e1c677424b124cd17bb7b3f7b34fbb7f06a9ff",
+      "fingerprint": "a9d062589d220052a2e61b62e0498f9b5b0bb95a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27865913",
+      "published_utc": "2026-06-28T18:35:15Z",
+      "title_en": "Putin approved the new composition of the commission to ensure Russia's participation in the G20",
+      "lead_en": "It included representatives of the Kremlin, the Ministry of Foreign Affairs, the Ministry of Industry and Trade, the Ministry of Economic Development, the Ministry of Agriculture, the Ministry of Energy, the Ministry of Finance, the Ministry of Digital Development, the Ministry o",
+      "title_raw": "Путин утвердил новый состав комиссии по обеспечению участия России в G20",
+      "lead_raw": "В него вошли представители Кремля, МИД, Минпромторга, Минэкономразвития, Минсельхоза, Минэнерго, Минфина, Минцифры, Минприроды, Минобрнауки, Минпросвещения, Минтруда, Минздрава, Центробанка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "79919767366f9170bbe182135886eeb41a96597d",
       "fingerprint": "433b3a819c47e06f26a76777e3ab1493e20091ee",
@@ -422,29 +513,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f627d761a8573536dd22b70d0dea90858b8fa07c",
-      "fingerprint": "bd74424340d8333355cffa4fb165bfd46e4e9f24",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2152175",
-      "published_utc": "2026-06-26T18:07:33Z",
-      "title_en": "Novak orders additional fuel market support measures to be developed",
-      "lead_en": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "title_raw": "Novak orders additional fuel market support measures to be developed",
-      "lead_raw": "Participants in the meeting reviewed the current situation regarding supplies of petroleum products to Russian regions and analyzed pricing trends across the federal districts",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
