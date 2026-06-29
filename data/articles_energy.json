@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-06-29T14:08:00Z",
+  "updated_at_utc": "2026-06-29T17:41:04Z",
   "topic": "energy",
-  "count": 33,
+  "count": 36,
   "articles": [
+    {
+      "id": "729bbd85dcd877bee0792a805e5d6c62b676fc5c",
+      "fingerprint": "4506639ebb3b67bed334484dc0c5aa87c7120b38",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27868839",
+      "published_utc": "2026-06-29T15:31:09Z",
+      "title_en": "Shoigu: Russia has every opportunity to begin a new stage in the construction of hydroelectric power stations",
+      "lead_en": "The Secretary of the Security Council of the Russian Federation drew attention to the importance of developing hydropower as a renewable energy source",
+      "title_raw": "Шойгу: у России есть все возможности для начала нового этапа сооружения ГЭС",
+      "lead_raw": "Секретарь Совета безопасности РФ обратил внимание на важность развития гидроэнергетики как возобновляемого источника энергии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d15dbb147a6be396d40e7dbcb282e1b169af12f5",
+      "fingerprint": "67783f1672308269a59a56052999c72e3d372dac",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2153125",
+      "published_utc": "2026-06-29T15:15:18Z",
+      "title_en": "Bank of Russia raises dollar exchange rate to 77.7 rubles for June 30",
+      "lead_en": "The official euro exchange rate has been raised by 1 ruble and 24.45 kopecks to 88.6472 rubles",
+      "title_raw": "Bank of Russia raises dollar exchange rate to 77.7 rubles for June 30",
+      "lead_raw": "The official euro exchange rate has been raised by 1 ruble and 24.45 kopecks to 88.6472 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "aec025fbded513379c4aa91475f70794b104bf86",
+      "fingerprint": "b55d621c279c54ab5de640c4893b713f2c89b7a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2153121",
+      "published_utc": "2026-06-29T15:07:37Z",
+      "title_en": "Russian forces strike drone storage facility in Kharkov",
+      "lead_en": "Secondary detonations were detected at the facility, which confirmed that the premises of Megasklad were used for military purposes in the interests of the Ukrainian armed forces",
+      "title_raw": "Russian forces strike drone storage facility in Kharkov",
+      "lead_raw": "Secondary detonations were detected at the facility, which confirmed that the premises of Megasklad were used for military purposes in the interests of the Ukrainian armed forces",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6cd62d760793cce2c1cbcacde26f331528ec51a8",
+      "fingerprint": "a0623a0dc2ba99ff4e48afcac6a2077a4cbbfa0b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2153113",
+      "published_utc": "2026-06-29T14:47:32Z",
+      "title_en": "Refineries operating at maximum capacity, Russian market becoming saturated with fuel",
+      "lead_en": "All major suppliers are carrying out seaborne shipments of diesel and gasoline to the Kaliningrad Region",
+      "title_raw": "Refineries operating at maximum capacity, Russian market becoming saturated with fuel",
+      "lead_raw": "All major suppliers are carrying out seaborne shipments of diesel and gasoline to the Kaliningrad Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "07ad878356635d6aeff440a957118fcd6160df9b",
       "fingerprint": "3145cb0c73ee078866002c64f4410640d8d78e9c",
@@ -713,28 +803,6 @@
         "energy": 2,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0666e8b00feea5071982c8147d735b8085bed800",
-      "fingerprint": "119b334556743d8a3cf8a64c4f7b6ab25633dae7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27863773",
-      "published_utc": "2026-06-27T14:24:04Z",
-      "title_en": "The Russian Armed Forces hit the SP Yukoil petroleum products plant near Zaporozhye",
-      "lead_en": "It is used in the interests of the Ukrainian Armed Forces",
-      "title_raw": "ВС России у Запорожья поразили завод по производству нефтепродуктов \"СП юкоил\"",
-      "lead_raw": "Он используется в интересах ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "energy"
