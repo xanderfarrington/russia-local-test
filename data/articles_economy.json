@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-06-28T23:07:22Z",
+  "updated_at_utc": "2026-06-29T04:19:12Z",
   "topic": "economy",
-  "count": 9,
+  "count": 8,
   "articles": [
+    {
+      "id": "2025961606a310d65bc17765f35b5b971f137889",
+      "fingerprint": "2b2a5c175c151757b04e230d8ecdce5cb9d0500d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27866347",
+      "published_utc": "2026-06-29T00:38:06Z",
+      "title_en": "The study showed that Russians bought 511.5 thousand used cars in May",
+      "lead_en": "In total, 595.3 billion rubles were spent on them, as follows from the materials of the Gazprombank Autoleasing company and the analytical agency Autostat.",
+      "title_raw": "Исследование показало, что россияне в мае купили 511,5 тыс. подержанных машин",
+      "lead_raw": "Всего на них потратили 595,3 млрд рублей, следует из материалов компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "84e1c677424b124cd17bb7b3f7b34fbb7f06a9ff",
       "fingerprint": "a9d062589d220052a2e61b62e0498f9b5b0bb95a",
@@ -161,53 +184,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "470e7c4384245a1f82f9a7ea401291358db196ba",
-      "fingerprint": "cdabf16717cb44c0c91b9bae29643f49afae70ec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27862631",
-      "published_utc": "2026-06-27T02:02:19Z",
-      "title_en": "Russian Foreign Ministry: Russia's partners are sometimes forced to follow sanctions despite developments",
-      "lead_en": "The effectiveness of restrictions would tend to zero if Moscow’s foreign trade partners were not so included in the Western-centric system, pointed out Ambassador at Large of the department Alexander Trofimov",
-      "title_raw": "МИД РФ: партнеры России иногда вынуждены следовать санкциям вопреки развитию",
-      "lead_raw": "Эффективность рестрикций стремилась бы к нулю, если бы внешнеторговые партнеры Москвы не были настолько включены в западоцентричную систему, указал посол по особым поручениям ведомства Александр Трофимов",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "876aef20a8470e536349c2036e51be198365901e",
-      "fingerprint": "8eea45ff7a85c21cae2dde9a513ba524870fb65e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2152269",
-      "published_utc": "2026-06-27T01:30:01Z",
-      "title_en": "Western attempts strangle Russia financially, economically fail — diplomat",
-      "lead_en": "Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov stressed that Russia has withstood the sanctions-driven economic blitzkrieg thanks to the consistent efforts of the government, society, and the business community",
-      "title_raw": "Western attempts strangle Russia financially, economically fail — diplomat",
-      "lead_raw": "Russian Foreign Ministry’s Ambassador-at-Large Alexander Trofimov stressed that Russia has withstood the sanctions-driven economic blitzkrieg thanks to the consistent efforts of the government, society, and the business community",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
