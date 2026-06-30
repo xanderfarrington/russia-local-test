@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-06-30T15:31:33Z",
+  "updated_at_utc": "2026-06-30T18:00:06Z",
   "topic": "local_events",
-  "count": 3,
+  "count": 5,
   "articles": [
+    {
+      "id": "b8b979c17775aad655e83adf52b9064082129aaa",
+      "fingerprint": "30f1e9989406694b026b550f076c596c79e31d21",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2153683",
+      "published_utc": "2026-06-30T16:49:20Z",
+      "title_en": "Russia to send aircraft to Turkey to fight forest fires",
+      "lead_en": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
+      "title_raw": "Russia to send aircraft to Turkey to fight forest fires",
+      "lead_raw": "In response to a request from the Turkish authorities, two Be-200 aircraft will soon be deployed to support efforts in extinguishing seasonal wildfires",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2a23b8fe17286d41c3d6ca7e5977c8079df4ff7c",
+      "fingerprint": "a78b1620445be05d98c9a328cb747c112a1b6eb8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27872849",
+      "published_utc": "2026-06-30T16:07:10Z",
+      "title_en": "Russia will send planes to Turkey to fight forest fires",
+      "lead_en": "The Russian Embassy reported that Moscow will send two Be-200ES aircraft",
+      "title_raw": "Россия направит в Турцию самолеты для борьбы с лесными пожарами",
+      "lead_raw": "Посольство РФ сообщило, что Москва отправит два самолета Бе-200ЧС",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f58d89dac9da9ea931435041e21babb9e276c668",
       "fingerprint": "d2b5ef7b5269575a5073fe587d0113f6e3d9ab00",
