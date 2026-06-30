@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-06-30T18:00:06Z",
+  "updated_at_utc": "2026-06-30T20:12:16Z",
   "topic": "economy",
   "count": 17,
   "articles": [
+    {
+      "id": "b2a5eff13212af48074b84b174ebe8d5c1fb43d1",
+      "fingerprint": "642427fcb1d42cb7f22e5a17351b33d657d459ce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/27873047",
+      "published_utc": "2026-06-30T18:23:34Z",
+      "title_en": "The Central Bank will conduct a survey of risks in the housing market",
+      "lead_en": "Also, from July to October, the Bank of Russia will study the quality of loans by type of preferential mortgage programs",
+      "title_raw": "ЦБ проведет обследование рисков на рынке жилья",
+      "lead_raw": "Также с июля по октябрь Банк России изучит качество кредитов в разрезе типов льготных ипотечных программ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d21fc788be68de22ee86f52376d43f291b9f5e0e",
       "fingerprint": "2daf290ee52ecdae7b60d79cca9d5b39552f0c3e",
@@ -362,30 +384,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "84e1c677424b124cd17bb7b3f7b34fbb7f06a9ff",
-      "fingerprint": "a9d062589d220052a2e61b62e0498f9b5b0bb95a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27865913",
-      "published_utc": "2026-06-28T18:35:15Z",
-      "title_en": "Putin approved the new composition of the commission to ensure Russia's participation in the G20",
-      "lead_en": "It included representatives of the Kremlin, the Ministry of Foreign Affairs, the Ministry of Industry and Trade, the Ministry of Economic Development, the Ministry of Agriculture, the Ministry of Energy, the Ministry of Finance, the Ministry of Digital Development, the Ministry o",
-      "title_raw": "Путин утвердил новый состав комиссии по обеспечению участия России в G20",
-      "lead_raw": "В него вошли представители Кремля, МИД, Минпромторга, Минэкономразвития, Минсельхоза, Минэнерго, Минфина, Минцифры, Минприроды, Минобрнауки, Минпросвещения, Минтруда, Минздрава, Центробанка",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
