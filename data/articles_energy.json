@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-01T15:45:53Z",
+  "updated_at_utc": "2026-07-01T18:00:56Z",
   "topic": "energy",
-  "count": 45,
+  "count": 46,
   "articles": [
+    {
+      "id": "68960964e22714820be868f256debfb323b12966",
+      "fingerprint": "815c052f5b3435abd7b6314be0341eb356fdfda4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2154115",
+      "published_utc": "2026-07-01T16:29:48Z",
+      "title_en": "Russian Prosecutor General's Office declares American Coalition for Ukraine undesirable",
+      "lead_en": "ACU is headquartered in Washington",
+      "title_raw": "Russian Prosecutor General's Office declares American Coalition for Ukraine undesirable",
+      "lead_raw": "ACU is headquartered in Washington",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b7af1cdb84d24f6e5c7847a920b06aac5c3c74b4",
+      "fingerprint": "02bc4576c33a96a116acbde556e7af06f36aadea",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/01/russia-begins-buying-gasoline-from-india-amid-domestic-shortage-reuters-reports",
+      "published_utc": "2026-07-01T16:25:21Z",
+      "title_en": "Russia begins buying gasoline from India amid domestic shortage, Reuters reports",
+      "lead_en": "Amid a domestic fuel shortage, Russia has begun importing gasoline from India by sea, Reuters reported, citing industry sources.",
+      "title_raw": "Russia begins buying gasoline from India amid domestic shortage, Reuters reports",
+      "lead_raw": "Amid a domestic fuel shortage, Russia has begun importing gasoline from India by sea, Reuters reported, citing industry sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "76b9f4a574335c1c5ab3c88e4b6fa2d1e790076a",
       "fingerprint": "8edf424cbf7d0c179a2b13d283c5077337f7e252",
@@ -965,28 +1009,6 @@
       "lead_en": "Moscow is seriously concerned about the sharp intensification of terrorist attacks against the Zaporizhia NPP and the satellite town of Energodar, said Russia’s acting permanent representative to the UN Anna Evstigneeva",
       "title_raw": "Постпредство РФ: Киев пытается шантажировать регион риском ядерной катастрофы",
       "lead_raw": "Москва серьезно озабочена резкой активизацией террористических атак против ЗАЭС и города-спутника Энергодара, заявила исполняющая обязанности постоянного представителя России при ООН Анна Евстигнеева",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "32f2da875e111306e1f405bd9909de57db1693b4",
-      "fingerprint": "34d955307cef068086350d4a33ba91878472ccc7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27869191",
-      "published_utc": "2026-06-29T17:54:46Z",
-      "title_en": "The State Duma noted that the Russian Federation uses the potential of hydropower by 20%",
-      "lead_en": "Chairman of the State Duma Committee on Energy Nikolai Shulginov noted that this is significantly lower than it is used in many other countries",
-      "title_raw": "В Госдуме отметили, что РФ использует потенциал гидроэнергетики на 20%",
-      "lead_raw": "Председатель комитета ГД по энергетике Николай Шульгинов отметил, что это значительно ниже, чем он использован во многих других странах",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
