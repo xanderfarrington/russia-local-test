@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-02T21:12:18Z",
+  "updated_at_utc": "2026-07-02T23:11:34Z",
   "topic": "diplomacy",
   "count": 100,
   "articles": [
+    {
+      "id": "3042d13952fb53aae826eb2f6b1fc1bc28f5b178",
+      "fingerprint": "03df119ffdccc86e94cc4ef4476f4a2c351ea5cd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27880655",
+      "published_utc": "2026-07-02T22:02:20Z",
+      "title_en": "Russian Embassy: The Netherlands is intensively preparing for war “on the eastern flank of NATO”",
+      "lead_en": "Amsterdam is actively modernizing military logistics and infrastructure facilities and expanding its capabilities for receiving allied forces and conducting military exercises, the Russian diplomatic department noted",
+      "title_raw": "Посольство РФ: Нидерланды усиленно готовятся к войне \"на восточном фланге НАТО\"",
+      "lead_raw": "Амстердам активно модернизирует объекты военной логистики и инфраструктуры и расширяет возможности по приему союзных сил и проведению военных учений, отметили в российском дипведомстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "25686f0d538b71fa2ed0edd38f4c5ad302c95be6",
       "fingerprint": "6df342d9d831d9f5d65bce2b6dbb94beb61fdc5c",
@@ -2188,28 +2211,6 @@
       "lead_en": "Without it, a long-term settlement is impossible, said Deputy Secretary of the Russian Security Council Alexander Venediktov",
       "title_raw": "Россия надеется на заключение США и Ираном юридически обязывающего соглашения",
       "lead_raw": "Без него долгосрочное урегулирование невозможно, заявил замсекретаря Совета безопасности РФ Александр Венедиктов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "244f81b93032cb520d660431b3953797b5222e6d",
-      "fingerprint": "7661b5509628b6efb7a29000429473f3fe469a04",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27873325",
-      "published_utc": "2026-06-30T21:25:27Z",
-      "title_en": "Russian Foreign Ministry: Moscow did not receive a reaction from the UN in connection with the Ukrainian Armed Forces’ strike on Starobelsk",
-      "lead_en": "All letters from the secretary general of the world organization were “very disappointing,” noted Deputy Head of the Russian Diplomatic Ministry Alexander Alimov",
-      "title_raw": "МИД РФ: Москва не получила реакции от ООН в связи с ударом ВСУ по Старобельску",
-      "lead_raw": "Все письма от генсека всемирной организации были \"очень разочаровывающими\", отметил замглавы российского дипведомства Александр Алимов",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
