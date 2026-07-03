@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-03T10:40:30Z",
+  "updated_at_utc": "2026-07-03T12:58:12Z",
   "topic": "energy",
-  "count": 57,
+  "count": 54,
   "articles": [
+    {
+      "id": "c64f79fa466a8ac1f7587a2f65401db785236076",
+      "fingerprint": "d4262af2f84837d90c70a65f0e3555a06aeac76f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/opinions/27882767",
+      "published_utc": "2026-07-03T12:30:00Z",
+      "title_en": "The oil crisis is not over for Japan",
+      "lead_en": "Kirill Agafonov - about how Tokyo is filling the energy shortage and what role the war in the Middle East and Russia play",
+      "title_raw": "Нефтяной кризис для Японии не закончился",
+      "lead_raw": "Кирилл Агафонов — о том, как Токио восполняет дефицит энергоресурсов и какую роль играют война на Ближнем Востоке и Россия",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ae62198f858b12144951d5fbee7230567f73fb09",
+      "fingerprint": "eeaa7f11e485535d5271297ff88d5b4c50758b6c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27882931",
+      "published_utc": "2026-07-03T12:19:33Z",
+      "title_en": "Telegraph: new UAVs have significantly increased the effectiveness of the Russian Armed Forces",
+      "lead_en": "The newspaper noted that some devices develop such high speeds that they can be confused with missiles",
+      "title_raw": "Telegraph: новые БПЛА значительно повысили эффективность ВС РФ",
+      "lead_raw": "Газета отметила, что некоторые аппараты развивают столь высокую скорость, что их можно спутать с ракетами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f98de1cafd05ee6c2afe9146e4c5f63e629ec03e",
+      "fingerprint": "19bfab58264902e5173ab91e03d42acd65e7c18b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27882895",
+      "published_utc": "2026-07-03T12:14:00Z",
+      "title_en": "Novorossiysk resumed selling gasoline at gas stations without fuel cards",
+      "lead_en": "There are 15 gas stations dispensing fuel in the city.",
+      "title_raw": "В Новороссийске возобновили продажу бензина на АЗС без топливных карт",
+      "lead_raw": "В городе отпускают топливо 15 автозаправочных станций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2e4168fe5e7d759d9ffc27fa0cf911d988285c3b",
       "fingerprint": "209b018f70b098844210355a7b697919fbdeb6df",
@@ -1137,139 +1204,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b2a5c0172fd7985d4f19b8f7a05f10398648876d",
-      "fingerprint": "e025cbed0ffb2f73f991e9334c89ab6e1a11c076",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27875583",
-      "published_utc": "2026-07-01T12:31:34Z",
-      "title_en": "Novak: Russian integrated oil companies keep fuel price increases at inflation levels",
-      "lead_en": "",
-      "title_raw": "Новак: интегрированные нефтяные компании РФ держат рост цен на топливо на уровне инфляции",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0821cc08e0078781e96647e676e1a10c0b276983",
-      "fingerprint": "fceef73a191212d410d451db03228fdde14f7773",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27875581",
-      "published_utc": "2026-07-01T12:28:43Z",
-      "title_en": "Novak: the Russian domestic market is provided with fuel",
-      "lead_en": "",
-      "title_raw": "Новак: внутренний рынок России обеспечен топливом",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9622291889ef625c455ddc4cc0a13de5de5e61ce",
-      "fingerprint": "473f5a74ed78e0ee7ef74aca44f13859f17f9c2b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2153969",
-      "published_utc": "2026-07-01T12:09:06Z",
-      "title_en": "Share of fuel and energy sector in Russian GDP declines to 13% — Novak",
-      "lead_en": "The export share in the GDP structure declined almost threefold, the deputy prime minister noted",
-      "title_raw": "Share of fuel and energy sector in Russian GDP declines to 13% — Novak",
-      "lead_raw": "The export share in the GDP structure declined almost threefold, the deputy prime minister noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2c7213837c7b7a3ee95b3b035209ade56e212c6c",
-      "fingerprint": "ab10688db9058a60535cdf662eb0eb441d8a0d6f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27875303",
-      "published_utc": "2026-07-01T11:58:01Z",
-      "title_en": "Expert Liminchuk assessed the closure of Russian railway points on the border with the EU",
-      "lead_en": "The Chairman of the Committee on Economic and Industrial Policy, Energy and Housing and Communal Services of the Legislative Assembly of the Republic of Karelia called this a technical point",
-      "title_raw": "Эксперт Лиминчук оценил закрытие РФ ж/д пунктов на границе с ЕС",
-      "lead_raw": "Председатель комитета по экономической и промышленной политике, энергетике и жилищно-коммунальному хозяйству Законодательного собрания Республики Карелия назвал это техническим моментом",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dac4a630a7978df25a3755cfb89d9c2923fc91e6",
-      "fingerprint": "bc1d674cf9ff400d8da39adf571d23b4715a0223",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2153957",
-      "published_utc": "2026-07-01T11:42:31Z",
-      "title_en": "Russian gas exports to Europe over TurkStream up 5% in H1 2026",
-      "lead_en": "Russian gas exports to Europe in June plunged by 26% month-on-month and by 4% year on year to 1.08 bln cubic meters",
-      "title_raw": "Russian gas exports to Europe over TurkStream up 5% in H1 2026",
-      "lead_raw": "Russian gas exports to Europe in June plunged by 26% month-on-month and by 4% year on year to 1.08 bln cubic meters",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "48268a5375fa9f78fb51b62f43fe54973f3aee71",
-      "fingerprint": "e552bccce5aa76d42f601e9deef0682feb622525",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2153941",
-      "published_utc": "2026-07-01T11:08:03Z",
-      "title_en": "India’s June oil imports hit record 4.93 mln bpd, over half from Russia",
-      "lead_en": "The expert pointed out that Indian refiners have already secured oil supplies for the first half of August",
-      "title_raw": "India’s June oil imports hit record 4.93 mln bpd, over half from Russia",
-      "lead_raw": "The expert pointed out that Indian refiners have already secured oil supplies for the first half of August",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
