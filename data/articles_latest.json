@@ -1,8 +1,547 @@
 {
-  "updated_at_utc": "2026-07-03T03:38:09Z",
+  "updated_at_utc": "2026-07-03T07:24:59Z",
   "keep_hours": 48,
-  "count": 546,
+  "count": 559,
   "articles": [
+    {
+      "id": "9ba15b356e854ab6c62cc5c9ea3e0fe2d3766af3",
+      "fingerprint": "589bb9d4de457b8a4ad0f9533771fc9a26669076",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27881579",
+      "published_utc": "2026-07-03T07:18:53Z",
+      "title_en": "VTsIOM: Russians' level of trust in Putin exceeds 73%",
+      "lead_en": "45.7% of respondents approve of government activities",
+      "title_raw": "ВЦИОМ: уровень доверия россиян Путину превышает 73%",
+      "lead_raw": "Деятельность правительства одобряют 45,7% опрошенных",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "65330a0b66887bf4d21defcf8e8055a1fb67b8fc",
+      "fingerprint": "35fa189e97885a21a268218be111296955597b85",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27881573",
+      "published_utc": "2026-07-03T07:16:53Z",
+      "title_en": "The Communist Party of the Russian Federation brought documents to the Central Election Commission to certify the lists of candidates for the State Duma",
+      "lead_en": "The federal list of candidates included 336 candidates",
+      "title_raw": "КПРФ принесла в ЦИК документы для заверения списков кандидатов в Госдуму",
+      "lead_raw": "В федеральный список кандидатов вошли 336 кандидатов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b5764a6d03a245cb5383cfb010a2fd388ac14870",
+      "fingerprint": "c3066793cde09bc53d9ad08e2bb6179d166eb751",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/03/ukrainian-missiles-strike-belgorod-killing-one-woman-and-causing-power-and-water-outages",
+      "published_utc": "2026-07-03T07:06:35Z",
+      "title_en": "Ukraine launches missile strike on Belgorod, killing one woman and causing power and water outages",
+      "lead_en": "Ukrainian launched a missile strike on Russia’s Belgorod and the surrounding district on the morning of July 3, the regional emergency operations center reported.",
+      "title_raw": "Ukraine launches missile strike on Belgorod, killing one woman and causing power and water outages",
+      "lead_raw": "Ukrainian launched a missile strike on Russia’s Belgorod and the surrounding district on the morning of July 3, the regional emergency operations center reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0e40491bc435b00b1db7ea689ac487c4ece9f848",
+      "fingerprint": "ced5e1bc62574e3e1792975dbfef6474fcc8f2d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881527",
+      "published_utc": "2026-07-03T07:06:14Z",
+      "title_en": "The Russian stock market began to decline at the beginning of trading",
+      "lead_en": "The yuan exchange rate at 10:00 Moscow time was 11.4 rubles",
+      "title_raw": "Российский рынок акций перешел к снижению в начале торгов",
+      "lead_raw": "Курс юаня на 10:00 мск составил 11,4 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "525933c280cf8004eb8de703b7a6536585a27e06",
+      "fingerprint": "2aae53987cdb6434b606dade84a8c4eff33fa7e3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881521",
+      "published_utc": "2026-07-03T07:03:01Z",
+      "title_en": "In Russia, the market for hybrids and electric vehicles grew by 91% in the first half of the year.",
+      "lead_en": "Sales amounted to 54.3 thousand units",
+      "title_raw": "В России рынок гибридов и электромобилей в I полугодии вырос на 91%",
+      "lead_raw": "Продажи составили 54,3 тыс. штук",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1035e6ba3e924ad71b26e12805e3488a2e5de401",
+      "fingerprint": "84ae8c85a5e5cf93dcb097260f6f92af179a5d79",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27881525",
+      "published_utc": "2026-07-03T07:01:47Z",
+      "title_en": "Gymnast Dukhno tries not to think about the Russians’ chances of competing at the European Championships in Croatia",
+      "lead_en": "The tournament will take place in Zagreb from August 19 to 23",
+      "title_raw": "Гимнаст Духно старается не думать о шансах россиян выступить на ЧЕ в Хорватии",
+      "lead_raw": "Турнир пройдет в Загребе с 19 по 23 августа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4704a3dcd367ed209abe9744f19e09552f018e29",
+      "fingerprint": "9b7f3f2867483397216cd1928eeedd667d083fc2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881523",
+      "published_utc": "2026-07-03T07:01:11Z",
+      "title_en": "In Russia, sales of new cars in the first half of the year increased by 12%",
+      "lead_en": "They reached 679.8 thousand units, the Ministry of Industry and Trade reported",
+      "title_raw": "В России продажи новых авто в I полугодии выросли на 12%",
+      "lead_raw": "Они достигли 679,8 тыс. единиц, сообщил Минпромторг",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "721923380f1176b4332342af965699c11b3940d0",
+      "fingerprint": "4236bd9f3dfc854856f0969072b7015da0a67f18",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/27878717",
+      "published_utc": "2026-07-03T07:00:00Z",
+      "title_en": "Mikhail Porechenkov: cinema should answer the questions posed by time",
+      "lead_en": "President of the X festival of new Russian cinema \"Gorky Fest\", People's Artist of the Russian Federation Mikhail Porechenkov - about the search for the hero of our time, the trend for remakes, the new \"Hamlet\" and the place of AI in cinema",
+      "title_raw": "Михаил Пореченков: кино должно отвечать на вопросы, которые ставит время",
+      "lead_raw": "Президент X фестиваля нового российского кино \"Горький фест\", народный артист РФ Михаил Пореченков — о поиске героя нашего времени, тренде на ремейки, новом \"Гамлете\" и месте ИИ в кино",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "288822deaa171e653507200e0e2c68eae8a7cf68",
+      "fingerprint": "e7c891817fd00736dd2add7278669a64079ec53c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27881479",
+      "published_utc": "2026-07-03T06:55:22Z",
+      "title_en": "FOM: 71% of Russians surveyed trust Putin",
+      "lead_en": "44% of respondents gave a positive assessment of the government’s work",
+      "title_raw": "ФОМ: Путину доверяют 71% опрошенных россиян",
+      "lead_raw": "Положительную оценку работы правительства дали 44% респондентов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f5c6b645c079b5848315a5ab1883b72f744743b9",
+      "fingerprint": "312ca1f0b687ecb92d6c8502af28dc7066e13b0b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2154833",
+      "published_utc": "2026-07-03T06:54:23Z",
+      "title_en": "Moscow, Minsk coordinating their efforts to counter external threats — Putin",
+      "lead_en": "The Russian president emphasized that Belarus’ Independence Day was significant to Russians as well because it was linked to a glorious event in their shared history: the liberation of Minsk from Nazi invaders",
+      "title_raw": "Moscow, Minsk coordinating their efforts to counter external threats — Putin",
+      "lead_raw": "The Russian president emphasized that Belarus’ Independence Day was significant to Russians as well because it was linked to a glorious event in their shared history: the liberation of Minsk from Nazi invaders",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4e58320f8c76ea84ee156957eef401c6f5d08368",
+      "fingerprint": "d82ea03815839751b00053f549d301e8ead73eff",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2154829",
+      "published_utc": "2026-07-03T06:50:51Z",
+      "title_en": "Moscow, Minsk to defend their interests on world stage through partnership — Putin",
+      "lead_en": "The Russian leader wished his Belarusian counterpart good health and success and the Belarusian people well-being and prosperity",
+      "title_raw": "Moscow, Minsk to defend their interests on world stage through partnership — Putin",
+      "lead_raw": "The Russian leader wished his Belarusian counterpart good health and success and the Belarusian people well-being and prosperity",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e04e3b338db7ddae58dea009da633f5ac037cb54",
+      "fingerprint": "b05b3b9e4949404c1fa4db73359443ee5418bc59",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27881419",
+      "published_utc": "2026-07-03T06:43:53Z",
+      "title_en": "The Russian Armed Forces ambushed drones and disrupted the rotation of the Ukrainian Armed Forces near Krasny Liman",
+      "lead_en": "The Russian military destroyed pickup trucks and an ATV with a group of enemy soldiers",
+      "title_raw": "ВС РФ дронами из засады сорвали ротацию ВСУ у Красного Лимана",
+      "lead_raw": "Российские военные уничтожили пикапы и квадроцикл с группой солдат противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "76fb440b3a46b667b6f417579dd64bf200f74a07",
+      "fingerprint": "43f5875322ed0bfd66f4fadb0b70b514d8f50551",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27881411",
+      "published_utc": "2026-07-03T06:40:35Z",
+      "title_en": "Missile attack on Belgorod, fire near Smolensk and 155 UAVs. Attack on Russian regions",
+      "lead_en": "Drone debris was found at nine addresses in Primorsko-Akhtarsk in the Krasnodar Territory",
+      "title_raw": "Ракетный удар по Белгороду, пожар под Смоленском и 155 БПЛА. Атака на регионы РФ",
+      "lead_raw": "Обломки беспилотников обнаружили по девяти адресам в Приморско-Ахтарске в Краснодарском крае",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a693089e10a83bf615ffa2b19009afeccf03d30f",
+      "fingerprint": "fb3defeec62c8d84ca3c3c93d5fd3f121ef2e49e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881431",
+      "published_utc": "2026-07-03T06:40:30Z",
+      "title_en": "Bruegel: Russia has become the third largest gas supplier to the EU after Norway and the USA",
+      "lead_en": "According to the analytical center, total supplies in January - June amounted to about 22.1 billion cubic meters. m",
+      "title_raw": "Bruegel: Россия стала третьим по объемам поставщиком газа в ЕС после Норвегии и США",
+      "lead_raw": "По данным аналитического центра, суммарные поставки в январе - июне составили около 22,1 млрд куб. м",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "805a46ec7ffaad99f6d9f66f09c3fd3ab3320e9c",
+      "fingerprint": "d94fec519176ed98cc5cebc06c87a700ae572780",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27881413",
+      "published_utc": "2026-07-03T06:37:29Z",
+      "title_en": "Five more Russian cyclists received neutral status",
+      "lead_en": "The holders of neutral status were Vsevolod Boychuk, Kristina Novikova, Anastasia Pershina, Maxim Popov and Ilya Zagibalov",
+      "title_raw": "Еще пять российских велогонщиков получили нейтральный статус",
+      "lead_raw": "Обладателями нейтрального статуса стали Всеволод Бойчук, Кристина Новикова, Анастасия Першина, Максим Попов и Илья Загибалов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0e94c203f3e05f80f391fea2bd8b153c697f819e",
+      "fingerprint": "ae2cd37c9046da96db3f353614ba6736c5db8bd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27881407",
+      "published_utc": "2026-07-03T06:36:35Z",
+      "title_en": "TASS: The Russian Armed Forces are clearing the south of Krasny Liman",
+      "lead_en": "Russian soldiers are actively working on this section of the front, law enforcement agencies reported.",
+      "title_raw": "ТАСС: ВС РФ зачищают юг Красного Лимана",
+      "lead_raw": "Российские бойцы ведут активную работу на этом участке фронта, сообщили в силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a4d0a861625b1414b54b60ab8b6af434977c0fe0",
+      "fingerprint": "41b4b2e971698204f2348a93c37770083eea157e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881401",
+      "published_utc": "2026-07-03T06:34:15Z",
+      "title_en": "Bruegel: Russia increased LNG supplies to Europe by 17%",
+      "lead_en": "The European Union's imports of Russian fuel in January - June amounted to about 13.4 billion cubic meters. m",
+      "title_raw": "Bruegel: Россия нарастила поставки СПГ Европе на 17%",
+      "lead_raw": "Импорт Евросоюзом российского топлива в январе - июне составил около 13,4 млрд куб. м",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e02fb1b39744dd7fafa1f4773d042b5908657201",
+      "fingerprint": "415f627e92e1075912a945be40ed174ab7f7e9eb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27881393",
+      "published_utc": "2026-07-03T06:30:57Z",
+      "title_en": "Lukashenko returned to Belarus after completing a foreign tour",
+      "lead_en": "The Belarusian president’s business trip route was 25 thousand km",
+      "title_raw": "Лукашенко вернулся в Белоруссию после завершения зарубежного турне",
+      "lead_raw": "Маршрут командировки белорусского президента составил 25 тыс. км",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "751258d10b49979cc8fb4fdab5148317dd5435c2",
+      "fingerprint": "615501efb6f798981447215e12c3695e4e352874",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27881391",
+      "published_utc": "2026-07-03T06:27:18Z",
+      "title_en": "In Adygea, the unmanned threat was canceled",
+      "lead_en": "This was reported in the application of the Ministry of Emergency Situations of the Russian Federation",
+      "title_raw": "В Адыгее отменили беспилотную опасность",
+      "lead_raw": "Об этом сообщили в приложении МЧС РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d77cf2c9e5008b8ae8000d0dc39263942977f126",
+      "fingerprint": "bf637a21f1e3c5dca8cb5082f32b6d3b003d7ecd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27881385",
+      "published_utc": "2026-07-03T06:26:29Z",
+      "title_en": "TASS: The Ukrainian Armed Forces are losing control in the Lyubitsky area in the Zaporozhye region",
+      "lead_en": "Russian security forces noted that Ukrainian troops are suffering heavy losses",
+      "title_raw": "ТАСС: ВСУ теряют контроль в районе Любицкого в Запорожской области",
+      "lead_raw": "В российских силовых структурах отметили, что украинские войска несут большие потери",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0423975c1eef7c73a1cc0e6faa68670b895eaa2a",
+      "fingerprint": "bb02184ff0d73c0a883fe73d5f66800f5c95b7b7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2154823",
+      "published_utc": "2026-07-03T06:05:02Z",
+      "title_en": "Senior Russian senator says high time to stop calling Britain ‘Great’",
+      "lead_en": "According to Konstantin Kosachev, Britain is a \"unique\" country in many respects",
+      "title_raw": "Senior Russian senator says high time to stop calling Britain ‘Great’",
+      "lead_raw": "According to Konstantin Kosachev, Britain is a \"unique\" country in many respects",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4b57b4289cde336fe6abf3a5144ae82bc7699272",
+      "fingerprint": "37083a18fc5d6954c5a99295155e019927ffd7fc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27881325",
+      "published_utc": "2026-07-03T06:04:03Z",
+      "title_en": "Putin congratulated Lukashenko on Independence Day of Belarus",
+      "lead_en": "Moscow and Minsk cooperate fruitfully in all directions, the Russian leader noted",
+      "title_raw": "Путин поздравил Лукашенко с Днем независимости Белоруссии",
+      "lead_raw": "Москва и Минск плодотворно взаимодействуют на всех направлениях, отметил российский лидер",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "be8f908305c2c1e6b5fe09bebcc31176e5d2b6e3",
+      "fingerprint": "40b1d9a9be31b5da6f955d3ca194bbed59946777",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881319",
+      "published_utc": "2026-07-03T06:03:19Z",
+      "title_en": "S&P Global: the index of business activity in the Russian services sector fell to 48.2 points in June",
+      "lead_en": "In May it was 48.7 points, the study reports.",
+      "title_raw": "S&P Global: индекс деловой активности в сфере услуг РФ в июне упал до 48,2 пункта",
+      "lead_raw": "В мае он составлял 48,7 пункта, сообщается в исследовании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "594efa0cc0d3c0107bd9af4e6f955d281a3d05dc",
+      "fingerprint": "43f40c649a6c82dda14e640076b25e0f58c98cb2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27881281",
+      "published_utc": "2026-07-03T05:58:05Z",
+      "title_en": "In the Russian Federation, the volume of the non-civilian drone market is estimated at more than 1 trillion rubles",
+      "lead_en": "The volume of the civil market for UAS services is 26 billion rubles, said Advisor to the Minister of Transport Alexey Chadayev",
+      "title_raw": "В РФ объем негражданского рынка беспилотников оценили в более чем 1 трлн рублей",
+      "lead_raw": "Объем гражданского рынка БАС-услуг составляет 26 млрд рублей, сообщил советник министра транспорта Алексей Чадаев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "93f615d5106ad1dd1680f554373840331cad16b9",
+      "fingerprint": "8df9342e0d16bd6821410d6eaf04827d79d5c71a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27881277",
+      "published_utc": "2026-07-03T05:55:29Z",
+      "title_en": "Lvova-Belova: United Russia will protect children from bureaucratic mistakes",
+      "lead_en": "The Commissioner for Children's Rights under the President of the Russian Federation said that any failures in government systems affecting children must be immediately eliminated",
+      "title_raw": "Львова-Белова: \"Единая Россия\" будет защищать детей от бюрократических ошибок",
+      "lead_raw": "Уполномоченный при президенте РФ по правам ребенка заявила, что любые сбои в государственных системах, затрагивающие детей, должны сразу устраняться",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ac50d35a65fe9d46ff98f4975120b68b2276ed7d",
+      "fingerprint": "2055ccbf257485f434c9394ae40aaa5f99980f32",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2154817",
+      "published_utc": "2026-07-03T05:03:54Z",
+      "title_en": "Senior diplomats from Russia, China, Mongolia discuss trilateral cooperation",
+      "lead_en": "The sides also exchanged opinions on the security situation in northeast Asia, cooperation under the UN framework and as part of other organizations",
+      "title_raw": "Senior diplomats from Russia, China, Mongolia discuss trilateral cooperation",
+      "lead_raw": "The sides also exchanged opinions on the security situation in northeast Asia, cooperation under the UN framework and as part of other organizations",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1a733ef42b9f511ac151ce3021b2a3ade5266d56",
       "fingerprint": "a218ce970ec11647809a6dffa2d46400232761d2",
@@ -11184,276 +11723,6 @@
       "lead_en": "Konstantin Kosachev noted that Andy Burnham was \"co-opted into Parliament,\" otherwise, he would never have made it into the circle of top state officials",
       "title_raw": "Senior Russian senator calls potential Starmer successor 'dark horse'",
       "lead_raw": "Konstantin Kosachev noted that Andy Burnham was \"co-opted into Parliament,\" otherwise, he would never have made it into the circle of top state officials",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cde5acc15ce89cb7ba47d034533c11bc3f497868",
-      "fingerprint": "579834672288d4823ca659675ab424693e045880",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/01/gallup-poll-60-of-russians-say-economic-conditions-are-worsening-a-20-year-record",
-      "published_utc": "2026-07-01T07:09:20Z",
-      "title_en": "Gallup poll: 60% of Russians say economic conditions are worsening — a 20-year record",
-      "lead_en": "Six in 10 Russians say economic conditions in their city or region are deteriorating, according to results of a Gallup poll conducted between March and May 2026 — the highest share recorded in the survey’s 20-year history. Previous peaks came in 2020 (45%) and 2021 (50%), during the coronavirus pandemic.",
-      "title_raw": "Gallup poll: 60% of Russians say economic conditions are worsening — a 20-year record",
-      "lead_raw": "Six in 10 Russians say economic conditions in their city or region are deteriorating, according to results of a Gallup poll conducted between March and May 2026 — the highest share recorded in the survey’s 20-year history. Previous peaks came in 2020 (45%) and 2021 (50%), during the coronavirus pandemic.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8bc0dc2312a88413fd88fcc54013b349754b510e",
-      "fingerprint": "163e364f31e3bd36c967fc06932b6f03a7b3541e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2153817",
-      "published_utc": "2026-07-01T07:02:28Z",
-      "title_en": "Senior Russian senator warns of 'joint response' if Ukraine attack Belarus",
-      "lead_en": "Konstantin Kosachev emphasized that Russia and Belarus were part of the Union State and military allies",
-      "title_raw": "Senior Russian senator warns of 'joint response' if Ukraine attack Belarus",
-      "lead_raw": "Konstantin Kosachev emphasized that Russia and Belarus were part of the Union State and military allies",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c78e96cfc424e84c9d25f2a146785daa9a1a242e",
-      "fingerprint": "839ced008bae4ca50952cea3a2d0b2a234c7f8b9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2153797",
-      "published_utc": "2026-07-01T05:39:13Z",
-      "title_en": "Russian Federation Council considers Zelensky’s threats against Belarus serious",
-      "lead_en": "According to Konstantin Kosachev, Zelensky's words should be taken seriously because he is \"an irrational and unpredictable man\", obsessed with a thirst for power",
-      "title_raw": "Russian Federation Council considers Zelensky’s threats against Belarus serious",
-      "lead_raw": "According to Konstantin Kosachev, Zelensky's words should be taken seriously because he is \"an irrational and unpredictable man\", obsessed with a thirst for power",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "de554b485c9a394023c035fecbae9b17295e5dda",
-      "fingerprint": "4a4d8334e6cbcece86748437cf472d951655556a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2153793",
-      "published_utc": "2026-07-01T05:16:38Z",
-      "title_en": "EU cannot be allowed at negotiating table on Ukraine — senior Russian senator",
-      "lead_en": "At the same time, Konstantin Kosachev noted that dialogue with individual EU leaders is possible, but it should not take the form of a \"formal negotiation process\"",
-      "title_raw": "EU cannot be allowed at negotiating table on Ukraine — senior Russian senator",
-      "lead_raw": "At the same time, Konstantin Kosachev noted that dialogue with individual EU leaders is possible, but it should not take the form of a \"formal negotiation process\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0644c1dcc3b5c81cd014e8ca960e437c5918b419",
-      "fingerprint": "bbe3f8d196151102042e05150b2f029c99801a6c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27873889",
-      "published_utc": "2026-07-01T05:09:48Z",
-      "title_en": "About 66% of Ukrainians surveyed are in favor of starting negotiations with the Russian Federation",
-      "lead_en": "Since 2025, public opinion has changed towards a peaceful resolution of the conflict",
-      "title_raw": "Около 66% опрошенных украинцев выступают за начало переговоров с РФ",
-      "lead_raw": "С 2025 года общественное мнение изменилось в сторону мирного урегулирования конфликта",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ea8cac1d2c2374af5159e279c8cbfb72832e8a05",
-      "fingerprint": "89b1b3c878e92ba77801715c4714bcb796850141",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27873891",
-      "published_utc": "2026-07-01T05:09:22Z",
-      "title_en": "The Russian Armed Forces destroyed the self-propelled gun \"Gvozdika\" of the Ukrainian Armed Forces in the Sumy region",
-      "lead_en": "The target was hit by crews of FPV drones using optical fiber from the Sever group of troops.",
-      "title_raw": "ВС РФ уничтожили САУ \"Гвоздика\" ВСУ в Сумской области",
-      "lead_raw": "Цель поразили расчеты FPV-дронов на оптоволокне группировки войск \"Север\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8475f18473eb58e9af29bf2a0f204f6d27164988",
-      "fingerprint": "347853777dad6820f4d1b532614d840119b0d4e8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27873885",
-      "published_utc": "2026-07-01T05:05:41Z",
-      "title_en": "Russian decathlete Kekin aims to break the country's 42-year-old record",
-      "lead_en": "The record was set by Grigory Degtyarev in June 1984 at a competition in Kyiv",
-      "title_raw": "Российский десятиборец Кекин нацелен побить рекорд страны 42-летней давности",
-      "lead_raw": "Рекорд был установлен Григорием Дегтяревым в июне 1984 года на соревнованиях в Киеве",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "db63a94dd76dae962c4315ca31c36849697e516f",
-      "fingerprint": "7bf56e4d289ba0ebf4b7a379c97235e486ee8f8a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27873853",
-      "published_utc": "2026-07-01T05:02:45Z",
-      "title_en": "VTB: issuance of cash loans in the Russian Federation in the first half of the year increased by more than 1.5 times",
-      "lead_en": "The figure increased by 68% compared to the same period in 2025",
-      "title_raw": "ВТБ: выдачи кредитов наличными в РФ в I полугодии выросли более чем в 1,5 раза",
-      "lead_raw": "Показатель увеличился на 68% по сравнению с тем же периодом в 2025 году",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e96560688832345df371f17d9077ff4eeccc6a52",
-      "fingerprint": "fa52e83ff6771dcd30edd392894c05345c104bac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27873817",
-      "published_utc": "2026-07-01T04:32:17Z",
-      "title_en": "Commander Volga: The Russian Armed Forces hit seven firing positions of the Armed Forces of Ukraine in the Kharkov region",
-      "lead_en": "The enemy also lost five artillery installations, the military said.",
-      "title_raw": "Командир Волга: ВС РФ поразили семь огневых позиций ВСУ в Харьковской области",
-      "lead_raw": "Противник в том числе потерял пять артиллерийских установок, сообщил военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ed17f48ee8cf1378172330260931042e88ab6067",
-      "fingerprint": "9d7d9ddaf02052887f5d3f96d864dbf5d831efca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27873815",
-      "published_utc": "2026-07-01T04:31:33Z",
-      "title_en": "Commander Grumpy: The Russian Armed Forces destroyed 10 UAV points of the Ukrainian Armed Forces in the Sumy region",
-      "lead_en": "According to the military man, the enemy has lost the ability to coordinate his drones in this direction",
-      "title_raw": "Командир Ворчун: ВС РФ уничтожили 10 пунктов БПЛА ВСУ на Сумщине",
-      "lead_raw": "По словам военного, противник потерял возможность координировать свои дроны на этом направлении",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "111a075ce6369393d890cb0a6d1e880350e3c413",
-      "fingerprint": "9ba7fe842faf9c8fb3f7adb6543f449df1e4b0ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27873801",
-      "published_utc": "2026-07-01T04:21:49Z",
-      "title_en": "Deputy Khamitov: The Russian Federation is ready to host international tournaments after the barriers are removed",
-      "lead_en": "The country can host events of the highest level, noted the deputy chairman of the State Duma Committee on Physical Education",
-      "title_raw": "Депутат Хамитов: РФ готова проводить международные турниры после снятия барьеров",
-      "lead_raw": "Страна может проводить мероприятия самого высокого уровня, отметил зампред комитета Госдумы по физкультуре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1d6ef8dbf25174e76be9fdf6d721ea9afe4e759d",
-      "fingerprint": "4653e438e8d1a05fd7bcdf4a2f409fab9bc77255",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27873799",
-      "published_utc": "2026-07-01T04:21:11Z",
-      "title_en": "A third of Russians surveyed are satisfied with themselves and their financial situation",
-      "lead_en": "According to the financial marketplace \"Vyberu.ru\", 28% of respondents regularly save money for unexpected expenses",
-      "title_raw": "Треть опрошенных россиян довольны собой и своим финансовым положением",
-      "lead_raw": "По данным финансового маркетплейса \"Выберу.ру\", 28% респондентов регулярно откладывают деньги на непредвиденные расходы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a26ed3b45ba59a197a2ddc54be099067021613e7",
-      "fingerprint": "30fc8f353cc94b0d7fb55b4036d377934ff98781",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27873717",
-      "published_utc": "2026-07-01T03:43:22Z",
-      "title_en": "\"Avito Services\": demand for the arrangement of balconies and loggias in the Russian Federation increased by 36%",
-      "lead_en": "Representatives of the service also stated that the number of offers from craftsmen and companies increased by 30% over the year.",
-      "title_raw": "\"Авито услуги\": спрос на обустройство балконов и лоджий в РФ вырос на 36%",
-      "lead_raw": "Представители сервиса также заявили, что количество предложений от мастеров и компаний за год увеличилось на 30%",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
