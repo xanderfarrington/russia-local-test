@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-03T21:11:43Z",
+  "updated_at_utc": "2026-07-03T23:08:23Z",
   "topic": "energy",
-  "count": 56,
+  "count": 55,
   "articles": [
+    {
+      "id": "015862394dc24dbd7a69535dac23e7ce58431305",
+      "fingerprint": "a0c75110fe55cbe481217e863a754fc98d619840",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27884353",
+      "published_utc": "2026-07-03T21:16:34Z",
+      "title_en": "The Russian Armed Forces continue to carry out massive attacks on Ukrainian military-industrial complex targets",
+      "lead_en": "Chief of the General Staff of the Russian Armed Forces, Army General Valery Gerasimov, said that energy infrastructure is also being attacked",
+      "title_raw": "ВС РФ продолжают наносить массированные удары по объектам ВПК Украины",
+      "lead_raw": "Начальник Генштаба ВС РФ генерал армии Валерий Герасимов заявил, что ударам также подвергается энергетическая инфраструктура",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9e44df30b47e58154d633379a322951034f1d71d",
+      "fingerprint": "ede8224b13f10f9b2f963963f6704294689bf3c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27884303",
+      "published_utc": "2026-07-03T21:14:41Z",
+      "title_en": "Dmitriev: Ukrainian bombing of Nord Stream caused an energy crisis in Germany",
+      "lead_en": "The attack destroyed vital energy infrastructure, noted the special representative of the Russian President for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев: подрыв украинцем \"Северного потока\" вызвал энергокризис в Германии",
+      "lead_raw": "При нападении была уничтожена жизненно важная энергетическая инфраструктура, отметил спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "c8dd90c1346c2561ff70c1d97df266f39a3c41a8",
       "fingerprint": "b99be7a4b46550d31c8461472bcb25d9decc5853",
@@ -1190,73 +1235,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "84c48d1dd78c21e9c611dccbb56c52aab2f0b1f3",
-      "fingerprint": "31b3ca8f44e605bc088ec97a838f191be9e19fec",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/02/russia-gasoline-and-diesel-prices-rose-again-in-late-june-rosstat-data-show",
-      "published_utc": "2026-07-01T21:53:21Z",
-      "title_en": "Russia gasoline and diesel prices rose again in late June, Rosstat data show",
-      "lead_en": "Gasoline prices in Russia climbed 1.6% and diesel prices rose 2.2% in the week of June 23–29, according to Rosstat’s weekly data on rising fuel prices in the country. The Bell was among the first to report the release.",
-      "title_raw": "Russia gasoline and diesel prices rose again in late June, Rosstat data show",
-      "lead_raw": "Gasoline prices in Russia climbed 1.6% and diesel prices rose 2.2% in the week of June 23–29, according to Rosstat’s weekly data on rising fuel prices in the country. The Bell was among the first to report the release.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "76e9ed1d8b2726474a2ac36200ba5feeb1501fd4",
-      "fingerprint": "91bfb863184dd04e90ef67c13483b3824e9d6e12",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27877005",
-      "published_utc": "2026-07-01T21:35:33Z",
-      "title_en": "Zakharova called von der Leyen a liar for her words about stopping gas supplies from the Russian Federation",
-      "lead_en": "The official representative of the Russian Foreign Ministry said that any EU citizen can sue the head of the European Commission for her lies and win the case",
-      "title_raw": "Захарова назвала фон дер Ляйен вруньей за слова о прекращении поставок газа из РФ",
-      "lead_raw": "Официальный представитель МИД России заявила, что любой гражданин ЕС может подать в суд на главу Еврокомиссии за ее ложь и выиграть дело",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d6c56ff2117939d602d115e05e0a7ee01cf2e289",
-      "fingerprint": "27e1c6b18d35504511c623863a62d3ae5368a1b1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/02/russia-is-striking-ukrainian-gas-stations-daily-even-as-its-own-fuel-crisis-deepens-at-home",
-      "published_utc": "2026-07-01T21:32:52Z",
-      "title_en": "Russia is striking Ukrainian gas stations daily, even as its own fuel crisis deepens at home",
-      "lead_en": "Russian forces have struck gas stations across Ukraine every day since June 17, the independent Russian investigative outlet Agentstvo reported.",
-      "title_raw": "Russia is striking Ukrainian gas stations daily, even as its own fuel crisis deepens at home",
-      "lead_raw": "Russian forces have struck gas stations across Ukraine every day since June 17, the independent Russian investigative outlet Agentstvo reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
