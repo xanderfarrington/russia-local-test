@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-04T13:41:32Z",
+  "updated_at_utc": "2026-07-04T15:08:31Z",
   "topic": "energy",
   "count": 42,
   "articles": [
+    {
+      "id": "def45d7de92a03f87f774ef35729f5c4438ea1b6",
+      "fingerprint": "806e9d890e8ecd44fe780fbbf0729d3bd77f9e7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27885929",
+      "published_utc": "2026-07-04T13:46:21Z",
+      "title_en": "The Russian Armed Forces hit the fuel, energy and transport infrastructure of the Armed Forces of Ukraine",
+      "lead_en": "The Russian military also hit production and storage sites for long-range UAVs in 142 districts in 24 hours, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили объекты топливно-энергетической и транспортной инфраструктуры ВСУ",
+      "lead_raw": "Российские военные за сутки также ударили по местам производства и хранения БПЛА дальнего действия в 142 районах, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "81fb03c038d522c4846ac2506578565f8b700238",
       "fingerprint": "ac184ac6b2c6c2b2f460380531e7fcbb8465c2c2",
@@ -922,30 +945,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2b83afb2c4b03144f65affc6ab29b89b9963f824",
-      "fingerprint": "aad74c35ae601b2d95ea85151ddea10f7a873f37",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154605",
-      "published_utc": "2026-07-02T14:06:52Z",
-      "title_en": "Novak tasks to develop specific fuel measures for most vulnerable regions",
-      "lead_en": "The Russian deputy prime minister held the meeting on the fuel market situation with participation of representatives of federal executive authorities and industry companies",
-      "title_raw": "Novak tasks to develop specific fuel measures for most vulnerable regions",
-      "lead_raw": "The Russian deputy prime minister held the meeting on the fuel market situation with participation of representatives of federal executive authorities and industry companies",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
