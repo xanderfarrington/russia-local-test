@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-04T03:31:18Z",
+  "updated_at_utc": "2026-07-04T06:49:54Z",
   "topic": "energy",
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "id": "e9db2a6c934a5be47fc06c38e0a5c0075894dbca",
+      "fingerprint": "21ecc61b8870641285327c39fb94b7b9e557c2a4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27884969",
+      "published_utc": "2026-07-04T05:44:36Z",
+      "title_en": "VTB: the Russian stock market returned to the control of sellers by the end of the week",
+      "lead_en": "The shares of MTS, Sberbank, Gazprom and Lukoil aroused the greatest interest among VTB my investments clients during the week.",
+      "title_raw": "ВТБ: рынок акций РФ вернулся под контроль продавцов к концу недели",
+      "lead_raw": "Наибольший интерес у клиентов \"ВТБ мои инвестиции\" в течение недели вызывали акции МТС, Сбербанка, \"Газпрома\" и \"Лукойла\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "0232321098023faa0d552a350ea0d55d14ec8060",
       "fingerprint": "ac58b3ab88fa392b56f8f10ba866e38ad454a449",
@@ -1168,51 +1191,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f4d3605cc6a3230d735c4ba54ff7f3a2c93db971",
-      "fingerprint": "81e3ce41485b63c06d6ee9af2cdf608c07f31e17",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2154227",
-      "published_utc": "2026-07-02T05:03:52Z",
-      "title_en": "Russian forces deliver retaliatory massive strike on Ukraine — top brass",
-      "lead_en": "Military-industrial sites, energy infrastructure, and military airfields’ infrastructure were damaged in the Dnepropetrovsk, Poltava, Cherkassy, Chernigov, and Kiev regions",
-      "title_raw": "Russian forces deliver retaliatory massive strike on Ukraine — top brass",
-      "lead_raw": "Military-industrial sites, energy infrastructure, and military airfields’ infrastructure were damaged in the Dnepropetrovsk, Poltava, Cherkassy, Chernigov, and Kiev regions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eaf4ff8b156ae4ae8c4ddfb83444f9239af59a36",
-      "fingerprint": "48aa75565f62b9da67ce7fbac3661fe9269e72e1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27877541",
-      "published_utc": "2026-07-02T04:58:44Z",
-      "title_en": "The Russian Armed Forces hit a gas storage facility used in the interests of the Ukrainian Armed Forces in the Zaporozhye region",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили хранилище газа, используемое в интересах ВСУ, в районе Запорожья",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
