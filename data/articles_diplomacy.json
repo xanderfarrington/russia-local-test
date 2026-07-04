@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-04T21:01:42Z",
+  "updated_at_utc": "2026-07-04T23:00:32Z",
   "topic": "diplomacy",
-  "count": 61,
+  "count": 62,
   "articles": [
+    {
+      "id": "47c14f489975214ae5140b473179ffb6444f7b4c",
+      "fingerprint": "c5890482902fddf9828f1ad78ab6078b6b7dc7e8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2155791",
+      "published_utc": "2026-07-04T22:18:10Z",
+      "title_en": "Trump links Russia-US cooperation to end of conflict in Ukraine",
+      "lead_en": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
+      "title_raw": "Trump links Russia-US cooperation to end of conflict in Ukraine",
+      "lead_raw": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a1de34813b37900ab4b9a4983eeceb5d5bd2b0d5",
+      "fingerprint": "ed270fbb3951b8aea00e17f1ac69d3ad77cb3ec4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27886375",
+      "published_utc": "2026-07-04T21:12:35Z",
+      "title_en": "Ушаков: Уиткофф и Кушнер готовы снова приехать в Москву",
+      "lead_en": "Помощник президента РФ сообщил, что спецпредставители США прибудут в Россию для переговоров в удобное время",
+      "title_raw": "Ушаков: Уиткофф и Кушнер готовы снова приехать в Москву",
+      "lead_raw": "Помощник президента РФ сообщил, что спецпредставители США прибудут в Россию для переговоров в удобное время",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "2b93ea91041b46d6f6f6146ab5346ba0b3d213d4",
       "fingerprint": "73a4a7fb1d221419dace8e73a97cad8ed9145d86",
@@ -1339,29 +1384,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3042d13952fb53aae826eb2f6b1fc1bc28f5b178",
-      "fingerprint": "03df119ffdccc86e94cc4ef4476f4a2c351ea5cd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27880655",
-      "published_utc": "2026-07-02T22:02:20Z",
-      "title_en": "Russian Embassy: The Netherlands is intensively preparing for war “on the eastern flank of NATO”",
-      "lead_en": "Amsterdam is actively modernizing military logistics and infrastructure facilities and expanding its capabilities for receiving allied forces and conducting military exercises, the Russian diplomatic department noted",
-      "title_raw": "Посольство РФ: Нидерланды усиленно готовятся к войне \"на восточном фланге НАТО\"",
-      "lead_raw": "Амстердам активно модернизирует объекты военной логистики и инфраструктуры и расширяет возможности по приему союзных сил и проведению военных учений, отметили в российском дипведомстве",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
