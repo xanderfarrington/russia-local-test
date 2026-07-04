@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-03T23:08:23Z",
+  "updated_at_utc": "2026-07-04T03:31:18Z",
   "topic": "energy",
-  "count": 55,
+  "count": 54,
   "articles": [
+    {
+      "id": "0232321098023faa0d552a350ea0d55d14ec8060",
+      "fingerprint": "ac58b3ab88fa392b56f8f10ba866e38ad454a449",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2155425",
+      "published_utc": "2026-07-03T23:05:01Z",
+      "title_en": "Russian strikes reduce Ukraine's ability to make missiles — chief of general staff",
+      "lead_en": "Valery Gerasimov emphasized that the Kiev regime's critical dependence on supplies of components, explosives and fuel from Western countries continues to grow",
+      "title_raw": "Russian strikes reduce Ukraine's ability to make missiles — chief of general staff",
+      "lead_raw": "Valery Gerasimov emphasized that the Kiev regime's critical dependence on supplies of components, explosives and fuel from Western countries continues to grow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "015862394dc24dbd7a69535dac23e7ce58431305",
       "fingerprint": "a0c75110fe55cbe481217e863a754fc98d619840",
@@ -1190,51 +1213,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "5ad9cf33f8a53d22bacb754405481a7f39d3d687",
-      "fingerprint": "fc7a3e329c1b08fdba55ddffa93205b42cc6748e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27877353",
-      "published_utc": "2026-07-02T03:25:55Z",
-      "title_en": "The Russian Federation has developed a method for processing plastic waste into fuel components",
-      "lead_en": "The final product fully complies with all state standards for commercial gasoline, Tomsk Polytechnic University reported",
-      "title_raw": "В РФ разработали метод переработки пластикового мусора в компоненты топлива",
-      "lead_raw": "Конечный продукт полностью соответствует всем госстандартам для коммерческого бензина, сообщили в Томском политехническом университете",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5eec91be0d6cf67e068f20bacd4c97934d07f179",
-      "fingerprint": "e756d8b3cd72ef8619f14b53095a2297b935664f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2154201",
-      "published_utc": "2026-07-01T23:11:40Z",
-      "title_en": "Von der Leyen \"excellent liar\" saying Russia cut off gas supplies to Europe — Zakharova",
-      "lead_en": "The Foreign Ministry spokeswoman added that any EU citizen can sue the European Commission president for this statement and win the case",
-      "title_raw": "Von der Leyen \"excellent liar\" saying Russia cut off gas supplies to Europe — Zakharova",
-      "lead_raw": "The Foreign Ministry spokeswoman added that any EU citizen can sue the European Commission president for this statement and win the case",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
