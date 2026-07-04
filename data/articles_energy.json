@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-04T11:35:52Z",
+  "updated_at_utc": "2026-07-04T13:41:32Z",
   "topic": "energy",
-  "count": 46,
+  "count": 42,
   "articles": [
+    {
+      "id": "81fb03c038d522c4846ac2506578565f8b700238",
+      "fingerprint": "ac184ac6b2c6c2b2f460380531e7fcbb8465c2c2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27885883",
+      "published_utc": "2026-07-04T13:22:52Z",
+      "title_en": "Diplomat Pantelin: The Russian Federation will play a leading role in Armenia’s energy security",
+      "lead_en": "Fruitful, long-term cooperation between Moscow and Yerevan will continue in the future, said the senior adviser to the Russian Embassy",
+      "title_raw": "Дипломат Пантелин: РФ будет играть ведущую роль в энергобезопасности Армении",
+      "lead_raw": "Плодотворное, долгосрочное взаимодействие Москвы и Еревана будет продолжаться и впредь, заявил заявил старший советник посольства России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "bbf422fe71372b47f490fffcc7a3b4dd66a1bbdd",
       "fingerprint": "83182b251be19f975a22d1b6f4b3af1a460f34ed",
@@ -919,117 +942,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "61e122a9ab804a8975d44619a6c26a70dc40b8da",
-      "fingerprint": "b278d15cdac93e2786635aedef65a28d6736418e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27879703",
-      "published_utc": "2026-07-02T13:39:21Z",
-      "title_en": "Moor: fuel companies maintain price levels within inflation limits",
-      "lead_en": "The volume of fuel production in the Russian Federation covers the country's needs, the governor of the Tyumen region noted",
-      "title_raw": "Моор: топливные компании выдерживают уровень цен в пределах инфляции",
-      "lead_raw": "Объем производства топлива в РФ покрывает потребности страны, отметил губернатор Тюменской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7318306517fbe17585e31d1a592312d72d230c39",
-      "fingerprint": "b6c319760062b801383211fe39e33909372bf77f",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/02/kyrgyzstan-asks-neighbors-and-belarus-for-help-with-fuel-supplies-the-country-gets-90-of-its-gasoline-from-russia",
-      "published_utc": "2026-07-02T13:19:15Z",
-      "title_en": "Kyrgyzstan asks neighbors and Belarus for help with fuel supplies. The country gets 90% of its gasoline from Russia.",
-      "lead_en": "Kyrgyzstan has asked Kazakhstan, Azerbaijan, Uzbekistan, Turkmenistan, and Belarus for help as a fuel crisis deepens in Russia.",
-      "title_raw": "Kyrgyzstan asks neighbors and Belarus for help with fuel supplies. The country gets 90% of its gasoline from Russia.",
-      "lead_raw": "Kyrgyzstan has asked Kazakhstan, Azerbaijan, Uzbekistan, Turkmenistan, and Belarus for help as a fuel crisis deepens in Russia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1b730dcaaf78f65953ca74aa715269cf9f5d14d1",
-      "fingerprint": "83908319b1b8c1d6c0685e66ca9bc705a95bde77",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2154529",
-      "published_utc": "2026-07-02T12:58:43Z",
-      "title_en": "India can supply fuel to Russia if needed — oil minister",
-      "lead_en": "Hardeep Singh Puri noted that India has not stopped exporting petroleum products to other countries",
-      "title_raw": "India can supply fuel to Russia if needed — oil minister",
-      "lead_raw": "Hardeep Singh Puri noted that India has not stopped exporting petroleum products to other countries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6a84dae4d539174831308ba3a5e6fdfd89a9c59a",
-      "fingerprint": "95b382abf8aa764a2b675fed6bd7ba261c9377c4",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/02/russia-s-largest-river-carrier-in-eastern-siberia-cancels-routes-amid-fuel-crisis",
-      "published_utc": "2026-07-02T11:59:35Z",
-      "title_en": "Russia’s largest river carrier in eastern Siberia cancels routes amid fuel crisis",
-      "lead_en": "The Eastern-Siberian Inland Navigation Company, the largest carrier in Russia’s Irkutsk region, is cutting scheduled and excursion routes and raising ticket prices in response to the fuel crisis.",
-      "title_raw": "Russia’s largest river carrier in eastern Siberia cancels routes amid fuel crisis",
-      "lead_raw": "The Eastern-Siberian Inland Navigation Company, the largest carrier in Russia’s Irkutsk region, is cutting scheduled and excursion routes and raising ticket prices in response to the fuel crisis.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "71efc8e3b80b82417188d6e09b33d1666ad85ac2",
-      "fingerprint": "3bb263feb484ed0422b964d6d004037e45b61f2b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27879287",
-      "published_utc": "2026-07-02T11:57:06Z",
-      "title_en": "The introduction of the digital ruble and the inflationary impact of fuel prices. Statements by Nabiullina",
-      "lead_en": "There is no hypothermia in the economy in Russia, the head of the Central Bank indicated",
-      "title_raw": "Введение цифрового рубля и инфляционное влияние цен на топливо. Заявления Набиуллиной",
-      "lead_raw": "В России нет переохлаждения экономики, указала глава ЦБ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
         "energy",
         "economy"
       ],
