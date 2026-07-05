@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-04T23:00:32Z",
+  "updated_at_utc": "2026-07-05T03:49:19Z",
   "topic": "energy",
-  "count": 34,
+  "count": 33,
   "articles": [
+    {
+      "id": "940faf4451faffd0c09572d3b74dba72595d7032",
+      "fingerprint": "02df4e90e0550f43c28ab52ac88a68d552925a6a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27886679",
+      "published_utc": "2026-07-05T03:32:37Z",
+      "title_en": "Expert Maklakov named the biggest fakes about fuel in the Russian Federation",
+      "lead_en": "Among them are reports about the replacement of aviation kerosene with gasoline in passenger planes, as well as about the reduction of flights at airports, said the head of the department for combating the spread of false information of the Dialogue Regions ANO.",
+      "title_raw": "Эксперт Маклаков назвал самые крупные фейки о топливе в РФ",
+      "lead_raw": "Среди них сообщения о замене авиационного керосина бензином в пассажирских самолетах, а также о сокращении рейсов в аэропортах, рассказал начальник управления по противодействию распространению недостоверной информации АНО \"Диалог регионы\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "def45d7de92a03f87f774ef35729f5c4438ea1b6",
       "fingerprint": "806e9d890e8ecd44fe780fbbf0729d3bd77f9e7a",
@@ -715,50 +737,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fb2e78854101859a576c1af4c1f78287a8f2de49",
-      "fingerprint": "15cc67738d02411a83495c0f6e9e7516576366d3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27880911",
-      "published_utc": "2026-07-03T02:56:43Z",
-      "title_en": "A neural network algorithm has been developed in Russia to speed up the search for minerals",
-      "lead_en": "Using a new technique in the Yamal-Nenets Autonomous Okrug, it has already been possible to identify promising areas for placing sand and peat quarries in close proximity to infrastructure facilities, reported the Institute of Petroleum Geology and Geophysics SB RAS",
-      "title_raw": "В России разработали нейросетевой алгоритм, ускоряющий поиск полезных ископаемых",
-      "lead_raw": "С помощью новой методики в ЯНАО уже удалось наметить перспективные участки для размещения карьеров песка и торфа в непосредственной близости от объектов инфраструктуры, сообщили в Институте нефтегазовой геологии и геофизики СО РАН",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "636a6a80908b50444a13e004aa8c02a086b34de0",
-      "fingerprint": "bd6191d7beb7312230a871cc9a796d9da2ce5927",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2154785",
-      "published_utc": "2026-07-02T23:54:41Z",
-      "title_en": "Merz sends more money to Kiev despite its role in Nord Stream sabotage — politician",
-      "lead_en": "Sahra Wagenknecht urged the German government to resume imports of Russian gas",
-      "title_raw": "Merz sends more money to Kiev despite its role in Nord Stream sabotage — politician",
-      "lead_raw": "Sahra Wagenknecht urged the German government to resume imports of Russian gas",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 1,
         "local_events": 0
       },
