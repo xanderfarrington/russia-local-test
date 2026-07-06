@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-06T00:10:32Z",
+  "updated_at_utc": "2026-07-06T05:14:41Z",
   "topic": "energy",
-  "count": 12,
+  "count": 14,
   "articles": [
+    {
+      "id": "ad7c0a79ba96be3e38db52a0605b827f0f9ab8d6",
+      "fingerprint": "fed4126aaa98e7cb1be5dd98e259fead4e546a19",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27888575",
+      "published_utc": "2026-07-06T04:33:13Z",
+      "title_en": "Politico: NATO countries are strengthening their defense capabilities in case of war with Russia",
+      "lead_en": "Finland is increasing defense spending, while Poland and the Baltic countries are creating physical barriers, the newspaper reported",
+      "title_raw": "Politico: страны НАТО усиливают обороноспособность на случай войны с Россией",
+      "lead_raw": "Финляндия увеличивает расходы на оборону, а Польша и страны Прибалтики создают физические заграждение, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5f871256aad1b1ac685a16bbf4abd9e65e43f0f6",
+      "fingerprint": "abe98c8ae209706c5258ba195a16469f70b9e150",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2156017",
+      "published_utc": "2026-07-06T04:24:53Z",
+      "title_en": "Russian forces strike defense, energy facilities in Kiev, military airfields",
+      "lead_en": "According to the Defense Ministry, the strikes were carried out in response to Kiev's attacks on civilian infrastructure in Russia",
+      "title_raw": "Russian forces strike defense, energy facilities in Kiev, military airfields",
+      "lead_raw": "According to the Defense Ministry, the strikes were carried out in response to Kiev's attacks on civilian infrastructure in Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4183fafdf01b4736a567f1f7394d8ea42b4b9246",
       "fingerprint": "817d6dfc76b36e608eae8cf90eaff109cc104f5e",
