@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-06T22:16:09Z",
+  "updated_at_utc": "2026-07-07T00:12:07Z",
   "topic": "diplomacy",
   "count": 63,
   "articles": [
+    {
+      "id": "f5af99f6caa8b0d1fa66e5c6262ab2b09c6d7c24",
+      "fingerprint": "d9d999203f8a555ba2b89393cea4dc1fcbddbf7f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2156561",
+      "published_utc": "2026-07-06T23:43:31Z",
+      "title_en": "NATO summit to present military confrontation with Russia to Trump as business project",
+      "lead_en": "According to sources in Brussels, German Chancellor Friedrich Merz announced the maximum amount of military aid to Ukraine at 140 billion euros for 2026-2027",
+      "title_raw": "NATO summit to present military confrontation with Russia to Trump as business project",
+      "lead_raw": "According to sources in Brussels, German Chancellor Friedrich Merz announced the maximum amount of military aid to Ukraine at 140 billion euros for 2026-2027",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "11c1f9df5205241173c3bbfbc75ef53cd5986cbc",
       "fingerprint": "ae80f938b5d58808bec5668cff41a38c3cc26c82",
@@ -1376,29 +1399,6 @@
       "topics": [
         "diplomacy",
         "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "47c14f489975214ae5140b473179ffb6444f7b4c",
-      "fingerprint": "c5890482902fddf9828f1ad78ab6078b6b7dc7e8",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2155791",
-      "published_utc": "2026-07-04T22:18:10Z",
-      "title_en": "Trump links Russia-US cooperation to end of conflict in Ukraine",
-      "lead_en": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
-      "title_raw": "Trump links Russia-US cooperation to end of conflict in Ukraine",
-      "lead_raw": "The heads of states stressed importance of continuing the bilateral interaction in their talk, including on military-political and economic topics",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
       ],
       "primary_topic": "diplomacy"
     }
