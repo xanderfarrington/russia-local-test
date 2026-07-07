@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-07-07T00:12:07Z",
+  "updated_at_utc": "2026-07-07T04:55:25Z",
   "topic": "energy",
-  "count": 25,
+  "count": 28,
   "articles": [
+    {
+      "id": "1a0ec84d5a740ba8e52da6965623d035a6ce3815",
+      "fingerprint": "f39d08ac338a79f7e44b08b92db839cd2da6547a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2156597",
+      "published_utc": "2026-07-07T04:39:23Z",
+      "title_en": "Russian forces strike gas stations, fuel tankers in occupied DPR — top brass",
+      "lead_en": "The facilities were used to support Ukrainian army units",
+      "title_raw": "Russian forces strike gas stations, fuel tankers in occupied DPR — top brass",
+      "lead_raw": "The facilities were used to support Ukrainian army units",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7ff5acd50df8b5ef40b119f66e8358a116e43f44",
+      "fingerprint": "cd3a5d9b5bbdf3d8bc280392b32328f201fb4199",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27892297",
+      "published_utc": "2026-07-07T04:17:18Z",
+      "title_en": "\"Gazinformservice\": Russian companies that committed leaks do not suffer much from lawsuits",
+      "lead_en": "According to a report by a system integrator, only 0.1-0.5% of citizens whose personal data were compromised sue such companies",
+      "title_raw": "\"Газинформсервис\": допустившие утечки компании РФ не сильно страдают от исков",
+      "lead_raw": "Согласно отчету системного интегратора, в суд на такие фирмы подают лишь 0,1-0,5% граждан, чьи персональные данные были скомпрометированы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9990bd6436d2a4a12d3af3568b0b64ade4d0903f",
+      "fingerprint": "7160ba0b0ac5d522ea305e243d767a6f84d721d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27892391",
+      "published_utc": "2026-07-07T04:12:08Z",
+      "title_en": "The Russian Armed Forces hit gas stations and fuel tanks in the occupied part of the DPR",
+      "lead_en": "These facilities were used in the interests of the Ukrainian Armed Forces, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили АЗС и цистерны с топливом в оккупированной части ДНР",
+      "lead_raw": "Эти объекты использовались в интересах ВСУ, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4e1f003c8e7be7f7185aa47f949c3f4fd8a5327e",
+      "fingerprint": "33b0a959ea319bf600f5b6a3bb36e984214cf2c5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2156567",
+      "published_utc": "2026-07-07T00:31:15Z",
+      "title_en": "Ukrainian forces lose at least 37 gas stations in week and half",
+      "lead_en": "According to the Russian Defense Ministry, regular high-precision strikes on fuel depots, gas stations, and railway infrastructure facilities are significantly disrupting the Ukrainian military's transport logistics",
+      "title_raw": "Ukrainian forces lose at least 37 gas stations in week and half",
+      "lead_raw": "According to the Russian Defense Ministry, regular high-precision strikes on fuel depots, gas stations, and railway infrastructure facilities are significantly disrupting the Ukrainian military's transport logistics",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fec93e306db5caf5a1efc403628403b29ce1662a",
       "fingerprint": "1ae30ad789d5d436e9434d62925f4632cadf319a",
@@ -539,28 +629,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "940faf4451faffd0c09572d3b74dba72595d7032",
-      "fingerprint": "02df4e90e0550f43c28ab52ac88a68d552925a6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27886679",
-      "published_utc": "2026-07-05T03:32:37Z",
-      "title_en": "Expert Maklakov named the biggest fakes about fuel in the Russian Federation",
-      "lead_en": "Among them are reports about the replacement of aviation kerosene with gasoline in passenger planes, as well as about the reduction of flights at airports, said the head of the department for combating the spread of false information of the Dialogue Regions ANO.",
-      "title_raw": "Эксперт Маклаков назвал самые крупные фейки о топливе в РФ",
-      "lead_raw": "Среди них сообщения о замене авиационного керосина бензином в пассажирских самолетах, а также о сокращении рейсов в аэропортах, рассказал начальник управления по противодействию распространению недостоверной информации АНО \"Диалог регионы\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
