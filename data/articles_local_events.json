@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-08T06:31:22Z",
+  "updated_at_utc": "2026-07-08T09:27:38Z",
   "topic": "local_events",
-  "count": 2,
+  "count": 3,
   "articles": [
+    {
+      "id": "bf391d9597002026765c7bdc9d4f5305e23b26ae",
+      "fingerprint": "80bfa90946dbcda99a89982b042321b8f63b09a6",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/08/one-killed-two-wounded-in-russian-strike-on-kyiv",
+      "published_utc": "2026-07-08T08:00:11Z",
+      "title_en": "One killed, two wounded in Russian strike on Kyiv",
+      "lead_en": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
+      "title_raw": "One killed, two wounded in Russian strike on Kyiv",
+      "lead_raw": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d760c12271bc33825a474b137d273aa794cdb339",
+      "fingerprint": "b9c85f1e7eeedb4aba6ebc19bf30a985801a6432",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2157259",
+      "published_utc": "2026-07-08T07:24:45Z",
+      "title_en": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
+      "lead_en": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
+      "title_raw": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
+      "lead_raw": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0910712ec58e8f31380fa499d4e946328abac5de",
       "fingerprint": "ee0b841539d992c6362604fc388fe7a69f68201f",
@@ -19,29 +64,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "487ed40434e07ebb89bb2c597affb6a83a434f46",
-      "fingerprint": "6ba48caece9f2b0532a4031295f41676aa20d0b6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2156077",
-      "published_utc": "2026-07-06T07:14:24Z",
-      "title_en": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
-      "lead_en": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
-      "title_raw": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
-      "lead_raw": "A drone strike sparked a fire at an industrial facility in the Dzerzhinsky District of the Kaluga Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "military",
