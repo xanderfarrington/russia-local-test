@@ -1,8 +1,858 @@
 {
-  "updated_at_utc": "2026-07-10T00:08:45Z",
+  "updated_at_utc": "2026-07-10T04:55:14Z",
   "keep_hours": 48,
-  "count": 585,
+  "count": 591,
   "articles": [
+    {
+      "id": "d473737f62e2be558b227d78979cf5f47fa6b502",
+      "fingerprint": "6bd0ae9d5d8566ef738de0c95be9fa13f283173d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904519",
+      "published_utc": "2026-07-10T04:47:25Z",
+      "title_en": "The Russian Armed Forces, with the help of Gerbera Seeker, hit a temporary deployment point of the Ukrainian Armed Forces near Dobropolye",
+      "lead_en": "",
+      "title_raw": "ВС РФ с помощью \"Герберы сикер\" поразили пункт временной дислокации ВСУ у Доброполья",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "361312b2ea5e053925949c34b8c335af66d7e25a",
+      "fingerprint": "e86f0188654449751d41380c6cfa6546acc2997b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904509",
+      "published_utc": "2026-07-10T04:42:49Z",
+      "title_en": "Half of the hotels in Russia can be booked through Max",
+      "lead_en": "From September 1 their number will increase",
+      "title_raw": "Половина отелей в России могут заселять через \"Макс\"",
+      "lead_raw": "С 1 сентября их число станет больше",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "967bf9f71e24448c17e83add3f34deba51e057de",
+      "fingerprint": "601ad4b0d259bf28983f9561bc3b7e67e8c2af5c",
+      "source": "RT",
+      "url": "https://www.rt.com/news/642822-russia-west-no-goodwill-talks",
+      "published_utc": "2026-07-10T04:38:57Z",
+      "title_en": "Russia no longer believes West wants Ukraine peace talks – Lavrov",
+      "lead_en": "Russia no longer believes the West wants to negotiate an end to the Ukraine conflict, Foreign Minister Sergey Lavrov has said. Read Full Article at RT.com",
+      "title_raw": "Russia no longer believes West wants Ukraine peace talks – Lavrov",
+      "lead_raw": "Russia no longer believes the West wants to negotiate an end to the Ukraine conflict, Foreign Minister Sergey Lavrov has said. Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9d54f2ec5c5a3f2c20b22d78a4e928e235e47ace",
+      "fingerprint": "907af59e089e61212f13cf85fc2d7b2363d0738c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904507",
+      "published_utc": "2026-07-10T04:38:53Z",
+      "title_en": "376 Ukrainian drones intercepted over Russian regions",
+      "lead_en": "Air defense systems on duty were operating",
+      "title_raw": "Над регионами России перехватили 376 украинских беспилотников",
+      "lead_raw": "Работали дежурные средства ПВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "16eb7138eb89055d3e0ed57aa93866f69b0a92bf",
+      "fingerprint": "0f5c915891b626aaceb465d36ec500e57fee42ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27904499",
+      "published_utc": "2026-07-10T04:37:25Z",
+      "title_en": "\"Agroexport\": Russia increased oat exports by more than 1.5 times in the first half of the year",
+      "lead_en": "The top 5 importing countries include China, Mongolia, Kazakhstan, Kyrgyzstan, Türkiye",
+      "title_raw": "\"Агроэкспорт\": Россия в I полугодии увеличила экспорт овса более чем в 1,5 раза",
+      "lead_raw": "В топ-5 стран-импортеров входят Китай, Монголия, Казахстан, Киргизия, Турция",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d0e8e53bdf1ae6cf9978ff0b81b1d0f35cd8180e",
+      "fingerprint": "90f7f3455cde90a54bc25eefe7d7f21303a40610",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904495",
+      "published_utc": "2026-07-10T04:33:16Z",
+      "title_en": "Commander Bars: Sever drone crew destroyed an Ukrainian Armed Forces shelter",
+      "lead_en": "This was possible thanks to tracking of the Ukrainian NRTK, said a Russian serviceman",
+      "title_raw": "Командир Барс: расчет дронов \"Севера\" уничтожил укрытие ВСУ",
+      "lead_raw": "Это удалось благодаря отслеживанию украинского НРТК, сообщил российский военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "312fafdd93c745fbb92957f463179738b12dcd17",
+      "fingerprint": "84c83258a1dce91dca5a1812965be2d3d122fa64",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2158441",
+      "published_utc": "2026-07-10T04:28:26Z",
+      "title_en": "No specific plans for political contacts with Russia, senior Japanese diplomat says",
+      "lead_en": "Takeshi Akahori added that no contacts were planned on the sidelines of upcoming ASEAN events in Manila in mid-July",
+      "title_raw": "No specific plans for political contacts with Russia, senior Japanese diplomat says",
+      "lead_raw": "Takeshi Akahori added that no contacts were planned on the sidelines of upcoming ASEAN events in Manila in mid-July",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6dfa3305a5630eb1300915551e7905a2d7158132",
+      "fingerprint": "93a387971657c6d3be39611084654199bf747d5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27904457",
+      "published_utc": "2026-07-10T04:10:09Z",
+      "title_en": "PCT: 60% of Russians buy air tickets within 30 days before departure",
+      "lead_en": "The travel industry union noted that 15% of tickets on domestic routes were booked 30-60 days before the flight",
+      "title_raw": "РСТ: 60% россиян покупают авиабилеты в течение 30 дней до вылета",
+      "lead_raw": "В союзе туриндустрии отметили, что 15% билетов на внутренних маршрутах забронировано за 30-60 дней до рейса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0ada83e99c95150537458f2ca9b53b932864b3c1",
+      "fingerprint": "cb6eb567e8f4bd355ca13ca4d5652f9c85ab9d6b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27904447",
+      "published_utc": "2026-07-10T04:05:17Z",
+      "title_en": "Mrs. BRICS from South Africa announced her desire to move to Russia",
+      "lead_en": "Millcent Mfolodi Tlou noted that the Russian Federation has opened many opportunities for her",
+      "title_raw": "Миссис БРИКС из ЮАР заявила о желании переехать в Россию",
+      "lead_raw": "Миллсент Мфолоди Тлоу отметила, что РФ открыла для нее множество возможностей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e34af46cf9c6e28bfdd2613e0fed5d3133d8a981",
+      "fingerprint": "0c9485fa165ddf93777ead8b582a63573b4e0cf8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904441",
+      "published_utc": "2026-07-10T04:02:56Z",
+      "title_en": "Sever's artillery destroyed 10 UAV points and more than 70 Ukrainian Armed Forces soldiers overnight",
+      "lead_en": "Russian military personnel completed more than 200 fire missions",
+      "title_raw": "Артиллерия \"Севера\" уничтожила 10 пунктов БПЛА и более 70 солдат ВСУ за ночь",
+      "lead_raw": "Российские военнослужащие выполнили более 200 огневых задач",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a9bb61d43f764768e075ad1f88b9fa99380d9c0d",
+      "fingerprint": "7716057f870b9d53aa675cff5e6f20183754de9f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27904435",
+      "published_utc": "2026-07-10T04:00:48Z",
+      "title_en": "Hürriyet: S-400 purchased by Turkey from Russia sold to one of the Gulf countries",
+      "lead_en": "Turkish authorities have not yet commented on the publication",
+      "title_raw": "Hürriyet: купленные Турцией у РФ С-400 проданы одной из стран Персидского залива",
+      "lead_raw": "Турецкие власти пока не прокомментировали публикацию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a88c07f374b0582a340ec8d0040facfc67eb32de",
+      "fingerprint": "3e5b693958f3b08808c39d5248bcbc38d3db26f9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27903353",
+      "published_utc": "2026-07-10T04:00:01Z",
+      "title_en": "Don't confuse AI with a notary: how to protect your personal data online",
+      "lead_en": "A survey by the All-Russian Center for Public Opinion Research (VTsIOM) showed that Russians use artificial intelligence (AI) more actively in everyday life than Americans. One in five Russian users said they interact with AI “almost constantly.”",
+      "title_raw": "Не путайте ИИ с нотариусом: как защитить свои личные данные в сети",
+      "lead_raw": "Опрос Всероссийского центра изучения общественного мнения (ВЦИОМ) показал: россияне используют в повседневной жизни искусственный интеллект (ИИ) активнее, чем американцы. Каждый пятый российский пользователь заявил, что взаимодействует с ИИ \"практически постоянно\".",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1d2a26d414c9e8841728aff97a75c47a6e345c6d",
+      "fingerprint": "73b957c624cc83f8626f603a9dd4b689af2344cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27904425",
+      "published_utc": "2026-07-10T03:47:39Z",
+      "title_en": "Medvedchuk called Kaya Callas a “stupid chicken” with her anti-Russian hysteria",
+      "lead_en": "The head of the \"Other Ukraine\" movement said that European politicians supporting Kyiv are not afraid of blood on their hands",
+      "title_raw": "Медведчук назвал Каю Каллас \"тупой курицей\" с ее антироссийской истерией",
+      "lead_raw": "Глава движения \"Другая Украина\" заявил, что поддерживающие Киев европейские политики не боятся крови на своих руках",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a04186efc2d94f7a7eece46d61f066c56657b097",
+      "fingerprint": "89c7f75a23bcd6fa05a2a4fe907a5aeb41e0cdd6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904399",
+      "published_utc": "2026-07-10T03:46:03Z",
+      "title_en": "ATOR: hotels in Turkey are luring Russians with 20% discounts due to declining demand",
+      "lead_en": "Executive Director of the Association of Tour Operators of Russia Maya Lomidze noted that the general conjuncture of consumer behavior is aimed at careful consumption and savings",
+      "title_raw": "АТОР: отели в Турции завлекают россиян скидками в 20% из-за снижения спроса",
+      "lead_raw": "Исполнительный директор Ассоциации туроператоров России Майя Ломидзе отметила, что общая конъюнктура потребительского поведения направлена на осторожное потребление и на экономию",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5a8b541d114fd89dccd38e030f315f0600c2c3cc",
+      "fingerprint": "45d1dbd1170e4be7a023e8b696e53f2e866b71f9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27904421",
+      "published_utc": "2026-07-10T03:43:35Z",
+      "title_en": "Analysts have found that 70% of hired workers in the service sector earn money on the side",
+      "lead_en": "71.9% of respondents have a part-time job, according to a study by the Association of Self-Employed People of Russia, the fintech service “My Remote Work” and the marketing automation platform Unisender",
+      "title_raw": "Аналитики выяснили, что 70% наемных работников сферы услуг подрабатывают на стороне",
+      "lead_raw": "Подработку имеют 71,9% опрошенных, говорится в исследовании Объединения самозанятых России, финтех-сервиса \"Моя удаленка\" и платформы автоматизации маркетинга Unisender",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "02b5ad36b26cf00a5018bf64f6ce802a485b5d41",
+      "fingerprint": "bcdd1d98cf93cf4735d8b643c64234077662f346",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2158437",
+      "published_utc": "2026-07-10T03:39:01Z",
+      "title_en": "Turkey's first nuke plant to be commissioned later this year — Rosatom CEO",
+      "lead_en": "Alexey Likhachev says the project is \"a key task\" facing Russia’s state atomic energy corporation",
+      "title_raw": "Turkey's first nuke plant to be commissioned later this year — Rosatom CEO",
+      "lead_raw": "Alexey Likhachev says the project is \"a key task\" facing Russia’s state atomic energy corporation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2aa76cc44073debd41cc75ddd4dd4cd87bb84c52",
+      "fingerprint": "917dbc156d9692783fd9d821e237987d9bda567d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27904401",
+      "published_utc": "2026-07-10T03:32:17Z",
+      "title_en": "The Federation of Restaurateurs and Hoteliers allowed the return of the Michelin guide to the Russian Federation",
+      "lead_en": "Among the possible candidates, in addition to Moscow, the vice-president of the federation Vadim Prasov named St. Petersburg, Kazan, Yekaterinburg and Novosibirsk",
+      "title_raw": "В Федерации рестораторов и отельеров допустили возвращение гида \"Мишлен\" в РФ",
+      "lead_raw": "Среди возможных претендентов, кроме Москвы, вице-президент федерации Вадим Прасов назвал Санкт-Петербург, Казань, Екатеринбург и Новосибирск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9f2c9e24ea29d0947e59d0773bf5d17a27ef9b4f",
+      "fingerprint": "08a35ce0d3a90956f46c314c73564cbcacba5053",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27904389",
+      "published_utc": "2026-07-10T03:20:51Z",
+      "title_en": "The Japanese Foreign Ministry announced the absence of specific plans for political contacts with the Russian Federation",
+      "lead_en": "At the same time, the head of the Japanese Foreign Ministry Toshimitsu Motegi noted that Tokyo is open to dialogue with Moscow",
+      "title_raw": "В МИД Японии заявили об отсутствии конкретных планов политических контактов с РФ",
+      "lead_raw": "При этом глава японского внешнеполитического ведомства Тосимицу Мотэги отметил, что Токио открыт к диалогу с Москвой",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e2819d667b8d6363d00cb460eb7240360c77a19b",
+      "fingerprint": "aa6dba857e6339a5c4f6d7c567745ceccceb00a5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2158435",
+      "published_utc": "2026-07-10T03:18:03Z",
+      "title_en": "Japan supports anti-Russian sanctions, but maintaining ties is important — senior diplomat",
+      "lead_en": "According to Takeshi Akahori, Tokyo \"will act accordingly, based on what serves its national interests\"",
+      "title_raw": "Japan supports anti-Russian sanctions, but maintaining ties is important — senior diplomat",
+      "lead_raw": "According to Takeshi Akahori, Tokyo \"will act accordingly, based on what serves its national interests\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "62e3b049824c8cb143c1465c29f4957b3cbab9dc",
+      "fingerprint": "1cc9606f3e51ae88dd4976be379ceb0a7d6d817c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904361",
+      "published_utc": "2026-07-10T03:11:33Z",
+      "title_en": "Historian Rybakov called the question of the possible surrender of Leningrad pointless",
+      "lead_en": "The Nazi command did not plan to take control of the city, but intended to wipe it off the face of the earth, noted the general director of the State Museum of Political History of Russia",
+      "title_raw": "Историк Рыбаков назвал вопрос о возможной сдаче Ленинграда бессмысленным",
+      "lead_raw": "Нацистское командование не планировало брать город под контроль, а намеревалось стереть его с лица земли, отметил генеральный директор Государственного музея политической истории России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6543cfab4d65ec787fbce9d785a279f17c0dec0e",
+      "fingerprint": "0a909386be484956530123b09949b202b77b84bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904355",
+      "published_utc": "2026-07-10T03:02:39Z",
+      "title_en": "Sever's drones destroyed 4 UAV points and more than 30 Ukrainian Armed Forces soldiers overnight",
+      "lead_en": "Russian military personnel also eliminated a combat vehicle and four enemy fire groups",
+      "title_raw": "Беспилотники \"Севера\" уничтожили 4 пункта БПЛА и более 30 солдат ВСУ за ночь",
+      "lead_raw": "Российские военнослужащие также ликвидировали боевую машину и четыре огневые группы противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b0764ae18f1fdb46c0b699858e9359f99e112e61",
+      "fingerprint": "4f14a14eb5401ad0c2db358953b410f345d55e72",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904353",
+      "published_utc": "2026-07-10T03:02:29Z",
+      "title_en": "Air defense forces of the North destroyed more than 30 drones of the Ukrainian Armed Forces near Sumy and Kharkov",
+      "lead_en": "Russian military personnel discovered the flight of 36 Ukrainian UAVs",
+      "title_raw": "Силы ПВО \"Севера\" уничтожила более 30 беспилотников ВСУ под Сумами и Харьковом",
+      "lead_raw": "Российские военнослужащие обнаружили пролет 36 украинских БПЛА",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d4edc1730ec0fb922730374f44d8ad4a3c991029",
+      "fingerprint": "8b2663040a8df9c8e75077fd9a9b10ef6f64ba50",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904339",
+      "published_utc": "2026-07-10T02:53:27Z",
+      "title_en": "The Russian Ambassador to Venezuela announced the transfer of humanitarian aid to the state of La Guaira",
+      "lead_en": "State Governor Jose Alejandro Teran thanked the Russian side, noted Sergei Melik-Bagdasarov",
+      "title_raw": "Посол РФ в Венесуэле сообщил о передаче гумпомощи штату Ла-Гуайра",
+      "lead_raw": "Губернатор штата Хосе Алехандро Теран поблагодарил российскую сторону, отметил Сергей Мелик-Багдасаров",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "21fa78ce3fb082c0b16bd36d09fe89ef0e526679",
+      "fingerprint": "f885cc65bf9afe7191fb5d92cfaf2449cc559258",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904311",
+      "published_utc": "2026-07-10T02:49:35Z",
+      "title_en": "Expert Lomidze told how much a holiday on the Black Sea coast will cost",
+      "lead_en": "The executive director of the Association of Tour Operators of Russia said that on average a 10-day vacation in July costs about 50-60 thousand rubles",
+      "title_raw": "Эксперт Ломидзе рассказала, во сколько обойдется отдых на Черноморском побережье",
+      "lead_raw": "Исполнительный директор Ассоциации туроператоров России сообщила, что в среднем 10-дневный отпуск в июле обходится в сумму около 50-60 тыс. рублей",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5a3db2a38b30b8f6cac88c0b8f98ca16398f96d2",
+      "fingerprint": "26bf6e56a280afe05edf7e5c2cee076e0e0d0230",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2158431",
+      "published_utc": "2026-07-10T02:20:34Z",
+      "title_en": "Russia’s appeals over Starobelsk college attack disregarded by OSCE — senior LPR lawmaker",
+      "lead_en": "First Deputy Chairman of the People’s Council Andrey Sopelnik added that the UN Human Rights Council did not respond as well",
+      "title_raw": "Russia’s appeals over Starobelsk college attack disregarded by OSCE — senior LPR lawmaker",
+      "lead_raw": "First Deputy Chairman of the People’s Council Andrey Sopelnik added that the UN Human Rights Council did not respond as well",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f0c59d9e305c4b79e9743450926e2ce7023a088c",
+      "fingerprint": "407c0396cd58ca2d54a4b1744d38e7684c9223f7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27904307",
+      "published_utc": "2026-07-10T02:20:32Z",
+      "title_en": "Acceptance of applications for the “Russian Volunteer” badge starts on July 20",
+      "lead_en": "You can apply until August 19",
+      "title_raw": "Прием заявок на получение нагрудного знака \"Доброволец России\" стартует 20 июля",
+      "lead_raw": "Подать заявку можно до 19 августа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "17256072555c916a19787232019c7b7496476f33",
+      "fingerprint": "ac5ebcd179902209b9a51ecfb7e1fa71fb26354c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904303",
+      "published_utc": "2026-07-10T02:09:42Z",
+      "title_en": "The Sever group destroyed UAV control centers of the Ukrainian Armed Forces in the Kharkov region",
+      "lead_en": "Russian military personnel used a Giatsint-S self-propelled gun to strike",
+      "title_raw": "Группировка \"Север\" уничтожила в Харьковской области пункты управления БПЛА ВСУ",
+      "lead_raw": "Российские военнослужащие применили для удара самоходное орудие \"Гиацинт-С\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "84050e2bc4c32beb4da45fd7fd0be70b826daaea",
+      "fingerprint": "c1572c062916903c121b7db0bc138a37e3c3323d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904301",
+      "published_utc": "2026-07-10T02:08:45Z",
+      "title_en": "Vostok mobile fire groups repelled an attack by Ukrainian UAVs over the DPR",
+      "lead_en": "Russian military personnel used thermal imaging sights to detect enemy drones",
+      "title_raw": "Мобильные огневые группы \"Востока\" отразили атаку украинских БПЛА над ДНР",
+      "lead_raw": "Для обнаружения беспилотников противника российские военнослужащие использовали тепловизионные прицелы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f9ebb31869a12084a085304990231c5116d2e6a5",
+      "fingerprint": "622eac686cbd5c4f3d8e4c0c359049dcae0a123b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904299",
+      "published_utc": "2026-07-10T02:07:46Z",
+      "title_en": "\"Vostok\" destroyed strongholds of the Ukrainian Armed Forces in the Zaporozhye region",
+      "lead_en": "Russian soldiers attacked the enemy with tanks",
+      "title_raw": "\"Восток\" уничтожил опорные пункты ВСУ в Запорожской области",
+      "lead_raw": "Российские военнослужащие атаковали противника танками",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "73f6930fd98c32a72228f35b3c06be2e2b091880",
+      "fingerprint": "feac7111f832f09be90ff3e5b0296dffb62f18a7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904295",
+      "published_utc": "2026-07-10T02:06:12Z",
+      "title_en": "The Zapad group destroyed attack UAVs of the Ukrainian Armed Forces in the Krasnolimansk direction",
+      "lead_en": "Russian drone operators rammed enemy drones in the air",
+      "title_raw": "Группировка \"Запад\" уничтожила ударные БПЛА ВСУ на краснолиманском направлении",
+      "lead_raw": "Операторы российских дронов протаранили беспилотники противника в воздухе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "23f77536b1a037c76a61126a614b734221a2c7fe",
+      "fingerprint": "648eb3ce4599d1607341bdc63814194df0a88e57",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904291",
+      "published_utc": "2026-07-10T02:05:28Z",
+      "title_en": "UAVs and Vostok tanks destroyed strongholds and manpower of the Ukrainian Armed Forces in Zaporozhye",
+      "lead_en": "Russian soldiers also destroyed enemy dugouts",
+      "title_raw": "БПЛА и танки \"Востока\" уничтожили опорные пункты и живую силу ВСУ на Запорожье",
+      "lead_raw": "Российские военнослужащие также разбили блиндажи противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "51674236c32e3e4683b8228538691180d5186f61",
+      "fingerprint": "79226f34ea470152b8b9fe7dbd5f48de963d52e6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904287",
+      "published_utc": "2026-07-10T02:03:42Z",
+      "title_en": "\"Center\" destroyed a strong point and infantry of the Ukrainian Armed Forces in the Dobropol direction",
+      "lead_en": "Russian military personnel hit targets with drones",
+      "title_raw": "\"Центр\" уничтожил опорный пункт и пехоту ВСУ на добропольском направлении",
+      "lead_raw": "Российские военнослужащие ударили по целям беспилотниками",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1082cf45fa7f9015ff9044f808bfa8f460608db1",
+      "fingerprint": "6966294137de29e39868fe364c54602968a57031",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904285",
+      "published_utc": "2026-07-10T02:03:35Z",
+      "title_en": "Fighter Python: near Kharkov, the Ukrainian Armed Forces take broken positions to avoid coming under fire",
+      "lead_en": "The enemy cannot gain a foothold at new points due to Russian intelligence, the serviceman noted",
+      "title_raw": "Боец Питон: под Харьковом ВСУ занимают разбитые позиции, чтобы не попасть под огонь",
+      "lead_raw": "На новых точках противник закрепиться не может из-за российской разведки, отметил военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d8fe8e2b16b0be6f860f04c68e1dffea1c1555e8",
+      "fingerprint": "6c21f1ce3523b1b7103bceb508f1e2dec47fbe3b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904283",
+      "published_utc": "2026-07-10T02:02:51Z",
+      "title_en": "A Su-34 fighter destroyed Ukrainian Armed Forces personnel in the West's area of ​​responsibility",
+      "lead_en": "The Russian Armed Forces struck at night",
+      "title_raw": "Истребитель Су-34 уничтожил личный состав ВСУ в зоне ответственности \"Запада\"",
+      "lead_raw": "ВС РФ нанесли удар в ночное время",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "60938a11c8d394b2f2aefe51bc73c087fd8ec5fc",
+      "fingerprint": "cc60ddfd3366d64223a316e4e646f538dd054a5f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904271",
+      "published_utc": "2026-07-10T02:01:25Z",
+      "title_en": "The Ukrainian Armed Forces lost 23 UAV control points due to the actions of the Southern Group of Forces",
+      "lead_en": "Russian military personnel also eliminated seven enemy ground robotic systems",
+      "title_raw": "ВСУ от действий Южной группировки войск потеряли 23 пункта управления БПЛА",
+      "lead_raw": "Российские военнослужащие также ликвидировали семь наземных робототехнических комплексов противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "77f5c001d71a17d3c0702432ee08089c4e8408e2",
+      "fingerprint": "c268c0eb8c0d2f46d7d3e770880e8c26e825d06a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904269",
+      "published_utc": "2026-07-10T02:01:12Z",
+      "title_en": "The Zapad group destroyed 108 heavy quadrocopters of the Ukrainian Armed Forces in one day",
+      "lead_en": "Russian military personnel also eliminated 112 aircraft-type UAVs and 45 enemy control posts",
+      "title_raw": "Группировка \"Запад\" за сутки уничтожила 108 тяжелых квадрокоптеров ВСУ",
+      "lead_raw": "Российские военнослужащие также ликвидировали 112 БПЛА самолетного типа и 45 пунктов управления противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fa42ed67799446d3bd14c103668d65e397cf7f12",
+      "fingerprint": "0a7a022f87aa18ce477ceff8a1808eaba3869ef2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904267",
+      "published_utc": "2026-07-10T02:01:03Z",
+      "title_en": "\"Center\" destroyed the control center of the UAV of the Ukrainian Armed Forces in the Dobropol direction",
+      "lead_en": "Russian military personnel used the Molniya drone for this purpose.",
+      "title_raw": "\"Центр\" уничтожил пункт управления БПЛА ВСУ на добропольском направлении",
+      "lead_raw": "Российские военнослужащие применили для этого дрон \"Молния\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aa79610f18a80556c96f5a09dcff0563c2b48857",
+      "fingerprint": "34f0101f191d4df170f9c5f2a31207404cfb6670",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904261",
+      "published_utc": "2026-07-10T02:00:53Z",
+      "title_en": "Russian Defense Ministry: paratroopers acted as covertly as possible during the assault on Vasilyevka in the DPR",
+      "lead_en": "Massive strikes were carried out on the positions of the Ukrainian Armed Forces",
+      "title_raw": "МО РФ: десантники при штурме Васильевки в ДНР действовали максимально скрытно",
+      "lead_raw": "По позициям ВСУ были нанесены массированные удары",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "19ed6340c4c1e42847d18ea68a40bd385051dc69",
+      "fingerprint": "3f5f6316360f85fbdac618707c0afa6ef2cfa829",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27904263",
+      "published_utc": "2026-07-10T02:00:44Z",
+      "title_en": "Ships of the Russian Navy and the PLA Navy entered the Yellow Sea for the Maritime Interaction exercises",
+      "lead_en": "Particular attention during the testing of tasks will be paid to joint counteraction to robotic systems and other modern threats at sea",
+      "title_raw": "Корабли ВМФ РФ и ВМС НОАК вышли в Желтое море на учения \"Морское взаимодействие\"",
+      "lead_raw": "Особое внимание в ходе отработки задач будет уделено совместному противодействию робототехническим комплексам и другим современным угрозам на море",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ee75e5ce9aa2a6b5b2ad3bb17fc2186d74de2f06",
+      "fingerprint": "0cb08cd61c552543f7fc43fe3408510476688095",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27904249",
+      "published_utc": "2026-07-10T01:54:25Z",
+      "title_en": "Deputy Foreign Minister of Japan considers it important to maintain relations with Russia",
+      "lead_en": "At the same time, Tokyo advocates a sanctions policy against Moscow, the diplomat noted",
+      "title_raw": "Замглавы МИД Японии считает важным поддерживать отношения с Россией",
+      "lead_raw": "При этом Токио выступает за санкционную политику против Москвы, отметил дипломат",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "70d827a1cad0594ac03e0a90c805dba186520a66",
       "fingerprint": "90a722816d582ef6f0c06988a39c3e63050061ae",
@@ -11519,734 +12369,6 @@
       "lead_en": "Oleg Olshansky and Russian Sergei Ivin, who is involved in the same case with him, were extradited to the United States from Bulgaria, where they were detained in October 2025 at the request of Washington",
       "title_raw": "Суд США отказал россиянину Ольшанскому в переводе под домашний арест",
       "lead_raw": "Олег Ольшанский и проходящий с ним по одному делу россиянин Сергей Ивин были экстрадированы в США из Болгарии, где их задержали в октябре 2025 года по требованию Вашингтона",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "631df5fb204ee7a03ea8b0d550d4da6aa4395593",
-      "fingerprint": "e665d274eb84dd8aa1dedec7fa979593c8c1a064",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896601",
-      "published_utc": "2026-07-08T04:54:45Z",
-      "title_en": "The Russian Armed Forces hit Samsung-Ukraine, which produces components for the Flamingo.",
-      "lead_en": "The workshop for assembling long- and medium-range UAVs was also hit.",
-      "title_raw": "ВС РФ поразили \"Самсунг-Украина\", где производят комплектующие для \"Фламинго\"",
-      "lead_raw": "Также был поражен цех по сборке БПЛА большой и средней дальности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ecd1d1e7006c18480fe4e2e8ea6eead8a0db07ba",
-      "fingerprint": "fbcff47e5d5b47d3bce89304d1d9b99891bd3d9d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27896581",
-      "published_utc": "2026-07-08T04:43:55Z",
-      "title_en": "In January - May, the Russian Federation increased the export of skimmed milk powder by 74%",
-      "lead_en": "The top 5 importing countries for this period included Algeria, Kazakhstan, Armenia, Egypt and Uzbekistan",
-      "title_raw": "РФ в январе - мае увеличила экспорт сухого обезжиренного молока на 74%",
-      "lead_raw": "В топ-5 стран-импортеров за этот период вошли Алжир, Казахстан, Армения, Египет и Узбекистан",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "29a0e5d05f55b181374e5ec8d7c6e95b79dcdcdb",
-      "fingerprint": "a4e479d8725410cfbca88c916dd51aaff0162ea0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896569",
-      "published_utc": "2026-07-08T04:38:48Z",
-      "title_en": "The Russian Armed Forces destroyed heavy drones of the Ukrainian Armed Forces aimed deep into Russia",
-      "lead_en": "The targets were hit by the crews of the FPV interceptor drones of the Rubicon Test Center for Advanced Unmanned Technologies, the Ministry of Defense noted.",
-      "title_raw": "ВС РФ уничтожили тяжелые дроны ВСУ, направленные вглубь России",
-      "lead_raw": "Цели поразили расчеты FPV-дронов-перехватчиков Испытательного центра перспективных беспилотных технологий \"Рубикон\", отметили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "43e23aab6a16377644212b63ca4bd65865559abd",
-      "fingerprint": "ef1f4faf4076bb3d5d814b761eaddf0d44523e97",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27896511",
-      "published_utc": "2026-07-08T04:32:00Z",
-      "title_en": "Russians surveyed named the average amount of a gift for the Day of Family, Love and Fidelity",
-      "lead_en": "According to a study by the Avito Products and Avito Advertising services, 30% of respondents are going to spend up to 5 thousand rubles",
-      "title_raw": "Опрошенные россияне назвали среднюю сумму подарка ко Дню семьи, любви и верности",
-      "lead_raw": "По данным исследования сервисов \"Авито товары\" и \"Авито реклама\", 30% респондентов собираются потратить до 5 тыс. рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "335b0cedbfb73c2596ae00d66e4db3e8148649da",
-      "fingerprint": "170b568b42e93f09be4a80af70fa2fa6de86fb39",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27896537",
-      "published_utc": "2026-07-08T04:23:05Z",
-      "title_en": "The warmest water at Russian resorts was recorded in Yeisk",
-      "lead_en": "Sea water temperature reaches 26 degrees",
-      "title_raw": "Самую теплую воду на курортах России зафиксировали в Ейске",
-      "lead_raw": "Температура воды в море достигает 26 градусов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "eef5dfdf8db5c8504a9967f830aa8238a16a0c95",
-      "fingerprint": "34cbb5cb058977a2cf2096eb2ffae65f19c63a47",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27896375",
-      "published_utc": "2026-07-08T03:27:19Z",
-      "title_en": "In the Russian Federation, 74% of surveyed couples adopt each other’s beauty habits",
-      "lead_en": "Almost a third of women admitted that they adopted their man’s skin care habits, according to a study by the beauty retailer “Golden Apple” and the online psychological support service “Yasno”",
-      "title_raw": "В РФ 74% опрошенных пар перенимают бьюти-привычки друг друга",
-      "lead_raw": "Почти треть женщин признались, что переняли у своего мужчины привычки ухода за кожей лица, говорится в исследовании бьюти-ретейлера \"Золотое яблоко\" и онлайн-сервиса психологической поддержки \"Ясно\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "42c90da6a222150b7c2923041d0bbd2db2980cd6",
-      "fingerprint": "af987c260703e739acf740102b89821a7003e2fd",
-      "source": "RT",
-      "url": "https://www.rt.com/news/642709-europe-aggressive-posture-conflict-russia",
-      "published_utc": "2026-07-08T03:10:44Z",
-      "title_en": "Europe’s bellicose posturing risks direct war with Russia, expert warns",
-      "lead_en": "European NATO members’ plans to inflict a “strategic defeat” on Russia could lead to an all-out war, a Russian policy expert has warned Read Full Article at RT.com",
-      "title_raw": "Europe’s bellicose posturing risks direct war with Russia, expert warns",
-      "lead_raw": "European NATO members’ plans to inflict a “strategic defeat” on Russia could lead to an all-out war, a Russian policy expert has warned Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ad10d6a1ffbd933a46b38410fba0e12c0c1d3162",
-      "fingerprint": "cd1fa651a1fe7679dcbefd52fbaa56f01bf7f626",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896341",
-      "published_utc": "2026-07-08T03:08:59Z",
-      "title_en": "Marochko: The Russian Armed Forces are advancing in two areas at once near New Donbass",
-      "lead_en": "The military expert added that Russian forces are advancing southwest of Kutuzovka",
-      "title_raw": "Марочко: ВС РФ наступают сразу на двух участках у Нового Донбасса",
-      "lead_raw": "Военный эксперт добавил, что российские силы продвигаются юго-западнее Кутузовки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a216f6701916e3de07623756130ed9dbecf040d9",
-      "fingerprint": "1221a55956805077a7a2a15ee410221f7b56c22a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896337",
-      "published_utc": "2026-07-08T03:07:02Z",
-      "title_en": "Expert Kuzyakin: strikes by the Russian Armed Forces set back the Ukrainian Armed Forces for months in the production of UAVs",
-      "lead_en": "An expert in the field of unmanned aircraft noted that production capacity in Ukraine still remains significant",
-      "title_raw": "Эксперт Кузякин: удары ВС РФ отбросили ВСУ на месяцы в производстве БПЛА",
-      "lead_raw": "Эксперт в области беспилотной авиации отметил, что производственные мощности на Украине все еще остаются значительными",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0ef6b9d7bcfb3b69eff4ecc22fe13a16c5768feb",
-      "fingerprint": "b175df5e2713f84f438c0fe1e6e590de776da594",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896297",
-      "published_utc": "2026-07-08T02:44:20Z",
-      "title_en": "Commander Bus: Armed Forces personnel were prohibited from retreating from Konstantinovka",
-      "lead_en": "There were prisoners who themselves said that “they were not given the go-ahead to roll back,” noted a Russian serviceman",
-      "title_raw": "Командир Автобус: личному составу ВСУ запрещали отступать из Константиновки",
-      "lead_raw": "Были пленные, которые сами говорили, что \"им не дали добро на откат\", отметил российский военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "003d2ea744269d4fcf5fcce0a945ad84975f2345",
-      "fingerprint": "7545f31479b2243d61d90a643dd6373ef78a9769",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/voennaya-operaciya-na-ukraine/27896289",
-      "published_utc": "2026-07-08T02:33:20Z",
-      "title_en": "Fighter Taiga: The Ukrainian Armed Forces are launching decoy drones made from pipes with a propeller at the positions of the “North”",
-      "lead_en": "According to the serviceman, this is how the enemy is trying to discharge the air defense ammunition of the Russian Armed Forces, which is necessary to destroy real combat missiles",
-      "title_raw": "Боец Тайга: ВСУ запускают по позициям \"Севера\" дроны-обманки из труб с винтом",
-      "lead_raw": "По словам военнослужащего, так противник пытается разрядить боекомплект ПВО ВС РФ, необходимый для уничтожения настоящих боевых ракет",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "37217875c541977716d1916c2d359d26add28299",
-      "fingerprint": "20bc3040dbd955dbd41b849e20f1101f3e2bbef7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27896275",
-      "published_utc": "2026-07-08T02:31:08Z",
-      "title_en": "Rusprofile: the number of new business registrations in the Russian Federation in the first half of the year increased by 3.3%",
-      "lead_en": "The figure was 614 thousand.",
-      "title_raw": "Rusprofile: число регистраций нового бизнеса в РФ в I полугодии выросло на 3,3%",
-      "lead_raw": "Показатель составил 614 тыс.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7b6e691ecb3e5fb804560511fcd550a132eddc2a",
-      "fingerprint": "f75d8a4280cf68de64cd2ef010f6552d809449f6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896197",
-      "published_utc": "2026-07-08T02:22:47Z",
-      "title_en": "Soldiers of mobile fire groups repelled a raid by kamikaze drones of the Armed Forces of Ukraine An-196 \"Fierce\"",
-      "lead_en": "The Russian Ministry of Defense stated that the targets were hit using Kalashnikov machine guns and Verba man-portable anti-aircraft missile systems.",
-      "title_raw": "Бойцы мобильных огневых групп отразили налет дронов-камикадзе ВСУ Ан-196 \"Лютый\"",
-      "lead_raw": "В Минобороны РФ заявили, что поражение целей осуществлялось из пулеметов Калашникова и переносных зенитных ракетных комплексов \"Верба\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "64a62ec66441c60308e836556b08398b807eab8d",
-      "fingerprint": "4a0d90c2db658b93e8e1e6fb639af230c1ba25de",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896273",
-      "published_utc": "2026-07-08T02:21:54Z",
-      "title_en": "The Russian Armed Forces destroyed reinforcement groups of the Armed Forces of Ukraine in the Zaporozhye region",
-      "lead_en": "The targets were hit by fighters from the Vostok group, the Ministry of Defense said.",
-      "title_raw": "ВС РФ уничтожили группы усиления ВСУ в Запорожской области",
-      "lead_raw": "Цели поразили бойцы группировки \"Восток\", рассказали в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4affa722c525a20b56525a3400e2a547c3358903",
-      "fingerprint": "084fff3641042794fb89da5b2d21a0ce2564f3a7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896271",
-      "published_utc": "2026-07-08T02:21:18Z",
-      "title_en": "The Russian Armed Forces repelled a raid by kamikaze drones of the Armed Forces of Ukraine An-196 \"Fierce\"",
-      "lead_en": "According to the Ministry of Defense, the task was carried out by crews of mobile fire groups and air surveillance posts of the Center group.",
-      "title_raw": "ВС РФ отразили налет дронов-камикадзе ВСУ Ан-196 \"Лютый\"",
-      "lead_raw": "По данным Минобороны, задачу выполнили расчеты мобильных огневых групп и постов воздушного наблюдения группировки \"Центр\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3d96ecc7581bff5be162b8a831f02f51e992b0ff",
-      "fingerprint": "35252dd53db101b3051ea6965281b7b1d57f61f2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896269",
-      "published_utc": "2026-07-08T02:20:41Z",
-      "title_en": "Soldier Osipov: The Russian Armed Forces cleared the roads to Vasilyevka for infantry entry",
-      "lead_en": "Russian fighters did it from the air, the military noted",
-      "title_raw": "Боец Осипов: ВС РФ разминировали пути к Васильевке для захода пехоты",
-      "lead_raw": "Российские бойцы делали это с воздуха, отметил военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8bc4bce81ebf02a2af13baadb726a678aade9ca9",
-      "fingerprint": "5de32639d89a71eb01fd7e27adaeb92ee3519291",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896201",
-      "published_utc": "2026-07-08T02:19:40Z",
-      "title_en": "The Armed Forces of Ukraine lost 5 robotic systems and 26 UAV communication antennas per day",
-      "lead_en": "Russian fighters also hit 20 UAV control points, said the head of the press center of the group of forces, Vadim Astafiev.",
-      "title_raw": "ВСУ за сутки потеряли 5 робототехнических комплексов и 26 антенн связи БПЛА",
-      "lead_raw": "Российские бойцы также поразили 20 пунктов управления БПЛА, заявил начальник пресс-центра группировки войск Вадим Астафьев",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a04b7690cb40ee2cccef2f7f967a4568e31ce266",
-      "fingerprint": "d5410d7584630fe4653695c60fdf3b7fda87563e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896257",
-      "published_utc": "2026-07-08T02:18:55Z",
-      "title_en": "Commander Knyazkin: The Russian Armed Forces destroyed the Abrams and the Ukrainian Armed Forces landing force in Vasilievka",
-      "lead_en": "The targets were hit by UAV operators of the Airborne Forces division, the military said",
-      "title_raw": "Командир Князькин: ВС РФ уничтожили Abrams и десант ВСУ в Васильевке",
-      "lead_raw": "Цели поразили операторы БПЛА дивизии ВДВ, сообщил военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7ddc727b2346cc090050b9bc7692a9295a763af3",
-      "fingerprint": "1e3c8b796bad27c50fca03c9437c86f3c6d8ab30",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896253",
-      "published_utc": "2026-07-08T02:18:03Z",
-      "title_en": "Commander Knyazkin: The Russian Armed Forces destroyed Ukrainian Armed Forces soldiers on Bradley near Vasilyevka",
-      "lead_en": "The enemy did not know the tactical situation and was destroyed along with the infantry fighting vehicle, the military said",
-      "title_raw": "Командир Князькин: ВС РФ уничтожили у Васильевки солдат ВСУ на Bradley",
-      "lead_raw": "Противник не владел тактической обстановкой и был уничтожен вместе с БМП, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e39f47162d5eb38a58032e0a1c98d77be6864655",
-      "fingerprint": "df278513df59bf37525dce7457b2c769adee81b3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896205",
-      "published_utc": "2026-07-08T02:17:38Z",
-      "title_en": "Soldier Osipov: in three weeks, UAVs of paratroopers of the Russian Armed Forces shot down up to 50 drones",
-      "lead_en": "The serviceman added that the targets controlled the roads to the LBS zone",
-      "title_raw": "Боец Осипов: за три недели БПЛА десантников ВС РФ сбили до 50 дронов",
-      "lead_raw": "Военнослужащий добавил, что цели контролировали дороги к зоне ЛБС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2c530b8187f59b457b80511efadfb71ef1d7b40c",
-      "fingerprint": "58dba5f38c0f83909b2b90538d13eefe59df1d7b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896251",
-      "published_utc": "2026-07-08T02:17:28Z",
-      "title_en": "Commander Knyazkin: The Armed Forces of Ukraine tried to undermine the paratroopers of the Russian Armed Forces",
-      "lead_en": "However, the enemy was unable to arm the mine, the military said.",
-      "title_raw": "Командир Князькин: ВСУ пытались подорвать десантников ВС РФ",
-      "lead_raw": "Однако противник не смог взвести мину, сообщил военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bb3545a5c4bc861194105975cad494fada6bfd01",
-      "fingerprint": "8e30d23570d4c6cdd71666035f41e84dc5e7c287",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896247",
-      "published_utc": "2026-07-08T02:16:55Z",
-      "title_en": "Commander Tucha: The Armed Forces of Ukraine surrounded Aleksandrivka with barbed wire",
-      "lead_en": "To enter a populated area, the Russian Armed Forces used pliers, the military man said",
-      "title_raw": "Командир Туча: ВСУ обнесли Александровку колючей проволокой",
-      "lead_raw": "Чтобы зайти в населенный пункт, ВС РФ применили пассатижи, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d1bdc4fd3b1fee01341af0ea4829686c5b8f209d",
-      "fingerprint": "ff1562a9aef00e51e19f4ca6919d412e8ac89320",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896237",
-      "published_utc": "2026-07-08T02:15:44Z",
-      "title_en": "Commander Knyazkin: The Russian Armed Forces crawled out from under the rubble with the help of sapper shovels",
-      "lead_en": "Russian soldiers had to take cover due to attacks by drones of the Ukrainian Armed Forces, a military man said",
-      "title_raw": "Командир Князькин: ВС РФ вылезли из-под завалов с помощью саперных лопат",
-      "lead_raw": "Российским бойцам пришлось укрыться из-за атак дронов ВСУ, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a73f9445b13ab90b108de3da846ba4480e7dc3a8",
-      "fingerprint": "3073958672f9903ea807d4e583f3b0c5de37333f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896235",
-      "published_utc": "2026-07-08T02:15:04Z",
-      "title_en": "Fighter Tsakoni: The Russian Armed Forces in Aleksandrovka drove the Ukrainian Armed Forces into a trap",
-      "lead_en": "Then the Russian fighters hit the enemy with artillery, the military said",
-      "title_raw": "Боец Цакони: ВС РФ в Александровке загнали ВСУ в ловушку",
-      "lead_raw": "Затем российские бойцы поразили противника артиллерией, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "005fe142aba619387c7adcee56a92c62b24a21d1",
-      "fingerprint": "9a35e8820b8f36788046e7141d574ca4e32e4527",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896227",
-      "published_utc": "2026-07-08T02:13:44Z",
-      "title_en": "Commander Knyazkin: a Ukrainian Armed Forces soldier in Vasilyevka allowed Russian Armed Forces paratroopers to take the position",
-      "lead_en": "Russian fighters successfully gained a foothold in an enemy stronghold, a serviceman said",
-      "title_raw": "Командир Князькин: солдат ВСУ в Васильевке пустил на позиции десантников ВС РФ",
-      "lead_raw": "Российские бойцы успешно закрепились во вражеском опорном пункте, заявил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4c55c63703190c6b7ecc0c7bab44fb7f526fca90",
-      "fingerprint": "bab015b157f3608c80bd80d94287006b53b2cd8c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896183",
-      "published_utc": "2026-07-08T02:12:24Z",
-      "title_en": "Commander Knyazkin: a Ukrainian Armed Forces soldier in Vasilyevka allowed Russian Armed Forces paratroopers to take the position",
-      "lead_en": "Russian fighters introduced themselves as Ukrainians, the military said",
-      "title_raw": "Командир Князькин: солдат ВСУ в Васильевке пустил на позиции десантников ВС РФ",
-      "lead_raw": "Российские бойцы представились украинцами, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a42c55935dea94b36ea9b977ef084e2a30365a81",
-      "fingerprint": "11a7a918875b9d343e5f545f5060e5a1c4c9a8b9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27896225",
-      "published_utc": "2026-07-08T02:11:02Z",
-      "title_en": "\"Sociology of Religion\": more than 80% of Russians are involved in maintaining family memory",
-      "lead_en": "The study also states that 16% of Russian citizens over the past year went on vacation or on a trip with relatives with whom they do not live.",
-      "title_raw": "\"Социология религии\": более 80% россиян вовлечены в поддержание семейной памяти",
-      "lead_raw": "В исследовании также говорится, что 16% граждан РФ за прошедший год ездили на отдых или в путешествие с родственниками, с которыми вместе не живут",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "47fdf2e0e0c2fac941cc4649a350aa0d4e3496df",
-      "fingerprint": "793f66b244812c576c5bb4fb0266e002c862cf4f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896223",
-      "published_utc": "2026-07-08T02:10:01Z",
-      "title_en": "Soldier Osipov: The Russian Armed Forces burned two Bradleys while trying to drive to Krasnoarmeysk",
-      "lead_en": "Russian forces also eliminated enemy landing forces, the military officer said.",
-      "title_raw": "Боец Осипов: ВС РФ cожгли две Bradley при попытке проехать к Красноармейску",
-      "lead_raw": "Российские силы также ликвидировали десант противника, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "281ff01b25c7189dd86af18388a44070646da6a8",
-      "fingerprint": "0696a9488ff4a19f91ceb51caad59541c83507c9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896221",
-      "published_utc": "2026-07-08T02:08:18Z",
-      "title_en": "Soldier Osipov: paratroopers of the Russian Armed Forces modernized drones delivering provisions",
-      "lead_en": "At one time, the UAV carries up to 1.5 kg of provisions, the military said",
-      "title_raw": "Боец Осипов: десантники ВС РФ модернизировали доставляющие провизию беспилотники",
-      "lead_raw": "За один раз БПЛА несет до 1,5 кг провизии, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bd234d57d872106e34cb27e54ccf7219b94ef9cf",
-      "fingerprint": "bb73d888d73dbc6c2382659d76189637953beaf5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27896215",
-      "published_utc": "2026-07-08T02:07:32Z",
-      "title_en": "Bronevik: more than a third of tours in Russia in June were made spontaneously",
-      "lead_en": "According to the company, 20% of bookings were made on the day of arrival",
-      "title_raw": "Bronevik: более трети турпоездок по России в июне совершались спонтанно",
-      "lead_raw": "По данным компании, 20% бронирований были оформлены в день заезда",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "00ed5452004d99c3dfbbf38a7e0a63999e9687df",
-      "fingerprint": "941e15dea86ca23f07f62c0b926c048062af132e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896219",
-      "published_utc": "2026-07-08T02:07:24Z",
-      "title_en": "Fighter Osipov: The Russian Armed Forces use equipment to track Hornet drones of the Armed Forces of Ukraine",
-      "lead_en": "Russian forces also have a system for alerting troops about potential danger from the air if drones are detected, the military officer said.",
-      "title_raw": "Боец Осипов: ВС РФ используют оборудование для отслеживания дронов ВСУ \"Хорнет\"",
-      "lead_raw": "Также у российских сил налажена система оповещения войск о потенциальной опасности с воздуха в случае фиксации дронов, рассказал военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "01acbe3ee715e8af4981240a8513a86c05fd24fc",
-      "fingerprint": "35a871a394dcb11078522574e22f5fa4c225fb98",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27896209",
-      "published_utc": "2026-07-08T02:04:49Z",
-      "title_en": "Marine FPV drone operators raided the Ukrainian Armed Forces supply route",
-      "lead_en": "The Russian Armed Forces destroyed enemy robotic systems",
-      "title_raw": "Операторы FPV-дронов морпехов совершили налет на пути подвоза обеспечения ВСУ",
-      "lead_raw": "Военные ВС РФ уничтожили роботизированные комплексы противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "463cbfd23cbafea20aab444f8ea6a58095dbf242",
-      "fingerprint": "13a39467929f240004c20446343b6d0d1ab3c2dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27895917",
-      "published_utc": "2026-07-08T02:00:01Z",
-      "title_en": "Commander Tucha: The Ukrainian Armed Forces in Aleksandrovka mined the approaches to positions",
-      "lead_en": "The enemy did not want to miss the entry of the Russian Armed Forces, the military said",
-      "title_raw": "Командир Туча: ВСУ в Александровке минировали подходы к позициям",
-      "lead_raw": "Противник не хотел пропустить захода ВС РФ, сообщил военный",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f24358abfe56a0a5400da26392a1a326341538a6",
-      "fingerprint": "05d6b42ca9c00cc3c138f8b6ec70326e033520c5",
-      "source": "RT",
-      "url": "https://www.rt.com/news/642708-europe-main-anti-russian-nato",
-      "published_utc": "2026-07-08T01:20:38Z",
-      "title_en": "Europe replacing US as NATO’s main anti-Russian actor – expert",
-      "lead_en": "European NATO members want to use the Ukraine conflict to destroy Russia as a global power, a Russian analyst argues in an op-ed for RT. Read Full Article at RT.com",
-      "title_raw": "Europe replacing US as NATO’s main anti-Russian actor – expert",
-      "lead_raw": "European NATO members want to use the Ukraine conflict to destroy Russia as a global power, a Russian analyst argues in an op-ed for RT. Read Full Article at RT.com",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
