@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-10T14:38:15Z",
+  "updated_at_utc": "2026-07-10T16:59:14Z",
   "topic": "military",
   "count": 104,
   "articles": [
+    {
+      "id": "9dfdca64f9c463ac72b0ce5ac3b472d74296545a",
+      "fingerprint": "fb30e76084992effb11439cd0bce67895824a7bc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27906885",
+      "published_utc": "2026-07-10T16:12:50Z",
+      "title_en": "TASS: Russian Armed Forces destroy gas stations between Kyiv and Chernigov",
+      "lead_en": "The Armed Forces of Ukraine recognize that the liquidation of gas stations can cause significant damage to the logistics that have been established over the years, Russian law enforcement agencies noted.",
+      "title_raw": "ТАСС: ВС РФ уничтожают автозаправки между Киевом и Черниговом",
+      "lead_raw": "Военные ВСУ признают, что ликвидация заправок может нанести существенный урон налаженной годами логистике, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "05fc236fb110cc16bc4cc9f77792a65a8c8f3061",
       "fingerprint": "ada1451d1e47b0c7f59d01a6e761dc553c7d8bab",
@@ -2288,29 +2310,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "d0bece37179e1eebb0a2402d5cf64e65d00600eb",
-      "fingerprint": "722a697cc3bcc18f80465b94e979a178908f786c",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/08/trump-meets-zelensky-at-nato-summit-says-ukrainian-strikes-on-russian-refineries-could-help-end-the-war",
-      "published_utc": "2026-07-08T14:54:46Z",
-      "title_en": "Trump meets Zelensky at NATO summit, says strikes on Russian refineries could help end the war, offers Ukraine license to manufacture Patriot missiles",
-      "lead_en": "U.S. President Donald Trump met with Ukrainian President Volodymyr Zelensky on the sidelines of the NATO summit in Ankara.",
-      "title_raw": "Trump meets Zelensky at NATO summit, says strikes on Russian refineries could help end the war, offers Ukraine license to manufacture Patriot missiles",
-      "lead_raw": "U.S. President Donald Trump met with Ukrainian President Volodymyr Zelensky on the sidelines of the NATO summit in Ankara.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
