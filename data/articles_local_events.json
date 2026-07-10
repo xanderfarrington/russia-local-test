@@ -1,52 +1,30 @@
 {
-  "updated_at_utc": "2026-07-10T04:55:14Z",
+  "updated_at_utc": "2026-07-10T08:26:10Z",
   "topic": "local_events",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
-      "id": "bf391d9597002026765c7bdc9d4f5305e23b26ae",
-      "fingerprint": "80bfa90946dbcda99a89982b042321b8f63b09a6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/08/one-killed-two-wounded-in-russian-strike-on-kyiv",
-      "published_utc": "2026-07-08T08:00:11Z",
-      "title_en": "One killed, two wounded in Russian strike on Kyiv",
-      "lead_en": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
-      "title_raw": "One killed, two wounded in Russian strike on Kyiv",
-      "lead_raw": "Russian forces struck Kyiv in the early hours of July 8, killing one person and wounding two others, according to Tymur Tkachenko, head of the city’s military administration. Ukraine’s State Emergency Service reported two injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d760c12271bc33825a474b137d273aa794cdb339",
-      "fingerprint": "b9c85f1e7eeedb4aba6ebc19bf30a985801a6432",
+      "id": "74992972139d689307b12a2bb80bbbaec15b920c",
+      "fingerprint": "40e22da32faff318f49ef61784b69e67b6ada5da",
       "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2157259",
-      "published_utc": "2026-07-08T07:24:45Z",
-      "title_en": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
-      "lead_en": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
-      "title_raw": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers",
-      "lead_raw": "One civilian was killed and several others were injured in a Ukrainian drone attack on the Saratov Region",
+      "url": "https://tass.com/politics/2158465",
+      "published_utc": "2026-07-10T06:48:49Z",
+      "title_en": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
+      "lead_en": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
+      "title_raw": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
+      "lead_raw": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 0,
+        "energy": 2,
         "economy": 0,
         "local_events": 2
       },
       "topics": [
+        "energy",
         "local_events"
       ],
-      "primary_topic": "local_events"
+      "primary_topic": "energy"
     }
   ]
 }
