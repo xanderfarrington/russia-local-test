@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-11T20:54:31Z",
+  "updated_at_utc": "2026-07-11T21:54:20Z",
   "topic": "diplomacy",
-  "count": 59,
+  "count": 56,
   "articles": [
+    {
+      "id": "c3091c915b408de69afdd197cfcdf677ff9e4592",
+      "fingerprint": "43943fd48097972fa5f436ed70a5b423f91f8c49",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27908883",
+      "published_utc": "2026-07-11T20:59:22Z",
+      "title_en": "Venezuela thanks Russia for humanitarian assistance",
+      "lead_en": "According to the head of the Republic's Foreign Ministry, Ivan Gil Pinto, the Venezuelan people know that they can count on the solidarity of the Russian Federation and its government",
+      "title_raw": "Венесуэла поблагодарила Россию за гуманитарную помощь",
+      "lead_raw": "По словам главы МИД республики Ивана Хиля Пинто, венесуэльский народ знает, что может рассчитывать на солидарность РФ и ее правительства",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "d3f82f2f3c7983febd06ffe684a920f37db6160d",
       "fingerprint": "5d3923814fb8d3a10eeea6ab8b59db3390277716",
@@ -1213,96 +1235,6 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fe18f58b09f1f3cd0ff1b8567825abe0f8a1a901",
-      "fingerprint": "4e3861590e5ca3ed88875405ef518269beaad571",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27903967",
-      "published_utc": "2026-07-09T21:10:17Z",
-      "title_en": "Zakharova: NATO did not listen to Zelensky’s “lamentations” on nuclear weapons",
-      "lead_en": "According to the official representative of the Russian Foreign Ministry, Zelensky was not helped by the attempt at “thinly veiled blackmail”",
-      "title_raw": "Захарова: в НАТО не прислушались к \"стенаниям\" Зеленского по ядерному оружию",
-      "lead_raw": "По словам официального представителя МИД РФ, Зеленскому не помогла попытка \"слабо прикрытого шантажа\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1853965e18252704d29c9938ae60b2f57f85f3ff",
-      "fingerprint": "2a2454235541f0ee03f53a2ce554216efaaaaee4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27903965",
-      "published_utc": "2026-07-09T21:08:15Z",
-      "title_en": "Zakharova: NATO summit in Ankara was humiliating for Zelensky",
-      "lead_en": "The official representative of the Russian Foreign Ministry noted that Zelensky again asked for supplies of missile defense and air defense systems and ammunition for them",
-      "title_raw": "Захарова: саммит НАТО в Анкаре был унизительным для Зеленского",
-      "lead_raw": "Официальный представитель МИД РФ отметила, что Зеленский снова выпрашивал поставки систем ПРО и ПВО и боеприпасы к ним",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "907ce6f959804fea7ce2d1a751bfc72d7fd1423a",
-      "fingerprint": "c6a123376c2cba6460383e62bcc1e102b442bdec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27903961",
-      "published_utc": "2026-07-09T21:07:47Z",
-      "title_en": "Zakharova: over the past week, 38 Russian civilians were killed due to attacks by the Ukrainian Armed Forces",
-      "lead_en": "Another 270 people were injured, said the official representative of the Russian Foreign Ministry.",
-      "title_raw": "Захарова: за минувшую неделю из-за атак ВСУ погибли 38 мирных жителей РФ",
-      "lead_raw": "Пострадали еще 270 человек, заявила официальный представитель МИД России",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "22452c9ccf696dd8cf02b4d65e856617058ed125",
-      "fingerprint": "0f35598a26f9c3dba3f69db4c5e93838aa106013",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2158403",
-      "published_utc": "2026-07-09T20:58:55Z",
-      "title_en": "Mozambique, Russia to hold intergovernmental commission meeting in September",
-      "lead_en": "Mozambican Foreign Minister Maria Manuela dos Santos Lucas says the talks would focus on the economic sphere",
-      "title_raw": "Mozambique, Russia to hold intergovernmental commission meeting in September",
-      "lead_raw": "Mozambican Foreign Minister Maria Manuela dos Santos Lucas says the talks would focus on the economic sphere",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
