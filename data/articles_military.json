@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-11T14:57:50Z",
+  "updated_at_utc": "2026-07-11T16:01:45Z",
   "topic": "military",
-  "count": 111,
+  "count": 110,
   "articles": [
+    {
+      "id": "e8e1e241bb8ef8025eff39f2ea13d507c7507375",
+      "fingerprint": "3f33376f376d0856c6c1397dae72341a6704e010",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27908595",
+      "published_utc": "2026-07-11T15:24:05Z",
+      "title_en": "Times: NATO denied assumptions about Russia’s preparation for an attack on the Baltic states",
+      "lead_en": "The newspaper writes that Western leaders are using the imaginary Russian threat to justify increased military spending.",
+      "title_raw": "Times: в НАТО опровергли предположения о подготовке РФ к атаке на Прибалтику",
+      "lead_raw": "Газета пишет, что западные лидеры используют мнимую российскую угрозу для оправдания роста военных расходов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4da9a9609bee99a84067a4d6a59d8b0f0202d98f",
       "fingerprint": "916629d27e28b1e533b73f7429e3941b7c94b7e0",
@@ -2413,51 +2436,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "04ad81959c6b46f606f35342f0c1cbc7963f1f5e",
-      "fingerprint": "f92a130bc9cba6ad8d732dd78054d47e59541f53",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27903319",
-      "published_utc": "2026-07-09T15:26:42Z",
-      "title_en": "Impact on US air defense and maneuver. Experts on the transfer of a license for Patriot to Ukraine",
-      "lead_en": "Deputy Chairman of the Federation Council Committee on Defense and Security Konstantin Basyuk believes that such a decision by Washington is an element of bargaining, an attempt to put pressure on Russia and its position in the negotiation process in the Ukrainian direction",
-      "title_raw": "Влияние на СВО и маневр США. Эксперты о передаче Украине лицензии на Patriot",
-      "lead_raw": "Зампред комитета СФ по обороне и безопасности Константин Басюк считает, что такое решение Вашингтона является элементом торга, попыткой давления на Россию и ее позицию в переговорном процессе на украинском направлении",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a220b2664d02a6b8378746129ed548248c2ae0c",
-      "fingerprint": "5cadf11260acd0dccf51c872a7fa559cccb4956e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2158263",
-      "published_utc": "2026-07-09T15:11:07Z",
-      "title_en": "Russia remains main guarantor of Central Asia’s security — expert",
-      "lead_en": "Nurlan Dosaliyev noted that Western countries, particularly Germany, were trying to tear the post-Soviet space apart \"along national lines\" in order to sow discord",
-      "title_raw": "Russia remains main guarantor of Central Asia’s security — expert",
-      "lead_raw": "Nurlan Dosaliyev noted that Western countries, particularly Germany, were trying to tear the post-Soviet space apart \"along national lines\" in order to sow discord",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
