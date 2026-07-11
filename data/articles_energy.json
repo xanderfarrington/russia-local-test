@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-11T09:41:24Z",
+  "updated_at_utc": "2026-07-11T11:08:42Z",
   "topic": "energy",
   "count": 52,
   "articles": [
+    {
+      "id": "ffd2ec9643fd266a9202291a340eb5d5ec2bd8c8",
+      "fingerprint": "0636dce43fbe56abfe0470151ffa47f723ae1d21",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2158985",
+      "published_utc": "2026-07-11T10:33:43Z",
+      "title_en": "Russia establishes control over settlement of Bachevsk in Sumy region — defense ministry",
+      "lead_en": "In addition, Russian troops also struck fuel and energy complex and transport infrastructure facilities used by the Ukrainian military",
+      "title_raw": "Russia establishes control over settlement of Bachevsk in Sumy region — defense ministry",
+      "lead_raw": "In addition, Russian troops also struck fuel and energy complex and transport infrastructure facilities used by the Ukrainian military",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5c253b755b66ceca466855264b333c0b81ca367e",
       "fingerprint": "23669df0b774fad97a6bf61559915e7b92365010",
@@ -1136,28 +1159,6 @@
       "topics": [
         "energy",
         "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b4174227291226c8a4ef77188c7a740cb502da29",
-      "fingerprint": "6eb6ffe7672f67c1ed1dd882848b84c1aa4493d1",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/09/kazakhstan-court-overturns-14bln-naftogaz-arbitration-award-against-gazprom-a93207",
-      "published_utc": "2026-07-09T10:22:40Z",
-      "title_en": "Kazakhstan Court Overturns $1.4Bln Naftogaz Arbitration Award Against Gazprom",
-      "lead_en": "The Astana International Financial Centre had earlier ruled that Ukraine’s state oil and gas company, Naftogaz, be allowed to collect a $1.4 billion international arbitration award from Russia’s Gazprom.",
-      "title_raw": "Kazakhstan Court Overturns $1.4Bln Naftogaz Arbitration Award Against Gazprom",
-      "lead_raw": "The Astana International Financial Centre had earlier ruled that Ukraine’s state oil and gas company, Naftogaz, be allowed to collect a $1.4 billion international arbitration award from Russia’s Gazprom.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
