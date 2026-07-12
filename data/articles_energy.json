@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-07-12T06:37:01Z",
+  "updated_at_utc": "2026-07-12T09:05:30Z",
   "topic": "energy",
-  "count": 37,
+  "count": 32,
   "articles": [
+    {
+      "id": "9212cdf79f71c71be282ad6f0a41e3250683bbe3",
+      "fingerprint": "61d0645e0dd5c585a57fa7802e2e27f6f5a759ca",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27909567",
+      "published_utc": "2026-07-12T07:51:13Z",
+      "title_en": "TVEL is ready to meet the Russian market's need for power banks for electric vehicles",
+      "lead_en": "Production volumes will depend on the growth of the fleet of electric vehicles and on the demand for solutions for open parking lots where such stations can be installed, said Alexander Bukhvalov, director of the Electric Mobility business area of ​​the Fuel Division of Rosatom",
+      "title_raw": "ТВЭЛ готов обеспечить потребность российского рынка в пауэрбанках для электромобилей",
+      "lead_raw": "Объемы производства будут зависеть от роста парка электромобилей и от спроса на решения для открытых парковок, где можно устанавливать такие станции, сообщил директор бизнес-направления \"Электромобильность\" Топливного дивизиона Росатома Александр Бухвалов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e35ed7ce5de377cee2fd959ace93dcdcb43aea8c",
+      "fingerprint": "5ac4fbc42ad6126f08c7ba1f833727e0038231f6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2159125",
+      "published_utc": "2026-07-12T06:49:34Z",
+      "title_en": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+      "lead_en": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
+      "title_raw": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+      "lead_raw": "Also a crew of Geran drones has destroyed a gas distribution station used in the interests of the Ukrainian armed forces in Kramatorsk",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "1478c40d61cafebf9aea661708e1b3865d92dc6e",
       "fingerprint": "980d1159a08c79283e72535bb9b6f86da85a0916",
@@ -670,163 +716,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7e92c3e176cc95346be6d1593c0a2f57bb5361f8",
-      "fingerprint": "0b87c026bf0ce3aa5f3fb3104b7746908ec84e1c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2158529",
-      "published_utc": "2026-07-10T08:57:08Z",
-      "title_en": "Russian oil exports rise to 7.71 mln bpd in June, revenues fall to $15.84 bln — IEA",
-      "lead_en": "Meanwhile, export revenues fell by almost 24% to $15.84 billion amid lower prices for Russian energy products",
-      "title_raw": "Russian oil exports rise to 7.71 mln bpd in June, revenues fall to $15.84 bln — IEA",
-      "lead_raw": "Meanwhile, export revenues fell by almost 24% to $15.84 billion amid lower prices for Russian energy products",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5ebef0f1b3ec3903aab0920bce7069df823e112d",
-      "fingerprint": "a9295ca985e7b12c80434e1c9cad6fbc93b1989e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27905077",
-      "published_utc": "2026-07-10T08:08:08Z",
-      "title_en": "In Spain, a military man was deprived of access to secret data due to his marriage to a Russian woman",
-      "lead_en": "Also, according to the newspaper El Pais, the man, who initially had Ukrainian citizenship and then received Spanish citizenship, did not report that he had received Russian citizenship",
-      "title_raw": "В Испании военного лишили доступа к секретным данным из-за брака с россиянкой",
-      "lead_raw": "Также, по версии газеты El Pais, мужчина, первоначально имевший украинское гражданство, а затем получивший испанское подданство, не сообщил и о том, что получил российское гражданство",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2e417494d3e8562d34c6f03610c0c789fae71b9e",
-      "fingerprint": "459ac30d01c4093346ab6d71da39bffca29e9d80",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27905105",
-      "published_utc": "2026-07-10T08:02:16Z",
-      "title_en": "IEA: oil exports from Russia increased by 5.3% in June",
-      "lead_en": "Export revenues fell by almost 24%",
-      "title_raw": "МЭА: нефтяной экспорт из России в июне вырос на 5,3%",
-      "lead_raw": "Доходы же от экспорта упали почти на 24%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bab02eaf53cb2f6af2dc36b24be4a264a97ec8f9",
-      "fingerprint": "987760f8daaaf301ee27c376f994eca8e5585858",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
-      "published_utc": "2026-07-10T07:32:22Z",
-      "title_en": "Ukraine Strikes Oil Refinery in Southern Russia",
-      "lead_en": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
-      "title_raw": "Ukraine Strikes Oil Refinery in Southern Russia",
-      "lead_raw": "Authorities in the city of Taganrog evacuated some residents from their homes following a separate strike on a seaport.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "42e850e721eff8e5afb4934bf1b13f80374d4074",
-      "fingerprint": "34ac1fa24e9dbe8476e1831ad14d0eb0cea6e528",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2158481",
-      "published_utc": "2026-07-10T07:13:47Z",
-      "title_en": "FACTBOX: What we know about foiled attack on military airfield in Rostov-on-Don",
-      "lead_en": "The FSB identified a Russian citizen in the Rostov Region sought by Ukraine's military intelligence to recruit to carry out a sabotage and terrorist attack in exchange for a monetary reward after blowing up the Rostov-Central military airfield",
-      "title_raw": "FACTBOX: What we know about foiled attack on military airfield in Rostov-on-Don",
-      "lead_raw": "The FSB identified a Russian citizen in the Rostov Region sought by Ukraine's military intelligence to recruit to carry out a sabotage and terrorist attack in exchange for a monetary reward after blowing up the Rostov-Central military airfield",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3b2bce21c801c522ece0e3d268d341799d516cdd",
-      "fingerprint": "2cf94c577df29c24c51b07d41203003a38f02183",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/10/over-370-ukrainian-drones-strike-russian-regions-ilsky-oil-refinery-catches-fire-in-krasnodar-krai-petroleum-depots-and-seaport-ablaze-in-rostov-region",
-      "published_utc": "2026-07-10T06:57:59Z",
-      "title_en": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
-      "lead_en": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
-      "title_raw": "Over 370 Ukrainian drones strike Russian regions; Ilsky oil refinery catches fire in Krasnodar Krai, petroleum depots and seaport ablaze in Rostov region",
-      "lead_raw": "Debris from Ukrainian drones that struck the Seversky district of Krasnodar Krai set fire to the Ilsky oil refinery, the regional operations center reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "74992972139d689307b12a2bb80bbbaec15b920c",
-      "fingerprint": "40e22da32faff318f49ef61784b69e67b6ada5da",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2158465",
-      "published_utc": "2026-07-10T06:48:49Z",
-      "title_en": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
-      "lead_en": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
-      "title_raw": "Oil refinery fire, evacuations in Taganrog, 376 UAVs target Russia: new attacks",
-      "lead_raw": "A fire broke out at the Ilsky oil refinery in the Seversky district of the Krasnodar Region after UAV debris fell on the site",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
       ],
       "primary_topic": "energy"
     }
