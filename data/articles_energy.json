@@ -1,8 +1,32 @@
 {
-  "updated_at_utc": "2026-07-12T15:00:02Z",
+  "updated_at_utc": "2026-07-12T16:06:33Z",
   "topic": "energy",
-  "count": 25,
+  "count": 24,
   "articles": [
+    {
+      "id": "a8f3e9339f2afdd2ab4567847c81bbf7a90f0380",
+      "fingerprint": "b410f71058311e82800b786af8f2fcf288a7a201",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27910117",
+      "published_utc": "2026-07-12T15:14:45Z",
+      "title_en": "Miroshnik: the candidate for prime minister of Ukraine knows how to “effectively master” Western financial assistance",
+      "lead_en": "This is probably why Vladimir Zelensky needs the head of Naftogaz, Sergei Koretsky, noted the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: кандидат в премьеры Украины умеет \"эффективно осваивать\" западную финпомощь",
+      "lead_raw": "Вероятно, именно поэтому глава компании \"Нафтогаз\" Сергей Корецкий нужен Владимиру Зеленскому, отметил посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "c3c817727a41a520c7e9c8718c49e6a427e0960c",
       "fingerprint": "c922e5a2d44ec24575d28db4acb0e9a31719afdc",
@@ -509,50 +533,6 @@
       "lead_en": "They also stole 37 thousand hryvnia from the man, Russian law enforcement agencies noted.",
       "title_raw": "ТАСС: сотрудники ТЦК мобилизовали водителя фуры, применив слезоточивый газ",
       "lead_raw": "Они также украли у мужчины 37 тыс. гривен, отметили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "91f9395237941bf64a2d694f4672d03364154e7d",
-      "fingerprint": "f294f91370be6e56f60c491c9edf1e48229ac673",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2158815",
-      "published_utc": "2026-07-10T15:50:53Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 76.6 rubles for July 11-13",
-      "lead_en": "The official yuan exchange rate has been raised by 14.21 kopecks to 11.3037 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 76.6 rubles for July 11-13",
-      "lead_raw": "The official yuan exchange rate has been raised by 14.21 kopecks to 11.3037 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f1690fc4f23f1ef0c0dc9055e6f12407d0bf962d",
-      "fingerprint": "ce1adb73c4df647bd10343ed6cd228b41d7c4fb1",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/10/russian-regions-begin-odd-even-gasoline-rationing-a93220",
-      "published_utc": "2026-07-10T15:08:58Z",
-      "title_en": "Russian Regions Begin Odd-Even Gasoline Rationing",
-      "lead_en": "Drivers with license plates starting with an odd digit are allowed to buy gasoline on odd-numbered days of the month. Those with license plates starting with an even digit — with zero considered an even number — are restricted to even-numbered days.",
-      "title_raw": "Russian Regions Begin Odd-Even Gasoline Rationing",
-      "lead_raw": "Drivers with license plates starting with an odd digit are allowed to buy gasoline on odd-numbered days of the month. Those with license plates starting with an even digit — with zero considered an even number — are restricted to even-numbered days.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
