@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-07-13T07:23:58Z",
+  "updated_at_utc": "2026-07-13T11:16:02Z",
   "topic": "energy",
-  "count": 14,
+  "count": 13,
   "articles": [
+    {
+      "id": "b5296b3c42f7be3c12d04de7ac9c6a73d6a03317",
+      "fingerprint": "0521a5774ff09c5e77d88e3382c5b9aaf1a17430",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27912009",
+      "published_utc": "2026-07-13T10:04:35Z",
+      "title_en": "The German Foreign Ministry expects the EU to agree on sanctions against Russia this week",
+      "lead_en": "According to the head of the department, Johann Wadeful, we are talking, among other things, about the ceiling on oil prices",
+      "title_raw": "МИД ФРГ рассчитывает, что ЕС договорится о санкциях против РФ на этой неделе",
+      "lead_raw": "По словам главы ведомства Йоханна Вадефуля, речь идет в том числе о потолке цен на нефть",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "095b69275121e30d290d358b7610d8a3c4235d89",
+      "fingerprint": "c1d031bf75ae833d2b9d375d36589d6cc0c4dc1d",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/13/fsb-claims-it-foiled-ukrainian-attacks-on-military-air-bases-deep-inside-russia-a93229",
+      "published_utc": "2026-07-13T07:51:00Z",
+      "title_en": "FSB Claims It Foiled Ukrainian Attacks on Military Air Bases Deep Inside Russia",
+      "lead_en": "The FSB said Ukraine sought to target the Shagol air base in the Chelyabinsk region and the Ukrainka air base in the Amur region.",
+      "title_raw": "FSB Claims It Foiled Ukrainian Attacks on Military Air Bases Deep Inside Russia",
+      "lead_raw": "The FSB said Ukraine sought to target the Shagol air base in the Chelyabinsk region and the Ukrainka air base in the Amur region.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "f0060d3ff91274c2ea6370c698b835f5e803f042",
       "fingerprint": "6bf4225dba2c577e7eb876e6967b9e4cd2265946",
@@ -251,74 +297,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ffd2ec9643fd266a9202291a340eb5d5ec2bd8c8",
-      "fingerprint": "0636dce43fbe56abfe0470151ffa47f723ae1d21",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2158985",
-      "published_utc": "2026-07-11T10:33:43Z",
-      "title_en": "Russia establishes control over settlement of Bachevsk in Sumy region — defense ministry",
-      "lead_en": "In addition, Russian troops also struck fuel and energy complex and transport infrastructure facilities used by the Ukrainian military",
-      "title_raw": "Russia establishes control over settlement of Bachevsk in Sumy region — defense ministry",
-      "lead_raw": "In addition, Russian troops also struck fuel and energy complex and transport infrastructure facilities used by the Ukrainian military",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5c253b755b66ceca466855264b333c0b81ca367e",
-      "fingerprint": "23669df0b774fad97a6bf61559915e7b92365010",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27908177",
-      "published_utc": "2026-07-11T09:22:33Z",
-      "title_en": "The Russian Armed Forces hit fuel and energy infrastructure facilities used by the Ukrainian Armed Forces",
-      "lead_en": "The temporary deployment points of Ukrainian armed forces and foreign mercenaries in 152 regions were also defeated",
-      "title_raw": "ВС РФ поразили используемые ВСУ объекты топливно-энергетической инфраструктуры",
-      "lead_raw": "Нанесено поражение также пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 152 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f6e732e778d6684970d1fb37a2ba35d1362d174a",
-      "fingerprint": "99444144d52cbc5107d2bdbd2fe1c23f0df2b2b9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27907995",
-      "published_utc": "2026-07-11T07:37:31Z",
-      "title_en": "TVEL intends to provide electric drives to all manufacturers of electric cars in the Russian Federation",
-      "lead_en": "Alexander Bukhvalov, director of the “Electromobility” business direction of Rosatom’s fuel division, said that this component was created in collaboration with eastern partners",
-      "title_raw": "ТВЭЛ намерен обеспечивать электроприводами всех производителей электрокаров в РФ",
-      "lead_raw": "Директор бизнес-направления \"Электромобильность\" топливного дивизиона Росатома Александр Бухвалов рассказал, что этот компонент был создан в сотрудничестве с восточными партнерами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
