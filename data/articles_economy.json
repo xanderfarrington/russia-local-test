@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-13T03:48:53Z",
+  "updated_at_utc": "2026-07-13T07:23:58Z",
   "topic": "economy",
-  "count": 7,
+  "count": 9,
   "articles": [
+    {
+      "id": "91c9bec6a2c60809ecc19d3679d6b57aa30c98f1",
+      "fingerprint": "4321eb752d16315ff244e37afec5ea37ba98e5c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27911259",
+      "published_utc": "2026-07-13T07:09:49Z",
+      "title_en": "Shokhin: the Russian economy is experiencing a period of investment pause",
+      "lead_en": "The head of the RSPP noted that forecasts for GDP growth in 2027 by 1.4% and investment by 2% are “very optimistic”",
+      "title_raw": "Шохин: российская экономика переживает период инвестиционной паузы",
+      "lead_raw": "Глава РСПП отметил, что прогнозы по росту ВВП в 2027 году на 1,4% и инвестиций на 2% \"весьма оптимистичные\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "087de94e9bcefb710e0722f56267e24e101ee438",
+      "fingerprint": "ac11b9b53994bd8cd91b3d05e793123e62711bc4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27911215",
+      "published_utc": "2026-07-13T07:05:17Z",
+      "title_en": "The Russian stock market is growing at the beginning of trading",
+      "lead_en": "The yuan exchange rate dropped to 11.27 rubles",
+      "title_raw": "Российский рынок акций растет в начале торгов",
+      "lead_raw": "Курс юаня снижался до 11,27 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "73fd1b2840d6ff15f94f525422b5f0898825c9d9",
+      "fingerprint": "6c69f3971c78dfb8a2203162eaa9759fc3700196",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2159281",
+      "published_utc": "2026-07-13T05:01:12Z",
+      "title_en": "Escalation by Kiev to only destroy Ukraine's industry, economy — ex-PM",
+      "lead_en": "Nikolay Azarov recalled that US Secretary of State Marco Rubio expressed hope that Ukraine's escalation of strikes deep inside Russia would help create conditions for negotiations to end the conflict",
+      "title_raw": "Escalation by Kiev to only destroy Ukraine's industry, economy — ex-PM",
+      "lead_raw": "Nikolay Azarov recalled that US Secretary of State Marco Rubio expressed hope that Ukraine's escalation of strikes deep inside Russia would help create conditions for negotiations to end the conflict",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3dea22cb6a3b0d6c56749cea8e754d7eb1562e32",
       "fingerprint": "500b5e5a1ed89e7a1f2273d30534cd9289c40a81",
@@ -136,29 +203,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "3d9e63271ae409d62680944d60f1a137f589398b",
-      "fingerprint": "d1933a23fd8bb65d628367548a8f0d915a23ae9b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27907815",
-      "published_utc": "2026-07-11T05:43:09Z",
-      "title_en": "VTB: buyers returned to the Russian stock market by Friday",
-      "lead_en": "In terms of industry, this week clients of VTB My Investments again bought securities from representatives of the oil and gas industry",
-      "title_raw": "ВТБ: покупатели вернулись на рынок акций РФ к пятнице",
-      "lead_raw": "В отраслевом разрезе на этой неделе клиенты \"ВТБ мои инвестиции\" вновь покупали бумаги представителей нефтегазовой отрасли",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
