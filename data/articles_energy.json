@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-14T13:52:35Z",
+  "updated_at_utc": "2026-07-14T15:25:35Z",
   "topic": "energy",
-  "count": 32,
+  "count": 33,
   "articles": [
+    {
+      "id": "50928da8c1813aa7f6767900286e9e349ce1fd59",
+      "fingerprint": "434d02b61eb5214a7591a540d1ee2ae637764dd5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27916807",
+      "published_utc": "2026-07-14T15:18:41Z",
+      "title_en": "The Ministry of Construction and Rosseti discussed the development of energy infrastructure",
+      "lead_en": "The meeting also discussed the features of preparation for the autumn-winter period in the constituent entities of the Russian Federation",
+      "title_raw": "Минстрой и \"Россети\" обсудили развитие энергетической инфраструктуры",
+      "lead_raw": "На совещании также рассмотрели особенности подготовки к осенне-зимнему периоду в субъектах РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5f3d27eb6625bd408760e1d17e9bc7bd16af57d0",
+      "fingerprint": "87737cb2a847a7bdd4f83d9814c561ac0c9acffc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27916663",
+      "published_utc": "2026-07-14T14:19:04Z",
+      "title_en": "LRT: Latvia plans to ban the import of some goods from Russia and Belarus",
+      "lead_en": "According to Lithuanian National Radio, the list includes books, newspapers, video games, sporting goods, toys, clothing and shoes",
+      "title_raw": "LRT: Латвия планирует запретить импорт некоторых товаров из России и Белоруссии",
+      "lead_raw": "По информации литовского национального радио в перечень вошли книги, газеты, видеоигры, спорттовары, игрушки, одежда и обувь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "70e563a143a847e970c5d0268d2571793d787a80",
       "fingerprint": "946b31d3e09231f3e7be390aa3c47dd30d4be488",
@@ -697,30 +741,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a8f3e9339f2afdd2ab4567847c81bbf7a90f0380",
-      "fingerprint": "b410f71058311e82800b786af8f2fcf288a7a201",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27910117",
-      "published_utc": "2026-07-12T15:14:45Z",
-      "title_en": "Miroshnik: the candidate for prime minister of Ukraine knows how to “effectively master” Western financial assistance",
-      "lead_en": "This is probably why Vladimir Zelensky needs the head of Naftogaz, Sergei Koretsky, noted the Ambassador at Large of the Russian Foreign Ministry",
-      "title_raw": "Мирошник: кандидат в премьеры Украины умеет \"эффективно осваивать\" западную финпомощь",
-      "lead_raw": "Вероятно, именно поэтому глава компании \"Нафтогаз\" Сергей Корецкий нужен Владимиру Зеленскому, отметил посол по особым поручениям МИД России",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
