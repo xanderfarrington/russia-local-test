@@ -1,8 +1,74 @@
 {
-  "updated_at_utc": "2026-07-14T09:06:23Z",
+  "updated_at_utc": "2026-07-14T11:26:44Z",
   "topic": "energy",
-  "count": 28,
+  "count": 29,
   "articles": [
+    {
+      "id": "1b226ce2602e1a7049d7088db58a42833dee5dcc",
+      "fingerprint": "936cb204beaa1c82bd99bb6f526b94521a57d296",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27916067",
+      "published_utc": "2026-07-14T11:21:47Z",
+      "title_en": "Putin promised to discuss with Nikolaev the topic of energy in Yakutia",
+      "lead_en": "The President of the Russian Federation noted that it is important to redistribute the load",
+      "title_raw": "Путин обещал обсудить с Николаевым тему энергетики Якутии",
+      "lead_raw": "Президент РФ отметил, что важно перераспределять нагрузку",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "13d7e4992fb6e96af6ae249ed0ee5c6d2b270b31",
+      "fingerprint": "4d0715a0ad3c6959835ac2f9536e02b51dbfa985",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27916057",
+      "published_utc": "2026-07-14T11:21:40Z",
+      "title_en": "Gazmanov said that he resorts to the help of a neural network in the process of creating songs",
+      "lead_en": "People's Artist of the Russian Federation noted that he uses it to create variant arrangements",
+      "title_raw": "Газманов рассказал, что прибегает к помощи нейросети в процессе создания песен",
+      "lead_raw": "Народный артист РФ отметил, что использует ее для создания вариантов аранжировок",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c198225e3167a917fb9d8aeb984d472f80b44839",
+      "fingerprint": "861f8395fcbe3f36654923e460e70592416468d4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2159971",
+      "published_utc": "2026-07-14T10:02:47Z",
+      "title_en": "Casualties in Kuban, fire at Afipsky refinery, 288 UAVs: aftermath of attacks on regions",
+      "lead_en": "In total, the Ukrainan drones attacked 15 Russian regions",
+      "title_raw": "Casualties in Kuban, fire at Afipsky refinery, 288 UAVs: aftermath of attacks on regions",
+      "lead_raw": "In total, the Ukrainan drones attacked 15 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b7f514eee61bbca0777bddd969fa472cab6b2c3a",
       "fingerprint": "db1c4fc968dc45c6c02dbeefeec80a7454d12853",
@@ -586,50 +652,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c3c817727a41a520c7e9c8718c49e6a427e0960c",
-      "fingerprint": "c922e5a2d44ec24575d28db4acb0e9a31719afdc",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/12/russia-says-ukraine-struck-tanker-in-sea-of-azov-a93227",
-      "published_utc": "2026-07-12T09:56:08Z",
-      "title_en": "Russia Says Ukraine Struck Tanker in Sea of Azov",
-      "lead_en": "Authorities said there was no risk of an oil spill because the vessel was empty.",
-      "title_raw": "Russia Says Ukraine Struck Tanker in Sea of Azov",
-      "lead_raw": "Authorities said there was no risk of an oil spill because the vessel was empty.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "63e4f145157eb00b0ef49b6129035fdf654b3635",
-      "fingerprint": "f36c4ffda17711447472341aea6bdb966d2300a2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27909651",
-      "published_utc": "2026-07-12T09:07:16Z",
-      "title_en": "The Russian Armed Forces hit energy and transport facilities of the Armed Forces of Ukraine within 24 hours",
-      "lead_en": "Enemy temporary deployment points in 158 districts were also hit.",
-      "title_raw": "ВС РФ за сутки поразили объекты энергетики и транспорта ВСУ",
-      "lead_raw": "Поражены также пункты временной дислокации противника в 158 районах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
