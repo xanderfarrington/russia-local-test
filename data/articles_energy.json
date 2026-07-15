@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-15T19:16:58Z",
+  "updated_at_utc": "2026-07-15T21:03:39Z",
   "topic": "energy",
-  "count": 45,
+  "count": 49,
   "articles": [
+    {
+      "id": "9eeccb6cb7200c7e3ae1bfb3ba1168265af59e5f",
+      "fingerprint": "feda76fd9867e1fd91409be0b14afbb090748ee6",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/15/ukrainian-drone-strikes-have-cut-russia-s-gasoline-output-to-65-of-seasonal-demand-and-pump-prices-jumped-another-2-3-last-week",
+      "published_utc": "2026-07-15T20:52:52Z",
+      "title_en": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
+      "lead_en": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
+      "title_raw": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
+      "lead_raw": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a991636c3bdbd64eaa27bda6a3fa4e9228221382",
+      "fingerprint": "657d043a300ed1b61c82f7cde5ae4c805d5a0fcb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2160801",
+      "published_utc": "2026-07-15T20:30:40Z",
+      "title_en": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
+      "lead_en": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
+      "title_raw": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
+      "lead_raw": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8242d5ec53285d4536a4839562a4d862c08c831f",
       "fingerprint": "0443d10606b92ddc205fd21e7a0f328cbf486a30",
@@ -24,6 +68,75 @@
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "3a9cc69bf3e57d0960166cd22281ff5d0cdb01f6",
+      "fingerprint": "476d3ca967b80aba109462654c184f0203bcbdbe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27920555",
+      "published_utc": "2026-07-15T18:13:36Z",
+      "title_en": "The Deputy Foreign Minister of the Russian Federation discussed the situation in the Middle East with the Ambassador of Palestine",
+      "lead_en": "The parties also touched upon the state of affairs in the Palestinian-Israeli conflict zone, with an emphasis on events around the Gaza Strip",
+      "title_raw": "Замглавы МИД РФ обсудил с послом Палестины обстановку на Ближнем Востоке",
+      "lead_raw": "Стороны также затронули положение дел в зоне палестино-израильского конфликта с акцентом на события вокруг сектора Газа",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "009d4b0bc211b2995506fe6b7eccfd1244fdd647",
+      "fingerprint": "d1d6b50013f1ef105dd82fe03b2ff454fe0db4d7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2160751",
+      "published_utc": "2026-07-15T18:04:58Z",
+      "title_en": "Russia, China interested in developing energy cooperation",
+      "lead_en": "The participants of the meeting also shared views on cooperation within international organizations such as APEC, the SCO, and BRICS",
+      "title_raw": "Russia, China interested in developing energy cooperation",
+      "lead_raw": "The participants of the meeting also shared views on cooperation within international organizations such as APEC, the SCO, and BRICS",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b29cc345c7e4895c79343d654037b3037e34e119",
+      "fingerprint": "ac7b940b9c7a0f71a7c8a3cd740780d57b8fbf2a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2160749",
+      "published_utc": "2026-07-15T18:00:31Z",
+      "title_en": "Serbia to stay out of military anti-Russian coalition being created by EU — Vulin",
+      "lead_en": "\"Serbia did not sign the anti-Russian declaration in Kiev,\" the former Serbian deputy prime minister said",
+      "title_raw": "Serbia to stay out of military anti-Russian coalition being created by EU — Vulin",
+      "lead_raw": "\"Serbia did not sign the anti-Russian declaration in Kiev,\" the former Serbian deputy prime minister said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "453a7d3d33eadbabcc929be75da6a6df24e566e1",
@@ -979,28 +1092,6 @@
         "military": 0,
         "energy": 2,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14eebb840e3f79c6304278d2176bea87aa495c66",
-      "fingerprint": "bc9da9cbe2b2c73ab4ecb9b4b67d7d1c8eb6773b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27913749",
-      "published_utc": "2026-07-13T20:21:13Z",
-      "title_en": "CNN: Trump will support anti-Russian sanctions bill",
-      "lead_en": "If adopted by Congress, the document will open the way for the administration of the American leader, including the introduction of duties against countries purchasing Russian oil.",
-      "title_raw": "CNN: Трамп поддержит законопроект об антироссийских санкциях",
-      "lead_raw": "В случае принятия Конгрессом документ откроет администрации американского лидера дорогу в том числе для введения пошлин против стран, закупающих российскую нефть",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
