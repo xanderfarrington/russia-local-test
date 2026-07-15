@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-15T00:00:07Z",
+  "updated_at_utc": "2026-07-15T03:24:34Z",
   "topic": "energy",
   "count": 42,
   "articles": [
+    {
+      "id": "2fff7be3a2b82a6c44abad746afff0687708c9e7",
+      "fingerprint": "acda2a5881b74085ca152d92f04238b8744e6360",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/07/15/wsj-the-leader-xi-jinping-once-called-his-role-model-is-now-beijing-s-supplicant-and-china-is-making-putin-wait-for-the-gas-deal-moscow-badly-needs",
+      "published_utc": "2026-07-15T00:01:46Z",
+      "title_en": "WSJ: The leader Xi Jinping once called his ‘role model’ is now Beijing’s supplicant, and China is making Putin wait for the gas deal Moscow badly needs",
+      "lead_en": "More than four years of war and economic isolation have shifted the balance in Russia’s relationship with China. Vladimir Putin, once a “role model” for Xi Jinping, has become a supplicant and junior partner, The Wall Street Journal reports.",
+      "title_raw": "WSJ: The leader Xi Jinping once called his ‘role model’ is now Beijing’s supplicant, and China is making Putin wait for the gas deal Moscow badly needs",
+      "lead_raw": "More than four years of war and economic isolation have shifted the balance in Russia’s relationship with China. Vladimir Putin, once a “role model” for Xi Jinping, has become a supplicant and junior partner, The Wall Street Journal reports.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5676fd469bdfc0fd16617f217e5a4f7c08b3498b",
       "fingerprint": "8b184d90d534bef4ef1ac20683c67fe6d4a46aa0",
@@ -917,29 +939,6 @@
       },
       "topics": [
         "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3dea22cb6a3b0d6c56749cea8e754d7eb1562e32",
-      "fingerprint": "500b5e5a1ed89e7a1f2273d30534cd9289c40a81",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27910593",
-      "published_utc": "2026-07-13T01:49:36Z",
-      "title_en": "Analysts announced an increase in spending by Russians on new passenger cars by 37.5%",
-      "lead_en": "According to a study by Gazprombank Autoleasing and the analytical agency Autostat, expenses jumped to 395.5 billion rubles",
-      "title_raw": "Аналитики заявили о росте трат россиян на новые легковые машины на 37,5%",
-      "lead_raw": "По данным исследования компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\", расходы подскочили до 395,5 млрд рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
       ],
       "primary_topic": "energy"
     }
