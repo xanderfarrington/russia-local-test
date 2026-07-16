@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-16T21:04:35Z",
+  "updated_at_utc": "2026-07-16T23:00:08Z",
   "topic": "economy",
   "count": 20,
   "articles": [
+    {
+      "id": "02e3478a6833ddf39e44d807f04bd4e2535d138e",
+      "fingerprint": "3150b5eb2230305432240ab9470b874bdbb3394f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27924491",
+      "published_utc": "2026-07-16T22:13:11Z",
+      "title_en": "Rospotrebnadzor: more than half of the perfumes on the Russian market are domestically produced",
+      "lead_en": "Imported perfumes accounted for 40.2% of the market, the department's report says.",
+      "title_raw": "Роспотребнадзор: более половины духов на рынке РФ отечественного производства",
+      "lead_raw": "Импортная парфюмерия составила 40,2% рынка, говорится в докладе ведомства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "dbcbc83104d660c06f1ee9e5f57cfdaab9f2ffdc",
       "fingerprint": "80aeafe4f4d280ff56515a3104a12ea6bb7f1859",
@@ -423,29 +445,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "34c7a1f9addf00ef5d10c1a19460ad79c359994e",
-      "fingerprint": "3badecc2f91a419677b3e2ff69b5f434a579a2d0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/15/wsj-lindsey-graham-s-russia-sanctions-bill-is-really-a-tariffs-bill-and-some-democrats-fear-it-hands-trump-a-trade-weapon-not-a-blow-to-moscow",
-      "published_utc": "2026-07-14T22:41:40Z",
-      "title_en": "WSJ: Lindsey Graham’s Russia ‘sanctions’ bill is really a tariffs bill, and some Democrats fear it hands Trump a trade weapon, not a blow to Moscow",
-      "lead_en": "A revised sanctions bill co-authored by Senator Lindsey Graham, who died several days ago, would authorize the U.S. president to impose tariffs of up to 100% on the five largest buyers of Russian oil and natural gas — China and India chief among them — The Wall Street Journal reported, citing sources.",
-      "title_raw": "WSJ: Lindsey Graham’s Russia ‘sanctions’ bill is really a tariffs bill, and some Democrats fear it hands Trump a trade weapon, not a blow to Moscow",
-      "lead_raw": "A revised sanctions bill co-authored by Senator Lindsey Graham, who died several days ago, would authorize the U.S. president to impose tariffs of up to 100% on the five largest buyers of Russian oil and natural gas — China and India chief among them — The Wall Street Journal reported, citing sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
