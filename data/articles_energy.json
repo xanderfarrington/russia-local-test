@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-16T10:12:12Z",
+  "updated_at_utc": "2026-07-16T12:22:16Z",
   "topic": "energy",
-  "count": 55,
+  "count": 53,
   "articles": [
+    {
+      "id": "933e18fb33f8380377fc0beccea99e8efe792e8a",
+      "fingerprint": "04023d0da4b68936effe1917a5459091e0d2d4a4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2161069",
+      "published_utc": "2026-07-16T11:06:05Z",
+      "title_en": "EU pays highest amount for Russian gas in nearly 1.5 years in May",
+      "lead_en": "In May, the EU imported a total of 1.5 bln euro worth of Russian gas",
+      "title_raw": "EU pays highest amount for Russian gas in nearly 1.5 years in May",
+      "lead_raw": "In May, the EU imported a total of 1.5 bln euro worth of Russian gas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d37ea4fe4f477cb22a636b37ef8ecb33080e184f",
       "fingerprint": "a23ce757a2399c86efa33b8fc1829b914fb7ccb5",
@@ -1165,72 +1187,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "04f1730212f2afba444b1f143163aa79267a49ae",
-      "fingerprint": "71c0893edf4db1a02098a488acc66c8b28b367f6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27916259",
-      "published_utc": "2026-07-14T12:07:36Z",
-      "title_en": "Vučić hopes that Serbia will be able to reach an understanding with the United States on gas purchases from the Russian Federation",
-      "lead_en": "CNN previously stated that US President Donald Trump intends to support Congress' approval of a bill to tighten sanctions against Russia.",
-      "title_raw": "Вучич рассчитывает, что Сербии удастся добиться понимания с США по закупкам газа в РФ",
-      "lead_raw": "Телекомпания CNN ранее заявила, что президент США Дональд Трамп намерен поддержать одобрение Конгрессом законопроекта об ужесточении санкций против России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1b226ce2602e1a7049d7088db58a42833dee5dcc",
-      "fingerprint": "936cb204beaa1c82bd99bb6f526b94521a57d296",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27916067",
-      "published_utc": "2026-07-14T11:21:47Z",
-      "title_en": "Putin promised to discuss with Nikolaev the topic of energy in Yakutia",
-      "lead_en": "The President of the Russian Federation noted that it is important to redistribute the load",
-      "title_raw": "Путин обещал обсудить с Николаевым тему энергетики Якутии",
-      "lead_raw": "Президент РФ отметил, что важно перераспределять нагрузку",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "13d7e4992fb6e96af6ae249ed0ee5c6d2b270b31",
-      "fingerprint": "4d0715a0ad3c6959835ac2f9536e02b51dbfa985",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27916057",
-      "published_utc": "2026-07-14T11:21:40Z",
-      "title_en": "Gazmanov said that he resorts to the help of a neural network in the process of creating songs",
-      "lead_en": "People's Artist of the Russian Federation noted that he uses it to create variant arrangements",
-      "title_raw": "Газманов рассказал, что прибегает к помощи нейросети в процессе создания песен",
-      "lead_raw": "Народный артист РФ отметил, что использует ее для создания вариантов аранжировок",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
