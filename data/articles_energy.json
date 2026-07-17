@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-17T12:12:39Z",
+  "updated_at_utc": "2026-07-17T14:45:50Z",
   "topic": "energy",
-  "count": 49,
+  "count": 46,
   "articles": [
+    {
+      "id": "b10e70a8f35926bd326ccbfff805f9fa2a48eb9b",
+      "fingerprint": "fa644a13b2fa46d7fadc0740cbb7432ff3601c65",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2161657",
+      "published_utc": "2026-07-17T13:27:59Z",
+      "title_en": "Russian security services foil plotted terror attack in Sevastopol",
+      "lead_en": "The case has been submitted to court",
+      "title_raw": "Russian security services foil plotted terror attack in Sevastopol",
+      "lead_raw": "The case has been submitted to court",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "8961e6f064b668388c286826b721ec8357993399",
       "fingerprint": "bbd52db6e764e60ad1581388cae86cb044d9ccfa",
@@ -1000,96 +1023,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "07470698687091e20c13f1b6c6eef1b46ba55e30",
-      "fingerprint": "c5ca6d6af3c2a32bfb8e3ea1f637ebca0508f9e7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27919951",
-      "published_utc": "2026-07-15T14:12:53Z",
-      "title_en": "Zakharova: The West is obliged to establish the mastermind behind the terrorist attack on Nord Stream",
-      "lead_en": "The official representative of the Russian Foreign Ministry noted that the official press release of the Federal Prosecutor's Office of Germany reports an indictment issued on June 30 \"against Ukrainian Sergei K.\" in the case of gas pipeline explosion",
-      "title_raw": "Захарова: Запад обязан установить заказчика теракта на \"Северных потоках\"",
-      "lead_raw": "Официальный представитель МИД РФ обратила внимание, что в официальном пресс-релизе федеральной прокуратуры ФРГ сообщается о вынесенном 30 июня обвинительном заключении \"в отношении украинца Сергея К.\" по делу о подрыве газопроводов",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3a79464535c6b6c9256fc32e19cf0e9c8efa7748",
-      "fingerprint": "73e7273720527515716836c880f6a394d29443b0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160637",
-      "published_utc": "2026-07-15T14:00:29Z",
-      "title_en": "Russia says deployment of contingents from ‘coalition of willing’ in Ukraine unacceptable",
-      "lead_en": "Maria Zakharova reiterated that such units would be considered by Moscow as legitimate military targets",
-      "title_raw": "Russia says deployment of contingents from ‘coalition of willing’ in Ukraine unacceptable",
-      "lead_raw": "Maria Zakharova reiterated that such units would be considered by Moscow as legitimate military targets",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b373de0e5d2c508033c64277a14e8f3a0bf7572d",
-      "fingerprint": "db3aa9c936a9ce4caee21adcebed08af474c6dc0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27919677",
-      "published_utc": "2026-07-15T13:04:11Z",
-      "title_en": "DM: Rosneft and Zarubezhneft received the right to participate in a tender in Sri Lanka",
-      "lead_en": "The next tender for the purchase of oil is due to open on July 21, and both Russian firms will be able to submit their bids",
-      "title_raw": "DM: \"Роснефть\" и \"Зарубежнефть\" получили право участия в тендере в Шри-Ланке",
-      "lead_raw": "Следующий тендер на закупку нефти должен открыться 21 июля, и обе российские фирмы смогут подать свои заявки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2855ff263922e5858acaa49367f0de9aef1907f5",
-      "fingerprint": "ca2b04f5590a5f219431ca11d3a05d48239eafc9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27919553",
-      "published_utc": "2026-07-15T12:36:01Z",
-      "title_en": "Corriere della Sera: RAI wants to close the transfer of the President of the Venice Biennale",
-      "lead_en": "According to the newspaper, inside the media holding the decision is unofficially regarded as a reaction to Pietrangelo Buttafuoco’s decision not to ban Russia’s participation in the exhibition",
-      "title_raw": "Corriere della Sera: RAI хочет закрыть передачу президента Венецианской биеннале",
-      "lead_raw": "Как сообщает газета, внутри медиахолдинга решение неофициально расценивают как реакцию на решение Пьетранджело Буттафуоко не запрещать участие России в выставке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
