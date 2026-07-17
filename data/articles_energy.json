@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-17T10:01:51Z",
+  "updated_at_utc": "2026-07-17T12:12:39Z",
   "topic": "energy",
   "count": 49,
   "articles": [
+    {
+      "id": "8961e6f064b668388c286826b721ec8357993399",
+      "fingerprint": "bbd52db6e764e60ad1581388cae86cb044d9ccfa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2161547",
+      "published_utc": "2026-07-17T10:58:36Z",
+      "title_en": "Russian agriculture exports to China up 41% in 1H to around 5.7 mln tons",
+      "lead_en": "The top five agricultural products delivered from Russia to China by export revenue include frozen fish, rapeseed oil, crustaceans, soybeans, and flax seeds",
+      "title_raw": "Russian agriculture exports to China up 41% in 1H to around 5.7 mln tons",
+      "lead_raw": "The top five agricultural products delivered from Russia to China by export revenue include frozen fish, rapeseed oil, crustaceans, soybeans, and flax seeds",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4c729ac56aa7b8a2e3c4b2ab9d2ab416a3ad9363",
       "fingerprint": "82b25e9ba5269633ccacd72cecd89f20aea91754",
@@ -1068,29 +1090,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "6178b37c19db5f4147214f461da87e3738e35bb7",
-      "fingerprint": "736d6b2ce53ce65d8fa25f2f6103efca0ab5cdc9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27919307",
-      "published_utc": "2026-07-15T11:30:53Z",
-      "title_en": "Russia and China are interested in developing cooperation in the energy sector",
-      "lead_en": "At a meeting between the head of the Ministry of Energy of the Russian Federation Sergei Tsivilev and the vice-chairman of the working committee of small and medium-sized enterprises \"One Belt - One Road\" Shan Shiwei, the parties confirmed their intention to continue a constructi",
-      "title_raw": "Россия и Китай заинтересованы в развитии сотрудничества в энергетике",
-      "lead_raw": "На встрече главы Минэнерго РФ Сергея Цивилева с вице-председателем рабочего комитета малых и средних предприятий \"Один пояс - один путь\" Шан Шивэем стороны подтвердили намерение продолжать конструктивный диалог по направлениям, представляющим взаимный интерес",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
