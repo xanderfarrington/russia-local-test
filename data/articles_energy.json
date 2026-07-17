@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-17T04:10:09Z",
+  "updated_at_utc": "2026-07-17T07:20:02Z",
   "topic": "energy",
-  "count": 51,
+  "count": 49,
   "articles": [
+    {
+      "id": "c6c7efcf1e2fd918265424c813ed6c1f66d580ef",
+      "fingerprint": "6eb58c10e4b3265a49935b5de0cb40b626656693",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27925389",
+      "published_utc": "2026-07-17T06:46:17Z",
+      "title_en": "Lut: Putin’s order to provide farmers with fuel will be fulfilled",
+      "lead_en": "The Minister of Agriculture of the Russian Federation noted that if there are “some rough edges,” the issues will be resolved with each specific region and with each specific enterprise, if necessary",
+      "title_raw": "Лут: поручение Путина по обеспечению аграриев топливом будет выполнено",
+      "lead_raw": "Министр сельского хозяйства РФ отметила, что если есть \"какие-то шероховатости\", вопросы будут решаться с каждым конкретным регионом и с каждым конкретным предприятием при необходимости",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "601a2789e7ebbea9a7ba2f8206905eeaae9b0340",
+      "fingerprint": "18e568506c0a423129c54f2bfaeab182b3ecf91b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27925353",
+      "published_utc": "2026-07-17T06:33:13Z",
+      "title_en": "The leader of the ECG rating spoke about personnel training for the energy industry",
+      "lead_en": "The System Electric company said that it is developing cooperation with leading engineering universities, colleges and schools in Russia",
+      "title_raw": "Лидер ЭКГ-рейтинга рассказал о подготовке кадров для энергетической отрасли",
+      "lead_raw": "В компании \"Систэм Электрик\" рассказали, что развивают сотрудничество с ведущими инженерными университетами, колледжами и школами России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "08f2bd4f7a68f00344b86620ee83c416cc969d66",
       "fingerprint": "885542f5de0e1f9098afddec725115e48298aa22",
@@ -1040,96 +1085,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c7137aedcc67fcbee11e879943e90f3150f609da",
-      "fingerprint": "8b0a3bbda4c107b50a13199e91e6843e703e417d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160421",
-      "published_utc": "2026-07-15T07:10:07Z",
-      "title_en": "IN BRIEF: What is known about Russian strikes on Ukrainian ports",
-      "lead_en": "Russian forces hit Odessa and Chernomorsk port infrastructure facilities used to unload fuel and lubricants and fuel storage tanks for the Ukrainian military",
-      "title_raw": "IN BRIEF: What is known about Russian strikes on Ukrainian ports",
-      "lead_raw": "Russian forces hit Odessa and Chernomorsk port infrastructure facilities used to unload fuel and lubricants and fuel storage tanks for the Ukrainian military",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5b5b2f9f6386e1e9646b1997c6d58d4b2b6b358b",
-      "fingerprint": "a45ac35b065dc9c0f7130817c8b7f17ef5694dc0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160403",
-      "published_utc": "2026-07-15T06:34:27Z",
-      "title_en": "Argentina suspends cooperation with Russia on peaceful nuclear energy — Russian envoy",
-      "lead_en": "At the same time, mutual interest is being registered between Russian and Argentinian companies in cooperation in the electric power industry, renewable energy sources and the oil and gas industry, Dmitry Feoktistov said",
-      "title_raw": "Argentina suspends cooperation with Russia on peaceful nuclear energy — Russian envoy",
-      "lead_raw": "At the same time, mutual interest is being registered between Russian and Argentinian companies in cooperation in the electric power industry, renewable energy sources and the oil and gas industry, Dmitry Feoktistov said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b2e6aafbf814161d37800fd6e138556083dbc56b",
-      "fingerprint": "f2fa52c93dade50fe95a768810e8329328a17a8e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27918061",
-      "published_utc": "2026-07-15T05:06:55Z",
-      "title_en": "Russia has found a new environmentally friendly way to dispose of oil waste",
-      "lead_en": "Scientists have proposed recycling waste using “combustible ice,” which reduces harmful emissions several times",
-      "title_raw": "В России нашли новый экологичный способ утилизировать нефтяные отходы",
-      "lead_raw": "Ученые предложили утилизировать отходы с помощью \"горючего льда\", который снижает вредные выбросы в несколько раз",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b4f5f0f39696971d39cfd8d5c9aa6ea2b2f5d2df",
-      "fingerprint": "a0bbab7745cfcaa64c2b17391633c8c1fcc42b0b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27917979",
-      "published_utc": "2026-07-15T04:20:06Z",
-      "title_en": "Gazprombank Autoleasing: Volga can become a leader among new car dealerships in the Russian Federation",
-      "lead_en": "The total size of the passenger car dealer network increased by 154 locations",
-      "title_raw": "\"Газпромбанк автолизинг\": Volga может стать лидером среди новых автосалонов в РФ",
-      "lead_raw": "Общий размер дилерской сети по легковым автомобилям вырос на 154 локации",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 1,
         "local_events": 0
       },
