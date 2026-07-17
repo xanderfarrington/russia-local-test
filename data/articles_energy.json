@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-17T14:45:50Z",
+  "updated_at_utc": "2026-07-17T16:17:45Z",
   "topic": "energy",
-  "count": 46,
+  "count": 45,
   "articles": [
+    {
+      "id": "02688744cfedf4cf37062cd60ad3d4fb3d7be195",
+      "fingerprint": "66c0e84147952f26f9db0ba66703c21ea3ec9492",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2161777",
+      "published_utc": "2026-07-17T16:02:11Z",
+      "title_en": "Bank of Russia raises dollar exchange rate to 78.4 rubles for July 18-20",
+      "lead_en": "The official euro exchange rate has been raised by 57.02 kopecks to 89.8998 rubles",
+      "title_raw": "Bank of Russia raises dollar exchange rate to 78.4 rubles for July 18-20",
+      "lead_raw": "The official euro exchange rate has been raised by 57.02 kopecks to 89.8998 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b10e70a8f35926bd326ccbfff805f9fa2a48eb9b",
       "fingerprint": "fa644a13b2fa46d7fadc0740cbb7432ff3601c65",
@@ -978,51 +1000,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9a64dbfb07fdc522d90e12852aadaf07a04c4fe6",
-      "fingerprint": "626b89a20d8409a4f1a1c344006b72c255deac26",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27920329",
-      "published_utc": "2026-07-15T16:03:08Z",
-      "title_en": "TASS: EU ambassadors froze the “price ceiling” for Russian oil for a week",
-      "lead_en": "They were unable to accept the 21st package of sanctions",
-      "title_raw": "ТАСС: послы ЕС заморозили на неделю \"потолок цен\" на нефть России",
-      "lead_raw": "Они не смогли принять 21-й пакет санкций",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cb59d880dcc5a314adb16e552b1d3026c2b32d36",
-      "fingerprint": "3cb18d6df76bb233764ef8e1f8c2196b3f91bc4c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27920283",
-      "published_utc": "2026-07-15T15:58:31Z",
-      "title_en": "Central Bank: the first inflation data for July indicate a transfer of fuel costs to prices",
-      "lead_en": "According to the Bank of Russia, statistics show a consistent increase in the share and weight of positions characterized by accelerated price growth since mid-June",
-      "title_raw": "ЦБ: первые данные по инфляции за июль указывают на перенос издержек на топливо в цены",
-      "lead_raw": "По данным Банка России, статистика показывает последовательное увеличение доли и веса позиций, характеризующихся ускоренным ростом цен, с середины июня",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
