@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-17T18:08:41Z",
+  "updated_at_utc": "2026-07-17T20:08:22Z",
   "topic": "energy",
-  "count": 40,
+  "count": 39,
   "articles": [
+    {
+      "id": "b7b12ad45440662cf1cca2911fc0f64483ca8c02",
+      "fingerprint": "cdc7389e87f5553f81d18af052c697bc8652e809",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2161833",
+      "published_utc": "2026-07-17T19:18:45Z",
+      "title_en": "Russian scientists developing about 25 systems for ITER installation — minister",
+      "lead_en": "Russian Minister of Science and Higher Education Valery Falkov described ITER as the largest and, arguably, the most complex megascience project from every perspective",
+      "title_raw": "Russian scientists developing about 25 systems for ITER installation — minister",
+      "lead_raw": "Russian Minister of Science and Higher Education Valery Falkov described ITER as the largest and, arguably, the most complex megascience project from every perspective",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e6b55e128dc3dcd3d4b6c3f1b621a5ed9b9fd727",
       "fingerprint": "6447448968164f86422b2aba385066a88e992e5c",
@@ -843,51 +865,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "8242d5ec53285d4536a4839562a4d862c08c831f",
-      "fingerprint": "0443d10606b92ddc205fd21e7a0f328cbf486a30",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/15/chief-engineer-of-russian-occupied-zaporizhzhia-nuclear-power-plant-killed-in-ukrainian-drone-strike-rosatom-says",
-      "published_utc": "2026-07-15T18:33:17Z",
-      "title_en": "Chief engineer of Russian-occupied Zaporizhzhia Nuclear Power Plant killed in Ukrainian drone strike, Rosatom says",
-      "lead_en": "The chief engineer of the Zaporizhzhia Nuclear Power Plant, Alexander Yakovlev, was killed in a Ukrainian drone strike, Rosatom head Alexei Likhachev said.",
-      "title_raw": "Chief engineer of Russian-occupied Zaporizhzhia Nuclear Power Plant killed in Ukrainian drone strike, Rosatom says",
-      "lead_raw": "The chief engineer of the Zaporizhzhia Nuclear Power Plant, Alexander Yakovlev, was killed in a Ukrainian drone strike, Rosatom head Alexei Likhachev said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3a9cc69bf3e57d0960166cd22281ff5d0cdb01f6",
-      "fingerprint": "476d3ca967b80aba109462654c184f0203bcbdbe",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27920555",
-      "published_utc": "2026-07-15T18:13:36Z",
-      "title_en": "The Deputy Foreign Minister of the Russian Federation discussed the situation in the Middle East with the Ambassador of Palestine",
-      "lead_en": "The parties also touched upon the state of affairs in the Palestinian-Israeli conflict zone, with an emphasis on events around the Gaza Strip",
-      "title_raw": "Замглавы МИД РФ обсудил с послом Палестины обстановку на Ближнем Востоке",
-      "lead_raw": "Стороны также затронули положение дел в зоне палестино-израильского конфликта с акцентом на события вокруг сектора Газа",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
