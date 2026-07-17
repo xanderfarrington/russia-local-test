@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-17T20:08:22Z",
+  "updated_at_utc": "2026-07-17T21:56:27Z",
   "topic": "energy",
-  "count": 39,
+  "count": 36,
   "articles": [
+    {
+      "id": "5cdb12e92b52dabce9bea18772f3a7eae498ef12",
+      "fingerprint": "d9481680465246301dc8fde66651e8cd8eabf184",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2161839",
+      "published_utc": "2026-07-17T20:06:06Z",
+      "title_en": "Russian diplomat says France’s accusations of cyberattacks are unsubstantiated",
+      "lead_en": "Alexander Zezyulin added that the accusations were published on the day of the meeting of the so-called coalition of the willing, apparently in an attempt to justify its anti-Russian stance",
+      "title_raw": "Russian diplomat says France’s accusations of cyberattacks are unsubstantiated",
+      "lead_raw": "Alexander Zezyulin added that the accusations were published on the day of the meeting of the so-called coalition of the willing, apparently in an attempt to justify its anti-Russian stance",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "b7b12ad45440662cf1cca2911fc0f64483ca8c02",
       "fingerprint": "cdc7389e87f5553f81d18af052c697bc8652e809",
@@ -771,95 +794,6 @@
         "energy": 3,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c1c051e32497c7e535319be02d2850ae6723eedf",
-      "fingerprint": "d42b34f9d6f9beb7adcec52fc8985ee92911f61a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27920919",
-      "published_utc": "2026-07-15T21:40:59Z",
-      "title_en": "Slutsky called the murder of the chief engineer of Zaporizhzhya NPP nuclear terrorism",
-      "lead_en": "The head of the State Duma Committee on International Affairs called on the head of the IAEA, Rafael Grossi, to condemn Kyiv for shelling Energodar and creating a threat to Chernobyl-2.",
-      "title_raw": "Слуцкий назвал ядерным терроризмом убийство главинженера ЗАЭС",
-      "lead_raw": "Глава комитета Госдумы по международным делам призвал главу МАГАТЭ Рафаэля Гросси осудить Киев за обстрел Энергодара и создание угрозы \"Чернобылю-2\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6777b7c168be119c7064e891f8392530bf76888f",
-      "fingerprint": "a8fbb244d05fc177b62b40ae7662fba90dd49b9d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27920865",
-      "published_utc": "2026-07-15T21:10:36Z",
-      "title_en": "Lavrov: oil and gas supplies from Russia to China are stable",
-      "lead_en": "The Russian Foreign Minister noted that the pipeline infrastructure connecting them continues to expand between countries",
-      "title_raw": "Лавров: поставки нефти и газа из России в Китай стабильны",
-      "lead_raw": "Глава МИД РФ отметил, что между странами продолжает расширяться связывающая их трубопроводная инфраструктура",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9eeccb6cb7200c7e3ae1bfb3ba1168265af59e5f",
-      "fingerprint": "feda76fd9867e1fd91409be0b14afbb090748ee6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/15/ukrainian-drone-strikes-have-cut-russia-s-gasoline-output-to-65-of-seasonal-demand-and-pump-prices-jumped-another-2-3-last-week",
-      "published_utc": "2026-07-15T20:52:52Z",
-      "title_en": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
-      "lead_en": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
-      "title_raw": "Ukrainian drone strikes have cut Russia’s gasoline output to 65% of seasonal demand — and pump prices jumped another 2.3% last week",
-      "lead_raw": "Russian consumer gasoline prices rose 2.3% in the week of July 7–13, while diesel climbed 3.2%, according to Rosstat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a991636c3bdbd64eaa27bda6a3fa4e9228221382",
-      "fingerprint": "657d043a300ed1b61c82f7cde5ae4c805d5a0fcb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2160801",
-      "published_utc": "2026-07-15T20:30:40Z",
-      "title_en": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
-      "lead_en": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
-      "title_raw": "Closure of Bab el-Mandeb Strait by Houthis to deal blow to container shipping market",
-      "lead_raw": "According to Vice President of the Russian International Affairs Council Mikhail Margelov, this event would not have a critical impact on oil supplies",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
       },
       "topics": [
         "energy"
