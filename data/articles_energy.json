@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-18T17:57:32Z",
+  "updated_at_utc": "2026-07-18T19:16:00Z",
   "topic": "energy",
   "count": 24,
   "articles": [
+    {
+      "id": "767b948b407399899d35f43d86e5b843da6bf280",
+      "fingerprint": "b4727a7ed6c6d93c62ac166114e69c5c13fb7923",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27930191",
+      "published_utc": "2026-07-18T18:27:39Z",
+      "title_en": "Dmitriev announced the resumption of the energy crisis due to escalation in the Middle East",
+      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries believes that the EU and the UK will suffer the most from it",
+      "title_raw": "Дмитриев заявил о возобновлении энергокризиса из-за эскалации на Ближнем Востоке",
+      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами считает, что от него больше всего пострадают ЕС и Великобритания",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "bfd4ad31d1f3a1d5907a57db595522e4c45f256e",
       "fingerprint": "4e0f9d79dc2b16438ddf3445b40af4b602c2c3d6",
@@ -509,28 +532,6 @@
         "military": 0,
         "energy": 2,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "319bd7e7d50b1a9b197d4e85a88a86889da1e2de",
-      "fingerprint": "0c4add31e094164e4a5197747df62207be26f683",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/16/russia-s-state-gas-giant-gazprom-drops-5-to-an-all-time-low-on-the-moscow-exchange",
-      "published_utc": "2026-07-16T18:29:44Z",
-      "title_en": "Russia’s state gas giant Gazprom drops 5% to an all-time low on the Moscow Exchange",
-      "lead_en": "Gazprom shares fell to 83.98 rubles on the Moscow Exchange on July 16, hitting an all-time low — down 5% from the previous session’s close.",
-      "title_raw": "Russia’s state gas giant Gazprom drops 5% to an all-time low on the Moscow Exchange",
-      "lead_raw": "Gazprom shares fell to 83.98 rubles on the Moscow Exchange on July 16, hitting an all-time low — down 5% from the previous session’s close.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
