@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-19T13:25:07Z",
+  "updated_at_utc": "2026-07-19T14:59:47Z",
   "topic": "energy",
   "count": 18,
   "articles": [
+    {
+      "id": "1f9c17f837aed866d9f0f3b739da53419dfee440",
+      "fingerprint": "b5e627e5253ba92a6c79b841fc1f1a770dabe38c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162171",
+      "published_utc": "2026-07-19T13:42:08Z",
+      "title_en": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
+      "lead_en": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
+      "title_raw": "Russian forces hit Ukrainian army’s gas processing facility in Kharkov Region",
+      "lead_raw": "Radar control data indicate that the target was hit successfully, the Russian defense ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9112e7b96aeb65f0707e8713c579fb1fd3ce9305",
       "fingerprint": "523cd700a8dbb0de8c6dffb76ce8621df6492b42",
@@ -382,29 +405,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b10e70a8f35926bd326ccbfff805f9fa2a48eb9b",
-      "fingerprint": "fa644a13b2fa46d7fadc0740cbb7432ff3601c65",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2161657",
-      "published_utc": "2026-07-17T13:27:59Z",
-      "title_en": "Russian security services foil plotted terror attack in Sevastopol",
-      "lead_en": "The case has been submitted to court",
-      "title_raw": "Russian security services foil plotted terror attack in Sevastopol",
-      "lead_raw": "The case has been submitted to court",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
