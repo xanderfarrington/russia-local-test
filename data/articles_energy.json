@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-19T17:59:46Z",
+  "updated_at_utc": "2026-07-19T19:19:52Z",
   "topic": "energy",
   "count": 15,
   "articles": [
+    {
+      "id": "97521ec331caa277b0a90bde159ef2b74df62b27",
+      "fingerprint": "1fcaae56eaf6c1182fadba0ad46b146c7a98e246",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27931679",
+      "published_utc": "2026-07-19T18:55:01Z",
+      "title_en": "Merz linked the energy crisis in Germany with the lack of gas from the Russian Federation",
+      "lead_en": "The German Chancellor also noted that the country is faced with a difficult situation in relations with the United States, which, under the leadership of President Donald Trump, no longer supports NATO to the same extent.",
+      "title_raw": "Мерц увязал энергетический кризис в ФРГ с отсутствием газа из РФ",
+      "lead_raw": "Канцлер Германии также отметил, что страна столкнулась со сложной ситуацией в отношениях с США, которые под руководством президента Дональда Трампа уже не поддерживают НАТО в прежнем объеме",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1f9c17f837aed866d9f0f3b739da53419dfee440",
       "fingerprint": "b5e627e5253ba92a6c79b841fc1f1a770dabe38c",
@@ -317,28 +339,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b7b12ad45440662cf1cca2911fc0f64483ca8c02",
-      "fingerprint": "cdc7389e87f5553f81d18af052c697bc8652e809",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/science/2161833",
-      "published_utc": "2026-07-17T19:18:45Z",
-      "title_en": "Russian scientists developing about 25 systems for ITER installation — minister",
-      "lead_en": "Russian Minister of Science and Higher Education Valery Falkov described ITER as the largest and, arguably, the most complex megascience project from every perspective",
-      "title_raw": "Russian scientists developing about 25 systems for ITER installation — minister",
-      "lead_raw": "Russian Minister of Science and Higher Education Valery Falkov described ITER as the largest and, arguably, the most complex megascience project from every perspective",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
