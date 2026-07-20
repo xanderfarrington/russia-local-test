@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-20T04:37:46Z",
+  "updated_at_utc": "2026-07-20T08:08:52Z",
   "topic": "economy",
   "count": 7,
   "articles": [
+    {
+      "id": "5f737e26f54d9abace3a43f0da30ce35a50a4e6b",
+      "fingerprint": "78af52854a87e8015f0edebeec8d64f2b3ef6fe0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27932769",
+      "published_utc": "2026-07-20T07:03:36Z",
+      "title_en": "The Russian stock market declines in early trading",
+      "lead_en": "By 10:40 Moscow time, the Moscow Exchange index slowed to 1,936.66 points",
+      "title_raw": "Российский рынок акций снижается в начале торгов",
+      "lead_raw": "К 10:40 мск индекс Мосбиржи замедлился до 1 936,66 пункта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "45e8b2e1a15c7800899d75f96f99e0fef6dae84f",
       "fingerprint": "1aba3f036af12ed5951f3856b7bdebe4c389fc7e",
@@ -132,29 +154,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "12d4b0af0e23552aa71b66e1ffccedd99e2d2662",
-      "fingerprint": "aaabf3e957d26b14aac0202b253393ccef0199d1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27928961",
-      "published_utc": "2026-07-18T05:47:33Z",
-      "title_en": "VTB: buyers challenged the weekly dominance of sellers on the Russian stock market",
-      "lead_en": "This week, VTB My Investments clients actively bought shares of Surgutneftegaz and Sberbank",
-      "title_raw": "ВТБ: покупатели оспорили недельное доминирование продавцов на рынке акций РФ",
-      "lead_raw": "На неделе клиенты \"ВТБ мои инвестиции\" активно покупали акции \"Сургутнефтегаза\" и Сбербанка",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
