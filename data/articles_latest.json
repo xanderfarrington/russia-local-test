@@ -1,8 +1,884 @@
 {
-  "updated_at_utc": "2026-07-20T14:13:56Z",
+  "updated_at_utc": "2026-07-20T16:26:35Z",
   "keep_hours": 48,
-  "count": 432,
+  "count": 440,
   "articles": [
+    {
+      "id": "1d727d7c7006db4c71add36adc5e19a69f407556",
+      "fingerprint": "5f268e98901345c2dbd6d16cd3613d4f6e99bbfa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27934823",
+      "published_utc": "2026-07-20T16:22:06Z",
+      "title_en": "Degtyarev: Hockey Day will be a recognition of the merits of everyone who loves this game",
+      "lead_en": "Vladimir Putin, by his decree, established Hockey Day in Russia - December 22",
+      "title_raw": "Дегтярев: День хоккея станет признанием заслуг всех, кто любит эту игру",
+      "lead_raw": "Владимир Путин своим указом установил в России День хоккея - 22 декабря",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c3138d2d2c6ff99ad62986d192f27db9a443c6d9",
+      "fingerprint": "550826a772cd0e0a64ce924e2dc7fcbc8d0e4d03",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934707",
+      "published_utc": "2026-07-20T16:16:47Z",
+      "title_en": "Six Kherson brands received the “Made in Russia” quality certificate",
+      "lead_en": "Among them are producers of cheeses, pastilles, ice cream, herbal products, meat delicacies and the largest exporter of grains and oilseeds",
+      "title_raw": "Шесть херсонских брендов получили сертификат качества \"Сделано в России\"",
+      "lead_raw": "Среди них производители сыров, пастилы, мороженого, травяной продукции, мясных деликатесов и крупнейший экспортер зерновых и масличных культур",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "af1feb3cdf5477c94f59cde8682b3022013cf102",
+      "fingerprint": "ef8a1ba87a8a2325bd4616dc01c741304c124325",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934793",
+      "published_utc": "2026-07-20T16:10:47Z",
+      "title_en": "Russian Defense Ministry: attacks on fuel storage facilities and gas stations will disrupt the transport logistics of the Armed Forces of Ukraine",
+      "lead_en": "",
+      "title_raw": "МО РФ: удары по хранилищам топлива и АЗС позволят нарушить транспортную логистику ВСУ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d09dcd723ae1833a2b09ec7d089b56afd43ed13b",
+      "fingerprint": "bcd1f96f6aa223c1bbe3a0de24271daeb843e416",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934791",
+      "published_utc": "2026-07-20T16:09:43Z",
+      "title_en": "The Russian Armed Forces hit a gas station in the Sumy region",
+      "lead_en": "",
+      "title_raw": "ВС РФ поразили АЗС в Сумской области",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9a2ed3ac797312cda040a42a22e4561278ab0526",
+      "fingerprint": "0c7f77b8a922ab63fc3db99906fd06540fcd7ab7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162699",
+      "published_utc": "2026-07-20T16:07:06Z",
+      "title_en": "Russia, North Korea see US behavior as cause of degradation of global situation — MFA",
+      "lead_en": "The Russian foreign ministry noted that \"under these conditions, the comprehensive deepening of relations between Russia and the DPRK contributes to ensuring regional and international security\"",
+      "title_raw": "Russia, North Korea see US behavior as cause of degradation of global situation — MFA",
+      "lead_raw": "The Russian foreign ministry noted that \"under these conditions, the comprehensive deepening of relations between Russia and the DPRK contributes to ensuring regional and international security\"",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0fa0afdbff838c953424527c90c435bdef634964",
+      "fingerprint": "a8e19ca1dfa8f8a876be3e870205a54a2d5fef7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27934773",
+      "published_utc": "2026-07-20T16:01:36Z",
+      "title_en": "Dmitriev said that recognition of the energy crisis in Europe would be a step towards solving it",
+      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries also wondered whether Europe misses Nord Streams.",
+      "title_raw": "Дмитриев заявил, что признание энергокризиса в Европе станет шагом к его решению",
+      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами также задался вопросом, не скучает ли Европа по \"Северным потокам\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "fcfbfe9e5ca71f0594032dcfdbe1b13b3a8e3dbd",
+      "fingerprint": "feebd73d810cc96751ac0178826f91e674d06739",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934775",
+      "published_utc": "2026-07-20T15:59:03Z",
+      "title_en": "Wildberries will keep payments to employees of logistics centers during evacuations",
+      "lead_en": "RVB announced the introduction of new rules at all logistics facilities of the company in Russia",
+      "title_raw": "Wildberries сохранит выплаты сотрудникам логистических центров при эвакуациях",
+      "lead_raw": "В РВБ сообщили о введении на всех логистических объектах компании в России новых правил",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ef28a16b0b7ae6e9dcb41c64c108748d675f44fd",
+      "fingerprint": "9367492259f8b269d3dea2ce002cffcce405f8e7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934751",
+      "published_utc": "2026-07-20T15:58:47Z",
+      "title_en": "A highway was blocked in Armenia due to a problem with the sale of tomatoes.",
+      "lead_en": "Dissatisfied citizens say that some local producers cannot export their products to the Russian Federation, which is why there is a glut in the domestic market",
+      "title_raw": "В Армении перекрыли трассу из-за проблемы сбыта помидоров",
+      "lead_raw": "Недовольные граждане заявляют, что часть местных производителей не может вывезти продукцию в РФ, из-за чего произошло перенасыщение внутреннего рынка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b1bcc5ef5a4921a3acc35929c6d584fa6cca88e5",
+      "fingerprint": "871211f6b5de89cca04c2df9786d595799670d1c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27934759",
+      "published_utc": "2026-07-20T15:52:21Z",
+      "title_en": "Filatov invited Karjakin to nominate himself for the post of head of FIDE",
+      "lead_en": "According to the President of the Russian Chess Federation, the election of the head of an international organization in this case would definitely not be boring",
+      "title_raw": "Филатов предложил Карякину выдвинуть свою кандидатуру на пост главы FIDE",
+      "lead_raw": "По мнению президента Федерации шахмат России, выборы главы международной организации в таком случае точно не были бы скучными",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7debd23826973a73e221923808f92acf45e28fe2",
+      "fingerprint": "5c964698a7702b9c981da9aea1ff8de07ab359b7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934485",
+      "published_utc": "2026-07-20T15:46:21Z",
+      "title_en": "All-Russian youth forum \"Territory of Meanings\" opened in Senezh",
+      "lead_en": "The forum will include three shifts: “Unity”, “Truth” and “Motherland”",
+      "title_raw": "В \"Сенеже\" открылся всероссийский молодежный форум \"Территория смыслов\"",
+      "lead_raw": "В рамках форума пройдут три смены: \"Единство\", \"Правда\" и \"Родина\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7665a095dd59bd5d331704471b7c513a19c5573a",
+      "fingerprint": "d0fd07fc53eac403e1a356bef026ec78f0a06e4e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/20/over-20-russian-politicians-barred-from-state-duma-race-over-extremist-symbols-charges",
+      "published_utc": "2026-07-20T15:46:06Z",
+      "title_en": "Over 20 Russian politicians barred from State Duma race over ‘extremist symbols’ charges",
+      "lead_en": "At least 21 Russian politicians have been charged with displaying “extremist” or Nazi symbols — charges that bar them from running for office — ahead of elections to the State Duma, the lower house of Russia’s parliament, according to Novaya Gazeta Europe, an independent Russian",
+      "title_raw": "Over 20 Russian politicians barred from State Duma race over ‘extremist symbols’ charges",
+      "lead_raw": "At least 21 Russian politicians have been charged with displaying “extremist” or Nazi symbols — charges that bar them from running for office — ahead of elections to the State Duma, the lower house of Russia’s parliament, according to Novaya Gazeta Europe, an independent Russian",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "241bcbcb29db6ec5973b65804022d16ce0d26646",
+      "fingerprint": "9772bd3e076ce507b17b79facb95e8bd530a3f24",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2162697",
+      "published_utc": "2026-07-20T15:43:35Z",
+      "title_en": "Bureau 1440 launches second part of satellite constellation",
+      "lead_en": "The Russian aerospace company continues to deploy a low-orbit satellite constellation for new-generation communication services",
+      "title_raw": "Bureau 1440 launches second part of satellite constellation",
+      "lead_raw": "The Russian aerospace company continues to deploy a low-orbit satellite constellation for new-generation communication services",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d3fc93427ec44faa47d5205fad4b0c6081d2e186",
+      "fingerprint": "e97eeb30954cc792c32ca9934928af84f9f89720",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27934713",
+      "published_utc": "2026-07-20T15:41:30Z",
+      "title_en": "In the Angara region, the rector of an Orthodox church died in an accident with a bus.",
+      "lead_en": "The death of Vyacheslav Pushkarev was reported in the Irkutsk diocese of the Russian Orthodox Church",
+      "title_raw": "В Приангарье в ДТП с автобусом погиб настоятель православного храма",
+      "lead_raw": "О смерти Вячеслава Пушкарева сообщили в Иркутской епархии Русской православной церкви",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e882112a84cd9389dd423a6957078ae37f39eed3",
+      "fingerprint": "a14b26436e0504f81363e97e92c9f67ef7efe409",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27934715",
+      "published_utc": "2026-07-20T15:37:34Z",
+      "title_en": "Poddubny called the teacher the most important figure in patriotic education",
+      "lead_en": "A member of the general council of the United Russia party believes that the return of the educational function to school should be accompanied by giving the teacher a special status",
+      "title_raw": "Поддубный назвал учителя важнейшей фигурой в патриотическом воспитании",
+      "lead_raw": "Член генерального совета партии \"Единая Россия\" считает, что возвращение воспитательной функции в школу должно сопровождаться приданием педагогу особого статуса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b843cd2d7d5f5758f8a84cb05469addee3eec84e",
+      "fingerprint": "93d3803ad453a98661a1689ebc5ba88ef2b63637",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2162693",
+      "published_utc": "2026-07-20T15:35:47Z",
+      "title_en": "Bank of Russia lowers dollar rate for July 21 to 78.31 rubles",
+      "lead_en": "The official euro rate was cut by 34.56 kopecks to 89.5542 rubles",
+      "title_raw": "Bank of Russia lowers dollar rate for July 21 to 78.31 rubles",
+      "lead_raw": "The official euro rate was cut by 34.56 kopecks to 89.5542 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37e6bdbf684ebdd6d71319cf8240139a7a63c343",
+      "fingerprint": "8e65e15831058ea670d41a0a03c6e3c9289b179a",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/20/transport-companies-in-35-russian-regions-raise-fares-or-cut-routes-amid-fuel-crisis-istories-reports",
+      "published_utc": "2026-07-20T15:35:26Z",
+      "title_en": "Transport companies in 35 Russian regions raise fares or cut routes amid fuel crisis, iStories reports",
+      "lead_en": "Public transit fares have risen in 25 Russian regions, while carriers in another 10 have cut routes or reduced service schedules amid the fuel crisis, iStories, an independent Russian investigative outlet, reported, citing its own calculations.",
+      "title_raw": "Transport companies in 35 Russian regions raise fares or cut routes amid fuel crisis, iStories reports",
+      "lead_raw": "Public transit fares have risen in 25 Russian regions, while carriers in another 10 have cut routes or reduced service schedules amid the fuel crisis, iStories, an independent Russian investigative outlet, reported, citing its own calculations.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4aa1bed307bb9a6385419fd130415972d1f34778",
+      "fingerprint": "c5a00f9f8f35e600c7e07f0023eade42cf29340a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934639",
+      "published_utc": "2026-07-20T15:33:36Z",
+      "title_en": "Registration for the anti-fake championship has begun in Russia",
+      "lead_en": "Competition tasks include, but are not limited to, digital content analysis, fact checking and recognition of AI-generated content.",
+      "title_raw": "В России началась регистрация на антифейк-чемпионат",
+      "lead_raw": "Конкурсные задания, в частности, включают анализ цифрового контента, проверку фактов и распознавание материалов, созданных с использованием ИИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6388bfd2a56b12ed80023ae546bfa96e2797f1de",
+      "fingerprint": "cb62bf8113425545ea3e74b2c2b6d9d05ecc64ef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27934659",
+      "published_utc": "2026-07-20T15:31:33Z",
+      "title_en": "The State Department called relations between the Russian Federation and Cuba a “direct threat” to the United States",
+      "lead_en": "Relations between Moscow and Havana allow Russia to build military bases and maintain a military presence in the region, according to the United States Foreign Office",
+      "title_raw": "В Госдепе назвали отношения РФ и Кубы \"прямой угрозой\" США",
+      "lead_raw": "Отношения между Москвой и Гаваной позволяют России строить военные базы и поддерживать военное присутствие в регионе, считают во внешнеполитическом ведомстве Соединенных Штатов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "da37d896a6731da29d72e781d78a19d57c5bd07e",
+      "fingerprint": "9c0c6a24c5bda00b8c105c1596682e449d0f1e02",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934701",
+      "published_utc": "2026-07-20T15:30:15Z",
+      "title_en": "In Russia, 27 new OKVED codes will be developed for creative industries",
+      "lead_en": "The initiative may also affect the development of video games, digital distribution of phonograms, streaming services, industrial, graphic and interior design, clothing design, as well as some areas of the performing arts.",
+      "title_raw": "В России для креативных индустрий разработают 27 новых кодов ОКВЭД",
+      "lead_raw": "Инициатива в том числе может коснуться разработки видеоигр, цифровой дистрибуции фонограмм, стриминговых сервисов, промышленного, графического и интерьерного дизайна, дизайна одежды, а также некоторых направлений исполнительских искусств",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2eb4bc72c3a6d380489cfe899309157310663f65",
+      "fingerprint": "4bd0f327191993d97f753599da8283991cc27beb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162687",
+      "published_utc": "2026-07-20T15:26:45Z",
+      "title_en": "Ukraine never stops trying to inflict irreparable damage to CPC — Russian diplomat",
+      "lead_en": "Maria Zakharova said the attack was the fifth act of aggression against the company’s civilian facilities enjoying protection of international law",
+      "title_raw": "Ukraine never stops trying to inflict irreparable damage to CPC — Russian diplomat",
+      "lead_raw": "Maria Zakharova said the attack was the fifth act of aggression against the company’s civilian facilities enjoying protection of international law",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c4afb0068d421f341532f2015f21312664cb06dc",
+      "fingerprint": "5f0ea53be4de94d4c92d94f39ddd16516a4d8bff",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/20/russia-s-state-duma-takes-up-bill-to-freeze-assets-block-bank-transfers-of-russians-who-criticize-authorities-from-abroad",
+      "published_utc": "2026-07-20T15:26:43Z",
+      "title_en": "Russia’s State Duma takes up bill to freeze assets, block bank transfers of Russians who criticize authorities from abroad",
+      "lead_en": "Russia’s State Duma, the lower house of parliament, approved amendments ahead of a second reading of the bill “On Temporary Restrictive Measures Against Persons Located Outside the Russian Federation Who Are Evading a Sentence.”",
+      "title_raw": "Russia’s State Duma takes up bill to freeze assets, block bank transfers of Russians who criticize authorities from abroad",
+      "lead_raw": "Russia’s State Duma, the lower house of parliament, approved amendments ahead of a second reading of the bill “On Temporary Restrictive Measures Against Persons Located Outside the Russian Federation Who Are Evading a Sentence.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3cb620e90c9adcea11dd65493400969312c46892",
+      "fingerprint": "73024175f8f3727bf8539e0c4822d5e5da480cb6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934677",
+      "published_utc": "2026-07-20T15:24:59Z",
+      "title_en": "The State Duma will discuss restrictions for relocants hiding from punishment",
+      "lead_en": "Measures will also be applied to persons who have fled abroad and are guilty of committing administrative offenses against the security of the Russian state.",
+      "title_raw": "Госдума обсудит ограничения для скрывающихся от наказания релокантов",
+      "lead_raw": "Меры также будут применяться в отношении сбежавших за рубеж лиц, виновных в совершении административных правонарушений против безопасности российского государства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6cb09151b6b5dbf58f089c5650d9228e387382e7",
+      "fingerprint": "b436ddafc0bc0b4d1896bb005d94c71262d56e2b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934631",
+      "published_utc": "2026-07-20T15:21:50Z",
+      "title_en": "The Ministry of Internal Affairs of the Russian Federation is ready to consult people with the status of non-citizens in the Baltics",
+      "lead_en": "Employees of the Russian Migration Service of the Ministry of Internal Affairs will explain by telephone questions that may arise in case of discrimination, pressure, as well as difficulties when moving to Russia",
+      "title_raw": "МВД РФ готово проконсультировать людей со статусом неграждан в Прибалтике",
+      "lead_raw": "Сотрудники российской Миграционной службы Министерства внутренних дел по телефону разъяснят вопросы, которые могут возникнуть в случае дискриминации, давления, а также трудностей при переезде в Россию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "de6bbe92824c196b99fb8e65a421aab9aa1c6325",
+      "fingerprint": "f0f4454d4197b85e01cdca9873d0cac7f2d36f7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27934669",
+      "published_utc": "2026-07-20T15:19:14Z",
+      "title_en": "In the Ryazan region, the regime of unmanned danger was canceled",
+      "lead_en": "The Ministry of Emergency Situations of Russia was informed about this",
+      "title_raw": "В Рязанской области отменили режим беспилотной опасности",
+      "lead_raw": "Об этом проинформировали в МЧС России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c19ee0b38bd308afb1e3f9031145aa0f19fa21ed",
+      "fingerprint": "d181051e77845da035818bf724fd29973544a63f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934665",
+      "published_utc": "2026-07-20T15:17:40Z",
+      "title_en": "Sber confirmed the compliance of its activities with the national goals of Russia",
+      "lead_en": "The assessment was carried out in six key areas: ecology, social sphere, management sphere, economics, business reputation and contribution to improving the well-being of society",
+      "title_raw": "Сбер подтвердил соответствие своей деятельности национальным целям России",
+      "lead_raw": "Оценка проводилась по шести ключевым направлениям: экология, соцсфера, управленческая сфера, экономика, деловая репутация и вклад в повышение благосостояния общества",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d5ec05b7f1ef93b9962eeb33353d571724a27a96",
+      "fingerprint": "e6d75689bac0a69c82017406420b64ffa461f50a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934653",
+      "published_utc": "2026-07-20T15:14:21Z",
+      "title_en": "The Russian Armed Forces hit two ships delivering cargo for the Ukrainian Armed Forces to the port of Chernomorsk",
+      "lead_en": "The targets of Russian UAVs were a bulk carrier and a dry cargo ship",
+      "title_raw": "ВС РФ поразили два судна, доставлявших грузы для ВСУ в порт Черноморск",
+      "lead_raw": "Целями российских БПЛА стали балкер и сухогруз",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7f2a49eaf8be136a675daa215f8ff4c33c7115b5",
+      "fingerprint": "76261c58314068801fe467f604f674ea8d9cc906",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934645",
+      "published_utc": "2026-07-20T15:13:57Z",
+      "title_en": "The Russian Armed Forces hit two dry cargo ships in the port of Odessa",
+      "lead_en": "In addition, tanks with fuels and lubricants intended for the Armed Forces of Ukraine were damaged, the Russian Ministry of Defense noted.",
+      "title_raw": "ВС РФ поразили два сухогруза в порту Одесса",
+      "lead_raw": "Кроме того, были повреждены резервуары с горюче-смазочными материалами, предназначенными для ВСУ, отметили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "165b2a7883ce6f59861b376606a38f8fa5d3c008",
+      "fingerprint": "85f2270bead39e35d97035ee0f37137755d4f3d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934649",
+      "published_utc": "2026-07-20T15:13:42Z",
+      "title_en": "The Russian Armed Forces hit infrastructure facilities in the port of Chernomorsk",
+      "lead_en": "They were used to store military cargo, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили объекты инфраструктуры в порту Черноморск",
+      "lead_raw": "Их использовали для хранения грузов военного назначения, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c8a541a26832b978c5ef4adad40b14b619031ec5",
+      "fingerprint": "bcc6c70fbc95c7e6f257eb60bed134eded6a2454",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27934643",
+      "published_utc": "2026-07-20T15:12:26Z",
+      "title_en": "The Russian Armed Forces continued attacks on Ukrainian ports",
+      "lead_en": "Vessels involved in the interests of the Armed Forces of Ukraine were attacked, the Russian Ministry of Defense noted.",
+      "title_raw": "ВС РФ продолжили удары по портам Украины",
+      "lead_raw": "Атакам подверглись суда, задействованные в интересах ВСУ, отметили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c0eb6e2677abd1b0380f5ba1432bc2a0bd59fb7f",
+      "fingerprint": "c08b3ca53853778c56be8ae309a1922fabc7ab4c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27934599",
+      "published_utc": "2026-07-20T15:07:47Z",
+      "title_en": "Mironov: those responsible for the murders of Russians should face a tribunal, like in Nuremberg",
+      "lead_en": "The chairman of the A Just Russia party called the attack on civilians in Shebekino “another bloody war crime of the Zelensky terrorist regime”",
+      "title_raw": "Миронов: виновных в убийствах россиян должен ждать трибунал, как в Нюрнберге",
+      "lead_raw": "Председатель партии \"Справедливая Россия\" назвал удар по мирным жителям в Шебекино \"еще одним кровавым военным преступлением террористического режима Зеленского\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "66597b13bc6bf8832cb3c62a7db920e1b3b85d2e",
+      "fingerprint": "f2f348099165edc326d2e10b384610c55c9047eb",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2162677",
+      "published_utc": "2026-07-20T15:06:08Z",
+      "title_en": "EU wants to fight to last Ukrainian, destroy its own economy — Dodik",
+      "lead_en": "According to the chairman of Alliance of Independent Social Democrats party of Republika Srpska, the war is being fought only on Ukrainian territory, but it is essentially an attempt by the EU to break Russia",
+      "title_raw": "EU wants to fight to last Ukrainian, destroy its own economy — Dodik",
+      "lead_raw": "According to the chairman of Alliance of Independent Social Democrats party of Republika Srpska, the war is being fought only on Ukrainian territory, but it is essentially an attempt by the EU to break Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2d05403f7e74cca50c1b54136384100db786a602",
+      "fingerprint": "e6a0d3adf7db558fddd9ba50d0d57649897a9de1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162673",
+      "published_utc": "2026-07-20T15:01:04Z",
+      "title_en": "Kiev aims to further destabilize oil markets by striking Caspian Pipeline Consortium — MFA",
+      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that Moscow is in solidarity with the Kazakh Foreign Ministry in its decisive condemnation of this crime against a civilian facility",
+      "title_raw": "Kiev aims to further destabilize oil markets by striking Caspian Pipeline Consortium — MFA",
+      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova stressed that Moscow is in solidarity with the Kazakh Foreign Ministry in its decisive condemnation of this crime against a civilian facility",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f56d3bc6b90b21eda603f179c0983db587e2f0a0",
+      "fingerprint": "df7cbe533f4e03068d71e3928988ba702ddcf34f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934577",
+      "published_utc": "2026-07-20T14:57:47Z",
+      "title_en": "The Ministry of Finance named the condition for the sale of imported damper for diesel",
+      "lead_en": "Deputy Minister of Finance of the Russian Federation Alexey Sazanov indicated that this will only work if exports are banned",
+      "title_raw": "В Минфине назвали условие для реализации импортного демпфера на дизель",
+      "lead_raw": "Замминистра финансов РФ Алексей Сазанов указал, что это будет работать только при запрете экспорта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3aa0749f68cd85a46059410504b50c828d43feaf",
+      "fingerprint": "1e6c74a83782ac9560383ef9aebb5595923a0a3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934471",
+      "published_utc": "2026-07-20T14:53:13Z",
+      "title_en": "The RCT allowed an increase in tourist flow after Tver was included in the “Golden Ring of Russia”",
+      "lead_en": "Member of the board of the Russian Union of Travel Industry, General Director of the tour operator \"Dolphin\" Sergei Romashkin noted that interregional routes have great potential for the development of tourism in the region",
+      "title_raw": "В РСТ допустили рост турпотока после включения Твери в \"Золотое кольцо России\"",
+      "lead_raw": "Член правления Российского союза туриндустрии, генеральный директор туроператора \"Дельфин\" Сергей Ромашкин отметил, что большой потенциал для развития туризма региона имеют межрегиональные маршруты",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4502ee5d179d7d5adf4e5045feda00407e34e412",
+      "fingerprint": "f999c9c329b8829e57c7b82d0a2826cd777da488",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27934545",
+      "published_utc": "2026-07-20T14:48:54Z",
+      "title_en": "The Federation Council Committee will discuss candidates for positions in the Constitutional Court of the Russian Federation on July 23",
+      "lead_en": "We are talking about Alexander Konovalov and Victoria Korobchenko, who can become deputy chairman and judge of the Constitutional Court of the Russian Federation, respectively",
+      "title_raw": "Комитет СФ 23 июля обсудит кандидатуры на должности в Конституционном суде РФ",
+      "lead_raw": "Речь идет об Александре Коновалове и Виктории Коробченко, которые могут стать зампредседателя и судьей КС РФ соответственно",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4bb549ad24cdc882212b2a309b921893372eb0da",
+      "fingerprint": "6bc85ac772728283c4ed109f03120ec592c7fb35",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27934565",
+      "published_utc": "2026-07-20T14:42:31Z",
+      "title_en": "The All-Russian Society of the Deaf condemned Germany's ban on the participation of Russians in games",
+      "lead_en": "According to the head of the organization, Alexander Bochkov, Germany’s actions constitute national and racial discrimination",
+      "title_raw": "Всероссийское общество глухих осудило запрет ФРГ на участие россиян в играх",
+      "lead_raw": "По мнению главы организации Александра Бочкова, действия Германии являются национальной и расовой дискриминацией",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "78c00eda05d2ec4155e6cdb5e2932cd6fb6b70d2",
+      "fingerprint": "f0196777722a93c58e7a4b9f7ce946d8d3efaa21",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162663",
+      "published_utc": "2026-07-20T14:41:51Z",
+      "title_en": "North Macedonians understand joining anti-Russian coalition not good for them — diplomat",
+      "lead_en": "Russian Ambassador to Skopje Dmitry Zykov said that Europe made a significant \"contribution\" to fueling the Ukrainian crisis and its attempts to allegedly \"settle\" the situation yielded no success",
+      "title_raw": "North Macedonians understand joining anti-Russian coalition not good for them — diplomat",
+      "lead_raw": "Russian Ambassador to Skopje Dmitry Zykov said that Europe made a significant \"contribution\" to fueling the Ukrainian crisis and its attempts to allegedly \"settle\" the situation yielded no success",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "df1ba9ad8a3bc5824c6fa643ebe4c83b9dfaf4e3",
+      "fingerprint": "cefd36f0b810e52f84173205c30aa52a914aba66",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934529",
+      "published_utc": "2026-07-20T14:34:25Z",
+      "title_en": "Russian banks will support Wildberries sellers affected by Ukrainian Armed Forces attacks",
+      "lead_en": "Clients are offered deferred payments, changes to the debt repayment schedule or credit holidays",
+      "title_raw": "Российские банки поддержат пострадавших от атак ВСУ продавцов Wildberries",
+      "lead_raw": "Клиентам предлагают отсрочки платежей, изменение графика погашения долга или кредитные каникулы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bec198ed261813db718712959462e1ea62e6fe9d",
+      "fingerprint": "77fd338236fdea910fe7461e6474e83794f91b2d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27934525",
+      "published_utc": "2026-07-20T14:28:44Z",
+      "title_en": "The new British Prime Minister did not mention Russia in his first speech",
+      "lead_en": "Andy Burnham touched only on the topics of internal political stability and economic transformation",
+      "title_raw": "Новый премьер Великобритании не упомянул Россию в своей первой речи",
+      "lead_raw": "Энди Бернэм затронул только темы внутриполитической стабильности и экономических преобразований",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b0496d4828a5e9688d4ef4225833bca58b4a7d12",
+      "fingerprint": "581e5b3b114a14b40c4536917721b4b9502b194d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27934491",
+      "published_utc": "2026-07-20T14:24:04Z",
+      "title_en": "Expert Eremkin expects the Russian economy to grow to 0.7% by the end of the year",
+      "lead_en": "According to a senior researcher at the Presidential Academy, the investment pause will end and the basis for recovery remains the same",
+      "title_raw": "Эксперт Еремкин ожидает роста российской экономики до 0,7% к концу года",
+      "lead_raw": "По мнению старшего научного сотрудника Президентской академии, инвестиционная пауза завершится, база для восстановления сохраняется по-прежнему",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4def811a9d172552150fde3a1d3be1402f17494d",
+      "fingerprint": "c31abefe7aad96af5d5267fb5a8f12f3f745e079",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2162653",
+      "published_utc": "2026-07-20T14:15:21Z",
+      "title_en": "Wheat imports from Russia to Georgia gain 37% in 1H",
+      "lead_en": "Georgia purchased 160,614 tons of Russian wheat and meslin for $41.8 mln",
+      "title_raw": "Wheat imports from Russia to Georgia gain 37% in 1H",
+      "lead_raw": "Georgia purchased 160,614 tons of Russian wheat and meslin for $41.8 mln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "112347721c6e3f62f7b5e7698b33b94b7d09b3f5",
+      "fingerprint": "f8e2571e19840b33ee99b4738fe9e97efc47b663",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2162655",
+      "published_utc": "2026-07-20T14:14:16Z",
+      "title_en": "Russia fighting for its survival in special military operation — Duma deputy speaker",
+      "lead_en": "Pyotr Tolstoy said that Russia is defending its independence, freedom and \"the ability to make its own decisions\"",
+      "title_raw": "Russia fighting for its survival in special military operation — Duma deputy speaker",
+      "lead_raw": "Pyotr Tolstoy said that Russia is defending its independence, freedom and \"the ability to make its own decisions\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "fb0212bcdb5fb000d8210a7858cb482be7941a86",
       "fingerprint": "dad6e68bb479bd068fedcf0c388e1e09f814e5b0",
@@ -13,6 +889,26 @@
       "lead_en": "",
       "title_raw": "РФ и КНДР назвали причину деградации обстановки в Северо-Восточной Азии и в мире",
       "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c911f692103f6559cd3791a96ac9ebef116ec6e9",
+      "fingerprint": "f630244c38c7964dbd90cdf7b41537ce55192a6e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2162651",
+      "published_utc": "2026-07-20T14:03:18Z",
+      "title_en": "Russia's strike on Kiev-based Rapid enterprise aimed at reducing long-range UAV attacks",
+      "lead_en": "The Russian developer of drone detectors said the strikes will reduce the number of attacks by the Ukrainian army’s long-range unmanned aerial vehicles",
+      "title_raw": "Russia's strike on Kiev-based Rapid enterprise aimed at reducing long-range UAV attacks",
+      "lead_raw": "The Russian developer of drone detectors said the strikes will reduce the number of attacks by the Ukrainian army’s long-range unmanned aerial vehicles",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -8334,739 +9230,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "53c4a8874a8151411132f302d243f6dd067bebfb",
-      "fingerprint": "89ae58a684d17f2261d029b2187b3b837c70d24a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27930053",
-      "published_utc": "2026-07-18T16:20:43Z",
-      "title_en": "Golfers of the Russian national team defeated the world team at the Strong Figures festival",
-      "lead_en": "The tournament took place at the Moscow Country Club",
-      "title_raw": "Гольфисты сборной России победили команду мира на фестивале \"Сильные фигуры\"",
-      "lead_raw": "Турнир прошел в гольф-клубе Moscow Country Club",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1b70c71d0a5bd7512b943056bc17b85e343d7269",
-      "fingerprint": "68139274fce0a822c5247e97cb0eca8e8664aa16",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27930045",
-      "published_utc": "2026-07-18T16:16:25Z",
-      "title_en": "Russian schoolchildren won four gold medals at the International Chemistry Olympiad",
-      "lead_en": "Arseniy Gasanenko became the absolute winner",
-      "title_raw": "Школьники РФ завоевали четыре золотые медали на Международной олимпиаде по химии",
-      "lead_raw": "Арсений Гасаненко стал абсолютным победителем",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b2d835e069915d7df3c19c4dd9d0bf592f120055",
-      "fingerprint": "ca6e198446b23f40b31914f405ee70c74fac5827",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27930041",
-      "published_utc": "2026-07-18T16:14:43Z",
-      "title_en": "A child drowned in a lake in the Chelyabinsk region",
-      "lead_en": "A group of children, unattended by adults, was walking near a pond, the Russian Emergency Situations Ministry for the region reported.",
-      "title_raw": "В озере Челябинской области утонул ребенок",
-      "lead_raw": "Группа детей без присмотра взрослых гуляла у водоема, сообщили в ГУ МЧС России по региону",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "af4d5cbdef507d47c20393ee4d6c289a8fcc76a2",
-      "fingerprint": "66d9c468a99e63f2c7a9a3e3e34109be402be0be",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27930009",
-      "published_utc": "2026-07-18T16:13:47Z",
-      "title_en": "Restrictions in the Russian Federation for cargo carriers from Estonia will not affect the work of customs",
-      "lead_en": "Customs posts on the border with the republic will continue to work around the clock",
-      "title_raw": "Ограничения в РФ для грузоперевозчиков из Эстонии не повлияют на работу таможни",
-      "lead_raw": "Таможенные посты на границе с республикой продолжат работать круглосуточно",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "84ee6a86380e5d271585e9aefc5e2e7a8b927aa5",
-      "fingerprint": "e6b6379f3e51d95921c95f5758cf203c9af172c5",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/18/wildberries-and-ozon-two-of-russia-s-largest-online-marketplaces-wrote-sellers-out-of-compensation-for-war-damage",
-      "published_utc": "2026-07-18T15:48:12Z",
-      "title_en": "Wildberries and Ozon, two of Russia’s largest online marketplaces, wrote sellers out of compensation for war damage",
-      "lead_en": "Russian e-commerce platform Ozon has revised its seller agreement to specify that the company will not compensate sellers for goods lost or damaged due to military action, a state of emergency, shelling, mass unrest, or “other similar circumstances.”",
-      "title_raw": "Wildberries and Ozon, two of Russia’s largest online marketplaces, wrote sellers out of compensation for war damage",
-      "lead_raw": "Russian e-commerce platform Ozon has revised its seller agreement to specify that the company will not compensate sellers for goods lost or damaged due to military action, a state of emergency, shelling, mass unrest, or “other similar circumstances.”",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "84b8158ca9b3a0c88dfb29d6d278ddf99f9f7f04",
-      "fingerprint": "e01d44d562e56a421a56aca6e33b67dd4d613025",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27930003",
-      "published_utc": "2026-07-18T15:38:21Z",
-      "title_en": "The Russian Army took control of the settlement of Lenin",
-      "lead_en": "The liberation of Shevchenko, Krasnoyarsky and Svetly is also being completed, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ взяли под контроль населенный пункт Ленина",
-      "lead_raw": "Также завершается освобождение Шевченко, Красноярского и Светлого, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "249da2e0046a8320f2a80bb7b5934160f37310b3",
-      "fingerprint": "fb7cccd0a276f3d92f9b88566759f3550dcd3cc2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27930001",
-      "published_utc": "2026-07-18T15:37:51Z",
-      "title_en": "The Russian Armed Forces in the Dobropolye direction are fighting in Dobropolye and Annovka",
-      "lead_en": "The Russian military is developing an offensive north of Krasnoarmeysk, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ на добропольском направлении ведут бои в Доброполье и Анновке",
-      "lead_raw": "Российские военные развивают наступление севернее Красноармейска, сообщил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a5a5014110765314889d365ce5b1a3d8b6949ddb",
-      "fingerprint": "6e0de5898f96423b6cd264a5f021590ae519c0fd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929999",
-      "published_utc": "2026-07-18T15:37:29Z",
-      "title_en": "\"Center\" fighters are fighting stubbornly",
-      "lead_en": "The military is fighting in the group’s zone of responsibility, said Chief of the General Staff of the Russian Armed Forces, Army General Valery Gerasimov",
-      "title_raw": "Бойцы \"Центра\" ведут упорные бои",
-      "lead_raw": "Военные ведут бои в полосе ответственности группировки, заявил начальник Генштаба ВС РФ генерал армии Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7383d08f40b6c8850660489747edc2ca81724316",
-      "fingerprint": "af56eec1decb59b31775f490695393b9ad9edfe6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929997",
-      "published_utc": "2026-07-18T15:37:10Z",
-      "title_en": "The Russian Armed Forces are located less than 5 km from the eastern outskirts of Kramatorsk",
-      "lead_en": "The Armed Forces of Ukraine are being hit by fire, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ находятся менее чем в 5 км от восточных окраин Краматорска",
-      "lead_raw": "Наносится огневое поражение ВСУ, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d6e6882c593f607bcb76283cf7ea559e04bc51e9",
-      "fingerprint": "b402b6ce54a8103c4930f21defdf62241ca2ad6c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27930005",
-      "published_utc": "2026-07-18T15:36:58Z",
-      "title_en": "“Zenit” and “Spartak” announced the starting lineups for the match for the Russian Super Cup",
-      "lead_en": "The meeting will take place in Nizhny Novgorod",
-      "title_raw": "\"Зенит\" и \"Спартак\" объявили стартовые составы на матч за Суперкубок России",
-      "lead_raw": "Встреча пройдет в Нижнем Новгороде",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "eccd436f527d143a1a212bb7a625af9eab9df2b0",
-      "fingerprint": "b0d48ca62e3433e15014b4590cf14c6aa433c929",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929991",
-      "published_utc": "2026-07-18T15:36:45Z",
-      "title_en": "The Russian Armed Forces liberated Piskunovka",
-      "lead_en": "The Russian military has reached the outskirts of Nikolaevka, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ освободили Пискуновку",
-      "lead_raw": "Российские военные вышли на окраины Николаевки, сообщил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4d1d93eaf8716309d0f6dd51e96be701969745af",
-      "fingerprint": "ca4ed9c00afecc16d274e27a6ab5b5aa07b72025",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929989",
-      "published_utc": "2026-07-18T15:36:24Z",
-      "title_en": "The Russian Armed Forces entered Alekseevo-Druzhkovka",
-      "lead_en": "There are battles in the city, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ вошли в Алексеево-Дружковку",
-      "lead_raw": "Ведут бои в городе, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "119dbdea38749526bba74bc6046036d4ef8cd187",
-      "fingerprint": "5e31aa7763579ff3ef58304d63b57b5b6a6cded1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929987",
-      "published_utc": "2026-07-18T15:36:12Z",
-      "title_en": "The Russian Armed Forces advance in the Holy Mountains National Park",
-      "lead_en": "In addition, the Russian military is destroying the Ukrainian Armed Forces in Svyatogorsk and Shchurov, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ наступают в нацпарке \"Святые Горы\"",
-      "lead_raw": "Кроме того, российские военные уничтожают ВСУ в Святогорске и Щурове, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ea7a67456ef6f7f1695147236813f2f41ffa508c",
-      "fingerprint": "33117dbce0e11f3553b39a7443ee0d997891e4ea",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929983",
-      "published_utc": "2026-07-18T15:35:30Z",
-      "title_en": "The Russian Armed Forces complete the liberation of Krasny Liman",
-      "lead_en": "The organized defense of the Armed Forces of Ukraine in the city has been broken, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ завершают освобождение Красного Лимана",
-      "lead_raw": "Организованная оборона ВСУ в городе сломлена, сообщил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e5d552172e457816dcce71c9aee26459a466d63a",
-      "fingerprint": "9fd46ed71771b3120b47eea9562b93b0676d10ae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929973",
-      "published_utc": "2026-07-18T15:35:07Z",
-      "title_en": "Russian troops conduct street battles in Podliman",
-      "lead_en": "The main task of the West, South and Center groups is to completely liberate the DPR, said Chief of the General Staff of the Russian Armed Forces Valery Gerasimov",
-      "title_raw": "Российские войска ведут уличные бои в Подлимане",
-      "lead_raw": "Главная задача группировок \"Запад\", \"Южная\" и \"Центр\" заключается в полном освобождении ДНР, заявил начальник Генштаба ВС РФ Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5492a971fe5b6573dbb5a3ce279b96ec08bb8534",
-      "fingerprint": "99fe13347d24916c12dde54e23c4cc5d1ec0716e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929971",
-      "published_utc": "2026-07-18T15:34:47Z",
-      "title_en": "The Russian Armed Forces continue to liquidate the Ukrainian Armed Forces on the eastern bank of Oskol",
-      "lead_en": "The destruction of enemy formations is taking place in the area south of Borovaya, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ продолжают ликвидацию ВСУ на восточном берегу Оскола",
-      "lead_raw": "Уничтожение формирований противника происходит а районе южнее Боровой, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3f99b96f3cd51d9b9e2b0cf30589065f512c7e2b",
-      "fingerprint": "185db3115d18bb8763820c36be7fb02b2daefa6e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929969",
-      "published_utc": "2026-07-18T15:34:19Z",
-      "title_en": "The Russian Armed Forces repelled attempts by the Ukrainian Armed Forces to break into the western part of Kupyansk",
-      "lead_en": "The Russian military is advancing in the direction of Shevchenkovo, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ отразили попытки ВСУ прорваться в западную часть Купянска",
-      "lead_raw": "Российские военные продвигаются в направлении Шевченково, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "555c594c7a861767d9dfd2e315e91b39c3b94ad9",
-      "fingerprint": "7a9427f0d1f810f391249a2e1e76e6e3990b0856",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929967",
-      "published_utc": "2026-07-18T15:33:56Z",
-      "title_en": "The \"West\" group is advancing on a wide front in its area of ​​​​responsibility",
-      "lead_en": "This was stated by the Chief of the General Staff of the Russian Armed Forces, Army General Valery Gerasimov.",
-      "title_raw": "Группировка \"Запад\" наступает на широком фронте в своей полосе ответственности",
-      "lead_raw": "Об этом заявил начальник Генштаба ВС РФ генерал армии Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3ec6a4d88ef6583ea90a14ca5bc66be68f50a969",
-      "fingerprint": "3c8499fece17b93c10a2e6ce6917fcfbf3e84443",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929965",
-      "published_utc": "2026-07-18T15:33:28Z",
-      "title_en": "The Russian Armed Forces continue the liberation of Donbass and Novorossiya",
-      "lead_en": "The offensive is being carried out in all directions, said Chief of the General Staff Valery Gerasimov",
-      "title_raw": "ВС РФ продолжают освобождение Донбасса и Новороссии",
-      "lead_raw": "Наступление войск ведется на всех направлениях, заявил начальник Генштаба Валерий Герасимов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a8c8ae176a9bc88e788cd4417059b649d20f4c25",
-      "fingerprint": "7befb49e3b30a1777cfb8a60b126cc1991fc7147",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929941",
-      "published_utc": "2026-07-18T15:32:50Z",
-      "title_en": "The Chief of the General Staff of the Russian Armed Forces checked the performance of combat missions by the \"West\" group",
-      "lead_en": "At the command post, Valery Gerasimov heard a report from the group commander, Colonel General Sergei Kuzovlev, on the situation in the area of ​​​​responsibility",
-      "title_raw": "Начальник Генштаба ВС РФ проверил выполнение боевых задач группировкой \"Запад\"",
-      "lead_raw": "На командном пункте Валерий Герасимов заслушал доклад командующего группировкой генерал-полковника Сергея Кузовлева по обстановке, сложившейся в зоне ответственности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c99abfaec308e1e6c6d43706adeba82a1dd59d14",
-      "fingerprint": "ec35a4a62ead65133f57c5cd3063d227a82c587f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27929943",
-      "published_utc": "2026-07-18T15:32:17Z",
-      "title_en": "Gerasimov noted the successes of the West group in liberating the DPR",
-      "lead_en": "The Chief of the General Staff of the Russian Armed Forces set tasks for further actions",
-      "title_raw": "Герасимов отметил успехи группировки \"Запад\" в освобождении ДНР",
-      "lead_raw": "Начальник Генштаба ВС РФ поставил задачи на дальнейшие действия",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2ccc3e14f583fe5df802fe1cd4faa7a7f4aaaae3",
-      "fingerprint": "23070c5862dbd9e7b4f933fa3621a29052d3c071",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27929923",
-      "published_utc": "2026-07-18T15:26:45Z",
-      "title_en": "NYT: the bill on sanctions against the Russian Federation has increased US concerns about the position of the dollar",
-      "lead_en": "The introduction of restrictions encourages countries to look for an alternative to this currency, for example, to more actively use the yuan for international payments, the publication writes",
-      "title_raw": "NYT: законопроект о санкциях против РФ усилил опасения США о положении доллара",
-      "lead_raw": "Введение рестрикций побуждает страны искать альтернативу этой валюте, например, активнее использовать для международных расчетов юань, пишет издание",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6d73cd04e6dfa526c7ce57c52334e732a1dc397a",
-      "fingerprint": "c6bfd51d665c759e6a2e0076654b1dd94c64deae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27929929",
-      "published_utc": "2026-07-18T15:25:46Z",
-      "title_en": "The defense of blogger Remeslo appealed the decision to arrest him",
-      "lead_en": "Ilya Remeslo is accused of spreading fakes about the Russian Armed Forces",
-      "title_raw": "Защита блогера Ремесло обжаловала решение о его аресте",
-      "lead_raw": "Илью Ремесло обвиняют в распространении фейков о Вооруженных силах РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d2c165f61a8bb22ca2ac74cd744dce7f30b579fd",
-      "fingerprint": "e1df33144fbbf51f81476e1af5c5687f23f096f3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/18/photos-and-videos-show-the-aftermath-of-ukrainian-drone-strikes-that-killed-eight-night-shift-workers-at-online-retailer-wildberries-warehouses-in-russia",
-      "published_utc": "2026-07-18T15:22:33Z",
-      "title_en": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia",
-      "lead_en": "In the early hours of July 18, Ukrainian drones struck two Wildberries logistics centers in the Moscow and Tambov regions. At a warehouse in the city of Kotovsk, seven night-shift workers were killed and 25 were injured.",
-      "title_raw": "Photos and videos show the aftermath of Ukrainian drone strikes that killed eight night-shift workers at online retailer Wildberries’ warehouses in Russia",
-      "lead_raw": "In the early hours of July 18, Ukrainian drones struck two Wildberries logistics centers in the Moscow and Tambov regions. At a warehouse in the city of Kotovsk, seven night-shift workers were killed and 25 were injured.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7c941b33d571df5212855f278f1b212c3844de63",
-      "fingerprint": "339bfecc345851aec4af2b5c405456e9d948a835",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/18/50b-rubles-in-damage-up-to-15-of-its-warehouse-space-and-a-contract-clause-that-shifts-the-loss-onto-small-vendors-inside-ukraine-s-strike-on-russia-s-online-retail-giant-wildberries",
-      "published_utc": "2026-07-18T15:21:16Z",
-      "title_en": "50B rubles in damage, up to 15% of its warehouse space, and a contract clause that shifts the loss onto small vendors: inside Ukraine’s strike on Russia’s online retail giant, Wildberries",
-      "lead_en": "Eight people have been killed and more than 50 injured in Ukraine’s strike on Wildberries warehouses in the Moscow region and the Tambov region. Volodymyr Zelensky said the strikes hit warehouses holding components used to make drones.",
-      "title_raw": "50B rubles in damage, up to 15% of its warehouse space, and a contract clause that shifts the loss onto small vendors: inside Ukraine’s strike on Russia’s online retail giant, Wildberries",
-      "lead_raw": "Eight people have been killed and more than 50 injured in Ukraine’s strike on Wildberries warehouses in the Moscow region and the Tambov region. Volodymyr Zelensky said the strikes hit warehouses holding components used to make drones.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e53c0f42fe24b6d4c379aac4b2948e10ee6c23da",
-      "fingerprint": "c2cc8d1b4a60b149e6e465549ec440d8a4faaa5a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929911",
-      "published_utc": "2026-07-18T15:17:50Z",
-      "title_en": "TASS: Ukrainian nationalists were prohibited from publishing posts without permission from the Ministry of Defense",
-      "lead_en": "This happened against the backdrop of an information campaign to support the commander-in-chief of the Armed Forces of Ukraine Alexander Syrsky, according to Russian law enforcement agencies",
-      "title_raw": "ТАСС: украинским националистам запретили публиковать посты без разрешения МО",
-      "lead_raw": "Это произошло на фоне информационной кампании по поддержке главкома ВСУ Александра Сырского, рассказали в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f204bc3dbae59e4188b6834513e9c6dfc62ef3d9",
-      "fingerprint": "d7b99d20573ebf94b6c523795da1314c08743f3b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/18/wildberries-russia-s-online-marketplace-says-it-will-compensate-sellers-for-drone-destroyed-goods-but-hasn-t-said-how-much",
-      "published_utc": "2026-07-18T15:15:39Z",
-      "title_en": "Wildberries, Russia’s online marketplace, says it will compensate sellers for drone-destroyed goods but hasn’t said how much",
-      "lead_en": "Wildberries is “working out” compensation for sellers who lost goods in Ukrainian drone strikes on its warehouses in the Moscow and Tambov regions, the company’s founder and chief executive, Tatyana Kim, said.",
-      "title_raw": "Wildberries, Russia’s online marketplace, says it will compensate sellers for drone-destroyed goods but hasn’t said how much",
-      "lead_raw": "Wildberries is “working out” compensation for sellers who lost goods in Ukrainian drone strikes on its warehouses in the Moscow and Tambov regions, the company’s founder and chief executive, Tatyana Kim, said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4f86fd9d014e35c1ec5b43751e1246bc490bc881",
-      "fingerprint": "223767f77c795e4a72b3c565247bd23997489ef6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929909",
-      "published_utc": "2026-07-18T15:15:10Z",
-      "title_en": "TASS: The Ukrainian Armed Forces are hiding fuel tankers in the territories of Kharkov schools",
-      "lead_en": "This is an extremely common practice also in the Sumy and Chernigov regions, according to Russian law enforcement agencies.",
-      "title_raw": "ТАСС: ВСУ прячут бензовозы на территориях школ Харькова",
-      "lead_raw": "Это крайне распространенная практика также для Сумской и Черниговской областей, рассказали в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1a5aaa6041df07ef7a8686b47bf7ef2124890e3c",
-      "fingerprint": "190516ad5676958163f8867cbe1f0f9f2eef979a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27929903",
-      "published_utc": "2026-07-18T15:14:11Z",
-      "title_en": "DPR reaches the Russian average level in terms of equipping with medical equipment",
-      "lead_en": "The construction of 29 prefabricated modular structures is planned for 2026 in the region",
-      "title_raw": "ДНР выходит на среднероссийский уровень по оснащению медтехникой",
-      "lead_raw": "На 2026 год в регионе запланировано возведение 29 быстровозводимых модульных конструкций",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "66571a76b465d2054bda79851b6cfeff64face7d",
-      "fingerprint": "f8870d7670e0c4f7ee84adf097daa510988c1205",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27929907",
-      "published_utc": "2026-07-18T15:13:27Z",
-      "title_en": "TASS: Russian security forces hacked the smartphone of ex-Minister of Defense of Ukraine Fedorov",
-      "lead_en": "Analysis of the data obtained made it possible to establish that the former commander-in-chief of the Ukrainian military department created postal addresses on Russian IT platforms and used digital services of Russian companies",
-      "title_raw": "ТАСС: силовики РФ взломали смартфон экс-министра обороны Украины Федорова",
-      "lead_raw": "Анализ полученных данных позволил установить, что бывший главком украинского военного ведомства заводил почтовые адреса на российских IT-платформах и пользовался цифровыми услугами российских компаний",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ea387649c5fd3d1b1f23d8d056be4c306f29749d",
-      "fingerprint": "cebd69dfc3a1cff714061e934e017fc53b60cef3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/18/wildberries-russia-s-largest-online-retailer-may-have-lost-the-use-of-10-15-of-its-warehouse-space-to-ukrainian-drone-strikes-source-tells-the-bell",
-      "published_utc": "2026-07-18T15:12:27Z",
-      "title_en": "Wildberries, Russia’s largest online retailer, may have lost the use of 10–15% of its warehouse space to Ukrainian drone strikes, source tells The Bell",
-      "lead_en": "Ukrainian drone strikes on Wildberries logistics centers in the Moscow and Tambov regions may have affected roughly 10 to 15 percent of the marketplace’s total warehouse space, a Wildberries source told The Bell. The strikes are unlikely to paralyze the marketplace’s operations, the source said, though they could put serious strain on logistics in the Moscow market — the company’s largest.",
-      "title_raw": "Wildberries, Russia’s largest online retailer, may have lost the use of 10–15% of its warehouse space to Ukrainian drone strikes, source tells The Bell",
-      "lead_raw": "Ukrainian drone strikes on Wildberries logistics centers in the Moscow and Tambov regions may have affected roughly 10 to 15 percent of the marketplace’s total warehouse space, a Wildberries source told The Bell. The strikes are unlikely to paralyze the marketplace’s operations, the source said, though they could put serious strain on logistics in the Moscow market — the company’s largest.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f6a2bec93efaf83001cdc569fe450e86bbb7c7e5",
-      "fingerprint": "6afd94e9dab89bc629c1ebdd43697c7602d8662f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27929901",
-      "published_utc": "2026-07-18T15:02:37Z",
-      "title_en": "Marochko called Khmara a pawn in the hands of the West",
-      "lead_en": "A military expert admitted that the new acting head of the Ministry of Defense of Ukraine, who previously headed the SBU, with the support of NATO, will intensify terrorist activities in the front-line and rear areas of Russia",
-      "title_raw": "Марочко назвал Хмару пешкой в руках Запада",
-      "lead_raw": "Военный эксперт допустил, что новый врио главы Минобороны Украины, возглавлявший до этого СБУ, при поддержке НАТО усилит террористическую деятельность в прифронтовых и тыловых районах России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bfd4ad31d1f3a1d5907a57db595522e4c45f256e",
-      "fingerprint": "4e0f9d79dc2b16438ddf3445b40af4b602c2c3d6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2162003",
-      "published_utc": "2026-07-18T14:58:37Z",
-      "title_en": "Hungary hopes to avoid US sanctions against Russian oil, gas buyers",
-      "lead_en": "Marton Hajdu, Chairman of the Hungarian Parliament’s Foreign Affairs Committee, revealed that he discussed this pressing issue with colleagues in the US Congress during a recent visit to Washington",
-      "title_raw": "Hungary hopes to avoid US sanctions against Russian oil, gas buyers",
-      "lead_raw": "Marton Hajdu, Chairman of the Hungarian Parliament’s Foreign Affairs Committee, revealed that he discussed this pressing issue with colleagues in the US Congress during a recent visit to Washington",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2d058c5f8e6c97e5386dc88743fc7ab7749e1746",
-      "fingerprint": "9a528fca7e58c84b998140483568f8c3433d8d55",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2162001",
-      "published_utc": "2026-07-18T14:43:08Z",
-      "title_en": "Russia is becoming priority for Mossad, experts say",
-      "lead_en": "According to analysts, a Russian-speaking Mossad director Roman Hoffman offers a distinctive advantage in operations across the post-Soviet space",
-      "title_raw": "Russia is becoming priority for Mossad, experts say",
-      "lead_raw": "According to analysts, a Russian-speaking Mossad director Roman Hoffman offers a distinctive advantage in operations across the post-Soviet space",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a182f7a10a15d68b20d1cac0ebd7e04c671878f9",
-      "fingerprint": "59553d074bff7d87dc545dc008f4311948502d23",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27929879",
-      "published_utc": "2026-07-18T14:34:30Z",
-      "title_en": "Hungary expects to avoid US sanctions against buyers of oil and gas from the Russian Federation",
-      "lead_en": "The bill provides for the possibility of exceptions from sanctions if this is in the interests of the national security of the United States, said Marton Hajdu, Chairman of the Foreign Affairs Committee of the Parliament of the Republic",
-      "title_raw": "Венгрия рассчитывает избежать санкций США против покупателей нефти и газа у РФ",
-      "lead_raw": "Законопроект предусматривает возможность исключения из санкций, если это будет отвечать интересам нацбезопасности Соединенных Штатов, сообщил председатель комитета по иностранным делам парламента республики Мартон Хайду",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
