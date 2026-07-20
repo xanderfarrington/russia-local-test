@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-20T00:05:25Z",
+  "updated_at_utc": "2026-07-20T04:37:46Z",
   "topic": "energy",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "28ae8067b185adbd93ec1e7869d6deb9266d544d",
+      "fingerprint": "dff5dce54d63c3f52cdfc4c1cc3068e123c41688",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2162335",
+      "published_utc": "2026-07-20T03:14:43Z",
+      "title_en": "China's Russian LNG imports rise 27.8% in first half of year",
+      "lead_en": "The value of LNG imports rose by 8.2% to $1.81 bln",
+      "title_raw": "China's Russian LNG imports rise 27.8% in first half of year",
+      "lead_raw": "The value of LNG imports rose by 8.2% to $1.81 bln",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3bac9312a62d485eb666b6ca3d261710b03c1439",
+      "fingerprint": "0f28618f7c222366538fb04e1b118eb7c9188be9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27932245",
+      "published_utc": "2026-07-20T02:56:56Z",
+      "title_en": "China increased oil imports from Russia by 16.7% over six months",
+      "lead_en": "The cost of supplies increased to $33.13 billion",
+      "title_raw": "Китай за полгода нарастил импорт нефти из России на 16,7%",
+      "lead_raw": "Стоимость поставок выросла до $33,13 млрд",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "97521ec331caa277b0a90bde159ef2b74df62b27",
       "fingerprint": "1fcaae56eaf6c1182fadba0ad46b146c7a98e246",
@@ -293,29 +337,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "d329316a85726c1742c988189368759d4606ab8e",
-      "fingerprint": "a45786874303b23baabdeb7f13962b5c0f069b47",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27928813",
-      "published_utc": "2026-07-18T04:16:46Z",
-      "title_en": "Asahi: The Japanese Foreign Ministry plans to resume sending students for internships in the Russian Federation",
-      "lead_en": "At the same time, Tokyo's sanctions against Moscow remain in force, the newspaper reported.",
-      "title_raw": "Asahi: МИД Японии планирует возобновить отправку студентов на стажировку в РФ",
-      "lead_raw": "При этом санкции Токио против Москвы остаются в силе, сообщила газета",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
