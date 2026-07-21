@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-21T16:24:34Z",
+  "updated_at_utc": "2026-07-21T18:16:59Z",
   "topic": "economy",
   "count": 16,
   "articles": [
+    {
+      "id": "1152c1b447e9e179562b1d8dd429578a0d6f0a49",
+      "fingerprint": "78935a07c3ae4c5eaec5a299509b2a6c9ed4b57b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27938461",
+      "published_utc": "2026-07-21T17:52:52Z",
+      "title_en": "The Russian stock market closed with growth in the main indices",
+      "lead_en": "The yuan exchange rate decreased by 4 kopecks to 11.6 rubles",
+      "title_raw": "Российский рынок акций закрылся ростом основных индексов",
+      "lead_raw": "Курс юаня снизился на 4 копейки, до 11,6 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4933ad9036b5ad98feea29a9cb06f3e7377a8da2",
       "fingerprint": "15ad17d5ff0e80f95bd951db30b6d1ecb4606073",
@@ -332,28 +354,6 @@
         "energy": 0,
         "economy": 2,
         "local_events": 1
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f06fbf9b8184a03feac9bb0a55d506fbe5548ba4",
-      "fingerprint": "5b31bfe9c159eb7e35680a8c51480f5df36ad1d7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27931645",
-      "published_utc": "2026-07-19T18:05:50Z",
-      "title_en": "Dmitriev explained the economic collapse of the EU with sanctions against the Russian Federation",
-      "lead_en": "Another reason was uncontrolled migration, says the head of the RDIF",
-      "title_raw": "Дмитриев объяснил экономический коллапс ЕС санкциями против РФ",
-      "lead_raw": "Еще одной причиной стала неконтролируемая миграция, считает глава РФПИ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
       },
       "topics": [
         "economy"
