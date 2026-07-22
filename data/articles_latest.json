@@ -1,18 +1,62 @@
 {
-  "updated_at_utc": "2026-07-21T22:05:50Z",
+  "updated_at_utc": "2026-07-21T23:57:27Z",
   "keep_hours": 48,
-  "count": 553,
+  "count": 563,
   "articles": [
     {
-      "id": "94d127cf18edd23598ede0e702f65c5dbda55b85",
-      "fingerprint": "40876eb215614afaf685f120616b13536652840d",
+      "id": "744e967289fbfd3c8e6b17e16d764bf2fc69652c",
+      "fingerprint": "81ad45e0bf86fabb9f76793d009cc65ea6831baa",
       "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27938801",
-      "published_utc": "2026-07-21T22:01:53Z",
-      "title_en": "Marochko called the release of Volokhovsky a strategic success for the Russian army",
+      "url": "https://tass.ru/ekonomika/27938913",
+      "published_utc": "2026-07-21T23:55:47Z",
+      "title_en": "Japan increased LNG imports from Russia by 52% in June",
       "lead_en": "",
-      "title_raw": "Марочко назвал освобождение Волоховского стратегическим успехом российской армии",
+      "title_raw": "Япония нарастила импорт СПГ из РФ в июне на 52%",
       "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ecf8e2ef21bf241330ad544b561cb5a48f8ea7a5",
+      "fingerprint": "44c81401156997d12531719381ee3220d7a83012",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2163277",
+      "published_utc": "2026-07-21T23:51:19Z",
+      "title_en": "G20, APEC, display huge demand for meetings with Russian Foreign Minister — ambassador",
+      "lead_en": "Marat Berdyev added that there is no isolation of Russia, nor it is foreseen",
+      "title_raw": "G20, APEC, display huge demand for meetings with Russian Foreign Minister — ambassador",
+      "lead_raw": "Marat Berdyev added that there is no isolation of Russia, nor it is foreseen",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4c29cadbbe90844a9d46c430c497da77bcf6f180",
+      "fingerprint": "e75eb6bed3726a8077a7e1dceb28903251135be4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938895",
+      "published_utc": "2026-07-21T23:35:30Z",
+      "title_en": "Lantratova said that Russia and Ukraine are exchanging an equal number of prisoners",
+      "lead_en": "Ombudsmen play the main role in the exchange of civil rights, noted the Commissioner for Human Rights in the Russian Federation",
+      "title_raw": "Лантратова заявила, что Россия и Украина обмениваются равным числом пленных",
+      "lead_raw": "В обмене гражданскими главную роль играют омбудсмены, отметила уполномоченный по правам человека в РФ",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -22,6 +66,285 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "348a78d7cd0617c86b0e6eebb5cfaf28ca9c168b",
+      "fingerprint": "65cf51c411088069c2a7777a1dbd2009f9a4039f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938885",
+      "published_utc": "2026-07-21T23:26:28Z",
+      "title_en": "Rector of Moscow State Pedagogical University: the decree on the special status of teachers will increase the popularity of the profession",
+      "lead_en": "Alexey Lubkov called the decree initiated by the United Russia party a logical continuation of measures to increase the prestige of the teaching profession",
+      "title_raw": "Ректор МПГУ: указ об особом статусе учителя увеличит популярность профессии",
+      "lead_raw": "Алексей Лубков назвал инициированный партией \"Единая Россия\" указ логичным продолжением мер по повышению престижа профессии педагога",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0463a1b7edebf0dfd6288e8a1f9a19641486b6a2",
+      "fingerprint": "3eb5af16eea87fa4d4447caa7cf96b1626204cf3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27938877",
+      "published_utc": "2026-07-21T23:15:37Z",
+      "title_en": "Russian Foreign Ministry: APEC perceives Ukraine as a “suitcase without a handle”",
+      "lead_en": "According to Ambassador-at-Large of the Russian Foreign Ministry Marat Berdyev, at the meetings of the Asia-Pacific Economic Cooperation the Ukrainian topic “faded into oblivion”",
+      "title_raw": "МИД РФ: в АТЭС воспринимают Украину как \"чемодан без ручки\"",
+      "lead_raw": "По словам посла по особым поручениям российского внешнеполитического ведомства Марата Бердыева, на встречах Азиатско-Тихоокеанского экономического сотрудничества украинская тема \"ушла в небытие\"",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "78720fc1fef3c85d1550cd5e208484580bfabd33",
+      "fingerprint": "52500a8d4f37deab58ae5e8163c6b234e4df55dd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27938861",
+      "published_utc": "2026-07-21T23:02:43Z",
+      "title_en": "Marochko: The Russian Armed Forces cleared a vast area near Volokhovsky",
+      "lead_en": "This area was in the gray zone, the military expert noted",
+      "title_raw": "Марочко: ВС РФ зачистили обширную местность у Волоховского",
+      "lead_raw": "Этот участок находился в серой зоне, отметил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e80cdbbbad39fff62e142a52553637e1c41b8f45",
+      "fingerprint": "ceaaefdf29eb3fb28c49dd8152be940b2725812c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27938847",
+      "published_utc": "2026-07-21T23:02:26Z",
+      "title_en": "The Russian Ambassador called Chile's losses large due to the reduction in cooperation with Moscow",
+      "lead_en": "Vladimir Belinsky emphasized that Santiago “continues not only to lose the Russian market,” but also access to modern technologies, which include direct lithium extraction",
+      "title_raw": "Посол РФ назвал большими убытки Чили из-за сокращения сотрудничества с Москвой",
+      "lead_raw": "Владимир Белинский подчеркнул, что Сантьяго \"продолжает не только терять российский рынок\", но и доступ к современным технологиям, в которые входит прямое извлечение лития",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7189d2bcd6a0d299682491a0e31e06970f504552",
+      "fingerprint": "f601bd130a3d7f47473de145e2728ad2c8d80dfd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938857",
+      "published_utc": "2026-07-21T22:57:51Z",
+      "title_en": "An archive of poems and songs by SVO participants has begun to be formed in Russia",
+      "lead_en": "This is being done by the National Center for Historical Memory, said Governor of the Jewish Autonomous Region Maria Kostyuk.",
+      "title_raw": "В России начали формировать архив стихов и песен участников СВО",
+      "lead_raw": "Этим занимается Национальный центр исторической памяти, уточнила губернатор ЕАО Мария Костюк",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ee71fa2013e1e058ec610f02d84b00826e6f37ce",
+      "fingerprint": "ab44ecf49a14eff1b38234bc399bd4bd933e6bf7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27938841",
+      "published_utc": "2026-07-21T22:45:31Z",
+      "title_en": "The Russian Foreign Ministry called the request for meetings with Lavrov at the G20 and APEC huge",
+      "lead_en": "“There has never been a shortage of people willing to communicate” with representatives of the Russian diplomatic service, noted Ambassador-at-Large Marat Berdyev",
+      "title_raw": "В МИД РФ назвали огромным запрос на встречи с Лавровым в \"двадцатке\" и АТЭС",
+      "lead_raw": "\"Недостатка в желающих пообщаться\" с представителями российского дипведомства никогда не было, отметил посол по особым поручениям Марат Бердыев",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d2a5ad9b31c384bacb0295bd9c66e9373a902ac4",
+      "fingerprint": "26a0087b47c7a0a5dc8f4c5664eda08134f52ed6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27938839",
+      "published_utc": "2026-07-21T22:42:57Z",
+      "title_en": "In Novorossiysk, a threat of drone attack was announced",
+      "lead_en": "This was reported by the mayor of the city Andrey Kravchenko",
+      "title_raw": "В Новороссийске объявляли угрозу атаки беспилотников",
+      "lead_raw": "Об этом сообщал мэр города Андрей Кравченко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f3a7096e4c528987d21c7ff5d06f632c0b4d7563",
+      "fingerprint": "f83703346eadb632ea53b881c438e4051bb1ab54",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938833",
+      "published_utc": "2026-07-21T22:25:55Z",
+      "title_en": "Lantratova: The Ukrainian Armed Forces have chosen the tactic of daily attacks on civilians",
+      "lead_en": "The Commissioner for Human Rights in the Russian Federation recalled the attack on a bus with Belarusian children who were going on vacation to Gelendzhik",
+      "title_raw": "Лантратова: ВСУ избрали тактику ежедневных атак на мирных граждан",
+      "lead_raw": "Уполномоченный по правам человека в РФ напомнила про атаку на автобус с белорусскими детьми, которые ехали на отдых в Геленджик",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2815c4b17e2cebcd2c32db5ae15e63af4c3893f4",
+      "fingerprint": "abfef130aa82ebb054d27512b84e21ba3c9853f8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2163267",
+      "published_utc": "2026-07-21T22:24:07Z",
+      "title_en": "US signaling desire to see Putin at G20 summit in Miami — Russian MFA",
+      "lead_en": "Ambassador-at-Large Marat Berdyev says US President Donald Trump has repeatedly noted that Russian president's participation would be useful, the American sherpa's team is sending \"a similar signal\"",
+      "title_raw": "US signaling desire to see Putin at G20 summit in Miami — Russian MFA",
+      "lead_raw": "Ambassador-at-Large Marat Berdyev says US President Donald Trump has repeatedly noted that Russian president's participation would be useful, the American sherpa's team is sending \"a similar signal\"",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3cf86335cdc8435577dc12e4d89df49ca9fbdf30",
+      "fingerprint": "f099a792452499be3b924b1ff4bb261d267b1d5d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27938821",
+      "published_utc": "2026-07-21T22:20:08Z",
+      "title_en": "Miroshnik named the reason for the resignations of the commander in chief of the Armed Forces of Ukraine and the head of the Ministry of Defense of Ukraine",
+      "lead_en": "They are connected with external influence groups, said the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник назвал причину отставок главкома ВСУ и главы Минобороны Украины",
+      "lead_raw": "Они связаны с внешними группами влияния, сообщил посол по особым поручениям МИД РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "db7621ee3cdd10bed8f22080b458d3afe5f6ed14",
+      "fingerprint": "929c7bb1aee0bb45dc4097fb7bb2c5921613379f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938819",
+      "published_utc": "2026-07-21T22:18:28Z",
+      "title_en": "The State Duma said when Russians will have a six-day working week",
+      "lead_en": "The next one will be in February 2027",
+      "title_raw": "В ГД рассказали, когда россиян ждет шестидневная рабочая неделя",
+      "lead_raw": "Следующая такая будет в феврале 2027 года",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "87adb9a1366b41ed95aeb8fb2b5f1d6a8ec766b0",
+      "fingerprint": "348f4e9bcd11539052655d92dfda66d5b0558855",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27938813",
+      "published_utc": "2026-07-21T22:17:26Z",
+      "title_en": "The audience share of the World Cup final reached almost 50%",
+      "lead_en": "This is a record on sports TV in Russia. noted the General Director of Gazprom-Media Holding Alexander Zharov",
+      "title_raw": "Доля аудитории финала ЧМ достигла почти 50%",
+      "lead_raw": "Это рекорд на спортивном ТВ России. отметил генеральный директор \"Газпром-медиа холдинга\" Александр Жаров",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "94d127cf18edd23598ede0e702f65c5dbda55b85",
+      "fingerprint": "40876eb215614afaf685f120616b13536652840d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27938801",
+      "published_utc": "2026-07-21T22:01:53Z",
+      "title_en": "Marochko called the release of Volokhovsky a strategic success for the Russian army",
+      "lead_en": "The Russian Armed Forces are beginning to form a serious springboard for further advancement, a military expert noted",
+      "title_raw": "Марочко назвал освобождение Волоховского стратегическим успехом российской армии",
+      "lead_raw": "ВС РФ начинают формировать серьезный плацдарм для дальнейшего продвижения, отметил военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "d85de8f25423415b65c87b3c21acdbf48ffd127b",
@@ -11473,112 +11796,6 @@
       "lead_en": "The work involves the creation and implementation of health programs",
       "title_raw": "В России займутся формированием здоровьесберегающей среды",
       "lead_raw": "Работа предусматривает создание и реализацию программ охраны здоровья",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "71a4eed343c11d0d231fd71c4f8553cfe214a91a",
-      "fingerprint": "85354c9a7412e050c5122f4c2c56e0866e5afcfb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27931943",
-      "published_utc": "2026-07-19T22:57:55Z",
-      "title_en": "FT: EU countries are increasingly less willing to support anti-Russian sanctions",
-      "lead_en": "According to the publication, the governments of the association states are afraid that new restrictions could harm their leading companies",
-      "title_raw": "FT: страны ЕС все менее охотно поддерживают антироссийские санкции",
-      "lead_raw": "По информации издания, правительства государств объединения боятся, что новые рестрикции могут нанести ущерб их ведущим компаниям",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0ac632f2e9b5cf5429d8542c7a76d62f53b3c6e1",
-      "fingerprint": "e2da63cb0ddc030eff1f20913c77b70044d417ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2162299",
-      "published_utc": "2026-07-19T22:55:33Z",
-      "title_en": "Over 30 countries confirm participation in Russia-Africa Summit — Russian Foreign Ministry",
-      "lead_en": "Department Director Anatoly Bashkin says the number of countries expressing their readiness to attend the summit is rising \"each day\"",
-      "title_raw": "Over 30 countries confirm participation in Russia-Africa Summit — Russian Foreign Ministry",
-      "lead_raw": "Department Director Anatoly Bashkin says the number of countries expressing their readiness to attend the summit is rising \"each day\"",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fa922922264eb5a7236a3786de461459f33314de",
-      "fingerprint": "a6e2e4acc8df5fade86ac6afc9bfafc0db275f81",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27931933",
-      "published_utc": "2026-07-19T22:54:58Z",
-      "title_en": "The Times: Germany is leaning toward starting negotiations with Russia",
-      "lead_en": "The former head of the department of the German Chancellor Ronald Pofalla could become a mediator between Moscow and Berlin",
-      "title_raw": "The Times: в Германии склоняются в сторону начала переговоров с Россией",
-      "lead_raw": "Посредником между Москвой и Берлином может стать экс-глава ведомства канцлера ФРГ Рональд Пофалла",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "abb36f1f7fc4ab9cbbcc30b5132db3b7a17ce8f8",
-      "fingerprint": "2c2a17679f9c2e7a222945583ea6ed5d2d593afa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27931907",
-      "published_utc": "2026-07-19T22:30:55Z",
-      "title_en": "The Russian Foreign Ministry said that more than 30 countries will take part in the Russia-Africa summit",
-      "lead_en": "Moscow also expects written confirmation from Chad of the participation of President Mahamat Idriss Deby Itno, said the director of the Department of African States Anatoly Bashkin",
-      "title_raw": "В МИД РФ заявили, что более 30 стран примут участие в саммите Россия - Африка",
-      "lead_raw": "Москва также ожидает от Чада письменного подтверждения участия президента Махамата Идрисса Деби Итно, заявил директор департамента государств Африки Анатолий Башкин",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7f3cdcf1d18c0ef31048105dd33a80a6af6f9afe",
-      "fingerprint": "4b0a032e6e7b568a10882b9cb3f99e0795823c30",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27931867",
-      "published_utc": "2026-07-19T22:10:26Z",
-      "title_en": "In subsequent years, the Unified State Examination will begin no earlier than June 1",
-      "lead_en": "The head of Rosobrnadzor Anzor Muzaev announced the existence of a corresponding order of the President of Russia",
-      "title_raw": "В последующие годы ЕГЭ будет начинаться не ранее 1 июня",
-      "lead_raw": "Руководитель Рособрнадзора Анзор Музаев сообщил о существовании соответствующего распоряжения президента России",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
