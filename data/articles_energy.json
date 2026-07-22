@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-07-22T18:09:55Z",
+  "updated_at_utc": "2026-07-22T20:12:28Z",
   "topic": "energy",
-  "count": 55,
+  "count": 57,
   "articles": [
+    {
+      "id": "3cc6b08e0ce383a59c22b5a8c645d8238fbad506",
+      "fingerprint": "345b62705da1fac438d411d84d4b2d13374467a6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2163817",
+      "published_utc": "2026-07-22T19:43:03Z",
+      "title_en": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_en": "According to earlier reports by Politico and Bloomberg, the proposed LNG transportation ban is being blocked by Greece, which fears that its shipping companies may suffer serious losses as a result",
+      "title_raw": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_raw": "According to earlier reports by Politico and Bloomberg, the proposed LNG transportation ban is being blocked by Greece, which fears that its shipping companies may suffer serious losses as a result",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "69fa7b81c438a960503194863234f6945d0875cd",
+      "fingerprint": "a8dfa33dba4489f3295f00fcad1440ca2f83a842",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27942507",
+      "published_utc": "2026-07-22T19:38:06Z",
+      "title_en": "Dmitriev linked the rise in gas prices in Europe with the refusal of supplies from the Russian Federation",
+      "lead_en": "According to the head of the RDIF, a “tsunami in the form of an energy crisis” is approaching the European Union",
+      "title_raw": "Дмитриев увязал подорожание газа в Европе с отказом от поставок из РФ",
+      "lead_raw": "По словам главы РФПИ, на Евросоюз надвигается \"цунами в виде энергетического кризиса\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3becdbdbc28e1a0a5504ea688211206dfb5f40a5",
+      "fingerprint": "30acb11c890374c7af41ff5f905dcacae7cd00c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27942435",
+      "published_utc": "2026-07-22T18:36:13Z",
+      "title_en": "US Permanent Representative to the UN threatened Nicaragua with an energy crisis, like in Cuba",
+      "lead_en": "According to Mike Waltz, the crisis will be caused by problems with energy supplies from Russia and Venezuela",
+      "title_raw": "Постпред США при ОНН пригрозил Никарагуа кризисом в энергетике, как на Кубе",
+      "lead_raw": "По оценке Майка Уолтца, кризис будет вызван проблемами с поставками энергоносителей из России и Венесуэлы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2d07d5a3a83b91104d31483f3a676225325e789d",
+      "fingerprint": "9d5f8050a940ca56f11c32e388d3926a84334566",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2163809",
+      "published_utc": "2026-07-22T18:11:01Z",
+      "title_en": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_en": "The European commission earlier proposed to ambassadors a draft version of its sanctions package with softer restrictions on Russian LNG transportation to third countries by European tankers",
+      "title_raw": "EU ambassadors fail to agree on 21st package of anti-Russian sanctions — source",
+      "lead_raw": "The European commission earlier proposed to ambassadors a draft version of its sanctions package with softer restrictions on Russian LNG transportation to third countries by European tankers",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "dc255adcd9b05b5992b0f7224d374459561fd1ab",
       "fingerprint": "814e9b414948998853d057a39c2832e59a75feb8",
@@ -1192,51 +1282,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "45ed5de5a3f74d04e28a91b3d4af7e671121a396",
-      "fingerprint": "d565b937044ebb3b4aadf3ae14dc87013a6ac6ee",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/20/how-drones-came-to-decide-the-war-in-ukraine-and-why-no-army-has-found-the-weapon-that-stops-them",
-      "published_utc": "2026-07-20T18:58:00Z",
-      "title_en": "How drones came to decide the war in Ukraine, and why no army has found the weapon that stops them",
-      "lead_en": "Ukrainian strikes on Russian oil refineries and transport well behind the front lines — a hundred kilometers away or more — have forced Russia’s Defense Ministry to launch an overhaul of the country’s air defenses. Defense Minister Andrei Belousov has promised that by November, Russia will complete a new integrated, layered air defense system capable of countering drones across the country’s entire territory, from the front lines to the deep rear.",
-      "title_raw": "How drones came to decide the war in Ukraine, and why no army has found the weapon that stops them",
-      "lead_raw": "Ukrainian strikes on Russian oil refineries and transport well behind the front lines — a hundred kilometers away or more — have forced Russia’s Defense Ministry to launch an overhaul of the country’s air defenses. Defense Minister Andrei Belousov has promised that by November, Russia will complete a new integrated, layered air defense system capable of countering drones across the country’s entire territory, from the front lines to the deep rear.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0f42e1cd7ec5783963fe6026bbc938ef3a196313",
-      "fingerprint": "b845d8a3161cc13f870a00e9f3ec7d7d6c0710ec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27935013",
-      "published_utc": "2026-07-20T18:13:48Z",
-      "title_en": "Serbijagaz has revealed how long gas supplies from the Russian Federation will not be threatened",
-      "lead_en": "Company director Dusan Bajatovic said that this period is at least until the beginning of 2028",
-      "title_raw": "\"Сербиягаз\" раскрыла, до каких пор поставкам газа из РФ ничего не будет угрожать",
-      "lead_raw": "Директор компании Душан Баятович сообщил, что этот срок составляет как минимум до начала 2028 года",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
