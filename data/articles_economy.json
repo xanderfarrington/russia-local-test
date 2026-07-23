@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-23T07:34:38Z",
+  "updated_at_utc": "2026-07-23T10:26:06Z",
   "topic": "economy",
   "count": 20,
   "articles": [
+    {
+      "id": "069d6c2ccade13af295970e552c9d4ebcf9aa518",
+      "fingerprint": "fb3c9ae8a40c548fb74db4faf8c896287cd7bae2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27944483",
+      "published_utc": "2026-07-23T09:50:21Z",
+      "title_en": "The EU included refineries in Russia and Belarus in the 21st package of sanctions against the Russian Federation",
+      "lead_en": "Banks and crypto exchange operators were also subject to restrictions.",
+      "title_raw": "ЕС включил в 21-й пакет санкций против РФ НПЗ в России и Белоруссии",
+      "lead_raw": "Под ограничения также подпали банки, операторы криптобирж",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "0f8a74183dba0517c1729bc7a0a2dc3fae9fef70",
       "fingerprint": "059d0bfd6f6c3f40c49d5e7a58dec5e2a184f583",
@@ -429,28 +451,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b04f1a44cbcdc4d3303af95ab2ff4f1dc9c9a339",
-      "fingerprint": "b7b9cb7f93f4efad761956fab527ec972d171a7a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27936503",
-      "published_utc": "2026-07-21T08:05:46Z",
-      "title_en": "Armenian fish farmers protest outside the government building due to the closure of the Russian market",
-      "lead_en": "Representatives of fish farms demand exports to Europe",
-      "title_raw": "Рыбоводы Армении протестуют у здания правительства из-за закрытия рынка РФ",
-      "lead_raw": "Представители рыбоводческих хозяйств требуют наладить экспорт в Европу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
