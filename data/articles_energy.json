@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-23T00:02:42Z",
+  "updated_at_utc": "2026-07-23T04:17:14Z",
   "topic": "energy",
   "count": 55,
   "articles": [
+    {
+      "id": "de109dea8bfbe89c2e6fde6e43ce06f3b1ec58fe",
+      "fingerprint": "8a45685f3c14a16ac79761c8cae04b056f5591b6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27943075",
+      "published_utc": "2026-07-23T03:34:01Z",
+      "title_en": "TASS: The Ukrainian Armed Forces are increasing their force in the Chernihiv region",
+      "lead_en": "Russian law enforcement agencies noted that the region continues to experience problems with energy supply",
+      "title_raw": "ТАСС: ВСУ наращивают группировку в Черниговской области",
+      "lead_raw": "В российских силовых структурах отметили, что регион продолжает испытывать проблемы с энергоснабжением",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ae7ccfb11d484513781c619f729225832acacc03",
       "fingerprint": "8de05cda281a68a25ea9550e404d12d5cb3ed5e4",
@@ -1212,30 +1234,6 @@
         "military": 1,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "928616254324323effcb07eaf066ec0099ae2273",
-      "fingerprint": "0b6faa5c6ccc9eee8c29123b19a15ead86ee0ae9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27935907",
-      "published_utc": "2026-07-21T04:02:51Z",
-      "title_en": "Crimea, Zaporozhye and Kherson were affected by massive power outages due to strikes by the Ukrainian Armed Forces",
-      "lead_en": "Ukrainian troops intensified attacks on energy facilities this week, noted Ambassador-at-Large of the Russian Foreign Ministry Rodion Miroshnik",
-      "title_raw": "Крым, Запорожье и Херсон затронули массовые отключения света от ударов ВСУ",
-      "lead_raw": "Украинские войска на неделе усилили удары по объектам энергетики, отметил посол по особым поручениям МИД России Родион Мирошник",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
