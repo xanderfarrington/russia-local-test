@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-07-23T19:23:25Z",
+  "updated_at_utc": "2026-07-23T21:07:40Z",
   "topic": "energy",
-  "count": 57,
+  "count": 58,
   "articles": [
+    {
+      "id": "9e4a2dedda07c5bbbfcf52eded0bdcc535a633ef",
+      "fingerprint": "503740ed4e3167a1d96a46819ae12378549184c1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27946221",
+      "published_utc": "2026-07-23T19:46:42Z",
+      "title_en": "Latvia has banned the import of books, newspapers, video games, toys from Russia",
+      "lead_en": "At the same time, transit through the territory of the republic to other EU member states will not be limited.",
+      "title_raw": "Латвия запретила импорт книг, газет, видеоигр, игрушек из России",
+      "lead_raw": "При этом транзит через территорию республики в другие государства - члены ЕС ограничиваться не будет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c34d752cd683c278d959c096389fdf953e947df1",
+      "fingerprint": "fd4c566fac83dfde3e4d592cd483ae0f6dc14268",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2164415",
+      "published_utc": "2026-07-23T19:45:29Z",
+      "title_en": "Humanity in for all-time high oil prices — Dmitriev",
+      "lead_en": "The energy crisis tsunami is coming, Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries said",
+      "title_raw": "Humanity in for all-time high oil prices — Dmitriev",
+      "lead_raw": "The energy crisis tsunami is coming, Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "514dc765e3c922d9c843b38711b33c24ae068722",
       "fingerprint": "c79d4d0a7001b85efc0f08dd9a91a388ad55e691",
@@ -1256,29 +1301,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "435cdad05ffec96aac71ab41f2141df7168cbc9b",
-      "fingerprint": "028c4c3178e7bd08e78592d455d6d68d06f4dd86",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27938695",
-      "published_utc": "2026-07-21T20:33:16Z",
-      "title_en": "The Russian Armed Forces hit a gas processing plant in the Kharkov region",
-      "lead_en": "The equipment is out of order, the Russian Ministry of Defense said.",
-      "title_raw": "ВС РФ ударили по газоперерабатывающей установке в Харьковской области",
-      "lead_raw": "Оборудование выведено из строя, заявили в Минобороны РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
