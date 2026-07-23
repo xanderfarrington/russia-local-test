@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-23T15:11:21Z",
+  "updated_at_utc": "2026-07-23T17:26:15Z",
   "topic": "energy",
   "count": 55,
   "articles": [
+    {
+      "id": "513ec4b91f6b9238c7c229f32e6b4b88c8347ccc",
+      "fingerprint": "1284cfc8e088f9f587494563745981d8226f55bb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27945981",
+      "published_utc": "2026-07-23T17:12:24Z",
+      "title_en": "The EU froze the “price ceiling” for Russian oil at $44 per barrel for a year",
+      "lead_en": "A statement from the Council of the European Union claims that this \"will help reduce Russia's revenues\" from rising energy prices due to the US war against Iran.",
+      "title_raw": "ЕС на год заморозил \"потолок цен\" на нефть РФ на уровне $44 за баррель",
+      "lead_raw": "В заявлении Совета Евросоюза утверждается, что это \"поможет снизить доходы России\" от роста цен на энергоноситель из-за войны США против Ирана",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "265205619b6193ffbe1cdaa6a27984ccc5d03523",
+      "fingerprint": "526d34ae28c993322affe008a88ed133fb919e68",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27945997",
+      "published_utc": "2026-07-23T17:02:37Z",
+      "title_en": "The EU failed to include a ban on the transportation of Russian LNG in the 21st package of sanctions",
+      "lead_en": "The EC also introduced a requirement for European companies to notify Brussels of any sales of LNG tankers to Russia.",
+      "title_raw": "ЕС не смог включить в 21-й пакет санкций запрет на перевозку российского СПГ",
+      "lead_raw": "Также ЕК ввела требование для европейских компаний уведомлять Брюссель о любых продажах СПГ-танкеров России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7b3dfcc834312dfab19d1fe77f8425e2f3a6b9fa",
+      "fingerprint": "68c1ee6166cf5f16dd5926ec5a68b7c8edf34904",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27945719",
+      "published_utc": "2026-07-23T15:19:12Z",
+      "title_en": "The Russian Armed Forces hit the fuel unloading infrastructure in the port of Yuzhny",
+      "lead_en": "The military used precision weapons for the strikes, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили инфраструктуру для разгрузки топлива в порту Южный",
+      "lead_raw": "Для ударов военные использовали высокоточное оружие, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "846f8caaf969c82b2e39e0000c01bdd0e29ffa42",
       "fingerprint": "95f98c36132317c45840468394eccadafda1ecff",
@@ -1160,73 +1227,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8c685ff49bdecdae74e40ea6dff386155ce8c9c2",
-      "fingerprint": "fc2ae0e7e8b721ac2f70f19be7dd9da667846e90",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2163171",
-      "published_utc": "2026-07-21T15:38:32Z",
-      "title_en": "Russian fencers set for World Championships in Hong Kong, marking end of neutral era",
-      "lead_en": "More than 1,000 athletes from over 200 countries will compete in foil, epee and saber events at the AsiaWorld-Expo exhibition center",
-      "title_raw": "Russian fencers set for World Championships in Hong Kong, marking end of neutral era",
-      "lead_raw": "More than 1,000 athletes from over 200 countries will compete in foil, epee and saber events at the AsiaWorld-Expo exhibition center",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4933ad9036b5ad98feea29a9cb06f3e7377a8da2",
-      "fingerprint": "15ad17d5ff0e80f95bd951db30b6d1ecb4606073",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/21/russia-s-state-duma-passes-law-extending-fuel-price-dampener-to-diesel-imports-subsidizing-importers-to-keep-prices-in-check",
-      "published_utc": "2026-07-21T15:26:37Z",
-      "title_en": "Russia’s State Duma passes law extending fuel price dampener to diesel imports, subsidizing importers to keep prices in check",
-      "lead_en": "Russia’s State Duma passed a law in its second and third readings extending the fuel price dampener mechanism to diesel imports. Oil companies will receive federal budget compensation for the gap between export prices and domestic market prices — a mechanism previously adopted for gasoline imports.",
-      "title_raw": "Russia’s State Duma passes law extending fuel price dampener to diesel imports, subsidizing importers to keep prices in check",
-      "lead_raw": "Russia’s State Duma passed a law in its second and third readings extending the fuel price dampener mechanism to diesel imports. Oil companies will receive federal budget compensation for the gap between export prices and domestic market prices — a mechanism previously adopted for gasoline imports.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1b0f2ce2bc78d8a742bb8f831c514eaa71203a0a",
-      "fingerprint": "74bd9cc2ffb0cf3efddc55819ea9ebecc0613387",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/21/russian-government-says-fuel-market-is-partially-stabilizing-with-gas-station-lines-easing",
-      "published_utc": "2026-07-21T15:18:58Z",
-      "title_en": "Russian government says fuel market is ‘partially stabilizing,’ with gas station lines easing",
-      "lead_en": "Russian Deputy Prime Minister Alexander Novak said government measures have partially stabilized the fuel market.",
-      "title_raw": "Russian government says fuel market is ‘partially stabilizing,’ with gas station lines easing",
-      "lead_raw": "Russian Deputy Prime Minister Alexander Novak said government measures have partially stabilized the fuel market.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 1,
         "local_events": 0
       },
