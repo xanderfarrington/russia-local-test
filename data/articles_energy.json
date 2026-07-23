@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-07-22T22:06:30Z",
+  "updated_at_utc": "2026-07-23T00:02:42Z",
   "topic": "energy",
   "count": 55,
   "articles": [
+    {
+      "id": "ae7ccfb11d484513781c619f729225832acacc03",
+      "fingerprint": "8de05cda281a68a25ea9550e404d12d5cb3ed5e4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2163863",
+      "published_utc": "2026-07-22T23:40:59Z",
+      "title_en": "EU may allow Greece to continue transporting Russian LNG — FT",
+      "lead_en": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
+      "title_raw": "EU may allow Greece to continue transporting Russian LNG — FT",
+      "lead_raw": "According to sources cited by the newspaper, the agreement will allow companies to continue transporting Russian LNG to third countries for 12 months with the possibility of extension, while volumes will be capped at 2025 levels",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "528deb69087afabaa46a264c76bc70787b1389a8",
+      "fingerprint": "3de63efe1c31e05e76ddb1e5f9d5f3f79ee7136e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27942657",
+      "published_utc": "2026-07-22T22:13:14Z",
+      "title_en": "FT: EU may allow Greece to continue transporting Russian LNG",
+      "lead_en": "The agreement will allow companies to continue transporting liquefied natural gas to third countries for 12 months, with the possibility of extension",
+      "title_raw": "FT: ЕС может разрешить Греции продолжать перевозить российский СПГ",
+      "lead_raw": "Соглашение позволит компаниям продолжать транспортировку сжиженного природного газа в третьи страны в течение 12 месяцев с возможностью продления",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3cc6b08e0ce383a59c22b5a8c645d8238fbad506",
       "fingerprint": "345b62705da1fac438d411d84d4b2d13374467a6",
@@ -1198,52 +1244,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0db2fa1fb1d16e50fcffc58e0b57dd5b9e0d28fd",
-      "fingerprint": "1623f720b57002645da541addef9bcbc7e37d2f7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2162785",
-      "published_utc": "2026-07-20T23:44:11Z",
-      "title_en": "Russian envoy says Coalition of Willing exercises in Poland will be symbolic show",
-      "lead_en": "Andrey Kelin also claimed that he does not think the upcoming military drills will turn into anything large-scale",
-      "title_raw": "Russian envoy says Coalition of Willing exercises in Poland will be symbolic show",
-      "lead_raw": "Andrey Kelin also claimed that he does not think the upcoming military drills will turn into anything large-scale",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6d64a94b9b897b3b697ee22bb0620169aefa5e0a",
-      "fingerprint": "e1bd6b70582ed95c2411232f9eb76121fcc51ec5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27935375",
-      "published_utc": "2026-07-20T22:37:59Z",
-      "title_en": "Russia will create AI to manage groups of robots",
-      "lead_en": "The Industrial Artificial Intelligence Laboratory will make it possible to clearly distribute tasks between robots and can become a potential partner for oil and gas, energy, metallurgical, chemical, engineering and mining enterprises",
-      "title_raw": "В России займутся созданием ИИ для управления группами роботов",
-      "lead_raw": "Лаборатория индустриального искусственного интеллекта позволит четко распределять задачи между роботами и может стать потенциальным партнером нефтегазовых, энергетических, металлургических, химических, машиностроительных и горнодобывающих предприятий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
