@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-07-24T00:06:33Z",
+  "updated_at_utc": "2026-07-24T04:18:04Z",
   "topic": "energy",
-  "count": 61,
+  "count": 60,
   "articles": [
+    {
+      "id": "6987df13ba5d339952d9c19f1107598c0ac8262d",
+      "fingerprint": "1aed77ccd6af104bc553fd195c722b727d8f1e2f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2164471",
+      "published_utc": "2026-07-24T00:10:00Z",
+      "title_en": "EU blacklists businessman Mikhail Gutseriyev, Russian energy companies",
+      "lead_en": "Other blacklisted companies include Slavneft-affiliated Baikit Oil and Gas Exploration Expedition, Slavneft-Nizhnevartovsk, Obneftegazgeologiya and Tatneft-Samara",
+      "title_raw": "EU blacklists businessman Mikhail Gutseriyev, Russian energy companies",
+      "lead_raw": "Other blacklisted companies include Slavneft-affiliated Baikit Oil and Gas Exploration Expedition, Slavneft-Nizhnevartovsk, Obneftegazgeologiya and Tatneft-Samara",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ed3dcd1ba8aacfa040f1372e832219d2a460c897",
       "fingerprint": "f3bed137ddf6398dfae90b743e48724c4d84140b",
@@ -1323,50 +1345,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "409ccd730793189e9e87bef24919ccc6528b1502",
-      "fingerprint": "224808e551c829eb515076a65ff51545e2aaf5b8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27939067",
-      "published_utc": "2026-07-22T01:35:44Z",
-      "title_en": "Gazmanov believes that the Russian Federation can present new artists at Intervision",
-      "lead_en": "People's Artist of Russia noted that the winner of \"Rodniki. Children\" 2024, Anastasia Ivanova, could represent the country at the competition",
-      "title_raw": "Газманов считает, что РФ на \"Интервидении\" может представить новых артистов",
-      "lead_raw": "Народный артист России отметил, что представить страну на конкурсе могла бы победительница \"Родники. Дети\" 2024 года Анастасия Иванова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d541e89ff0573692b709b8da90cf1f18ba5fc3df",
-      "fingerprint": "eefe11039b8773c70f8fd97780ec921875ebd99e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27939009",
-      "published_utc": "2026-07-22T01:00:49Z",
-      "title_en": "Japan bought 1.5 million barrels of oil from Russia in May-June at an average price of $103",
-      "lead_en": "The largest Japanese oil companies Taiyo Oil, Idemitsu Kosan and ENEOS reported that the decision to purchase Russian oil was made to diversify sources of supply",
-      "title_raw": "Япония в мае-июне купила 1,5 млн баррелей нефти из РФ в среднем по $103",
-      "lead_raw": "Крупнейшие японские нефтяные компании Taiyo Oil, Idemitsu Kosan и ENEOS сообщили, что решение о закупке российской нефти было принято для диверсификации источников поставок",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
