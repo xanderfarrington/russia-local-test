@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-24T16:50:02Z",
+  "updated_at_utc": "2026-07-24T18:21:09Z",
   "topic": "military",
-  "count": 112,
+  "count": 111,
   "articles": [
+    {
+      "id": "4a5c9b50ae4341b7bb67002d5874f4cc534129e9",
+      "fingerprint": "43b8838bf389ba62149edcf77bc1ba8f67dd3811",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2165009",
+      "published_utc": "2026-07-24T17:24:00Z",
+      "title_en": "Russia has no aggressive plans against neighbors, Europe — diplomat",
+      "lead_en": "Sergey Vershinin stressed that it is inadmissible to ensure security at the expense of the security of others",
+      "title_raw": "Russia has no aggressive plans against neighbors, Europe — diplomat",
+      "lead_raw": "Sergey Vershinin stressed that it is inadmissible to ensure security at the expense of the security of others",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fbf0a92514c57401d8cf9e307b6d8d71cc16558d",
+      "fingerprint": "5520233308a4d2ce7f6df0af7c3afa1898498895",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27950411",
+      "published_utc": "2026-07-24T17:14:52Z",
+      "title_en": "“We’re not lowering the temperature!” The Russian Ministry of Defense compared strikes on targets in Ukraine with the summer heat",
+      "lead_en": "The agency published a photo of the rocket launch with the words “Iskander, it’s hot - July”",
+      "title_raw": "\"Градус не снижаем!\". МО РФ сравнило удары по целям на Украине с летней жарой",
+      "lead_raw": "Ведомство опубликовало фотографию пуска ракеты со словами \"Искандер, пошла жара - июль\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9b125f649454c1ed4477f664107e3248b696b69f",
+      "fingerprint": "277c9400856f989c38536fa24a3d72a193952554",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27950005",
+      "published_utc": "2026-07-24T16:50:46Z",
+      "title_en": "A book about USSR assistance to Vietnam in the fight against the USA was presented in Hanoi",
+      "lead_en": "Political scientist and military analyst Colonel Nguyen Minh Tam and linguist, teacher at Moscow State Linguistic University and the Diplomatic Academy of the Russian Foreign Ministry, journalist Hoang Thi Hong Hoa worked on the documentary book",
+      "title_raw": "В Ханое представили книгу о помощи СССР Вьетнаму в борьбе против США",
+      "lead_raw": "Над документальной книгой работали политолог и военный аналитик полковник Нгуен Минь Там и языковед, преподаватель Московского государственного лингвистического университета и Дипломатической академии МИД РФ журналист Хоанг Тхи Хонг Хоа",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3a9ed70b51417f38ad15b1e5b8b91ea8a82b3cc4",
       "fingerprint": "295c1bed65cb096adab6002299835468e337a918",
@@ -2392,94 +2459,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "edbfa2bf1305b1d68c9aba707d785bd0dbb61e3c",
-      "fingerprint": "531f73a86c55cfedd5bf17d8b3ffc1c6932f1c3b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27942393",
-      "published_utc": "2026-07-22T18:04:15Z",
-      "title_en": "Wildberries is doing everything possible for the safety of its employees",
-      "lead_en": "All facilities are protected by the same means of protection as any other industrial facilities in Russia, including air defense forces, said Tatyana Kim",
-      "title_raw": "Wildberries делает все возможное для безопасности своих сотрудников",
-      "lead_raw": "Все объекты защищены теми же средствами защиты, что и любые другие промышленные объекты в России, в том числе силами ПВО, заявила Татьяна Ким",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bdb0a753c9066f28451f55b480f4a7dec1df3628",
-      "fingerprint": "bddec24a8a389fcaf61e2bb5b97aebccbbe6b4ff",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27942295",
-      "published_utc": "2026-07-22T17:16:20Z",
-      "title_en": "80 Ukrainian UAVs shot down over Russian regions",
-      "lead_en": "Air defense forces destroyed the drones between 08:00 and 20:00 Moscow time",
-      "title_raw": "Над регионами России сбили 80 украинских БПЛА",
-      "lead_raw": "Силы ПВО уничтожили дроны в период с 08:00 до 20:00 мск",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "521c5062f2086531f2c0c195a4182db36d64003b",
-      "fingerprint": "63e4087c979239d467e7816210bfb98e25931872",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27942281",
-      "published_utc": "2026-07-22T17:11:01Z",
-      "title_en": "Medvedev called on United Russia to pay attention to the development of military production",
-      "lead_en": "We are also talking about providing participants in a special military operation with the most modern weapons, said the party chairman",
-      "title_raw": "Медведев призвал единороссов уделить внимание развитию военного производства",
-      "lead_raw": "Речь идет также об обеспечении участников специальной военной операции самым современным оружием, заявил председатель партии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5cff5ef321d6bafd95b01c536420334917d2d6a4",
-      "fingerprint": "6ed470e32b297153588379253ae0db1fbe9c6660",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/22/ukraine-s-new-commander-in-chief-mykhailo-drapatyi-draws-reactions-from-kyiv-moscow-and-the-west-including-visible-concern-from-russian-war-bloggers",
-      "published_utc": "2026-07-22T17:08:37Z",
-      "title_en": "Ukraine’s new commander-in-chief, Mykhailo Drapatyi draws reactions from Kyiv, Moscow, and the West — including visible concern from Russian war bloggers",
-      "lead_en": "Mykhailo Drapatyi became commander in chief of Ukraine’s armed forces on the evening of July 21, replacing Oleksandr Syrskyi. The appointment capped a conflict between Syrskyi and Defense Minister Mykhailo Fedorov: Zelensky fired Fedorov, prompting protesters to take to the streets on the ex-minister’s behalf, and Syrskyi’s resignation followed.",
-      "title_raw": "Ukraine’s new commander-in-chief, Mykhailo Drapatyi draws reactions from Kyiv, Moscow, and the West — including visible concern from Russian war bloggers",
-      "lead_raw": "Mykhailo Drapatyi became commander in chief of Ukraine’s armed forces on the evening of July 21, replacing Oleksandr Syrskyi. The appointment capped a conflict between Syrskyi and Defense Minister Mykhailo Fedorov: Zelensky fired Fedorov, prompting protesters to take to the streets on the ex-minister’s behalf, and Syrskyi’s resignation followed.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "military"
