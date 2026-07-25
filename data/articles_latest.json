@@ -1,8 +1,158 @@
 {
-  "updated_at_utc": "2026-07-25T20:56:21Z",
+  "updated_at_utc": "2026-07-25T22:00:46Z",
   "keep_hours": 48,
-  "count": 566,
+  "count": 562,
   "articles": [
+    {
+      "id": "60132f1ed949d37efcbb9a96c741c6e7d58df58e",
+      "fingerprint": "d30a732778f32e7a97f5c578c59dd32af9fe650b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27952925",
+      "published_utc": "2026-07-25T21:59:33Z",
+      "title_en": "In Novorossiysk, a threat of UAV attack was announced",
+      "lead_en": "",
+      "title_raw": "В Новороссийске объявили угрозу атаки БПЛА",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5acae5d2921659f980051d21d7a75dfdb3ea436b",
+      "fingerprint": "2890248db1c4be78cea1167575948da712751e6f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2165367",
+      "published_utc": "2026-07-25T21:42:36Z",
+      "title_en": "Putin congratulates Russians on Navy Day",
+      "lead_en": "The president thanked the navy for its service",
+      "title_raw": "Putin congratulates Russians on Navy Day",
+      "lead_raw": "The president thanked the navy for its service",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2d3377db19ff3f747fb3ac4e2c820e41289397b4",
+      "fingerprint": "888b411edaca893a8abda3a45a19c4c883218883",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27952911",
+      "published_utc": "2026-07-25T21:33:04Z",
+      "title_en": "Belousov congratulated the military personnel on Navy Day",
+      "lead_en": "The Russian Minister of Defense noted the high professionalism and dedication of military sailors, which allow them to effectively solve all assigned tasks, including during the military training",
+      "title_raw": "Белоусов поздравил военнослужащих с Днем ВМФ",
+      "lead_raw": "Министр обороны России отметил высокий профессионализм и самоотверженность военных моряков, которые позволяют эффективно решать все поставленные задачи, в том числе в ходе СВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cede7b8045bd908ea5950db87a9e5f97cac6c020",
+      "fingerprint": "74758c0e869932bb65b2789f3f7678a9606f1c60",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2165361",
+      "published_utc": "2026-07-25T21:23:21Z",
+      "title_en": "Russian Navy develops steadily — Putin",
+      "lead_en": "The Russian president says that the naval component of the country's nuclear triad is gaining strength",
+      "title_raw": "Russian Navy develops steadily — Putin",
+      "lead_raw": "The Russian president says that the naval component of the country's nuclear triad is gaining strength",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2d97ca71c59b911c508d8989530f550c2e77467a",
+      "fingerprint": "295e0ca043bf7c25cc7fae8cb232cab0477f83e9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27952891",
+      "published_utc": "2026-07-25T21:21:41Z",
+      "title_en": "Expert Pataman: the attack on Kirillovka is part of the West’s plan to legalize murders",
+      "lead_en": "The actions of the Kyiv regime are identical to the tactics of Ukraine’s Western allies in other hot spots of the world, noted the head of the secretariat of the regional branch of the international public organization \"World Russian People's Council\" in the Zaporozhye region",
+      "title_raw": "Эксперт Патаман: удар по Кирилловке входит в план Запада по легализации убийств",
+      "lead_raw": "Действия киевского режима идентичны тактике западных союзников Украины в других горячих точках мира, отметил руководитель секретариата регионального отделения международной общественной организации \"Всемирный русский народный собор\" по Запорожской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8b5d63842670838b4bf5b6ab7583cc9ecf146e46",
+      "fingerprint": "785e4994df1a75298b7112d7ad488e6a26832164",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27952873",
+      "published_utc": "2026-07-25T21:01:22Z",
+      "title_en": "Putin congratulated Russians on Navy Day",
+      "lead_en": "The President of Russia thanked the sailors for their service",
+      "title_raw": "Путин поздравил россиян с Днем Военно-морского флота",
+      "lead_raw": "Президент России поблагодарил моряков за службу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ae802c11a7dd4f48128065e4bb1cc87c8bef662e",
+      "fingerprint": "c1ace686d4de2098c39807178a4cdca489d6a33b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27952875",
+      "published_utc": "2026-07-25T21:00:57Z",
+      "title_en": "Putin pointed to the constant development of the Russian naval forces",
+      "lead_en": "The Russian leader noted that the maritime component of the Russian nuclear triad is gaining strength",
+      "title_raw": "Путин указал на постоянное развитие военно-морских сил России",
+      "lead_raw": "Российский лидер отметил, что морская составляющая ядерной триады РФ набирает мощь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5f90a49be4aa1c90172ce3e8f8ab18bea2a8e822",
       "fingerprint": "191cf21a80c78f1d5eb614eacab8bff90ea7b098",
@@ -11576,234 +11726,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8b131b2ba346b8243a69f531a641083d3b361791",
-      "fingerprint": "96a24f526405502439ef731749188b22dbd74600",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27946423",
-      "published_utc": "2026-07-23T21:52:56Z",
-      "title_en": "The European Union included branches of VTB and Sberbank in India in the 21st package of sanctions against the Russian Federation",
-      "lead_en": "The restrictions come into force on August 13, the EU Council said in a statement.",
-      "title_raw": "Евросоюз включил в 21-й пакет санкций против РФ филиалы ВТБ и Сбера в Индии",
-      "lead_raw": "Ограничения вступают в силу с 13 августа, говорится в заявлении Совета ЕС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1d40807ba37b6e65e964b66e03c98d15a9567e32",
-      "fingerprint": "7a7b8cec9dcefcf7d6986301fedc1c23e9bea32d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2164447",
-      "published_utc": "2026-07-23T21:52:31Z",
-      "title_en": "EU slaps several Russian gold mining companies with sanctions",
-      "lead_en": "The blacklist also includes First Diamond Company, a diamond exporting company created in May 2022 by former Alrosa employees",
-      "title_raw": "EU slaps several Russian gold mining companies with sanctions",
-      "lead_raw": "The blacklist also includes First Diamond Company, a diamond exporting company created in May 2022 by former Alrosa employees",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "197bd9fff97c88332964223acf9ad04f2b1b7479",
-      "fingerprint": "95373bf917d01f3e817f9e030d600ed12b3b687f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27946417",
-      "published_utc": "2026-07-23T21:45:03Z",
-      "title_en": "The EU imposed sanctions against drone manufacturers Hortensia and Veterok",
-      "lead_en": "The European Union noted that enterprises provide support to the Russian Armed Forces in the Northern Military District zone",
-      "title_raw": "ЕС ввел санкции против производителей дронов \"Гортензия\" и \"Ветерок\"",
-      "lead_raw": "Евросоюз отметил, что предприятия оказывают поддержку ВС России в зоне СВО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "68b8ef202cc403860c77cf4a6a5f04655282554e",
-      "fingerprint": "27a2dcb56c82027ae64a3030bce5a5c04b6a0485",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2164443",
-      "published_utc": "2026-07-23T21:27:51Z",
-      "title_en": "EU blacklists Inter RAO energy company",
-      "lead_en": "Naming the reasons for sanctioning Inter RAO, EU officials said that it s one of Russia’s largest energy companies with around 19 million consumers, and that it plays a significant role in Russia’s economy",
-      "title_raw": "EU blacklists Inter RAO energy company",
-      "lead_raw": "Naming the reasons for sanctioning Inter RAO, EU officials said that it s one of Russia’s largest energy companies with around 19 million consumers, and that it plays a significant role in Russia’s economy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6e4aaac20c6e19741a2798c2af28ac9bd8ebf967",
-      "fingerprint": "b8d3420cb571db251e0761c27e6052331ffd4605",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643402-germany-gas-russian-imports",
-      "published_utc": "2026-07-23T21:23:32Z",
-      "title_en": "Germany paying five times more for gas after ditching Russian imports – media",
-      "lead_en": "Import gas prices for Germany have gone up by five times since 2020 as it abandoned long-term Russian contracts, Berliner Zeitung has said Read Full Article at RT.com",
-      "title_raw": "Germany paying five times more for gas after ditching Russian imports – media",
-      "lead_raw": "Import gas prices for Germany have gone up by five times since 2020 as it abandoned long-term Russian contracts, Berliner Zeitung has said Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "069fe5d5eab6063ba5008544ef41340c8c21595b",
-      "fingerprint": "5d03bf6534ec7852efaeea527c592fb9717367c5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2164441",
-      "published_utc": "2026-07-23T21:06:00Z",
-      "title_en": "EU blacklist for Russia up to 3,100 individuals, entities after 21st sanctions package",
-      "lead_en": "All the measures introduced take effect immediately upon their publication in the Official Journal of the EU",
-      "title_raw": "EU blacklist for Russia up to 3,100 individuals, entities after 21st sanctions package",
-      "lead_raw": "All the measures introduced take effect immediately upon their publication in the Official Journal of the EU",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "93b880dbedf2ed092d72cfdd97557ba9e96cafc1",
-      "fingerprint": "ee4095c83f6b9354bab4b9a34a154640cbc0af9a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27946297",
-      "published_utc": "2026-07-23T21:05:26Z",
-      "title_en": "The EU imposed sanctions against the former head of the Russian Olympic Committee",
-      "lead_en": "Restrictions were also introduced against the former head of the Russian Olympic Committee Stanislav Pozdnyakov and the president of the Russian Wrestling Federation Mikhail Mamiashvili",
-      "title_raw": "ЕС ввел санкции против экс-главы Олимпийского комитета России",
-      "lead_raw": "Рестрикции также введены против экс-главы Олимпийского комитета РФ Станислава Позднякова и президента Федерации спортивной борьбы России Михаила Мамиашвили",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a391b11fe8ebb1c9def460ecf25868f26b371599",
-      "fingerprint": "47e07e46716ba08e693a4f471ee444435556be55",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27946383",
-      "published_utc": "2026-07-23T21:01:56Z",
-      "title_en": "The Mariinsky Theater will show La Bayadère in honor of prima ballerina Kondaurova",
-      "lead_en": "Honored Artist of Russia will perform the role of Nikiya",
-      "title_raw": "Мариинский театр покажет \"Баядерку\" в честь прима-балерины Кондауровой",
-      "lead_raw": "Заслуженная артистка России исполнит партию Никии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1ae06052f9564c65b56f73c8ac2c78387203dd8a",
-      "fingerprint": "53317c57059d8c52d07258f4531647ace542c962",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27946381",
-      "published_utc": "2026-07-23T21:01:09Z",
-      "title_en": "The Federation Council will hold a meeting concluding the spring session",
-      "lead_en": "The Federation Council will consider laws regulating digital currencies and digital rights, banning migrants with a criminal record from living in the Russian Federation and restrictions for criminals hiding abroad",
-      "title_raw": "Совфед проведет заседание, завершающее весеннюю сессию",
-      "lead_raw": "Совет Федерации рассмотрит законы регулировании цифровых валют и цифровых прав, о запрете на проживание в РФ мигрантам с судимостью и ограничениях для скрывающихся за рубежом преступников",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "73a111d8598b45df9cfff4715463e09e5e76a3d4",
-      "fingerprint": "8a568cc16c17b48269bafc10c7ab5b1388e2a66c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2164439",
-      "published_utc": "2026-07-23T21:01:01Z",
-      "title_en": "EU says imposes sanctions against Russia’s central bank deputy chairman",
-      "lead_en": "Within the Bank of Russia, Sergey Belov oversees the Cash Circulation Department, the Field Institutions Department, the Administrative Department, and the Russian Union of Cash Collection Divisions",
-      "title_raw": "EU says imposes sanctions against Russia’s central bank deputy chairman",
-      "lead_raw": "Within the Bank of Russia, Sergey Belov oversees the Cash Circulation Department, the Field Institutions Department, the Administrative Department, and the Russian Union of Cash Collection Divisions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "955684ed59a7f920f8deb7faa04280993d0b3e11",
-      "fingerprint": "32018a09d2cefe4f5b7d8fb1b5da8a8da0ce2a15",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27943499",
-      "published_utc": "2026-07-23T21:00:01Z",
-      "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "During the day, air defense systems intercepted and destroyed 172 Ukrainian UAVs over the regions of the Russian Federation and the waters of the Azov and Black Seas, the Ministry of Defense reported.",
-      "title_raw": "Военная операция на Украине. Онлайн",
-      "lead_raw": "Средства ПВО в течение дня перехватили и уничтожили над регионами РФ, акваториями Азовского и Черного морей 172 украинских БПЛА, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
         "energy": 0,
         "economy": 0,
         "local_events": 0
