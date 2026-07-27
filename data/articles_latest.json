@@ -1,8 +1,342 @@
 {
-  "updated_at_utc": "2026-07-27T19:39:51Z",
+  "updated_at_utc": "2026-07-27T21:14:41Z",
   "keep_hours": 48,
-  "count": 549,
+  "count": 557,
   "articles": [
+    {
+      "id": "f77eee8e1276ebf0161345cc7fbe4e86207ef65b",
+      "fingerprint": "edb3fa9f8e696f87e168966ede3338f80a15c2f8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27958749",
+      "published_utc": "2026-07-27T21:07:44Z",
+      "title_en": "Ambassador to the Russian Federation: Iran will maintain a special regime for the passage of Russian ships through Hormuz",
+      "lead_en": "",
+      "title_raw": "Посол в РФ: Иран сохранит особый режим прохода российских судов через Ормузский",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5cd95d29a7c236263506776ed3ccfd0799789243",
+      "fingerprint": "e38bb6d6097fd637e957a90a57ff4ce093bdfefa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27958741",
+      "published_utc": "2026-07-27T21:05:33Z",
+      "title_en": "Russia and Indonesia are exploring the possibility of cooperation on rare earth metals",
+      "lead_en": "",
+      "title_raw": "Россия и Индонезия изучают возможность сотрудничества по редкоземельным металлам",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "64a88d5b9a6e89d1b96a95d29e85eaa597474142",
+      "fingerprint": "db14089a01a42e50fc23060696021ffa3090117d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958723",
+      "published_utc": "2026-07-27T21:05:12Z",
+      "title_en": "Minimal incidence of acute hepatitis B recorded in Russia",
+      "lead_en": "Rospotrebnadzor also reported an increase in the number of examinations for hepatitis C",
+      "title_raw": "В России зафиксировали минимальную заболеваемость острым гепатитом B",
+      "lead_raw": "В Роспотребнадзоре также сообщили о росте числа обследований на гепатит С",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2c48b6dfa5df98fdf773d7bf9b44c7ad69423cd6",
+      "fingerprint": "5a19022f387961e210371fc4829bec4cdd28e92a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27958735",
+      "published_utc": "2026-07-27T21:04:32Z",
+      "title_en": "The new season of the Russian Football Cup starts with the “path of the regions” matches",
+      "lead_en": "RPL clubs will enter the fight next week",
+      "title_raw": "Новый сезон Кубка России по футболу стартует матчами \"пути регионов\"",
+      "lead_raw": "Клубы РПЛ вступят в борьбу на следующей неделе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e7295ba435169d0dfa7e994996543d5367584b8a",
+      "fingerprint": "cb6f206188e4a11fbb3edd23b5305f515c0caf63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27955625",
+      "published_utc": "2026-07-27T21:00:01Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "Russia does not yet see realistic proposals for resolving the conflict in Ukraine, and therefore will continue to strive to achieve the goals of the Northern Military District, said the acting. Permanent Representative of the Russian Federation to the UN Anna Evstigneeva",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Россия пока не видит реалистичных предложений по урегулированию конфликта на Украине, в связи с чем продолжит добиваться достижения целей СВО, заявила и.о. постоянного представителя РФ при ООН Анна Евстигнеева",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "945f634eca128909af9c6d45f32fb694bd77e536",
+      "fingerprint": "368908417dadfd2b74aafe6bcfd925b909b88ae6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958717",
+      "published_utc": "2026-07-27T20:58:33Z",
+      "title_en": "The Ukrainian Armed Forces attacked civilians in Konstantinovka with FPV drones during the evacuation",
+      "lead_en": "The Russian Armed Forces immediately provided first aid to the wounded and continued to lead people out of the city.",
+      "title_raw": "ВСУ атаковали мирных жителей Константиновки FPV-дронами при эвакуации",
+      "lead_raw": "Военные ВС РФ сразу же оказали раненым первую медицинскую помощь и продолжили выводить людей из города",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5bab5d57ead056f4d4005654ade1f61e591c34ab",
+      "fingerprint": "abe1eda06134c841d7dc75893bbaad0708252979",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27958711",
+      "published_utc": "2026-07-27T20:54:47Z",
+      "title_en": "Putin and Pashinyan discussed the need to hold a referendum in Armenia",
+      "lead_en": "The President of the Russian Federation and the Armenian Prime Minister also touched upon the topic of bilateral relations",
+      "title_raw": "Путин и Пашинян обсудили необходимость проведения референдума в Армении",
+      "lead_raw": "Президент РФ и армянский премьер-министр также затронули тему двусторонних отношений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f889281a0c99c1821be15863fb3c658e87cf1ecb",
+      "fingerprint": "d8a39788dd3c534d30916ea4a4c82d694dd2bfb7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27958699",
+      "published_utc": "2026-07-27T20:42:24Z",
+      "title_en": "CNN: US believes it's time to end the Ukrainian conflict",
+      "lead_en": "United States President Donald Trump plans to discuss with Vladimir Zelensky “the peace process between Russia and Ukraine,” an American official told the TV channel",
+      "title_raw": "CNN: США считают, что настало время положить конец украинскому конфликту",
+      "lead_raw": "Президент Соединенных Штатов Дональд Трамп планирует обсудить с Владимиром Зеленским \"процесс мирного урегулирования между Россией и Украиной, заявил телеканалу американский чиновник",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d6a1072b476ed859b6e563e26aabfd409e3c3b89",
+      "fingerprint": "5a68a0e8f2c924b58b7347821695337563739e71",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166161",
+      "published_utc": "2026-07-27T20:35:01Z",
+      "title_en": "Kiev’s attacks on ZNPP create risk of major man-made disaster — Russian diplomat",
+      "lead_en": "Anna Yevstigneyeva stressed that the murder of specialists responsible for nuclear and radiation safety and security demonstrates Kiev's intention to disrupt the management of the ZNPP",
+      "title_raw": "Kiev’s attacks on ZNPP create risk of major man-made disaster — Russian diplomat",
+      "lead_raw": "Anna Yevstigneyeva stressed that the murder of specialists responsible for nuclear and radiation safety and security demonstrates Kiev's intention to disrupt the management of the ZNPP",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "98b8ee64c77932fc046932486584a8043ec65791",
+      "fingerprint": "0d8a01389890415d226891d73640be41d6546f3d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166157",
+      "published_utc": "2026-07-27T20:20:01Z",
+      "title_en": "Russia has no doubts that West aids Kiev’s terror attacks — mission to UN",
+      "lead_en": "Acting Russian Permanent Representative to the United Nations Anna Yevstigneyeva reminded the Security Council about the July 13 meeting of the Coalition of the Willing in Paris",
+      "title_raw": "Russia has no doubts that West aids Kiev’s terror attacks — mission to UN",
+      "lead_raw": "Acting Russian Permanent Representative to the United Nations Anna Yevstigneyeva reminded the Security Council about the July 13 meeting of the Coalition of the Willing in Paris",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b2b469d61ba438c500803ccd9cef56dff8da34ef",
+      "fingerprint": "0b04d89898e7ed726dd642671296ad1ef0f1e204",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27958693",
+      "published_utc": "2026-07-27T20:18:20Z",
+      "title_en": "The United States announced clarification of data on some Russian legal entities on sanctions lists",
+      "lead_en": "As noted in a statement by the US Treasury, it “excluded 84 individuals and organizations” from the list of restrictions",
+      "title_raw": "США заявили об уточнении данных о некоторых юрлицах РФ в санкционных списках",
+      "lead_raw": "Как отмечается в заявлении американского Минфина, оно \"исключило 84 физических лиц и организаций\" из перечней ограничений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ebfb9e19962596c21c1ada70e63e7a2b5765e59b",
+      "fingerprint": "76a09f778fa119346b47c5c164734d34d27153c2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166155",
+      "published_utc": "2026-07-27T20:07:01Z",
+      "title_en": "Western Globalists need Ukraine to control Europe, resist Russia — senator",
+      "lead_en": "Alexey Pushkov pointed out that the globalist empire in the West needs to complete the process of consolidating the neo-Liberal rule in Europe amid new challenges, coming from China, from Russia, from the Global South",
+      "title_raw": "Western Globalists need Ukraine to control Europe, resist Russia — senator",
+      "lead_raw": "Alexey Pushkov pointed out that the globalist empire in the West needs to complete the process of consolidating the neo-Liberal rule in Europe amid new challenges, coming from China, from Russia, from the Global South",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0dc08f0076d01cd05c8bd5c808eea65d1524964e",
+      "fingerprint": "9a10927e35903475eedbfd07019281a75ac3bded",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2166153",
+      "published_utc": "2026-07-27T20:02:00Z",
+      "title_en": "Ukrainian troops use children as human shields — Russian ombudswoman",
+      "lead_en": "Yana Lantratova said that she saw with her own eyes children hiding in basements, the gunfire taking place, and the heroic efforts of teachers in those circumstances",
+      "title_raw": "Ukrainian troops use children as human shields — Russian ombudswoman",
+      "lead_raw": "Yana Lantratova said that she saw with her own eyes children hiding in basements, the gunfire taking place, and the heroic efforts of teachers in those circumstances",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ff72603b3957ab454df4899b308a9727bf9b43c3",
+      "fingerprint": "469d0ed368eadf814fdcb9ba3192e6a5f1a3e2ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27958669",
+      "published_utc": "2026-07-27T19:50:10Z",
+      "title_en": "In the Far East, the catch of Pacific salmon exceeded 44 thousand tons",
+      "lead_en": "The main volume of production is provided by the Kamchatka Territory, reported the All-Russian Research Institute of Fisheries and Oceanography",
+      "title_raw": "На Дальнем Востоке вылов тихоокеанских лососей превысил 44 тыс. тонн",
+      "lead_raw": "Основной объем добычи обеспечивает Камчатский край, сообщили в Всероссийском НИИ рыбного хозяйства и океанографии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1ae8864e59e4a40302d85aade294d39c37a1eaf2",
+      "fingerprint": "53749e2e16069e0fd043730a73a6343148a88650",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958667",
+      "published_utc": "2026-07-27T19:49:06Z",
+      "title_en": "Seven more actors from “Reservists” were added to the “Peacemaker” database",
+      "lead_en": "The site’s creators accuse them of “an attack on the sovereignty and territorial integrity of Ukraine,” as well as public support for Russia",
+      "title_raw": "В базу \"Миротворца\" внесли еще семь актеров из \"Резервистов\"",
+      "lead_raw": "Создатели сайта обвиняют их в \"покушении на суверенитет и территориальную целостность Украины\", а также в публичной поддержке России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2f5e296f2099f5f47a691da20e203ea56a1aa1d4",
+      "fingerprint": "cc8399755194ff40b8946046218316bb38746fe0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166151",
+      "published_utc": "2026-07-27T19:48:50Z",
+      "title_en": "Dialogue of Russian, US lawmakers continues — State Duma speaker",
+      "lead_en": "Vyacheslav Volodin said that it is too early to speak of any practical decisions",
+      "title_raw": "Dialogue of Russian, US lawmakers continues — State Duma speaker",
+      "lead_raw": "Vyacheslav Volodin said that it is too early to speak of any practical decisions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "592bf7776df5267f8820494a01a6b12a3b191814",
       "fingerprint": "aa7aa6a575a46519c39e712cf299b55ddb7b5d7f",
@@ -24,6 +358,29 @@
         "military"
       ],
       "primary_topic": "military"
+    },
+    {
+      "id": "1ba811d28341baa5c6f6720148f62d2b94b3a438",
+      "fingerprint": "47f8df2fb5e18c128bacbcf5469ea640ba137beb",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/07/27/armenias-pashinyan-asks-putin-to-help-resolve-russian-restrictions-on-armenian-exports-a93355",
+      "published_utc": "2026-07-27T19:33:00Z",
+      "title_en": "Armenia's Pashinyan Asks Putin to Help Resolve Russian Restrictions on Armenian Exports",
+      "lead_en": "Pashinyan, who has steered Armenia in a more pro-Western direction, told Putin that the trade restrictions violated agreements between the two countries.",
+      "title_raw": "Armenia's Pashinyan Asks Putin to Help Resolve Russian Restrictions on Armenian Exports",
+      "lead_raw": "Pashinyan, who has steered Armenia in a more pro-Western direction, told Putin that the trade restrictions violated agreements between the two countries.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
     },
     {
       "id": "8dcb1f96838a8df8da0231490e81cf06d1c5b2ab",
@@ -11335,190 +11692,6 @@
       "lead_en": "The actions of the Kyiv regime are identical to the tactics of Ukraine’s Western allies in other hot spots of the world, noted the head of the secretariat of the regional branch of the international public organization \"World Russian People's Council\" in the Zaporozhye region",
       "title_raw": "Эксперт Патаман: удар по Кирилловке входит в план Запада по легализации убийств",
       "lead_raw": "Действия киевского режима идентичны тактике западных союзников Украины в других горячих точках мира, отметил руководитель секретариата регионального отделения международной общественной организации \"Всемирный русский народный собор\" по Запорожской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8b5d63842670838b4bf5b6ab7583cc9ecf146e46",
-      "fingerprint": "785e4994df1a75298b7112d7ad488e6a26832164",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27952873",
-      "published_utc": "2026-07-25T21:01:22Z",
-      "title_en": "Putin congratulated Russians on Navy Day",
-      "lead_en": "The President of Russia thanked the sailors for their service",
-      "title_raw": "Путин поздравил россиян с Днем Военно-морского флота",
-      "lead_raw": "Президент России поблагодарил моряков за службу",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ae802c11a7dd4f48128065e4bb1cc87c8bef662e",
-      "fingerprint": "c1ace686d4de2098c39807178a4cdca489d6a33b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27952875",
-      "published_utc": "2026-07-25T21:00:57Z",
-      "title_en": "Putin pointed to the constant development of the Russian naval forces",
-      "lead_en": "The Russian leader noted that the maritime component of the Russian nuclear triad is gaining strength",
-      "title_raw": "Путин указал на постоянное развитие военно-морских сил России",
-      "lead_raw": "Российский лидер отметил, что морская составляющая ядерной триады РФ набирает мощь",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5f90a49be4aa1c90172ce3e8f8ab18bea2a8e822",
-      "fingerprint": "191cf21a80c78f1d5eb614eacab8bff90ea7b098",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2165345",
-      "published_utc": "2026-07-25T20:52:28Z",
-      "title_en": "Given Kiev’s stance, freezing conflict in Ukraine impossible — Kremlin spokesman",
-      "lead_en": "Dmitry Peskov added that Russia's key prerequisite was to \"achieve our goals\"",
-      "title_raw": "Given Kiev’s stance, freezing conflict in Ukraine impossible — Kremlin spokesman",
-      "lead_raw": "Dmitry Peskov added that Russia's key prerequisite was to \"achieve our goals\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e77e7b4ed20b3b9fc997ac8eee339cb9ac98bf42",
-      "fingerprint": "076030a9baf4e0c224d5c3b51b893f6d1ee6ec49",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2165343",
-      "published_utc": "2026-07-25T20:44:19Z",
-      "title_en": "Kiev deliberately targets Russian civilian population — diplomat",
-      "lead_en": "Maria Zakharova called upon all responsible governments, relevant international organizations, and independent media not to remain silent about the recent terror attacks",
-      "title_raw": "Kiev deliberately targets Russian civilian population — diplomat",
-      "lead_raw": "Maria Zakharova called upon all responsible governments, relevant international organizations, and independent media not to remain silent about the recent terror attacks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3a54554030996d7cc6cf5118797abc11cc08c41c",
-      "fingerprint": "e94d95051ec260d89e18ac09dd9a3a708dca8fca",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27952817",
-      "published_utc": "2026-07-25T20:19:30Z",
-      "title_en": "Near Novorossiysk, debris from an Ukrainian Armed Forces drone damaged a house",
-      "lead_en": "No one was hurt",
-      "title_raw": "Под Новороссийском обломки беспилотника ВСУ повредили дом",
-      "lead_raw": "Никто не пострадал",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f11b2d1a42855141d574d445a6dd85d00bd6e6cc",
-      "fingerprint": "d27f773026a76fe2f4aad44fb0a2329feec4c4ee",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27952813",
-      "published_utc": "2026-07-25T20:00:08Z",
-      "title_en": "Boston hockey player Khusnutdinov is happy to play on the same team with Pastrnak",
-      "lead_en": "According to the Russian, the Czech forward helps him become better",
-      "title_raw": "Хоккеист \"Бостона\" Хуснутдинов рад играть в одной команде с Пастрняком",
-      "lead_raw": "По словам россиянина, чешский форвард помогает ему становиться лучше",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d71e81e29b4bd3e2c7978e4029663134b93c289a",
-      "fingerprint": "d042815f99e43e838f2dac6fa2f0d6bc15f1b5e1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27952809",
-      "published_utc": "2026-07-25T19:56:04Z",
-      "title_en": "In Novorossiysk, the threat of using UAVs was canceled",
-      "lead_en": "Such a threat was announced in the city twice a day",
-      "title_raw": "В Новороссийске отменили угрозу применения БПЛА",
-      "lead_raw": "Такая угроза в городе объявлялась дважды за день",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0756ed57f7ddd257802105d6ca2a4b21930d1a71",
-      "fingerprint": "7da3fbd539e3cb2c7abbb6645412a833daf81fec",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2165325",
-      "published_utc": "2026-07-25T19:45:29Z",
-      "title_en": "Russia to continue to convey its stance on Ukraine to partners — Kremlin spokesman",
-      "lead_en": "Our partners need to know our stance, Dmitry Peskov said",
-      "title_raw": "Russia to continue to convey its stance on Ukraine to partners — Kremlin spokesman",
-      "lead_raw": "Our partners need to know our stance, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e00997749e9687cbc84b79b6c58e6db23297d49a",
-      "fingerprint": "9f896561e2ef6f3cca101c9c80e4169a50c7c25b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27952793",
-      "published_utc": "2026-07-25T19:43:45Z",
-      "title_en": "In Phuket, a local official hit a Russian with his car",
-      "lead_en": "A man injured in an accident died three hours later from his injuries in hospital.",
-      "title_raw": "На Пхукете местный чиновник на машине сбил россиянина",
-      "lead_raw": "Пострадавший в ДТП мужчина спустя три часа умер от полученных травм в госпитале",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
