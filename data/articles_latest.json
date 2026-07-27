@@ -1,8 +1,309 @@
 {
-  "updated_at_utc": "2026-07-27T21:14:41Z",
+  "updated_at_utc": "2026-07-27T23:05:56Z",
   "keep_hours": 48,
-  "count": 557,
+  "count": 565,
   "articles": [
+    {
+      "id": "47309ea208875e3ebfae850087472ec8cc83172a",
+      "fingerprint": "d6c30a370143101f185538cd721554e57a8e95b3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958815",
+      "published_utc": "2026-07-27T23:01:56Z",
+      "title_en": "The LDPR proposed obliging private clinics to provide free treatment under compulsory medical insurance",
+      "lead_en": "Party leader Leonid Slutsky said that in several regions of Russia there remains a shortage of state and municipal medical organizations",
+      "title_raw": "ЛДПР предложила обязать частные клиники бесплатно лечить по ОМС",
+      "lead_raw": "Лидер партии Леонид Слуцкий заявил, что в нескольких регионах России сохраняется дефицит государственных и муниципальных медицинских организаций",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3c1046c7f1c49f5c36786676d164c076933d7afb",
+      "fingerprint": "e87c08f0e2915af81a853f9c7451dd7b1a6ca020",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/28/yalta-installs-outdoor-cooking-stations-in-apartment-courtyards-amid-crimea-s-fuel-and-power-crisis",
+      "published_utc": "2026-07-27T22:48:35Z",
+      "title_en": "Yalta installs outdoor cooking stations in apartment courtyards amid Crimea’s fuel and power crisis",
+      "lead_en": "The Yalta administration has begun installing outdoor cooking areas in the courtyards of apartment buildings, the city’s Russian-installed authorities announced. The independent Russian outlet Agentstvo first reported the announcement.",
+      "title_raw": "Yalta installs outdoor cooking stations in apartment courtyards amid Crimea’s fuel and power crisis",
+      "lead_raw": "The Yalta administration has begun installing outdoor cooking areas in the courtyards of apartment buildings, the city’s Russian-installed authorities announced. The independent Russian outlet Agentstvo first reported the announcement.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4bfe0ec5f7b224af6ba75ebf3d7e337daa5d8bd5",
+      "fingerprint": "161dafe6c4d6fc68115a045e86e66a265170120f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958819",
+      "published_utc": "2026-07-27T22:47:32Z",
+      "title_en": "Fighter Ustye spoke about the search for civilians in Konstantinovka using UAVs",
+      "lead_en": "Provisions, medicines, notes and walkie-talkies are dropped off to civilians so that they can reach the positions of the Russian Armed Forces, the military officer noted",
+      "title_raw": "Боец Устье рассказал о поиске мирных жителей в Константиновке с помощью БПЛА",
+      "lead_raw": "Гражданским сбрасывают провизию, медикаменты, записки и рации, чтобы они смогли выйти к позициям ВС РФ, отметил военный",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f577bb34448b337a638719f96969f31a63aad48a",
+      "fingerprint": "33f315537c737ae0be7a73db90f5594f985bee03",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958817",
+      "published_utc": "2026-07-27T22:45:49Z",
+      "title_en": "Ambassador Jalali reported on contacts between the Russian Federation and Iran regarding the attack by the Armed Forces of Ukraine on the ship of the republic",
+      "lead_en": "The Ambassador of the Islamic Republic in Moscow added that the field of cooperation between Iran and Russia is very wide",
+      "title_raw": "Посол Джалали сообщил о контактах РФ и Ирана по атаке ВСУ на судно республики",
+      "lead_raw": "Посол исламской республики в Москве добавил, что поле сотрудничества Ирана и России очень широкое",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f428133722433177d186ac58ea10e296b2c84dd5",
+      "fingerprint": "9e90cf458fcc3d5665dec022c8740843335e05a6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958811",
+      "published_utc": "2026-07-27T22:44:04Z",
+      "title_en": "The Russian Armed Forces explained the Ukrainian Armed Forces' strikes on civilians in liberated cities",
+      "lead_en": "Ukrainian forces are afraid that people will tell the world about what is happening in Donbass, the press center of the Southern Group of Forces reported.",
+      "title_raw": "В ВС РФ объяснили удары ВСУ по мирным жителям в освобожденных городах",
+      "lead_raw": "Украинские силы боятся, что люди расскажут всеми миру о происходящем в Донбассе, сообщили в пресс-центре Южной группировки войск",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0ac8800d744d7e432e4688066753f8c0ff835a7b",
+      "fingerprint": "eef57a27e563dabb7079a01d9a79c0060ce2eb41",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/28/siberian-region-of-russia-bars-refueling-the-same-car-more-than-once-every-24-hours-amid-russia-s-gasoline-shortage",
+      "published_utc": "2026-07-27T22:29:11Z",
+      "title_en": "Siberian region of Russia bars refueling the same car more than once every 24 hours amid Russia’s gasoline shortage",
+      "lead_en": "The Republic of Altai has barred drivers from refueling the same car more than once every 24 hours, the regional government said.",
+      "title_raw": "Siberian region of Russia bars refueling the same car more than once every 24 hours amid Russia’s gasoline shortage",
+      "lead_raw": "The Republic of Altai has barred drivers from refueling the same car more than once every 24 hours, the regional government said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9ec51a98f72369f5ba8f7ddf36e51a5a0db57b01",
+      "fingerprint": "a1248722f95c0bc8cbe15c1efe753b3db145e3a4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27958789",
+      "published_utc": "2026-07-27T22:09:25Z",
+      "title_en": "The Russian Ambassador spoke about the agreements between Europe and the United States with Indonesia on rare earths",
+      "lead_en": "Sergei Tolchenov said that Western countries are looking for partners in the region who would replace China as a source of rare earth metals",
+      "title_raw": "Посол РФ рассказал о соглашениях Европы и США с Индонезией по редкоземам",
+      "lead_raw": "Сергей Толченов заявил, что страны Запада ищут в регионе партнеров, которые бы заменили Китай в качестве источника редкоземельных металлов",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2a3659e7b034da155df448e5f526266e8306adad",
+      "fingerprint": "7103a91c0d1187e7cc8361bfa54421f4ecacb2df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/27958787",
+      "published_utc": "2026-07-27T22:08:48Z",
+      "title_en": "A reliable fixation for the spine during operations has been developed in Russia",
+      "lead_en": "Anti-slip elements and titanium coating on the support pads help reduce the risk of implant subsidence, especially if the patient has weakened bone tissue",
+      "title_raw": "В России разработали надежный фиксатор для позвоночника во время операций",
+      "lead_raw": "Противоскользящие элементы и титановое напыление на опорных площадках помогают снизить риск проседания имплантата, особенно если у пациента ослаблена костная ткань",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "949b1fd0ca577edcea329451a921f327c0c31732",
+      "fingerprint": "1152d47489a917e75d59cf1282e6dda6135896ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958783",
+      "published_utc": "2026-07-27T22:05:18Z",
+      "title_en": "Officer Apostol spoke about the destruction of up to 25 hexacopters of the Ukrainian Armed Forces per day",
+      "lead_en": "The serviceman added that Russian fighters are hitting targets in the Belitsky area",
+      "title_raw": "Офицер Апостол рассказал об уничтожении до 25 гексакоптеров ВСУ за сутки",
+      "lead_raw": "Военнослужащий добавил, что российские бойцы поражают цели в районе Белицкого",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9057d6fb717e8ba08c00752d2b1e230a28bfb27f",
+      "fingerprint": "953d8cf0145d8e5caa7c675156a636b4f25fed3a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958781",
+      "published_utc": "2026-07-27T22:01:03Z",
+      "title_en": "Marochko reported that the Russian Armed Forces had driven a three-kilometer wedge into the defense of the Ukrainian Armed Forces",
+      "lead_en": "The military expert noted that this significantly complicated the operational-tactical situation for Ukrainian forces",
+      "title_raw": "Марочко сообщил, что ВС РФ вбили трехкилометровый клин в оборону ВСУ",
+      "lead_raw": "Военный эксперт отметил, что это значительно осложнило оперативно-тактическую обстановку для украинских сил",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a7826018a69510a17a6684941dc697a348711c9d",
+      "fingerprint": "0f91725cc300db7702b1c75840293dbe4188d2a7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27958765",
+      "published_utc": "2026-07-27T21:39:01Z",
+      "title_en": "Fighter Ustye spoke about coordinating the exit of civilians from Konstantinovka",
+      "lead_en": "The serviceman noted that city residents are grateful to the Russian military for their help and evacuation.",
+      "title_raw": "Боец Устье рассказал о координации выхода мирного населения из Константиновки",
+      "lead_raw": "Военнослужащий отметил, что жители города благодарны российским военным за помощь и эвакуацию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f2d58a5fed947fc2fd73025a096c031059c9a581",
+      "fingerprint": "caeac5ec63879e954cf2a24bb18e583a1ced6948",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958759",
+      "published_utc": "2026-07-27T21:29:52Z",
+      "title_en": "The Ambassador of Yemen proposed opening a representative office of Rossotrudnichestvo in Aden",
+      "lead_en": "Ahmed Salem al-Waheyshi spoke about the great interest of young people in the country in learning the Russian language",
+      "title_raw": "Посол Йемена предложил открыть представительство Россотрудничества в Адене",
+      "lead_raw": "Ахмед Салем аль-Вахейши рассказал о большом интересе молодых людей в стране к изучению русского языка",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "039cb7360a8236edb30172391cb8cb36817238e7",
+      "fingerprint": "e70ba229c384a4a28fbdf62f3b656678ae8d341d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2166171",
+      "published_utc": "2026-07-27T21:17:01Z",
+      "title_en": "US believes it is time to end Ukrainian conflict — TV channel",
+      "lead_en": "US President Donald Trump plans to discuss \"the ongoing peace process between Russia and Ukraine\" with Vladimir Zelensky",
+      "title_raw": "US believes it is time to end Ukrainian conflict — TV channel",
+      "lead_raw": "US President Donald Trump plans to discuss \"the ongoing peace process between Russia and Ukraine\" with Vladimir Zelensky",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "530983ad0bdadb6440eaf7d799234d4923e90a89",
+      "fingerprint": "6eda64627cf1054b6840bd5fcc13ab7000e61b5e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958739",
+      "published_utc": "2026-07-27T21:08:47Z",
+      "title_en": "The court did not accept Fedor Emelianenko's claim for 13 million rubles for moral damage from the book",
+      "lead_en": "The honorary president of the Russian MMA Union claims that he did not give the publisher consent to use his image on the cover and in promotional materials and consent to the commercial use of his name",
+      "title_raw": "Суд не принял иск Федора Емельяненко на 13 млн рублей за моральный вред от книги",
+      "lead_raw": "Почетный президент Союза ММА России утверждает, что не давал издательству согласия на использование его изображения на обложке и в промоматериалах и согласия на коммерческое использование его имени",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "f77eee8e1276ebf0161345cc7fbe4e86207ef65b",
       "fingerprint": "edb3fa9f8e696f87e168966ede3338f80a15c2f8",
@@ -26,15 +327,15 @@
       "primary_topic": "diplomacy"
     },
     {
-      "id": "5cd95d29a7c236263506776ed3ccfd0799789243",
-      "fingerprint": "e38bb6d6097fd637e957a90a57ff4ce093bdfefa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27958741",
-      "published_utc": "2026-07-27T21:05:33Z",
-      "title_en": "Russia and Indonesia are exploring the possibility of cooperation on rare earth metals",
-      "lead_en": "",
-      "title_raw": "Россия и Индонезия изучают возможность сотрудничества по редкоземельным металлам",
-      "lead_raw": "",
+      "id": "ec1a0a11e359a24f16fce2e72fecda4c91e2f3ed",
+      "fingerprint": "59d0e8e21ebeabad3cc1468c744a1e40b6ee36f6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2166169",
+      "published_utc": "2026-07-27T21:07:01Z",
+      "title_en": "Trump says he does not believe in Russia providing Iran with intel, but will ask Putin",
+      "lead_en": "However, the US leader opined that contacts of this kind between Moscow and Tehran are potentially possible",
+      "title_raw": "Trump says he does not believe in Russia providing Iran with intel, but will ask Putin",
+      "lead_raw": "However, the US leader opined that contacts of this kind between Moscow and Tehran are potentially possible",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -44,6 +345,28 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "94a937817bfa0873bf767e085c1dda0cbf5be0f9",
+      "fingerprint": "e38bb6d6097fd637e957a90a57ff4ce093bdfefa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27958741",
+      "published_utc": "2026-07-27T21:05:33Z",
+      "title_en": "Russia and Indonesia are exploring the possibility of cooperation on rare earths",
+      "lead_en": "Russian Ambassador Sergei Tolchenov said that Russian companies are showing the Indonesian side their developments in the field of rare earth elements",
+      "title_raw": "Россия и Индонезия изучают возможность сотрудничества по редкоземам",
+      "lead_raw": "Посол РФ Сергей Толченов заявил, что российские компании показывают индонезийской стороне свои наработки в области редкоземельных элементов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "64a88d5b9a6e89d1b96a95d29e85eaa597474142",
@@ -66,6 +389,28 @@
       "primary_topic": null
     },
     {
+      "id": "1d5155fbb65d819ae11b2c4605399df266abc94c",
+      "fingerprint": "9d62996da187e4b0f1ada63bfe3320616865b467",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166167",
+      "published_utc": "2026-07-27T21:05:01Z",
+      "title_en": "Russian ambassador rejects Romania’s accusations related to drone incidents",
+      "lead_en": "Vladimir Lipaev noted that \"Russia has never targeted combat drones at facilities in Romania and is not doing this, and that any speculations on this topic are absolutely groundless, whoever they come from\"",
+      "title_raw": "Russian ambassador rejects Romania’s accusations related to drone incidents",
+      "lead_raw": "Vladimir Lipaev noted that \"Russia has never targeted combat drones at facilities in Romania and is not doing this, and that any speculations on this topic are absolutely groundless, whoever they come from\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
       "id": "2c48b6dfa5df98fdf773d7bf9b44c7ad69423cd6",
       "fingerprint": "5a19022f387961e210371fc4829bec4cdd28e92a",
       "source": "TASS (RU)",
@@ -84,6 +429,28 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "59b82eac75b0091814fa3ee42ed0870ce3ce8965",
+      "fingerprint": "7521d92b38dee36597d5a0acf3afcb0b7ff4a4cd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27958729",
+      "published_utc": "2026-07-27T21:02:10Z",
+      "title_en": "Children - victims of the war in Donbass were honored in Sukhumi",
+      "lead_en": "The ceremony was attended by Russian Ambassador to Abkhazia Vyacheslav Gladkov, Speaker of the Parliament of the Republic Lasha Ashuba, as well as Deputy Prime Minister Maya Tsybulevskaya",
+      "title_raw": "В Сухуме почтили память детей - жертв войны в Донбассе",
+      "lead_raw": "В церемонии приняли участие посол России в Абхазии Вячеслав Гладков, спикер парламента республики Лаша Ашуба, а также вице-премьер Майя Цыбулевская",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
     },
     {
       "id": "e7295ba435169d0dfa7e994996543d5367584b8a",
@@ -11515,192 +11882,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "d7453b42545c49be644c82c246d46fb7ff091fac",
-      "fingerprint": "fe9bfae33757d85009818ed3f04cc326d76e08ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27952945",
-      "published_utc": "2026-07-25T23:02:14Z",
-      "title_en": "Marochko: Ukrainian Armed Forces are retreating from Ivashkino to the third line of defense",
-      "lead_en": "The Russian Armed Forces have been controlling the settlement since July 24",
-      "title_raw": "Марочко: ВСУ отступают из Ивашкино на третью линию обороны",
-      "lead_raw": "ВС РФ контролируют населенный пункт с 24 июля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c99ebeb5b19b923cb0b249f9003bdca48770c293",
-      "fingerprint": "3590b85405cfc9d53c2694b6137d16608c6df11f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2165377",
-      "published_utc": "2026-07-25T23:00:07Z",
-      "title_en": "Strike on Kirillovka part of Kiev's plan to legalize killing of civilians — expert",
-      "lead_en": "Alexander Pataman, head of the secretariat of the regional branch of international public organization The World Russian People's Council for the Zaporozhye Region, said that the actions of the Kiev regime are identical to the tactics of Ukraine's Western allies in other hot spot",
-      "title_raw": "Strike on Kirillovka part of Kiev's plan to legalize killing of civilians — expert",
-      "lead_raw": "Alexander Pataman, head of the secretariat of the regional branch of international public organization The World Russian People's Council for the Zaporozhye Region, said that the actions of the Kiev regime are identical to the tactics of Ukraine's Western allies in other hot spot",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8b4524df13fa8c2f9d9750a0be63299c26358d1f",
-      "fingerprint": "e72e334ef89a3e567b3df0c09b9a4b65c0a15e7a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27952935",
-      "published_utc": "2026-07-25T22:17:24Z",
-      "title_en": "The State Duma called on parents to pay 30 thousand rubles to prepare their children for school",
-      "lead_en": "For low-income families, the payment should be about 50 thousand rubles, says A Just Russia leader Sergei Mironov",
-      "title_raw": "В ГД призвали выплачивать родителям по 30 тыс. рублей на сборы детей в школу",
-      "lead_raw": "Для малоимущих семей выплата должна составлять около 50 тыс. рублей, считает лидер \"Справедливой России\" Сергей Миронов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a27f17887fe7e7fa3d733ef26d3d61ba4c332de5",
-      "fingerprint": "20baece8221da22dfbbdda434dde423e610d4b5f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27952931",
-      "published_utc": "2026-07-25T22:13:17Z",
-      "title_en": "The number of regions with an average pension of over 30 thousand rubles increased to 12 per year",
-      "lead_en": "In Russia, the average pension amount in June 2026 was 25,402 rubles",
-      "title_raw": "Количество регионов со средней пенсией свыше 30 тыс. рублей выросло до 12 за год",
-      "lead_raw": "В России средний размер пенсионного обеспечения в июне 2026 года составил 25 402 рублей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "60132f1ed949d37efcbb9a96c741c6e7d58df58e",
-      "fingerprint": "d30a732778f32e7a97f5c578c59dd32af9fe650b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27952925",
-      "published_utc": "2026-07-25T21:59:33Z",
-      "title_en": "In Novorossiysk, a threat of UAV attack was announced",
-      "lead_en": "Residents were urged to remain calm and not go near windows",
-      "title_raw": "В Новороссийске объявили угрозу атаки БПЛА",
-      "lead_raw": "Жителей призвали сохранять спокойствие и не подходить к окнам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5acae5d2921659f980051d21d7a75dfdb3ea436b",
-      "fingerprint": "2890248db1c4be78cea1167575948da712751e6f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2165367",
-      "published_utc": "2026-07-25T21:42:36Z",
-      "title_en": "Putin congratulates Russians on Navy Day",
-      "lead_en": "The president thanked the navy for its service",
-      "title_raw": "Putin congratulates Russians on Navy Day",
-      "lead_raw": "The president thanked the navy for its service",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2d3377db19ff3f747fb3ac4e2c820e41289397b4",
-      "fingerprint": "888b411edaca893a8abda3a45a19c4c883218883",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27952911",
-      "published_utc": "2026-07-25T21:33:04Z",
-      "title_en": "Belousov congratulated the military personnel on Navy Day",
-      "lead_en": "The Russian Minister of Defense noted the high professionalism and dedication of military sailors, which allow them to effectively solve all assigned tasks, including during the military training",
-      "title_raw": "Белоусов поздравил военнослужащих с Днем ВМФ",
-      "lead_raw": "Министр обороны России отметил высокий профессионализм и самоотверженность военных моряков, которые позволяют эффективно решать все поставленные задачи, в том числе в ходе СВО",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cede7b8045bd908ea5950db87a9e5f97cac6c020",
-      "fingerprint": "74758c0e869932bb65b2789f3f7678a9606f1c60",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2165361",
-      "published_utc": "2026-07-25T21:23:21Z",
-      "title_en": "Russian Navy develops steadily — Putin",
-      "lead_en": "The Russian president says that the naval component of the country's nuclear triad is gaining strength",
-      "title_raw": "Russian Navy develops steadily — Putin",
-      "lead_raw": "The Russian president says that the naval component of the country's nuclear triad is gaining strength",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2d97ca71c59b911c508d8989530f550c2e77467a",
-      "fingerprint": "295e0ca043bf7c25cc7fae8cb232cab0477f83e9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27952891",
-      "published_utc": "2026-07-25T21:21:41Z",
-      "title_en": "Expert Pataman: the attack on Kirillovka is part of the West’s plan to legalize murders",
-      "lead_en": "The actions of the Kyiv regime are identical to the tactics of Ukraine’s Western allies in other hot spots of the world, noted the head of the secretariat of the regional branch of the international public organization \"World Russian People's Council\" in the Zaporozhye region",
-      "title_raw": "Эксперт Патаман: удар по Кирилловке входит в план Запада по легализации убийств",
-      "lead_raw": "Действия киевского режима идентичны тактике западных союзников Украины в других горячих точках мира, отметил руководитель секретариата регионального отделения международной общественной организации \"Всемирный русский народный собор\" по Запорожской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
