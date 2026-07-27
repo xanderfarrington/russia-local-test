@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-07-27T17:45:19Z",
+  "updated_at_utc": "2026-07-27T19:39:51Z",
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "3a300c08a2e55a3d5b982711d95a0e7301cb524c",
+      "fingerprint": "62f140ace93f9a7c0a22c92d38fc8a7c2b712c9e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2166145",
+      "published_utc": "2026-07-27T18:43:20Z",
+      "title_en": "Bank of Russia lowers dollar exchange rate for July 28 to 78.01 rubles",
+      "lead_en": "The official yuan exchange rate was raised by 1.93 kopecks to 11.5218 rubles",
+      "title_raw": "Bank of Russia lowers dollar exchange rate for July 28 to 78.01 rubles",
+      "lead_raw": "The official yuan exchange rate was raised by 1.93 kopecks to 11.5218 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cf8b375c23373aefd3991283f0c817c20fa15a2d",
+      "fingerprint": "06b27dd713089c9790aaad56bd39085b40487221",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166135",
+      "published_utc": "2026-07-27T18:23:00Z",
+      "title_en": "Sanctions targeting Russia's energy partnerships threaten global markets — MFA",
+      "lead_en": "Maria Zakharova noted that after all the sanctions measures adopted, Western countries should not \"appear with long faces at global forums and talk about how they pity poor people who are undernourished, sleep-deprived, overworked, and suffering\"",
+      "title_raw": "Sanctions targeting Russia's energy partnerships threaten global markets — MFA",
+      "lead_raw": "Maria Zakharova noted that after all the sanctions measures adopted, Western countries should not \"appear with long faces at global forums and talk about how they pity poor people who are undernourished, sleep-deprived, overworked, and suffering\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "8519ac9a18d22c07e3e4e72e232e7cc92a79d6a1",
       "fingerprint": "828f65d9763b54020f42c8c258c096ec070531f9",
@@ -341,52 +387,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9fb06f2fbebd741ddcf252d2114bb417916d6e21",
-      "fingerprint": "87ea51bc3221b289d690e4697cf76ec0414410ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2165321",
-      "published_utc": "2026-07-25T18:48:09Z",
-      "title_en": "Russia to extend ban on gasoline exports until year-end — deputy premier",
-      "lead_en": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
-      "title_raw": "Russia to extend ban on gasoline exports until year-end — deputy premier",
-      "lead_raw": "Alexander Novak added that diesel exports will be lifted \"as the market rebounds\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9bf71499d807f3d4f93b6036a2ad12174e71494e",
-      "fingerprint": "a0061a73ae80b20de5129744c041ccf5b387bc66",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27952711",
-      "published_utc": "2026-07-25T18:24:13Z",
-      "title_en": "Peskov: The Russian Federation will continue to convey its position on Ukraine to its partners",
-      "lead_en": "Russia will do this with redoubled energy, the presidential press secretary said",
-      "title_raw": "Песков: РФ продолжит доносить до партнеров свою позицию по Украине",
-      "lead_raw": "Россия будет делать это с удвоенной энергией, заявил пресс-секретарь президента",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
