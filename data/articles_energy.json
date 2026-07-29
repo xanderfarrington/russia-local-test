@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-29T10:42:01Z",
+  "updated_at_utc": "2026-07-29T13:02:00Z",
   "topic": "energy",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "d52245dc1fe5b9ac82abb2d3bc95952326ab6e04",
+      "fingerprint": "d512879cac7b7010237916b9efb89b461efa2def",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2166849",
+      "published_utc": "2026-07-29T12:59:28Z",
+      "title_en": "Situation with fuel supplies to agricultural enterprises gradually stabilizing — cabinet",
+      "lead_en": "According to Russian Deputy PM Alexander Novak, harvesting operations are continuing across all regions of the country",
+      "title_raw": "Situation with fuel supplies to agricultural enterprises gradually stabilizing — cabinet",
+      "lead_raw": "According to Russian Deputy PM Alexander Novak, harvesting operations are continuing across all regions of the country",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5f5b4f9df026403423e0055abed63262d6de9782",
+      "fingerprint": "149db79fe69b39159fd63e03d9580355bca5a065",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27964687",
+      "published_utc": "2026-07-29T11:55:24Z",
+      "title_en": "The Ministry of Energy explained how the authorities control the situation on the fuel market",
+      "lead_en": "First Deputy Minister of Energy Pavel Sorokin noted that it is possible to avoid critical situations due to measures taken by the Russian government",
+      "title_raw": "В Минэнерго объяснили, как власти контролируют ситуацию на рынке топлива",
+      "lead_raw": "Первый замминистра энергетики Павел Сорокин отметил, что избегать критических ситуаций удается за счет мер правительства РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "547dccc8c03d8fc48868ad399450d8bd066bf8bd",
       "fingerprint": "4df38e808f4bdc177753b06c0e16aa286f1b4098",
@@ -674,29 +718,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "b7a13622eda5598090337236f393d2f510adef4d",
-      "fingerprint": "b6136417b23e51f60d74176b40be11e8cb0d1543",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/27/russia-s-udmurt-republic-reports-most-massive-ukrainian-drone-attack-zelensky-says-ukraine-struck-oil-facility",
-      "published_utc": "2026-07-27T12:00:42Z",
-      "title_en": "Russia’s Udmurt Republic reports ‘most massive’ Ukrainian drone attack. Zelensky says Ukraine struck oil facility.",
-      "lead_en": "Ukraine struck Russia’s Udmurt Republic with drones on the morning of July 27, Governor Alexander Brechalov said, adding that air defense forces were repelling “the most massive attack in recent times.”",
-      "title_raw": "Russia’s Udmurt Republic reports ‘most massive’ Ukrainian drone attack. Zelensky says Ukraine struck oil facility.",
-      "lead_raw": "Ukraine struck Russia’s Udmurt Republic with drones on the morning of July 27, Governor Alexander Brechalov said, adding that air defense forces were repelling “the most massive attack in recent times.”",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
