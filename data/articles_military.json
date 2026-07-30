@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-30T19:38:08Z",
+  "updated_at_utc": "2026-07-30T21:14:16Z",
   "topic": "military",
-  "count": 105,
+  "count": 106,
   "articles": [
+    {
+      "id": "e53c969f511730cfe1154e15c193d66512419ad5",
+      "fingerprint": "13b0bcd427d98a6ccc877bd1d74e57eca8cceedd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27969395",
+      "published_utc": "2026-07-30T21:05:33Z",
+      "title_en": "F6 detected AI-generated malicious fake websites of the Russian Ministry of Defense",
+      "lead_en": "Using fake pages, attackers collected personal data of relatives and friends of deceased participants in a special military operation, representatives of the information security vendor reported",
+      "title_raw": "F6 обнаружила сгенерированные ИИ вредоносные сайты-подделки МО РФ",
+      "lead_raw": "С помощью поддельных страниц злоумышленники собирали личные данные родных и близких погибших участников специальной военной операции, сообщили представители ИБ-вендора",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "553ae818af050e2e3edd032dcf63723b38d0bd6f",
+      "fingerprint": "192be642162cc609cff830077a80f0ebdcdd57e4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27969343",
+      "published_utc": "2026-07-30T20:24:02Z",
+      "title_en": "Russian Ambassador to Germany: Moscow is concerned about nuclear exercises in Berlin and Paris",
+      "lead_en": "Sergei Nechaev also noted that “there are contractual formats agreed upon between German Chancellor Friedrich Merz and French President Emmanuel Macron in confidence on the intensification of the nuclear dialogue between the two countries, but they are not disclosed”",
+      "title_raw": "Посол РФ в ФРГ: Москва обеспокоена ядерными учениями Берлина и Парижа",
+      "lead_raw": "Сергей Нечаев также отметил, что \"имеются договорные форматы, согласованные между канцлером ФРГ Фридрихом Мерцем и президентом Франции Эмманюэлем Макроном в доверительном плане об интенсификации ядерного диалога между двумя странами, но они не раскрываются\"",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f2344f959bb4c19c5a48f3fe7e18b5188dfbaf96",
+      "fingerprint": "fa4eca14c8eb7dac7b7f1ecb3f1c2e9d01d194de",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/30/zelensky-says-russia-likely-used-a-north-korean-missile-in-an-attack-near-kryvyi-rih-that-killed-four-children-and-their-parents",
+      "published_utc": "2026-07-30T19:41:37Z",
+      "title_en": "Zelensky says Russia likely used a North Korean missile in an attack near Kryvyi Rih that killed four children and their parents",
+      "lead_en": "Russian forces struck the village of Radushne with a North Korean ballistic missile, killing members of a large family, Ukrainian President Volodymyr Zelensky said.",
+      "title_raw": "Zelensky says Russia likely used a North Korean missile in an attack near Kryvyi Rih that killed four children and their parents",
+      "lead_raw": "Russian forces struck the village of Radushne with a North Korean ballistic missile, killing members of a large family, Ukrainian President Volodymyr Zelensky said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3e4bfc8569599da483d0b6822c559b382714707f",
       "fingerprint": "d486d391348012e1de816af1b4fba71699ec1cc0",
@@ -2266,51 +2333,6 @@
       "lead_en": "Dmitry Medvedev, deputy chairman of Russia’s Security Council, dismissed rumors of a possible mobilization in Russia this fall as untrue, the Russian state news agency TASS reported. The Security Council advises the president on national security matters.",
       "title_raw": "Russian Security Council deputy chairman Dmitry Medvedev denies rumors of an upcoming mobilization, calling them ‘nonsense’ and a ‘lying provocation’ by Ukraine",
       "lead_raw": "Dmitry Medvedev, deputy chairman of Russia’s Security Council, dismissed rumors of a possible mobilization in Russia this fall as untrue, the Russian state news agency TASS reported. The Security Council advises the president on national security matters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "858f767923de0657b9be4fb3f73e558549ab8704",
-      "fingerprint": "11040addea00626a08a26547c9cb093a815901bb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27959601",
-      "published_utc": "2026-07-28T21:00:01Z",
-      "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "All those involved in attacks by the Armed Forces of Ukraine on passenger buses in the regions of Russia will be held accountable, said the official representative of the Russian Foreign Ministry, Maria Zakharova.",
-      "title_raw": "Военная операция на Украине. Онлайн",
-      "lead_raw": "Все причастные к атакам ВСУ на пассажирские автобусы в регионах России понесут ответственность, заявила официальный представитель МИД РФ Мария Захарова",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ee50ef7c152a705f4d3b108c846d206d69c4fd07",
-      "fingerprint": "7685e5da5244b73fb4ac3af33e99e53762500ea0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27962229",
-      "published_utc": "2026-07-28T20:19:03Z",
-      "title_en": "\"Blizzard\" of the enemy about mobilization and real patriots in the RF Armed Forces. Medvedev's statements",
-      "lead_en": "About 200 thousand people signed a contract with the Armed Forces of the Russian Federation in the first six months of 2026",
-      "title_raw": "\"Пурга\" врага о мобилизации и настоящие патриоты в ВС РФ. Заявления Медведева",
-      "lead_raw": "Порядка 200 тыс. человек заключили контракт с Вооруженными силами РФ за первые шесть месяцев 2026 года",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
