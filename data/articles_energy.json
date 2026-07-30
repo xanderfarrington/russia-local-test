@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-07-30T04:08:26Z",
+  "updated_at_utc": "2026-07-30T07:36:29Z",
   "topic": "energy",
-  "count": 27,
+  "count": 28,
   "articles": [
+    {
+      "id": "d7b085284d94c02a98c1fcb71bdf4c1232a8e43b",
+      "fingerprint": "2e9c71db614ac93ddcdeb34bc0d29501a4488cb8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27966721",
+      "published_utc": "2026-07-30T07:01:11Z",
+      "title_en": "UAVs attacked tankers in the area of ​​the CPC terminal near Novorossiysk. What is known",
+      "lead_en": "Oil shipments stopped again",
+      "title_raw": "БПЛА атаковали танкеры в районе терминала КТК под Новороссийском. Что известно",
+      "lead_raw": "Отгрузка нефти снова остановлена",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a6f4743dafa381a15498bbb6696a2ccd4a6fbb51",
+      "fingerprint": "1403c9a7945e10f2ddf508ff2e9bd06b307a46b3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27966657",
+      "published_utc": "2026-07-30T06:58:27Z",
+      "title_en": "Expert Chebrov assessed the likelihood of a repeat mega-earthquake in Kamchatka",
+      "lead_en": "The director of the Kamchatka branch of the Geophysical Service of the Russian Academy of Sciences noted that in the next 10-20 years the likelihood of an earthquake occurring is low",
+      "title_raw": "Эксперт Чебров оценил вероятность повторения мегаземлетрясения на Камчатке",
+      "lead_raw": "Директор Камчатского филиала Геофизической службы РАН отметил, что в ближайшие 10-20 лет вероятность возникновения землетрясения невелика",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ea753babb951851b79ef64ac5f121a040fd79a41",
+      "fingerprint": "33e3ab9b95a60f3211ca0125e5f4a1a6b483f28a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27966655",
+      "published_utc": "2026-07-30T06:28:26Z",
+      "title_en": "The Russian Armed Forces hit a chemical plant producing fuel for Ukrainian Armed Forces cruise missiles",
+      "lead_en": "It is located in the Rivne region",
+      "title_raw": "ВС РФ поразили химзавод, производящий топливо для крылатых ракет ВСУ",
+      "lead_raw": "Он находится в Ровенской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "bc42779c4fc09734c8c989e9720bb43bc059e7e9",
       "fingerprint": "3bab040bf94bff841b920806806c6db83f7c03dd",
@@ -554,50 +621,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0c855a9e6cfadd8895ca696596de93fb3cb814ac",
-      "fingerprint": "ed1611a62bd7d4742b0c6828fe835287736f0aa5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27959427",
-      "published_utc": "2026-07-28T05:04:07Z",
-      "title_en": "Gazprom dispelled the myth about the reliability of LNG shipments compared to pipe deliveries",
-      "lead_en": "In the EU, politically biased decisions, from which the residents of Europe themselves suffer, are trying to veil them with unsubstantiated accusations against Russia and the company, said Kirill Polous, deputy head of the department, head of the Gazprom department.",
-      "title_raw": "\"Газпром\" развеял миф о надежности отгрузок СПГ по сравнению с поставками по трубе",
-      "lead_raw": "В ЕС политически ангажированные решения, от которых страдают прежде всего жители самой Европы, пытаются завуалировать неподкрепленными обвинениями в адрес России и компании, заявил замначальника департамента, начальник управления \"Газпрома\" Кирилл Полоус",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5589d68d2a76611c0f7697665199a626490efa45",
-      "fingerprint": "346dbd2ad6410512151f26d20af070d062003c45",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27959275",
-      "published_utc": "2026-07-28T04:18:55Z",
-      "title_en": "\"Package\" found out how many Russians are willing to overpay for convenience when shopping",
-      "lead_en": "According to the service, every second respondent is ready to spend more money, including in stores near the beach",
-      "title_raw": "\"Пакет\" выяснил, сколько россиян готовы переплачивать за удобство при покупках",
-      "lead_raw": "По данным сервиса, каждый второй респондент готов тратить больше денег, в том числе в магазинах рядом с пляжем",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
         "energy"
       ],
       "primary_topic": "energy"
