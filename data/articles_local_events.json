@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-07-31T06:47:52Z",
+  "updated_at_utc": "2026-07-31T09:47:42Z",
   "topic": "local_events",
-  "count": 5,
+  "count": 6,
   "articles": [
+    {
+      "id": "2d17d949a9f0e73d347d6a7a62709845f7cb085e",
+      "fingerprint": "3c47a3d19afdd5aa23c9f9dfcba8c587e4764650",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2167553",
+      "published_utc": "2026-07-31T08:05:48Z",
+      "title_en": "Five injured, fire at warehouses in Volgograd Region: aftermath of Ukrainian UAV attack",
+      "lead_en": "One person was injured in the Rostov Region in southern Russia",
+      "title_raw": "Five injured, fire at warehouses in Volgograd Region: aftermath of Ukrainian UAV attack",
+      "lead_raw": "One person was injured in the Rostov Region in southern Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "eed50d854bb7caab013970c3bfdac5dbe497c2cc",
+      "fingerprint": "674d2191c76d206d3e9062d5792385e6c7f28543",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/07/31/ukraine-hits-two-more-wildberries-warehouses-in-russia",
+      "published_utc": "2026-07-31T07:43:53Z",
+      "title_en": "Ukraine hits two more Wildberries warehouses in Russia",
+      "lead_en": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
+      "title_raw": "Ukraine hits two more Wildberries warehouses in Russia",
+      "lead_raw": "A fire broke out at a Wildberries marketplace logistics facility in Volgograd following a Ukrainian drone attack, the company said. No employees were injured, according to preliminary reports.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "679872ca5eb3c752108cbe502c678ef05ef75258",
       "fingerprint": "62bca7984d42208157f6f8a6d85644442971777d",
@@ -88,29 +132,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fb0794c5c5436cdb94663bf4f46a4ad33af45bae",
-      "fingerprint": "dd1eddcaf3a1fab5384571118b61fa86c6c2fb68",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/29/at-least-one-dead-in-russia-after-ukraine-strikes-industrial-sites-a93363",
-      "published_utc": "2026-07-29T07:30:26Z",
-      "title_en": "At Least One Dead in Russia After Ukraine Strikes Industrial Sites",
-      "lead_en": "A woman was killed and a man injured when missile debris struck an apartment building in the southern port city of Taganrog.",
-      "title_raw": "At Least One Dead in Russia After Ukraine Strikes Industrial Sites",
-      "lead_raw": "A woman was killed and a man injured when missile debris struck an apartment building in the southern port city of Taganrog.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
