@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-07-31T19:39:15Z",
+  "updated_at_utc": "2026-07-31T21:09:18Z",
   "topic": "military",
   "count": 109,
   "articles": [
+    {
+      "id": "784de156a185d08a918865fa372bee726c642956",
+      "fingerprint": "893696b82ae984a611a202c5dc8c1e2d97c398f5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27970369",
+      "published_utc": "2026-07-31T21:00:01Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "Russian missiles and drones hit a tank with fuel and lubricants in the port of Odessa, a dry cargo ship and workshops of the Odessa oil refinery, involved in the interests of the Ukrainian Armed Forces, the Ministry of Defense reported",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Российские ракеты и беспилотники поразили резервуар с ГСМ в порту Одесса, сухогруз и цеха Одесского нефтеперерабатывающего завода, задействованные в интересах ВСУ, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "89333b1204c44cb85284280003d8041281429fa8",
       "fingerprint": "05051442540e24eae824e258e93b7c4be9061adf",
@@ -2385,28 +2408,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "aeba8d73d1e26d074aba9aa9d6ff99d90b47b317",
-      "fingerprint": "99b11b6f84f5b758a7c8aa8da707848679b2dcd9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27963315",
-      "published_utc": "2026-07-29T21:00:12Z",
-      "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "The Russian Armed Forces almost knocked out the Ukrainian Armed Forces from Vodyanskoye, said military expert Andrei Marochko",
-      "title_raw": "Военная операция на Украине. Онлайн",
-      "lead_raw": "ВС РФ почти выбили ВСУ из Водянского, сообщил военный эксперт Андрей Марочко",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
