@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-01T13:35:10Z",
+  "updated_at_utc": "2026-08-01T15:03:17Z",
   "topic": "military",
-  "count": 115,
+  "count": 114,
   "articles": [
+    {
+      "id": "da5915e49012e7998672e9609241247888f52fc3",
+      "fingerprint": "f189061a5bdf685c5d70671349c412606fb77c52",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27974547",
+      "published_utc": "2026-08-01T14:42:07Z",
+      "title_en": "The Russian Armed Forces hit tanks with fuel and lubricants in the port of Odessa and a tugboat in the port of Nikolaev",
+      "lead_en": "The tanks with fuels and lubricants were intended to supply the Armed Forces of Ukraine, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили резервуары с ГСМ в порту Одесса и буксир в порту Николаев",
+      "lead_raw": "Резервуары с горюче-смазочными материалами были предназначены для снабжения ВСУ, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d146b2bc7a68836b56ff372dd936156d60f69339",
+      "fingerprint": "1a795f3ab27cda4ac97a18226d8593771bfde3d6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27974475",
+      "published_utc": "2026-08-01T13:28:12Z",
+      "title_en": "Miroshnik: The US reminds Ukraine that it is hanging on a debt hook",
+      "lead_en": "American President Donald Trump reminded Vladimir Zelensky that the United States can reclaim its debt at any time, noted the Ambassador at Large of the Russian Foreign Ministry",
+      "title_raw": "Мирошник: США напоминают Украине, что она висит на долговом крючке",
+      "lead_raw": "Американский президент Дональд Трамп напомнил Владимиру Зеленскому, что Соединенные Штаты в любой момент могут истребовать свой долг назад, отметил посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "31f00058931ba2cec9495d411cad6e99bb302ff6",
       "fingerprint": "86dbc7427682fba5bcf3394c5883f5dd39035b3f",
@@ -2474,72 +2519,6 @@
       "lead_en": "",
       "title_raw": "ВС РФ поразили четыре судна с грузами военного назначения в портах Одесса и Южный",
       "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8a9978a9cd779cdc441b6f483791936b9e134d32",
-      "fingerprint": "cb06555b01e0fc660d5407b1196247f869ffb1b3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167349",
-      "published_utc": "2026-07-30T14:57:54Z",
-      "title_en": "Russia at important point of completing special op — Medvedev",
-      "lead_en": "The Russian Security Council Deputy Chairman addressed volunteers of the United Russia Young Guard and the Volunteer Company departing to the special military operation zone",
-      "title_raw": "Russia at important point of completing special op — Medvedev",
-      "lead_raw": "The Russian Security Council Deputy Chairman addressed volunteers of the United Russia Young Guard and the Volunteer Company departing to the special military operation zone",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "24dd34b2a89746389d76e0f0dfdd0d3046cd784a",
-      "fingerprint": "3e43e8e4d1365bc47a950ea22e2ea4488d9236d2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27968653",
-      "published_utc": "2026-07-30T14:48:47Z",
-      "title_en": "Police detained a migrant who posted a video online showing an air defense installation",
-      "lead_en": "The Russian Ministry of Internal Affairs clarified that the video was discovered on one of the Ukrainian sites during monitoring",
-      "title_raw": "Полиция задержала мигранта, разместившего в Сети видео с установкой ПВО",
-      "lead_raw": "В МВД России уточнили, что ролик обнаружили на одном из украинских сайтов в ходе мониторинга",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "952bec7f066d43f0a1c5be9c512d8ec8dd7e8b52",
-      "fingerprint": "59c0c1249cf24fcba402f875f67d7605a6be1469",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2167325",
-      "published_utc": "2026-07-30T13:45:00Z",
-      "title_en": "Russia developing new air defense system against Ukrainian UAVs — expert",
-      "lead_en": "Yevgeny Poddubny highlighted three key conditions for successful defense against enemy UAVs: the presence of radar stations, mobility, and well-coordinated interaction of units",
-      "title_raw": "Russia developing new air defense system against Ukrainian UAVs — expert",
-      "lead_raw": "Yevgeny Poddubny highlighted three key conditions for successful defense against enemy UAVs: the presence of radar stations, mobility, and well-coordinated interaction of units",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
