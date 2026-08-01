@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-01T11:19:17Z",
+  "updated_at_utc": "2026-08-01T13:35:10Z",
   "topic": "local_events",
   "count": 4,
   "articles": [
+    {
+      "id": "31f00058931ba2cec9495d411cad6e99bb302ff6",
+      "fingerprint": "86dbc7427682fba5bcf3394c5883f5dd39035b3f",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
+      "published_utc": "2026-08-01T12:52:00Z",
+      "title_en": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+      "lead_en": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "title_raw": "Russia Pounds Kyiv With Missiles, Killing At Least 10",
+      "lead_raw": "This is the second major attack on Kyiv this week, with fires across the city and power outages reported in some areas.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fc55164bb2f9858214eb0d16df1cc3e5f93bcfc0",
       "fingerprint": "087344b930c94eab9b6fcfe73ddc13acf14f7275",
@@ -66,29 +89,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "679872ca5eb3c752108cbe502c678ef05ef75258",
-      "fingerprint": "62bca7984d42208157f6f8a6d85644442971777d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/30/at-least-six-members-of-one-family-killed-in-russian-missile-strike-near-kryvyi-rih-rescue-workers-are-still-searching-the-rubble-for-three-more-people",
-      "published_utc": "2026-07-30T13:24:55Z",
-      "title_en": "At least six members of one family killed in Russian missile strike near Kryvyi Rih. Rescue workers are still searching the rubble for three more people.",
-      "lead_en": "A Russian missile strike killed multiple members of one family — a father, a mother, and at least four of their children — in the village of Radushne in Ukraine’s Dnipropetrovsk region.",
-      "title_raw": "At least six members of one family killed in Russian missile strike near Kryvyi Rih. Rescue workers are still searching the rubble for three more people.",
-      "lead_raw": "A Russian missile strike killed multiple members of one family — a father, a mother, and at least four of their children — in the village of Radushne in Ukraine’s Dnipropetrovsk region.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"

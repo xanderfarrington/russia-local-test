@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-01T11:19:17Z",
+  "updated_at_utc": "2026-08-01T13:35:10Z",
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "17955f1020fbe1fc9f8277173242c51011cf80f7",
+      "fingerprint": "2e8b7ef53cf91e3b4167f381eefe1af91547246b",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/01/ukraine-sinks-russian-owned-container-ship-in-black-sea-rosatom-says-a93393",
+      "published_utc": "2026-08-01T11:49:57Z",
+      "title_en": "Ukraine Sinks Russian-Owned Container Ship in Black Sea, Rosatom Says",
+      "lead_en": "The state nuclear power operator said two Ukrainian drones struck the 'Yanina' cargo vessel near the port of Novorossiysk.",
+      "title_raw": "Ukraine Sinks Russian-Owned Container Ship in Black Sea, Rosatom Says",
+      "lead_raw": "The state nuclear power operator said two Ukrainian drones struck the 'Yanina' cargo vessel near the port of Novorossiysk.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "afa00a36636b68eabb0e61cbf0c9f9820650024b",
       "fingerprint": "f19462056a0493c4749c9de8f9ca826ca8635943",
@@ -627,28 +649,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "58c660d856d474fd134b5d3ba0eb2744e2ecfef3",
-      "fingerprint": "ab0ee3b1074346d43227e5755da9fafdf217b580",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27968151",
-      "published_utc": "2026-07-30T12:31:23Z",
-      "title_en": "RTS proposed obliging oil companies to sell fuel on an equal basis with independent gas stations",
-      "lead_en": "As the Russian Fuel Union notes, independent gas stations have virtually no opportunity to purchase fuel at the wholesale level at prices corresponding to stock market indicators",
-      "title_raw": "РТС предложил обязать нефтекомпании продавать топливо наравне с независимыми АЗС",
-      "lead_raw": "Как отмечает Российский топливный союз, независимые автозаправки практически не имеют возможности приобретать топливо в оптовом звене по ценам, соответствующим биржевым индикаторам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
