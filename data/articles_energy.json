@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-01T03:19:58Z",
+  "updated_at_utc": "2026-08-01T06:32:29Z",
   "topic": "energy",
   "count": 33,
   "articles": [
+    {
+      "id": "9f60a807dd978c5918dbbbda22e2f4e744f91aaa",
+      "fingerprint": "87ab54cacce22820b9986cccf37d9d6fe7b10d32",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27973651",
+      "published_utc": "2026-08-01T05:46:24Z",
+      "title_en": "Thairath: detainee in the case of murder of Russians in Pattaya turned out to be a serial killer",
+      "lead_en": "According to the newspaper, he is responsible for the lives of at least five people.",
+      "title_raw": "Thairath: задержанный по делу об убийстве россиян в Паттайе оказался серийным убийцей",
+      "lead_raw": "По данным газеты, на его счету жизни как минимум пяти человек",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a9dac9350edcbdbce0c2205ba16564acd2a1b66e",
       "fingerprint": "3043f86ba8e4d9ea3eff49dde00c1ec2eac339c7",
@@ -716,29 +738,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "ea753babb951851b79ef64ac5f121a040fd79a41",
-      "fingerprint": "33e3ab9b95a60f3211ca0125e5f4a1a6b483f28a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27966655",
-      "published_utc": "2026-07-30T06:28:26Z",
-      "title_en": "The Russian Armed Forces hit a chemical plant producing fuel for Ukrainian Armed Forces cruise missiles",
-      "lead_en": "It is located in the Rivne region",
-      "title_raw": "ВС РФ поразили химзавод, производящий топливо для крылатых ракет ВСУ",
-      "lead_raw": "Он находится в Ровенской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
