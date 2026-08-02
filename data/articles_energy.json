@@ -1,29 +1,30 @@
 {
-  "updated_at_utc": "2026-08-02T09:11:27Z",
+  "updated_at_utc": "2026-08-02T11:18:42Z",
   "topic": "energy",
-  "count": 17,
+  "count": 16,
   "articles": [
     {
-      "id": "0d6f7129d530d4a4a45898b34b091b9c69141158",
-      "fingerprint": "64d3fe0840220afd75bf92e1ebf9a8552cd81b8f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27975789",
-      "published_utc": "2026-08-02T09:06:55Z",
-      "title_en": "The Russian Armed Forces hit energy infrastructure facilities used for the Armed Forces of Ukraine",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили используемые для ВСУ объекты энергетической инфраструктуры",
-      "lead_raw": "",
+      "id": "d0b541b4ccdcc3811c98dd9db6a6f4d19e7bae17",
+      "fingerprint": "1b303be1ed2107a3b004a7ef9762800302bc42c8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2168123",
+      "published_utc": "2026-08-02T11:09:11Z",
+      "title_en": "Russian strike Ukrainian army’s transport, energy sites over past day",
+      "lead_en": "The Ukrainian army lost roughly 1,415 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "title_raw": "Russian strike Ukrainian army’s transport, energy sites over past day",
+      "lead_raw": "The Ukrainian army lost roughly 1,415 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 1,
         "energy": 1,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
+        "military",
         "energy"
       ],
-      "primary_topic": "energy"
+      "primary_topic": "military"
     },
     {
       "id": "21475346ec37ac95bea0533282d51a62728a19e3",
@@ -353,29 +354,6 @@
         "local_events": 0
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1814a6f23934b48449069dbb4ba9b7fc79065d27",
-      "fingerprint": "4f67c801dc97cfe2dfeb4e21db878943fd86136f",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/31/kazakhstan-in-talks-to-refine-russian-crude-oil-amid-fuel-shortages-a93385",
-      "published_utc": "2026-07-31T10:15:35Z",
-      "title_en": "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages",
-      "lead_en": "Under the proposed arrangement, Kazakh facilities would process Russian oil to cover local market needs while returning a portion of the refined gasoline and diesel back to Russia.",
-      "title_raw": "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages",
-      "lead_raw": "Under the proposed arrangement, Kazakh facilities would process Russian oil to cover local market needs while returning a portion of the refined gasoline and diesel back to Russia.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"

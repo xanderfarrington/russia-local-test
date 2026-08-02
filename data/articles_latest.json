@@ -1,29 +1,199 @@
 {
-  "updated_at_utc": "2026-08-02T09:11:27Z",
+  "updated_at_utc": "2026-08-02T11:18:42Z",
   "keep_hours": 48,
-  "count": 415,
+  "count": 401,
   "articles": [
     {
-      "id": "0d6f7129d530d4a4a45898b34b091b9c69141158",
-      "fingerprint": "64d3fe0840220afd75bf92e1ebf9a8552cd81b8f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27975789",
-      "published_utc": "2026-08-02T09:06:55Z",
-      "title_en": "The Russian Armed Forces hit energy infrastructure facilities used for the Armed Forces of Ukraine",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили используемые для ВСУ объекты энергетической инфраструктуры",
-      "lead_raw": "",
+      "id": "d0b541b4ccdcc3811c98dd9db6a6f4d19e7bae17",
+      "fingerprint": "1b303be1ed2107a3b004a7ef9762800302bc42c8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2168123",
+      "published_utc": "2026-08-02T11:09:11Z",
+      "title_en": "Russian strike Ukrainian army’s transport, energy sites over past day",
+      "lead_en": "The Ukrainian army lost roughly 1,415 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
+      "title_raw": "Russian strike Ukrainian army’s transport, energy sites over past day",
+      "lead_raw": "The Ukrainian army lost roughly 1,415 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 1,
         "energy": 1,
         "economy": 0,
         "local_events": 0
       },
       "topics": [
+        "military",
         "energy"
       ],
-      "primary_topic": "energy"
+      "primary_topic": "military"
+    },
+    {
+      "id": "457f35c0f114afcfa35da2b72b0aa6ce3336e9b8",
+      "fingerprint": "548e1a4e80807f4c1a957ebaf042070b68379da2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27975931",
+      "published_utc": "2026-08-02T11:01:20Z",
+      "title_en": "The Indonesian Embassy announced an imminent free trade agreement with the EAEU",
+      "lead_en": "The country's deputy ambassador in Moscow, Hartjo Harkomoyo, said that trade investment is a very important aspect of Russian-Indonesian relations",
+      "title_raw": "Посольство Индонезии сообщило о скором соглашении о свободной торговле с ЕАЭС",
+      "lead_raw": "Заместитель посла страны в Москве Хартьо Харкомойо заявил, что торговые инвестиции являются очень важным аспектом российско-индонезийских отношений",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "206507a02ff35fefd064fcce42fa03cf6669296b",
+      "fingerprint": "aeb0a755e72e24a026ab7920a549d14d1c4c0066",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27975871",
+      "published_utc": "2026-08-02T10:11:40Z",
+      "title_en": "A Russian woman who was beaten by a man in Georgia left the country",
+      "lead_en": "According to her lawyer Lali Aptsiauri, in a few days she will familiarize herself with the case materials, after which she will make a more detailed statement to the media",
+      "title_raw": "Россиянка, которую мужчина избил в Грузии, покинула страну",
+      "lead_raw": "По словам ее адвоката Лали Апциаури, через несколько дней она ознакомится с материалами дела, после чего выступит с более подробным заявлением для СМИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2bf20834f8b4d1260435aa60bb2b017c939f2533",
+      "fingerprint": "caabf78b449d8e6c55d90fcf2680c392edfaf5c8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27975859",
+      "published_utc": "2026-08-02T09:59:12Z",
+      "title_en": "In Ukraine, two women were forced to apologize for listening to music in Russian",
+      "lead_en": "The women were asked to turn off the Russian-language music, they refused, and as a result the police were called to the scene",
+      "title_raw": "На Украине двух женщин заставили извиняться за прослушивание музыки на русском",
+      "lead_raw": "У женщин потребовали выключить русскоязычную музыку, те отказались, в итоге на место была вызвана полиция",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0923c057291ede0bb3092595c145d1869d7989e8",
+      "fingerprint": "a7e3d781e8d49142ecd1fcd203a3d69d8f885247",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27975839",
+      "published_utc": "2026-08-02T09:45:30Z",
+      "title_en": "Xinhua: work on the construction of the cable car between China and the Russian Federation has been largely completed",
+      "lead_en": "The project will be completed by the end of the year, said Zhang Qijun, deputy director of the management committee of the Heihe Branch of the Heilongjiang Province Experimental Free Trade Zone.",
+      "title_raw": "Xinhua: работы по возведению канатной дороги между КНР и РФ в основном завершены",
+      "lead_raw": "Проект будет выполнен до конца года, сообщил замдиректора управляющего комитета Хэйхэским отделением экспериментальной зоны свободной торговли провинции Хэйлунцзян Чжан Цицзюнь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "fbd652a397e09553f1777aef2d8b6c0ff1364666",
+      "fingerprint": "0a50154d4f1ca37e8bd03850fb58e305a7d5ccde",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27975825",
+      "published_utc": "2026-08-02T09:28:38Z",
+      "title_en": "Mironov called for destroying terrorist leaders",
+      "lead_en": "Russia will continue the special military operation and achieve all its goals, said the leader of A Just Russia",
+      "title_raw": "Миронов призвал уничтожать лидеров террористов",
+      "lead_raw": "Россия продолжит специальную военную операцию и достигнет всех поставленных целей, заявил лидер \"Справедливой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d8eccc376a864870995484d2e0d284d6bbfd8e11",
+      "fingerprint": "9316362a1768657367a456878ebf81ae02e74462",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27975757",
+      "published_utc": "2026-08-02T09:22:49Z",
+      "title_en": "The Kola Scientific Center of the Russian Academy of Sciences has denied information about the alleged discovery of a new mineral",
+      "lead_en": "According to scientists, it was not a new mineral that was found, but a secondary one.",
+      "title_raw": "Кольский научный центр РАН опроверг сведения о якобы открытии нового минерала",
+      "lead_raw": "По словам ученых, найден был не новый минерал, а вторичный",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "67b93316cd1f0bfebdd2f47a9ef21b4f20575c58",
+      "fingerprint": "2d7f4be56f9153f23808edfcc6c5d308e73f1862",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27975791",
+      "published_utc": "2026-08-02T09:07:26Z",
+      "title_en": "Air defense forces shot down 1,158 Ukrainian Armed Forces drones per day",
+      "lead_en": "Six guided aerial bombs were also destroyed, the Russian Ministry of Defense reported.",
+      "title_raw": "Силы ПВО за сутки сбили 1 158 беспилотников ВСУ",
+      "lead_raw": "Также уничтожено шесть управляемых авиационных бомб, сообщили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8d4421990687083e6f4190dd9262e3967d273b4c",
+      "fingerprint": "64d3fe0840220afd75bf92e1ebf9a8552cd81b8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27975789",
+      "published_utc": "2026-08-02T09:06:55Z",
+      "title_en": "The Russian Armed Forces hit Ukrainian logistics centers used in the interests of the Ukrainian Armed Forces",
+      "lead_en": "The Russian military also hit temporary deployment points of Ukrainian armed forces and foreign mercenaries in 156 districts, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили логистические центры Украины, используемые в интересах ВСУ",
+      "lead_raw": "Российские военные также ударили по пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 156 районах, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "011a5199b247faf308d68c62163c407a78501df0",
@@ -8190,468 +8360,6 @@
       "lead_en": "The suspects in the case detained by the country's police admitted that they attacked 22-year-old Diana Nazimova and 17-year-old Roman Nazimov for the purpose of robbery",
       "title_raw": "Трагедия в Таиланде. Что известно об убийстве двух россиян в Паттайе",
       "lead_raw": "Задержанные полицией страны подозреваемые по делу признались, что напали на 22-летнюю Диану Назимову и 17-летнего Романа Назимова с целью ограбления",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "914be9fbc7ddb044cc21879546cca49fa70ca657",
-      "fingerprint": "d757a7028966192b8944837311872d9b608b0b75",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27971573",
-      "published_utc": "2026-07-31T11:14:02Z",
-      "title_en": "More than 20 signs in Russian were dismantled in Kyiv",
-      "lead_en": "Sanctions were applied against those responsible and appeals were sent to public improvement authorities, said Elena Ivanovskaya, Commissioner for the Protection of State Language in Ukraine.",
-      "title_raw": "В Киеве демонтировали более 20 вывесок на русском языке",
-      "lead_raw": "Против ответственных применили санкции и направили обращения в органы благоустройства, заявила уполномоченный по защите госязыка на Украине Елена Ивановская",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "34fe09aab8a4d3c39219a0e46bb5825d74ee50ff",
-      "fingerprint": "7aa636e662b169ba9755cc6bb6a2bbecc80f1f41",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27971509",
-      "published_utc": "2026-07-31T10:59:25Z",
-      "title_en": "The World Arm Wrestling Federation has lifted all restrictions on Russians",
-      "lead_en": "Russian Sports Minister Mikhail Degtyarev noted that this decision confirms the general course of the international sports community towards the full return of Russian athletes",
-      "title_raw": "Всемирная федерация армрестлинга сняла все ограничения с россиян",
-      "lead_raw": "Министр спорта РФ Михаил Дегтярев отметил, что это решение подтверждает общий курс международного спортивного сообщества на полноценное возвращение российских спортсменов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "08d8ec283d7b7f4d721e743dcf9651e3b71e9488",
-      "fingerprint": "51cef386e6fc01c55f3323116e86faf5e9809021",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2167643",
-      "published_utc": "2026-07-31T10:55:55Z",
-      "title_en": "SpaceX turns head as Ukraine uses Starlink for strikes against Russia — expert",
-      "lead_en": "According to Dmitry Kuzyakin, the corporation's management deliberately ignores the problem for the sake of political dividends and enormous financial benefits from equipment sales",
-      "title_raw": "SpaceX turns head as Ukraine uses Starlink for strikes against Russia — expert",
-      "lead_raw": "According to Dmitry Kuzyakin, the corporation's management deliberately ignores the problem for the sake of political dividends and enormous financial benefits from equipment sales",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "414d6972e7e4ed213aa739c1cf3fbd3bb4ead3fa",
-      "fingerprint": "a920bc48d9ca4db8ba36c6b5968128945dc33edc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27971445",
-      "published_utc": "2026-07-31T10:50:21Z",
-      "title_en": "Putin called Russian Railways one of the leaders in labor productivity growth",
-      "lead_en": "The head of the holding, Oleg Belozerov, emphasized that over the past 15 years, in technological calculations, the company's labor productivity has doubled, and in economic terms - in rubles for production, for transportation - four times.",
-      "title_raw": "Путин назвал РЖД одним из лидеров по росту производительности труда",
-      "lead_raw": "Глава холдинга Олег Белозеров подчеркнул, что за последние 15 лет в технологических расчетах производительность труда компании увеличилась в два раза, а в экономическом плане - в рублях на производство, на перевозку - в четыре раза.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f7881754333a6f0defc0a13d2d9a727d1cfddf19",
-      "fingerprint": "d2a405c3db8bd90c64c33eeb7494ca5daf49344f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27971455",
-      "published_utc": "2026-07-31T10:49:49Z",
-      "title_en": "The Russian Embassy in Thailand hopes for a comprehensive investigation into the murder of Russians",
-      "lead_en": "The head of the consular department of the diplomatic mission, Ilya Ilyin, expressed the hope that “the murderers will receive the punishment they deserve.”",
-      "title_raw": "Посольство РФ в Таиланде надеется на всестороннее расследование убийства россиян",
-      "lead_raw": "Заведующий консульским отделом диппредставительства Илья Ильин выразил надежду, что \"убийцы понесут заслуженное наказание\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e12a177f62a0fc0b8ff724b23520e770b334b4e6",
-      "fingerprint": "10d20a4999c43060e7d029ee1066d86995cf562e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27971449",
-      "published_utc": "2026-07-31T10:48:36Z",
-      "title_en": "Putin instructed Belozerov not to forget about the export of coal from the Kemerovo region",
-      "lead_en": "The head of Russian Railways at a meeting with the Russian leader said that the instructions under the agreement on the export of coal are being strictly implemented",
-      "title_raw": "Путин поручил Белозерову не забывать о вывозе угля из Кемеровской области",
-      "lead_raw": "Глава РЖД на встрече с российским лидером сообщил, что поручения по соглашению о вывозе угля четко выполняются",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b2f4dd731b32bc6291aaaa7f87d1f68afb7c374a",
-      "fingerprint": "e53ed1356fb8d6822a41aa6e41e5b95fcb44bce6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27971435",
-      "published_utc": "2026-07-31T10:45:37Z",
-      "title_en": "Tretiak counts on the neutrality of CAS when considering the appeal to the IIHF",
-      "lead_en": "Earlier, the International Hockey Federation extended the suspension of Russian teams for the 2026/27 season",
-      "title_raw": "Третьяк рассчитывает на нейтральность CAS при рассмотрении апелляции к IIHF",
-      "lead_raw": "Ранее Международная федерация хоккея продлила отстранение российских команд на сезон-2026/27",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e1bccb24a62fce1926f341a202cfbe61e43c01de",
-      "fingerprint": "34a0683faa56005132abebee743b6221aea18766",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2167639",
-      "published_utc": "2026-07-31T10:44:40Z",
-      "title_en": "Putin’s trust rating exceeds 70% — pollster",
-      "lead_en": "As many as 42.6% of respondents approved the Russian government’s work",
-      "title_raw": "Putin’s trust rating exceeds 70% — pollster",
-      "lead_raw": "As many as 42.6% of respondents approved the Russian government’s work",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c6c47d49a3f15b15581de49323e431e086ce46a4",
-      "fingerprint": "fae9df05ded3bdd8db690d499d60c83d2b4541fb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27971405",
-      "published_utc": "2026-07-31T10:35:22Z",
-      "title_en": "Commander Lim: The Russian Armed Forces destroy four to five UAV crews of the Ukrainian Armed Forces in Druzhkovka per day",
-      "lead_en": "In Druzhkovka there are seven or eight detection points a day, noted the commander of a platoon of unmanned systems",
-      "title_raw": "Командир Лим: ВС РФ в день уничтожают четыре-пять расчетов БПЛА ВСУ в Дружковке",
-      "lead_raw": "В Дружковке в день по семь, по восемь точек выявления, отметил командир взвода беспилотных систем",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9c630890f6db0a64ffcb01ba362bbc73fa54d3ec",
-      "fingerprint": "e29de6180b2ac8c1eb8569f89ee930696ebc115c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27971399",
-      "published_utc": "2026-07-31T10:33:34Z",
-      "title_en": "Putin called on Belozerov to continue helping the Northern Military District soldiers",
-      "lead_en": "In turn, the head of Russian Railways said that more than 21 thousand military personnel were able to use the company’s medical services together with the Defenders of the Fatherland foundation as part of the project “We do not abandon our own”",
-      "title_raw": "Путин призвал Белозерова продолжать помощь бойцам СВО",
-      "lead_raw": "В свою очередь глава РЖД заявил, что более 21 тыс. военных смогли воспользоваться медицинскими услугами компании совместно с фондом \"Защитники Отечества\" в рамках проекта \"Своих не бросаем\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3376299bcfa37529306ec323b91a217a19110a9f",
-      "fingerprint": "6ca52ca420997de8cfdb023b200b536a7a31ebcc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2167627",
-      "published_utc": "2026-07-31T10:28:28Z",
-      "title_en": "Ukrainian positional defense tactics collapsing under Russian army pressure — official",
-      "lead_en": "Yevgeny Lisnyak noted that the main problem for the Ukrainian armed forces is the lack of personnel and the quality of reinforcements",
-      "title_raw": "Ukrainian positional defense tactics collapsing under Russian army pressure — official",
-      "lead_raw": "Yevgeny Lisnyak noted that the main problem for the Ukrainian armed forces is the lack of personnel and the quality of reinforcements",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5106f6aea6d7e24b955fd8b9d5cb981668a15681",
-      "fingerprint": "da296b813c0096fcb0655df93b993d8907682fb3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/31/residents-of-russia-s-penza-region-say-people-in-plainclothes-are-trying-to-abduct-men-and-force-them-into-military-service",
-      "published_utc": "2026-07-31T10:24:21Z",
-      "title_en": "Residents of Russia’s Penza region say people in plainclothes are trying to abduct men and force them into military service",
-      "lead_en": "Roundups targeting men of conscription age are continuing in the Penza region, now carried out by plainclothes individuals connected to local authorities, the independent Russian investigative outlet Agentstvo reported.",
-      "title_raw": "Residents of Russia’s Penza region say people in plainclothes are trying to abduct men and force them into military service",
-      "lead_raw": "Roundups targeting men of conscription age are continuing in the Penza region, now carried out by plainclothes individuals connected to local authorities, the independent Russian investigative outlet Agentstvo reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1814a6f23934b48449069dbb4ba9b7fc79065d27",
-      "fingerprint": "4f67c801dc97cfe2dfeb4e21db878943fd86136f",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/07/31/kazakhstan-in-talks-to-refine-russian-crude-oil-amid-fuel-shortages-a93385",
-      "published_utc": "2026-07-31T10:15:35Z",
-      "title_en": "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages",
-      "lead_en": "Under the proposed arrangement, Kazakh facilities would process Russian oil to cover local market needs while returning a portion of the refined gasoline and diesel back to Russia.",
-      "title_raw": "Kazakhstan in Talks to Refine Russian Crude Oil Amid Fuel Shortages",
-      "lead_raw": "Under the proposed arrangement, Kazakh facilities would process Russian oil to cover local market needs while returning a portion of the refined gasoline and diesel back to Russia.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7fe45af49bee3c8c9d542b471de71e215e954127",
-      "fingerprint": "058e7703b53e7e104399b3c189e314206d25c03d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2167535",
-      "published_utc": "2026-07-31T10:00:01Z",
-      "title_en": "Press review: Putin-Xi-Trump meeting rumors swirl while Kiev plays Poland against Russia",
-      "lead_en": "Top stories from the Russian press on Friday, July 31st",
-      "title_raw": "Press review: Putin-Xi-Trump meeting rumors swirl while Kiev plays Poland against Russia",
-      "lead_raw": "Top stories from the Russian press on Friday, July 31st",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a2c506c14e7ad8d8ed26c8c6f21e08156751744b",
-      "fingerprint": "5ac62b3164280316925c6b4a1ca385d6b693ca17",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167613",
-      "published_utc": "2026-07-31T09:53:46Z",
-      "title_en": "Ukrainian ports handling military cargoes are legitimate targets for Russia — MP",
-      "lead_en": "The Russian Defense Ministry regularly reports strikes on Ukrainian ports used for delivering military supplies to the Ukrainian armed forces",
-      "title_raw": "Ukrainian ports handling military cargoes are legitimate targets for Russia — MP",
-      "lead_raw": "The Russian Defense Ministry regularly reports strikes on Ukrainian ports used for delivering military supplies to the Ukrainian armed forces",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3355f56c49552e48958c91d2d7293a7b3a26a1ca",
-      "fingerprint": "d404d61e81e6405990e2411f61c3432473e52f42",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/31/russian-mobile-carriers-to-make-access-to-kremlin-backed-max-messenger-free",
-      "published_utc": "2026-07-31T09:52:21Z",
-      "title_en": "Russian mobile carriers to make access to Kremlin-backed Max messenger free",
-      "lead_en": "Russia’s four major mobile carriers — MTS, Beeline, MegaFon, and T2 — will stop charging for data used by the Max messenger starting August 1, letting subscribers use the app without restrictions.",
-      "title_raw": "Russian mobile carriers to make access to Kremlin-backed Max messenger free",
-      "lead_raw": "Russia’s four major mobile carriers — MTS, Beeline, MegaFon, and T2 — will stop charging for data used by the Max messenger starting August 1, letting subscribers use the app without restrictions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7696020fc089717d3669fdc1db11c0e43797eb32",
-      "fingerprint": "18e5264f94ab397df37849603cc64b78bb804120",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27971199",
-      "published_utc": "2026-07-31T09:42:22Z",
-      "title_en": "The Kremlin called the admission of Russians World Boxing the only right decision",
-      "lead_en": "Earlier, the organization announced the lifting of all restrictions on Russians",
-      "title_raw": "Кремлев назвал единственно верным решением допуск россиян World Boxing",
-      "lead_raw": "Ранее организация сообщила о снятии всех ограничений с россиян",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "eade30c6f45a1bf7a96af2c4ec0927608744d6e8",
-      "fingerprint": "71949f815131d25cee2e6b6cb9e192ff7f632d37",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27971181",
-      "published_utc": "2026-07-31T09:40:40Z",
-      "title_en": "Russians in Moldova will be able to vote in the State Duma elections at the embassy",
-      "lead_en": "In 2021, three sites operated across the country",
-      "title_raw": "Россияне в Молдавии смогут проголосовать на выборах в Госдуму в посольстве",
-      "lead_raw": "В 2021 году на территории страны работали три участка",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "26dc477d256bfc602c4fdc934c249879277b4f47",
-      "fingerprint": "39c8728e463b0aadddc9639d1bfabc7c80f41372",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27971187",
-      "published_utc": "2026-07-31T09:39:14Z",
-      "title_en": "In Thailand, a suspect was detained in the case of the disappearance of Russians",
-      "lead_en": "According to the portal, the main person involved in this case, 43-year-old Thana Kutthong, was able to escape",
-      "title_raw": "В Таиланде задержали подозреваемого по делу об исчезновении россиян",
-      "lead_raw": "По данным портала, главный фигурант этого дела 43-летний Тхана Кыттхонг смог сбежать",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ee2d8ceae5aaffa599b371388345e45fe3c21b74",
-      "fingerprint": "213dde360df5e3322809f5f5e430ecb8d8ca9a16",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/07/31/the-guardian-russia-destroyed-american-drone-factory-in-attack-on-kyiv",
-      "published_utc": "2026-07-31T09:30:23Z",
-      "title_en": "The Guardian: Russia destroyed American drone factory in attack on Kyiv",
-      "lead_en": "A Russian strike on Kyiv on July 26 destroyed a facility belonging to Terminal Autonomy, an American company that manufactures precision-guided drones, The Guardian reported, citing a source close to the company.",
-      "title_raw": "The Guardian: Russia destroyed American drone factory in attack on Kyiv",
-      "lead_raw": "A Russian strike on Kyiv on July 26 destroyed a facility belonging to Terminal Autonomy, an American company that manufactures precision-guided drones, The Guardian reported, citing a source close to the company.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3541d5c1082b9e98b686910880703fcd492287ba",
-      "fingerprint": "cd0a2889081bab447cdfcaaa1519320486233766",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27971083",
-      "published_utc": "2026-07-31T09:15:36Z",
-      "title_en": "Russian Defense Ministry: establishing control over Verovka makes it difficult to supply the Armed Forces of Ukraine in the depths of defense",
-      "lead_en": "",
-      "title_raw": "МО РФ: установление контроля над Веровкой затрудняет снабжение ВСУ в глубине обороны",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4e4645af65e511f0146c7e7a8df931c2e8fc1547",
-      "fingerprint": "581bf1bed144421af0da22862451aff30e3a58d7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27970831",
-      "published_utc": "2026-07-31T09:12:52Z",
-      "title_en": "Expert Dautova spoke about one of the last white spots on the ocean map",
-      "lead_en": "RAS scientist noted the successes of Russian science in the study of the Imperial Ridge",
-      "title_raw": "Эксперт Даутова рассказала об одном из последних белых пятен на карте океана",
-      "lead_raw": "Ученый РАН отметила успехи российской науки в исследовании Императорского хребта",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
