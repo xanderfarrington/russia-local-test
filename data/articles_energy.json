@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-02T20:59:09Z",
+  "updated_at_utc": "2026-08-02T22:03:10Z",
   "topic": "energy",
-  "count": 18,
+  "count": 16,
   "articles": [
+    {
+      "id": "3bed19de4057933934405aaacc72c58a4db1cc01",
+      "fingerprint": "bd15dc4d868fd5d3ce822c7e878b360fb964be67",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27975657",
+      "published_utc": "2026-08-02T21:00:00Z",
+      "title_en": "Military operation in Ukraine. Online",
+      "lead_en": "Within 24 hours, Russian troops hit energy and transport infrastructure facilities and logistics centers involved in the interests of the Armed Forces of Ukraine",
+      "title_raw": "Военная операция на Украине. Онлайн",
+      "lead_raw": "Российские войска за сутки поразили объекты энергетической, транспортной инфраструктуры и логистические центры, задействованные в интересах ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "41cc426356fca7d359f5dbcb84649fc3644a3499",
       "fingerprint": "59535c2c87f5622b503362996fbd1677820316c6",
@@ -334,74 +357,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a9dac9350edcbdbce0c2205ba16564acd2a1b66e",
-      "fingerprint": "3043f86ba8e4d9ea3eff49dde00c1ec2eac339c7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27973077",
-      "published_utc": "2026-07-31T21:13:43Z",
-      "title_en": "The Russian Ministry of Defense explained how fuel is delivered to the front line",
-      "lead_en": "Deputy Commander of the Moscow Military District for Logistics, Major General Mikhail Petrov, said that the rear service of the Russian Armed Forces uses drone couriers and fighters on electric scooters for this purpose.",
-      "title_raw": "В МО РФ рассказали, как доставляют топливо на передовую",
-      "lead_raw": "Заместитель командующего войсками Московского военного округа по материально-техническому обеспечению генерал-майор Михаил Петров заявил, что тыловая служба ВС РФ для этого использует беспилотники-курьеры и бойцов на электросамокатах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0bf36d090572beaeacde5fa3c6664daee5a6165d",
-      "fingerprint": "7913f8d0e992718fe23b16ffae515d0acbd262be",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2167857",
-      "published_utc": "2026-07-31T21:04:00Z",
-      "title_en": "Russia not to pay membership fee to OECD Nuclear Energy Agency",
-      "lead_en": "Money will instead be allocated to the state nuclear corporation Rosatom",
-      "title_raw": "Russia not to pay membership fee to OECD Nuclear Energy Agency",
-      "lead_raw": "Money will instead be allocated to the state nuclear corporation Rosatom",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "784de156a185d08a918865fa372bee726c642956",
-      "fingerprint": "893696b82ae984a611a202c5dc8c1e2d97c398f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27970369",
-      "published_utc": "2026-07-31T21:00:01Z",
-      "title_en": "Military operation in Ukraine. Online",
-      "lead_en": "Russian missiles and drones hit a tank with fuel and lubricants in the port of Odessa, a dry cargo ship and workshops of the Odessa oil refinery, involved in the interests of the Ukrainian Armed Forces, the Ministry of Defense reported",
-      "title_raw": "Военная операция на Украине. Онлайн",
-      "lead_raw": "Российские ракеты и беспилотники поразили резервуар с ГСМ в порту Одесса, сухогруз и цеха Одесского нефтеперерабатывающего завода, задействованные в интересах ВСУ, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
