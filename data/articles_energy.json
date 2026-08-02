@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-02T06:36:24Z",
+  "updated_at_utc": "2026-08-02T09:11:27Z",
   "topic": "energy",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "0d6f7129d530d4a4a45898b34b091b9c69141158",
+      "fingerprint": "64d3fe0840220afd75bf92e1ebf9a8552cd81b8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27975789",
+      "published_utc": "2026-08-02T09:06:55Z",
+      "title_en": "The Russian Armed Forces hit energy infrastructure facilities used for the Armed Forces of Ukraine",
+      "lead_en": "",
+      "title_raw": "ВС РФ поразили используемые для ВСУ объекты энергетической инфраструктуры",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "21475346ec37ac95bea0533282d51a62728a19e3",
       "fingerprint": "9053f5461d8402802d4e68610eaa1dc59cf1c9af",
@@ -357,52 +379,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "65b0fe02ce86f9cd0c11c8d36614058b86d0621f",
-      "fingerprint": "b93925b2dc5d1fe9397f7137403c4127e90e4380",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/07/31/russians-who-film-ukrainian-attacks-and-post-them-on-social-media-are-being-detained-fined-and-forced-to-apologize-on-camera",
-      "published_utc": "2026-07-31T08:54:53Z",
-      "title_en": "Russians who film Ukrainian attacks and post them on social media are being detained, fined, and forced to apologize on camera",
-      "lead_en": "Ukraine’s military is attacking Russian cities with growing intensity, and the consequences of these attacks are becoming more severe with each passing week. Ukraine’s attacks have hit not only military targets but also oil refineries, warehouses, and residential buildings.",
-      "title_raw": "Russians who film Ukrainian attacks and post them on social media are being detained, fined, and forced to apologize on camera",
-      "lead_raw": "Ukraine’s military is attacking Russian cities with growing intensity, and the consequences of these attacks are becoming more severe with each passing week. Ukraine’s attacks have hit not only military targets but also oil refineries, warehouses, and residential buildings.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "45539ca301d4d4203f9f26e09d48b11f0d7fdcce",
-      "fingerprint": "385da7f5f4a83423c60fb0386fa7b6c9d278d33d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2167567",
-      "published_utc": "2026-07-31T08:34:35Z",
-      "title_en": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia — MP",
-      "lead_en": "The Zaporozhye NPP earlier reported that the Ukrainian armed forces had attacked the dry storage site for spent nuclear fuel",
-      "title_raw": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia — MP",
-      "lead_raw": "The Zaporozhye NPP earlier reported that the Ukrainian armed forces had attacked the dry storage site for spent nuclear fuel",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
