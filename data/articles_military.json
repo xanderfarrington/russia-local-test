@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-08-02T19:15:42Z",
+  "updated_at_utc": "2026-08-02T20:59:09Z",
   "topic": "military",
-  "count": 104,
+  "count": 106,
   "articles": [
+    {
+      "id": "73d16329c74b986d5d59b72fec67dbd7376a97cf",
+      "fingerprint": "168946cae6d2adbe472d5353959451131f5ce2df",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27976561",
+      "published_utc": "2026-08-02T20:39:06Z",
+      "title_en": "The Russian Embassy called the terrorist attack in Moscow an act of intimidation of Italians by Kyiv",
+      "lead_en": "Everyone who continues to supply Ukraine with money and weapons are accomplices in such crimes, the diplomatic mission said",
+      "title_raw": "В посольстве РФ назвали теракт в Москве актом устрашения итальянцев Киевом",
+      "lead_raw": "Все, кто продолжает снабжать Украину деньгами и оружием, являются соучастниками таких преступлений, заявили в диппредставительстве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "590478cc97ccf64d4c69a4911f3a62dc1cac1f89",
+      "fingerprint": "235f36d736b8e13694f2cadf0d5653f5f0e7a887",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2168203",
+      "published_utc": "2026-08-02T20:26:05Z",
+      "title_en": "Russian Maritime Board chief holds talks on maritime logistics cooperation in Algeria",
+      "lead_en": "The sides also discussed ensuring security of navigation in the Mediterranean",
+      "title_raw": "Russian Maritime Board chief holds talks on maritime logistics cooperation in Algeria",
+      "lead_raw": "The sides also discussed ensuring security of navigation in the Mediterranean",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6cc720763ae69a2b36360c4d2bbaf47d4fa935a1",
       "fingerprint": "e279919da8e3a26d568ee8a7de0252498cc75631",
@@ -125,6 +171,28 @@
       "lead_en": "A member of the United Russia General Council noted the significant contribution of airborne units to the special military operation, mentioning the Gostomel and Kherson landings",
       "title_raw": "Поддубный: фронтовики-десантники усилят Госдуму",
       "lead_raw": "Член генсовета ЕР отметил значительный вклад подразделений ВДВ в проведение специальной военной операции, упомянув Гостомельский и Херсонский десанты",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2c85e07b3437f382319e2ef196cffed3f37b341e",
+      "fingerprint": "06fbcc795365abeb2a79060883ff8f8692e3cc8d",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/02/ukrainian-drones-kill-8-in-russia-and-strike-wildberries-warehouse-a93396",
+      "published_utc": "2026-08-02T17:03:00Z",
+      "title_en": "Ukrainian Drones Kill 8 in Russia and Strike Wildberries Warehouse",
+      "lead_en": "Russia's Defense Ministry said it had downed 635 Ukrainian drones overnight.",
+      "title_raw": "Ukrainian Drones Kill 8 in Russia and Strike Wildberries Warehouse",
+      "lead_raw": "Russia's Defense Ministry said it had downed 635 Ukrainian drones overnight.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
@@ -2284,28 +2352,6 @@
       "topics": [
         "military",
         "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "89333b1204c44cb85284280003d8041281429fa8",
-      "fingerprint": "05051442540e24eae824e258e93b7c4be9061adf",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2167845",
-      "published_utc": "2026-07-31T19:28:33Z",
-      "title_en": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes",
-      "lead_en": "Russian forces carried out four strikes on targets involved in the transportation of weapons and military equipment",
-      "title_raw": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes",
-      "lead_raw": "Russian forces carried out four strikes on targets involved in the transportation of weapons and military equipment",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
       ],
       "primary_topic": "military"
     }
