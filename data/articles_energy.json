@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-03T17:59:23Z",
+  "updated_at_utc": "2026-08-03T19:42:35Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "116cabe18b24935dc742916c97d4aaf2cad9ac9c",
+      "fingerprint": "e0408373f8d82bd4fe95c1906b89025a66d824bd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27979591",
+      "published_utc": "2026-08-03T18:09:46Z",
+      "title_en": "Cumhuriyet: a Turkish ship en route to the Russian Federation was attacked by Ukrainian Armed Forces drones",
+      "lead_en": "Four sailors were wounded, including three Turkish citizens, the newspaper reported.",
+      "title_raw": "Cumhuriyet: следовавшее в РФ турецкое судно атаковали дроны ВСУ",
+      "lead_raw": "Ранены четыре моряка, в том числе трое граждан Турции, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5e74891167fd4d1ca668a46a9fe1855925d7c867",
       "fingerprint": "301d67ffeb56f2564c29f4004d573429e715e123",
@@ -439,28 +461,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b4045631ccdb9abff8a3ff2b36a16737b20db71b",
-      "fingerprint": "5829dbbdcfeb7e5b526e5ebc41090a1b08b7db7d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27974781",
-      "published_utc": "2026-08-01T18:25:59Z",
-      "title_en": "Speaker of the Parliament of Moldova Grosu admitted the republic's dependence on gas from the Russian Federation",
-      "lead_en": "The leader of the ruling Action and Solidarity Party noted that, having a contract with European countries, at a time when the republic most needs energy resources - in winter - supplies can be reduced without explanation",
-      "title_raw": "Спикер парламента Молдавии Гросу признал зависимость республики от газа из РФ",
-      "lead_raw": "Лидер правящей Партии действия и солидарности отметил, что, имея контракт со странами Европы, в то время, когда республике больше всего нужны энергетические ресурсы - в зимний период - поставки могут быть сокращены без объяснения причин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
         "economy": 0,
         "local_events": 0
       },
