@@ -1,8 +1,76 @@
 {
-  "updated_at_utc": "2026-08-04T16:55:06Z",
+  "updated_at_utc": "2026-08-04T18:40:33Z",
   "topic": "diplomacy",
-  "count": 51,
+  "count": 52,
   "articles": [
+    {
+      "id": "9c03f99c13376c938f8699f42d6578f573a40d4f",
+      "fingerprint": "3498182a654b8a574aea2df2533189f1a9f53504",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27983013",
+      "published_utc": "2026-08-04T17:48:04Z",
+      "title_en": "Zakharova commented on the funeral of a Nazi collaborator in Latvia",
+      "lead_en": "According to the official representative of the Russian Foreign Ministry, this indicates the revival of this ideology in the European Union",
+      "title_raw": "Захарова прокомментировала похороны пособника нацистов в Латвии",
+      "lead_raw": "По мнению официального представителя МИД РФ, это говорит о возрождении этой идеологии в Евросоюзе",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "285a7da50e38c5687d6ee2807c6543fcfacb8d78",
+      "fingerprint": "00c7cad436fed0b192b0b5360601e2d7959d3d41",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27982991",
+      "published_utc": "2026-08-04T17:26:15Z",
+      "title_en": "Rodina players defeated Rubin at the start of the Russian Cup",
+      "lead_en": "The meeting ended with a score of 5:0",
+      "title_raw": "Футболисты \"Родины\" разгромили \"Рубин\" на старте Кубка России",
+      "lead_raw": "Встреча завершилась со счетом 5:0",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "add363d02a5d62c1be46dede57eda9920b4e6ca8",
+      "fingerprint": "f5fe3f9ff543026fa4a23caab072ca8aceec9db2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27982957",
+      "published_utc": "2026-08-04T17:01:14Z",
+      "title_en": "Galuzin named the beneficiary of Ukraine's strikes on the CPC",
+      "lead_en": "The Deputy Foreign Minister of the Russian Federation said that the Kiev regime is “a proxy of global Western elites who are trying to reshape the global economy, including the energy market, in their favor.”",
+      "title_raw": "Галузин назвал бенефициара ударов Украины по КТК",
+      "lead_raw": "Замглавы МИД РФ заявил, что киевский режим - это \"прокси глобальных западных элит, которые пытаются перекроить глобальную экономику, включая энергетический рынок, в свою пользу\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "7322548feaa076ce739fec71438ed77f472e6919",
       "fingerprint": "b803c7dfa198f2f79c45423dd909594503d90add",
@@ -1086,51 +1154,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1143f347a2e7507d78f038c34cb589962befa35a",
-      "fingerprint": "3b26443d387d486033b2832041dec1aaa3565cc7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27976445",
-      "published_utc": "2026-08-02T17:57:08Z",
-      "title_en": "Miroshnik: since the beginning of the year, more than 35 children have died at the hands of Kyiv",
-      "lead_en": "About 300 more were injured, noted the Ambassador at Large of the Russian Foreign Ministry on the crimes of the Kyiv regime",
-      "title_raw": "Мирошник: с начала года от рук Киева погибли более 35 детей",
-      "lead_raw": "Еще около 300 пострадали, отметил посол по особым поручениям МИД России по вопросам преступлений киевского режима",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9dde372e3d67ec4d91f56a7dbb5860002971a01c",
-      "fingerprint": "b5844d0e4bdccb6f4927cd780a973a170258908b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27976373",
-      "published_utc": "2026-08-02T17:09:55Z",
-      "title_en": "The ex-ambassador of Germany to Russia noted Putin’s good physical shape",
-      "lead_en": "Alexander Lambsdorff also noted that the Russian President is “very disciplined and athletic, he has very good medical care.”",
-      "title_raw": "Экс-посол ФРГ в России отметил хорошую физическую форму Путина",
-      "lead_raw": "Александер Ламбсдорф также отметил, что президент России является \"весьма дисциплинированным и спортивным, у него очень хорошее медицинское обслуживание\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "diplomacy"
