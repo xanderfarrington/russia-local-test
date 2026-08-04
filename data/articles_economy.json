@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-04T02:50:52Z",
+  "updated_at_utc": "2026-08-04T05:51:26Z",
   "topic": "economy",
   "count": 7,
   "articles": [
+    {
+      "id": "e4cef159378807378a6110f010d3ff5e7e9d563c",
+      "fingerprint": "32d93fb9fe02763d7f8afc69545b048b1e5174c1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27980479",
+      "published_utc": "2026-08-04T05:09:10Z",
+      "title_en": "Businesses in the Russian Federation were offered the opportunity to change the decision to switch to AUSN",
+      "lead_en": "The Chamber of Commerce and Industry of the Russian Federation believes that entrepreneurs could be allowed to “roll back” or choose another object of taxation under certain conditions",
+      "title_raw": "Бизнесу в РФ предложили дать возможность изменять решение о переходе на АУСН",
+      "lead_raw": "Торгово-промышленная палата РФ считает, что предпринимателям можно было бы разрешить \"откатиться назад\" или выбрать другой объект налогообложения при определенных условиях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d86f4207daf9b46fa2d1e2d5e320b976c8c73ae6",
       "fingerprint": "3a6d2ac0703e1cecc49e47de42c0b90be6d8361a",
@@ -135,28 +157,6 @@
         "economy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "420fdc097a60bef8163c8d86a75b6709b1e92751",
-      "fingerprint": "bd406aa2552daf32db4c341d010d8fd3920acd7f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27975365",
-      "published_utc": "2026-08-02T05:03:49Z",
-      "title_en": "\"Vyberu.ru\": 52% of Russians have become more attentive to financial news",
-      "lead_en": "According to a survey of a financial marketplace, 29% of respondents reported that after news about changes in the economy, decisions of the Central Bank or fluctuations in exchange rates, the first thing they do is open a banking application and check the conditions for deposits",
-      "title_raw": "\"Выберу.ру\": 52% россиян стали внимательнее относиться к финансовым новостям",
-      "lead_raw": "Согласно опросу финансового маркетплейса, 29% респондентов сообщили, что после новостей об изменениях в экономике, решениях ЦБ или колебаниях курсов валют первым делом открывают банковское приложение и проверяют условия по вкладам и накопительным счетам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
