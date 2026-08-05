@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-05T00:06:57Z",
+  "updated_at_utc": "2026-08-05T04:13:16Z",
   "topic": "economy",
   "count": 10,
   "articles": [
+    {
+      "id": "1cbf0fb8c46bdcb0e4347b54428f3fce91b45e4e",
+      "fingerprint": "2f88e3b663a874d4eff3629404c173b179762c9d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27983731",
+      "published_utc": "2026-08-05T03:44:29Z",
+      "title_en": "RBC reported a sharp increase in fraudulent transactions through ATMs",
+      "lead_en": "According to the Bank of Russia, the volume of stolen funds amounted to 252.3 million rubles",
+      "title_raw": "В РБК сообщили о резком росте мошеннических операций через банкоматы",
+      "lead_raw": "Согласно материалам Банка России, объем похищенных средств составил 252,3 млн рублей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "add363d02a5d62c1be46dede57eda9920b4e6ca8",
       "fingerprint": "f5fe3f9ff543026fa4a23caab072ca8aceec9db2",
@@ -191,28 +213,6 @@
       "lead_en": "Changing supply chains, evolving geopolitical dynamics and Russia’s efforts to diversify its sourcing have created fresh opportunities for Indian businesses, FIEO President Subhash Chander Ralhan noted",
       "title_raw": "Russia becomes one of the most promising markets for Indian exports — FIEO",
       "lead_raw": "Changing supply chains, evolving geopolitical dynamics and Russia’s efforts to diversify its sourcing have created fresh opportunities for Indian businesses, FIEO President Subhash Chander Ralhan noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1099e8a8e3427f5c472299096cf64c173e96bc6b",
-      "fingerprint": "0dfb8b2282b8be05761bfc08b960d911b2f53920",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27976947",
-      "published_utc": "2026-08-03T03:45:02Z",
-      "title_en": "In Russia, sales of gold bars increased by a third in the first half of 2026",
-      "lead_en": "At the same time, the volume of customer investments in investment coins increased by 8%, Rosselkhozbank reported.",
-      "title_raw": "В России продажи золотых слитков выросли на треть в первом полугодии 2026 года",
-      "lead_raw": "При этом объем вложений клиентов в инвестиционные монеты вырос на 8%, сообщил Россельхозбанк",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
