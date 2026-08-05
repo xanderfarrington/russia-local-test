@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-05T07:42:26Z",
+  "updated_at_utc": "2026-08-05T10:39:26Z",
   "topic": "local_events",
   "count": 7,
   "articles": [
+    {
+      "id": "743841bf464311152d810377a2b8db898832d463",
+      "fingerprint": "747ef52ad4fe37e5c5412ba126387b72fcbeaffd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2169177",
+      "published_utc": "2026-08-05T09:48:56Z",
+      "title_en": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
+      "lead_en": "A fire broke out in three districts of the Kiev Region after a series of explosions",
+      "title_raw": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
+      "lead_raw": "A fire broke out in three districts of the Kiev Region after a series of explosions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d4b627b4487136b7ac93c4baeac74517ff51980f",
       "fingerprint": "398e67090061116156ecd90f7ed3fa5d0005fc5d",
@@ -125,28 +148,6 @@
       "lead_en": "Six people, including three children, were killed in a Ukrainian drone attack on the village of Arkhipo-Osipovka near Gelendzhik, Krasnodar Krai Governor Veniamin Kondratyev said.",
       "title_raw": "Ukrainian drone crashes on beach with vacationers at Russian Black Sea resort as warning system fails to sound. Seven people killed.",
       "lead_raw": "Six people, including three children, were killed in a Ukrainian drone attack on the village of Arkhipo-Osipovka near Gelendzhik, Krasnodar Krai Governor Veniamin Kondratyev said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "230f186f8a65d1b317b28702db2bac9fe24dde2b",
-      "fingerprint": "32eedb9849fffd1a266a13a7d70311ac28ec1c77",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/03/ukrainian-drones-attack-russia-s-black-sea-coast-and-occupied-crimea-killing-six-people",
-      "published_utc": "2026-08-03T10:06:25Z",
-      "title_en": "Ukrainian drones attack Russia’s Black Sea coast and occupied Crimea, killing six people",
-      "lead_en": "A Ukrainian drone attack on occupied Crimea killed three people and injured two others, said Sergey Aksyonov, the Kremlin-appointed head of the peninsula. He reported no other damage from the strikes.",
-      "title_raw": "Ukrainian drones attack Russia’s Black Sea coast and occupied Crimea, killing six people",
-      "lead_raw": "A Ukrainian drone attack on occupied Crimea killed three people and injured two others, said Sergey Aksyonov, the Kremlin-appointed head of the peninsula. He reported no other damage from the strikes.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
