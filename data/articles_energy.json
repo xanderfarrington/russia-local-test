@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-06T02:51:03Z",
+  "updated_at_utc": "2026-08-06T05:52:46Z",
   "topic": "energy",
   "count": 26,
   "articles": [
+    {
+      "id": "63a06e6316ed67fe010d3e07fc970d63445c7050",
+      "fingerprint": "fc72fd46b6850dea8a0c230d2db7c397b8868a8d",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643919-indiana-emergency-drone-russia",
+      "published_utc": "2026-08-06T04:49:13Z",
+      "title_en": "US state declares emergency over Russia-Ukraine drone warfare",
+      "lead_en": "The US state of Indiana has declared an energy emergency, citing maritime drone warfare in the Russia-Ukraine conflict Read Full Article at RT.com",
+      "title_raw": "US state declares emergency over Russia-Ukraine drone warfare",
+      "lead_raw": "The US state of Indiana has declared an energy emergency, citing maritime drone warfare in the Russia-Ukraine conflict Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7db5c4cf012ec39a6e17026269ecd397b7807748",
       "fingerprint": "02742d0a264d9b063aef969198d9243296690a5c",
@@ -566,30 +588,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "4a4f1226b5693ca8fe4260f8613e046089f85bcb",
-      "fingerprint": "6beaf261fb7b31ae38a8beeec808615ba9ed1482",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27980347",
-      "published_utc": "2026-08-04T04:54:00Z",
-      "title_en": "Miroshnik reported an unprecedented load on the energy sector of Crimea due to strikes by the Ukrainian Armed Forces",
-      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that Ukrainian forces deliberately attacked distribution substations that provide energy supply to several areas of the peninsula at once",
-      "title_raw": "Мирошник сообщил о беспрецедентной нагрузке на энергетику Крыма из-за ударов ВСУ",
-      "lead_raw": "Посол по особым поручениям МИД России отметил, что украинские силы целенаправленно атаковали распределительные подстанции, обеспечивающие энергоснабжение сразу нескольких районов полуострова",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
