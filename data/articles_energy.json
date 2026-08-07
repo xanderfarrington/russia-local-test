@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-08-07T00:42:07Z",
+  "updated_at_utc": "2026-08-07T03:51:35Z",
   "topic": "energy",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "f38348736a184254b9fe6fe0524a1a828d8ad4f4",
+      "fingerprint": "7a8e41da4eb7185f162bf9c2d89f662e0ccd944b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27990903",
+      "published_utc": "2026-08-07T02:41:28Z",
+      "title_en": "\"Kommersant\": the government has determined the criteria for recognizing AI models as national",
+      "lead_en": "According to the newspaper's sources, for this the Russian developer must have exclusive rights to the architecture and trainable parameters of the system",
+      "title_raw": "\"Ъ\": правительство определило критерии признания ИИ-моделей национальными",
+      "lead_raw": "По информации источников газеты, для этого российскому разработчику должны принадлежать исключительные права на архитектуру и обучаемые параметры системы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d93b2ca9df5641faee5f2046cc2303f3e845a9e6",
+      "fingerprint": "be18076b1f0f2372456aa38b44989c69e679ef91",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27990805",
+      "published_utc": "2026-08-07T01:31:51Z",
+      "title_en": "Izvestia: The Ministry of Transport proposed measures to increase jet fuel production in the Russian Federation",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "\"Известия\": Минтранс предложил меры по увеличению производства авиакеросина в РФ",
+      "lead_raw": "Предлагается разрешить выпуск керосина с температурой кристаллизации до минус 50 градусов и внедрить противоизносную присадку, отмечает газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "94595058dfd3d9fc5577fdd575c7f307c3e3c373",
       "fingerprint": "b375a840c4c7afba086846aeb7339b4f8906fbb3",
@@ -425,75 +469,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "552da89b2c3f93fdd1789f4051099ace45f0550b",
-      "fingerprint": "c33757e6deff57878f244add18c166212d099b06",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27983713",
-      "published_utc": "2026-08-05T03:35:50Z",
-      "title_en": "Officer Crimea spoke about the problems of militants in Mali with weapons and fuel",
-      "lead_en": "The serviceman said that the terrorists abandoned the tactics of storming Russian strongholds and switched to organizing ambushes",
-      "title_raw": "Офицер Крым рассказал о проблемах боевиков в Мали с вооружением и топливом",
-      "lead_raw": "Военнослужащий заявил, что террористы отказались от тактики штурма российских опорных пунктов и перешли к организации засад",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4ac06061cffae443e9122e192bf1a4d0acc87487",
-      "fingerprint": "528e5743ef50e59596096fa73d20d4d50f858388",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27983641",
-      "published_utc": "2026-08-05T03:14:22Z",
-      "title_en": "Expert Stepanov called the underwater component of the Pacific Fleet a key means of deterrence",
-      "lead_en": "The military expert noted that the nuclear-powered missile carriers of the Pacific Fleet, equipped with Bulava ballistic missiles, ensure the security of not only Russian borders, but also the allies of the Russian Federation",
-      "title_raw": "Эксперт Степанов назвал подводный компонент ТОФ ключевым средством сдерживания",
-      "lead_raw": "Военный эксперт отметил, что атомные ракетоносцы Тихоокеанского флота, оснащенные баллистическими ракетами \"Булава\", обеспечивают безопасность не только российских рубежей, но и союзников РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7c9bc0d381ae2a07bb5e3abcb64a2abc0c6d0f6e",
-      "fingerprint": "487547a454d33cdf155a4106bc9e021f211c4dae",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27983585",
-      "published_utc": "2026-08-05T02:30:55Z",
-      "title_en": "Pakistani Ambassador to Russia warns of consequences of escalation between US and Iran",
-      "lead_en": "Faisal Niyaz Tirmizi noted that the consequences of a renewed conflict will be not only regional, but also international, especially in relation to oil and fertilizer prices",
-      "title_raw": "Посол Пакистана в РФ предупредил о последствиях эскалации между США и Ираном",
-      "lead_raw": "Файсал Нияз Тирмизи отметил, что последствия возобновления конфликта будут не только регионального, но и международного значения, особенно в отношении цен на нефть и удобрения",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
