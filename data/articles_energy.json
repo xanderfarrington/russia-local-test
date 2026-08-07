@@ -1,8 +1,120 @@
 {
-  "updated_at_utc": "2026-08-07T05:42:38Z",
+  "updated_at_utc": "2026-08-07T07:21:07Z",
   "topic": "energy",
-  "count": 22,
+  "count": 27,
   "articles": [
+    {
+      "id": "f34ea28dfd2bc5a3c17aa5c4f28dfe887af4ca93",
+      "fingerprint": "24e06e36b9e30d9263ab197bf43d5eff4c8dc568",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27991641",
+      "published_utc": "2026-08-07T07:15:33Z",
+      "title_en": "The first stage of construction of a solar power plant in Kyrgyzstan with the Russian Federation will be launched on August 31",
+      "lead_en": "The day before, the press service of the Rosatom Renewable Energy company reported that Rosatom and the Russian-Kyrgyz Development Fund signed an agreement on the implementation of an investment project for the construction and operation of a wind power plant in the Issyk-Kul reg",
+      "title_raw": "Первый этап строительства с РФ солнечной электростанции в Киргизии запустят 31 августа",
+      "lead_raw": "Накануне пресс-служба компании \"Росатом возобновляемая энергия\" сообщила, что Росатом и Российско-киргизский фонд развития подписали соглашение о реализации инвестиционного проекта по строительству и эксплуатации ветряной электростанции в Иссык-Кульской области",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "18a1d2589bf535f8113aebd51c8968ea31ac7e1f",
+      "fingerprint": "5d9820f8ffa00f31c19495cca4d3bb80004fd866",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2169989",
+      "published_utc": "2026-08-07T07:03:51Z",
+      "title_en": "NATO directly involved in strikes on Russian territory, hackers say citing files",
+      "lead_en": "According to available information, a NATO intelligence-linked hybrid warfare specialist, Bart de Wachter, provided the coordinates of oil and gas terminals in the Leningrad and Kaliningrad regions to Ukraine’s Security Service",
+      "title_raw": "NATO directly involved in strikes on Russian territory, hackers say citing files",
+      "lead_raw": "According to available information, a NATO intelligence-linked hybrid warfare specialist, Bart de Wachter, provided the coordinates of oil and gas terminals in the Leningrad and Kaliningrad regions to Ukraine’s Security Service",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ead20f7b138ce9e8082b067ff39ded571f2a383f",
+      "fingerprint": "6d55d65c73eff8fa385815633075865726647c4b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2169981",
+      "published_utc": "2026-08-07T06:39:35Z",
+      "title_en": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
+      "lead_en": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
+      "title_raw": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
+      "lead_raw": "The Russian hackers gained access to communications and files revealing who provided the exact coordinates of the facilities and who \"pushed Ukraine toward terrorism in the Leningrad and Kaliningrad regions\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f14fe29bc340e834220a20a71634da8376e2852c",
+      "fingerprint": "0e332b37a0c45e8016975d7cc41ae6600d0cfc3c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27991429",
+      "published_utc": "2026-08-07T06:08:17Z",
+      "title_en": "TASS: hackers named the person who provided the SBU with coordinates of Russian oil terminals",
+      "lead_en": "We are talking about Bart de Wachter",
+      "title_raw": "ТАСС: хакеры назвали имя предоставлявшего СБУ координаты нефтяных терминалов РФ",
+      "lead_raw": "Речь идет о Барте де Вахтере",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7e37460b3671b01f1e637653bd7eaaa01796efc5",
+      "fingerprint": "bdd73ef374adc8568343fe3bed87d57dfa41e49d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27991421",
+      "published_utc": "2026-08-07T06:01:14Z",
+      "title_en": "TASS: hackers found documents about Ukrainian Armed Forces’ strikes on oil terminals in Russia",
+      "lead_en": "They reported that they had gained access to correspondence and documents that reveal who gave the exact coordinates of the objects and who “incited Ukraine to commit terror in the Leningrad and Kaliningrad regions”",
+      "title_raw": "ТАСС: хакеры нашли документы об ударах ВСУ по нефтяным терминалам в России",
+      "lead_raw": "Они сообщили, что получили доступ к переписке и документам, которые раскрывают, кто давал точные координаты объектов и кто \"науськивал Украину на террор в Ленинградской и Калининградской областях\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4423b2df8019ae0f0282d74cb6bc682344940d47",
       "fingerprint": "d7de76f940a734173b5ccf0dd4c5b6c58ed35104",
