@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-07T13:11:47Z",
+  "updated_at_utc": "2026-08-07T14:55:50Z",
   "topic": "energy",
-  "count": 30,
+  "count": 29,
   "articles": [
+    {
+      "id": "b71c938318f13ad1c2025a8830fcc66d2197d29d",
+      "fingerprint": "bbe9aa32cad32eb4565dbb541fe56edeb8750e63",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27993015",
+      "published_utc": "2026-08-07T14:00:07Z",
+      "title_en": "Russia invited the BRICS countries to expand cooperation in solar energy",
+      "lead_en": "The Russian Federation has large and modern enterprises for the production of panels, as well as experience in international projects, said Deputy Minister of Industry and Trade Alexey Gruzdev",
+      "title_raw": "Россия предложила странам БРИКС расширить сотрудничество в солнечной энергетике",
+      "lead_raw": "РФ имеет крупные и современные предприятия по производству панелей, а также опыт международных проектов, сообщил заместитель министра промышленности и торговли Алексей Груздев",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "40c5f7062b8af587a7750f3cc3582fb7832156c5",
       "fingerprint": "2dbeb3d50cdd206b5ae81d15d69adf6b5e818d0c",
@@ -623,52 +646,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "040711eaee006ca4e9eaa9664d1c37826dda57dc",
-      "fingerprint": "8f9c128875f5f51f51dbc9e2f9a4dfe35b815487",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2169337",
-      "published_utc": "2026-08-05T14:25:44Z",
-      "title_en": "Bank of Russia sees signs of fuel market stabilization, summary shows",
-      "lead_en": "The indirect effects of rising fuel prices are tied to the pass-through of increased transportation and production costs into the pricing of a wider range of goods and services",
-      "title_raw": "Bank of Russia sees signs of fuel market stabilization, summary shows",
-      "lead_raw": "The indirect effects of rising fuel prices are tied to the pass-through of increased transportation and production costs into the pricing of a wider range of goods and services",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c99ad2220977b4636cada01d3ea809e746b3965b",
-      "fingerprint": "dd733fa8a17f8e188b44f96659561611c6e22be1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2169325",
-      "published_utc": "2026-08-05T14:13:39Z",
-      "title_en": "Rising global energy prices backed ruble appreciation in March-May, Bank of Russia says",
-      "lead_en": "According to the Central Bank, the ruble has corrected since the June meeting to its late April 2026 levels",
-      "title_raw": "Rising global energy prices backed ruble appreciation in March-May, Bank of Russia says",
-      "lead_raw": "According to the Central Bank, the ruble has corrected since the June meeting to its late April 2026 levels",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
