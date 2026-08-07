@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-07T09:02:58Z",
+  "updated_at_utc": "2026-08-07T10:55:32Z",
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "caf8a9e16b8227a2dc2a251db8eb5dfa01d93f58",
+      "fingerprint": "ad5e6e569c2c0d32c204090a9ed4db8e1d4179f9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27992281",
+      "published_utc": "2026-08-07T10:00:37Z",
+      "title_en": "Likhachev said that Russian nuclear power plants are coping with the load in the heat",
+      "lead_en": "The head of Rosatom noted that Russian nuclear power plants have exceeded the electricity generation plan by 7.8% since the beginning of the year.",
+      "title_raw": "Лихачев заявил, что российские АЭС справляются с нагрузкой в жару",
+      "lead_raw": "Глава Росатома отметил, что АЭС России с начала года превысили план выработки электроэнергии на 7,8%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bd4a33849cb5d905bc9d87090642158e7821f1d4",
       "fingerprint": "7db0888aeef9a4796b3b54290084fc8ce3782556",
@@ -625,28 +647,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "c71d0bff8a7a7cafc5aca8b64c6f9ee8fb7025c0",
-      "fingerprint": "2a06bc8d248488698bd5c881b9ca86236314e82e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27984989",
-      "published_utc": "2026-08-05T09:53:17Z",
-      "title_en": "Novak: Russian oil companies are lifting restrictions on fuel supply",
-      "lead_en": "Enterprises ensure maximum production volumes, noted the Deputy Prime Minister of the Russian Federation",
-      "title_raw": "Новак: российские нефтяные компании снимают ограничения на отпуск топлива",
-      "lead_raw": "Предприятия обеспечивают максимальные объемы производства, отметил вице-премьер РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-07T09:02:58Z",
+  "updated_at_utc": "2026-08-07T10:55:32Z",
   "topic": "local_events",
   "count": 6,
   "articles": [
+    {
+      "id": "ee01735cbad401fb0c260d72c83522385ad091c0",
+      "fingerprint": "38d62030988eefbfc3672e77f89147c8328898ae",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2170057",
+      "published_utc": "2026-08-07T09:20:54Z",
+      "title_en": "Three civilians injured in Ukrainian drone strike on Russia’s Belgorod",
+      "lead_en": "The drone strike sparked a fire on the facade of an administrative building",
+      "title_raw": "Three civilians injured in Ukrainian drone strike on Russia’s Belgorod",
+      "lead_raw": "The drone strike sparked a fire on the facade of an administrative building",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a4e2d9cba6007780291699ebed187816a8d726e3",
       "fingerprint": "c565aa2bd52103dbbecbb7f79d537778d454cd95",
@@ -110,29 +132,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "743841bf464311152d810377a2b8db898832d463",
-      "fingerprint": "747ef52ad4fe37e5c5412ba126387b72fcbeaffd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2169177",
-      "published_utc": "2026-08-05T09:48:56Z",
-      "title_en": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
-      "lead_en": "A fire broke out in three districts of the Kiev Region after a series of explosions",
-      "title_raw": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight",
-      "lead_raw": "A fire broke out in three districts of the Kiev Region after a series of explosions",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
