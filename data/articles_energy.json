@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-08T03:36:06Z",
+  "updated_at_utc": "2026-08-08T05:00:18Z",
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "233056c2c0a3cdaadf2491e9d7b26677b712afb9",
+      "fingerprint": "7408299e8763f00349207edce6b46fb282c6729b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2170429",
+      "published_utc": "2026-08-08T04:26:26Z",
+      "title_en": "Fire breaks out at south Russian refinery after drone attack, 5 wounded",
+      "lead_en": "First responders and security services are working in the area",
+      "title_raw": "Fire breaks out at south Russian refinery after drone attack, 5 wounded",
+      "lead_raw": "First responders and security services are working in the area",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ca49a33289a2bf9b9fbc0c97557e33bf595f9175",
       "fingerprint": "2536aed3e20cf74a731a5fbba267c0e2287b0ae1",
@@ -617,28 +640,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "63a06e6316ed67fe010d3e07fc970d63445c7050",
-      "fingerprint": "fc72fd46b6850dea8a0c230d2db7c397b8868a8d",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643919-indiana-emergency-drone-russia",
-      "published_utc": "2026-08-06T04:49:13Z",
-      "title_en": "US state declares emergency over Russia-Ukraine drone warfare",
-      "lead_en": "The US state of Indiana has declared an energy emergency, citing maritime drone warfare in the Russia-Ukraine conflict Read Full Article at RT.com",
-      "title_raw": "US state declares emergency over Russia-Ukraine drone warfare",
-      "lead_raw": "The US state of Indiana has declared an energy emergency, citing maritime drone warfare in the Russia-Ukraine conflict Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 1
       },
