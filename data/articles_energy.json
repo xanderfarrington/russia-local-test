@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-08T09:40:59Z",
+  "updated_at_utc": "2026-08-08T10:37:20Z",
   "topic": "energy",
   "count": 34,
   "articles": [
+    {
+      "id": "ea5093fba7a35d5e8e982025dc1c7e5dd0e4abf0",
+      "fingerprint": "c49f615bbf44cb3cdf7d27b9234b55e3a929991b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2170489",
+      "published_utc": "2026-08-08T10:32:16Z",
+      "title_en": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d8114d2117606d2c96f95247ab3ad88bfad3a403",
       "fingerprint": "b955c31903f4c7956438da266552089c223b22db",
@@ -738,28 +761,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "451e4e62e4e8f6db4e63e1e5b95a74988f9ea7b4",
-      "fingerprint": "141b9a18ed16aa213abe2640638a82be515c6560",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27988637",
-      "published_utc": "2026-08-06T10:26:45Z",
-      "title_en": "The experiences of Russian scientists will help geologists create more accurate models of deposits",
-      "lead_en": "Digital models of rocks have been actively used by geologists in recent years to assess how efficiently they can pass through various liquids and gases, including water, oil, carbon dioxide or natural gas.",
-      "title_raw": "Опыты российских ученых помогут геологам составлять более точные модели месторождений",
-      "lead_raw": "Цифровые модели горных пород в последние годы активно используются геологами для оценки того, насколько эффективно они могут пропускать через себя различные жидкости и газы, в том числе воду, нефть, углекислый или природный газ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

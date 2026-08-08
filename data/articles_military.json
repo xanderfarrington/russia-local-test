@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-08T09:40:59Z",
+  "updated_at_utc": "2026-08-08T10:37:20Z",
   "topic": "military",
   "count": 104,
   "articles": [
+    {
+      "id": "ea5093fba7a35d5e8e982025dc1c7e5dd0e4abf0",
+      "fingerprint": "c49f615bbf44cb3cdf7d27b9234b55e3a929991b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2170489",
+      "published_utc": "2026-08-08T10:32:16Z",
+      "title_en": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
+      "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b2116a0ea025e9f2dfa94dd943db6a62f292e4b6",
+      "fingerprint": "fea4fc93c8b12316354ee04892f122b79c180858",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27994637",
+      "published_utc": "2026-08-08T10:02:21Z",
+      "title_en": "The head of Kalashnikov noted the colossal interest in the world in Russian weapons",
+      "lead_en": "Domestic UAVs and guided loitering munitions are capable of performing their tasks in the most difficult conditions of real combat work, said Alan Lushnikov",
+      "title_raw": "Глава \"Калашникова\" отметил колоссальный интерес в мире к российскому оружию",
+      "lead_raw": "Отечественные БПЛА и управляемые барражирующие боеприпасы способны выполнять свои задачи в самых сложных условиях реальной боевой работы, рассказал Алан Лушников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d8114d2117606d2c96f95247ab3ad88bfad3a403",
       "fingerprint": "b955c31903f4c7956438da266552089c223b22db",
@@ -2260,51 +2305,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "30e025baf7436ed9c3c3d4e26c95bb77899b1f6d",
-      "fingerprint": "1f85e20d97411e84af518bed879811a3c2873bed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27988645",
-      "published_utc": "2026-08-06T10:27:32Z",
-      "title_en": "The Belarusian military conducted training to intercept UAVs",
-      "lead_en": "All crews involved in the training timely detected and conditionally hit control targets, confirming their high readiness to ensure the inviolability of air borders, the Ministry of Defense of the Republic noted",
-      "title_raw": "Белорусские военные провели тренировку по перехвату БПЛА",
-      "lead_raw": "Все привлеченные к тренировке расчеты своевременно обнаружили и условно поразили контрольные цели, подтвердив высокую готовность к обеспечению неприкосновенности воздушных границ, отметили в Минобороны республики",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "71d6afe548ed70902d5ddf29770f6fb2daf0183c",
-      "fingerprint": "e23b3598a7d11380a16e35c9d78e8201a1610ffb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/27988535",
-      "published_utc": "2026-08-06T10:24:56Z",
-      "title_en": "Lack of cases reduces the effectiveness of training a neural network to protect against fraudsters",
-      "lead_en": "According to the Bank of Russia, in 2025, fraudsters stole 29.3 billion rubles from Russians, which is 6.4% more than a year earlier",
-      "title_raw": "Нехватка кейсов снижает эффективность обучения нейросети защите от мошенников",
-      "lead_raw": "По данным Банка России, за 2025 год мошенники похитили у россиян 29,3 млрд рублей, что на 6,4% больше, чем годом ранее",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
