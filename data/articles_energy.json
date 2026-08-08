@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-08T08:46:27Z",
+  "updated_at_utc": "2026-08-08T09:40:59Z",
   "topic": "energy",
   "count": 34,
   "articles": [
+    {
+      "id": "d8114d2117606d2c96f95247ab3ad88bfad3a403",
+      "fingerprint": "b955c31903f4c7956438da266552089c223b22db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27994569",
+      "published_utc": "2026-08-08T09:08:52Z",
+      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Ukrainian Armed Forces",
+      "lead_en": "The Russian military also hit temporary deployment points of Ukrainian armed forces and foreign mercenaries in 157 districts, the Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили используемую ВСУ транспортную и энергетическую инфраструктуру",
+      "lead_raw": "Российские военные также ударили по пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 157 районах, сообщили в Минобороны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "887f56b118c55f783985b416456c77a293bb1dd1",
       "fingerprint": "9143e8069f3646498b3ff7b1c21bf1c58543d231",
@@ -731,28 +754,6 @@
         "military": 0,
         "energy": 2,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ca6871c98c1aae39ceee28938687e7c4b4bc156e",
-      "fingerprint": "639de26281e3ab564794c86d3d47f2c9aa602f03",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2169593",
-      "published_utc": "2026-08-06T09:01:36Z",
-      "title_en": "Russian stocks down as main trading session opens",
-      "lead_en": "As of 10:00 a.m. Moscow time, the yuan exchange rate against the ruble added 3.9 kopecks",
-      "title_raw": "Russian stocks down as main trading session opens",
-      "lead_raw": "As of 10:00 a.m. Moscow time, the yuan exchange rate against the ruble added 3.9 kopecks",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
