@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-09T17:34:28Z",
+  "updated_at_utc": "2026-08-09T18:46:07Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "fd47b159437e1f82163afa6218b0938526fe51a6",
+      "fingerprint": "4a9a3c79ab0e2275ab55a947245fb3cb93f73a58",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27996799",
+      "published_utc": "2026-08-09T18:33:54Z",
+      "title_en": "The Atlantic: The United States is transferring intelligence data to Ukraine for attacks on Russian energy facilities",
+      "lead_en": "According to the magazine, Washington is doing it for free.",
+      "title_raw": "The Atlantic: США передают Украине разведданные для ударов по энергообъектам РФ",
+      "lead_raw": "По данным журнала, Вашингтон делает это бесплатно",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1dbaa651fd2dbea1d89e986f79caf345507c5d82",
       "fingerprint": "f8a5cafc60241df0d0e55df90370e5c576050244",
@@ -452,28 +474,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "ca49a33289a2bf9b9fbc0c97557e33bf595f9175",
-      "fingerprint": "2536aed3e20cf74a731a5fbba267c0e2287b0ae1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2170341",
-      "published_utc": "2026-08-07T17:47:02Z",
-      "title_en": "Zelensky’s visit to Belgrade jeopardizes Serbia’s relations with Russia — opposition",
-      "lead_en": "The opposition parliamentary group stressed that Serbia \"largely depends\" on cheap Russian gas but no long-term deal on its supplies has been signed so far due to the government’s policy",
-      "title_raw": "Zelensky’s visit to Belgrade jeopardizes Serbia’s relations with Russia — opposition",
-      "lead_raw": "The opposition parliamentary group stressed that Serbia \"largely depends\" on cheap Russian gas but no long-term deal on its supplies has been signed so far due to the government’s policy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
