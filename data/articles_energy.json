@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-09T01:59:39Z",
+  "updated_at_utc": "2026-08-09T03:50:11Z",
   "topic": "energy",
   "count": 29,
   "articles": [
+    {
+      "id": "e3e6dfb1bd7139b29424d6aa0fa74f9d914f158d",
+      "fingerprint": "6a6f4a25283353d798541e542c71d6cad6de8003",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27995653",
+      "published_utc": "2026-08-09T02:04:06Z",
+      "title_en": "In Japan, a minute of silence was observed in memory of the victims of the atomic bombing of Nagasaki",
+      "lead_en": "Representatives from about 100 countries and regions, as well as Russian Ambassador Nikolai Nozdrev, will take part in the mourning events in the city.",
+      "title_raw": "В Японии минутой молчания почтили память жертв атомной бомбардировки Нагасаки",
+      "lead_raw": "В траурных мероприятиях в городе примут участие представители около 100 стран и регионов, а также посол России Николай Ноздрев",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "d87c80e4f7ec243360675637214baf331c9efb23",
       "fingerprint": "22eb35128498e512f8b86211a8cc2cf34348912a",
@@ -628,28 +651,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f38348736a184254b9fe6fe0524a1a828d8ad4f4",
-      "fingerprint": "7a8e41da4eb7185f162bf9c2d89f662e0ccd944b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27990903",
-      "published_utc": "2026-08-07T02:41:28Z",
-      "title_en": "\"Kommersant\": the government has determined the criteria for recognizing AI models as national",
-      "lead_en": "According to the newspaper's sources, for this the Russian developer must have exclusive rights to the architecture and trainable parameters of the system",
-      "title_raw": "\"Ъ\": правительство определило критерии признания ИИ-моделей национальными",
-      "lead_raw": "По информации источников газеты, для этого российскому разработчику должны принадлежать исключительные права на архитектуру и обучаемые параметры системы",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
