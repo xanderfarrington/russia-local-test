@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-09T22:34:27Z",
+  "updated_at_utc": "2026-08-09T23:34:21Z",
   "topic": "military",
   "count": 105,
   "articles": [
+    {
+      "id": "385895251bec850fed31cb72e080468630fd7619",
+      "fingerprint": "cda65a2b443436a04f3f6ea060df6ac43aeb3647",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27996947",
+      "published_utc": "2026-08-09T22:44:07Z",
+      "title_en": "Izvestia reported the arrest of wanted businessman Mizgir",
+      "lead_en": "The entrepreneur was wanted in the case of supplying low-quality canned food for the needs of the Russian Ministry of Defense",
+      "title_raw": "\"Известия\" сообщили о задержании находившегося в розыске бизнесмена Мизгира",
+      "lead_raw": "Предпринимателя разыскивали по делу о поставках некачественных консервов для нужды Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "80978a8a080a05a299e26d1c16b4b44b9d065a52",
       "fingerprint": "967cfdff8564d8aab0b878bd65fd1895cadf7ca3",
@@ -2313,28 +2335,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "244599d989fee760b4f6fe3e9b6da5ed5b9e4f66",
-      "fingerprint": "f5e961d140f574a1260317520c61d64499d9c495",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27993735",
-      "published_utc": "2026-08-07T23:01:16Z",
-      "title_en": "Marochko reported on the offensive of the Russian Armed Forces in the southeast and southwest near Novaya Sich",
-      "lead_en": "The military expert noted that Russian forces are expanding the zone of control near the settlement",
-      "title_raw": "Марочко сообщил о наступлении ВС РФ на юго-востоке и юго-западе у Новой Сечи",
-      "lead_raw": "Военный эксперт отметил, что российские силы расширяют зону контроля у населенного пункта",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
