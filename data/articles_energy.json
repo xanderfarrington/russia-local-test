@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-10T10:19:43Z",
+  "updated_at_utc": "2026-08-10T11:50:15Z",
   "topic": "energy",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "28504135c1096cfb122aadf49ca62a480be99088",
+      "fingerprint": "e7843a30eed093e29e54aba9740b1991ef134de2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27998843",
+      "published_utc": "2026-08-10T11:43:21Z",
+      "title_en": "Poddubny: the southern energy hub of Ukraine is paralyzed after strikes by the Russian Armed Forces",
+      "lead_en": "Attacks on logistics communications and energy facilities that ensure the functioning of the Armed Forces of Ukraine are systemic in nature, noted a representative of the federal five candidates of United Russia.",
+      "title_raw": "Поддубный: южный энергоузел Украины парализован после ударов ВС РФ",
+      "lead_raw": "Атаки на логистические коммуникации и энергетические объекты, обеспечивающие функционирование ВСУ, носят системный характер, отметил представитель общефедеральной пятерки кандидатов \"Единой России\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8e44d8d68743f9a9031013b1a556407485fc6cb7",
       "fingerprint": "fc52c42e1bb8baf1794d425028673f0fcfc84530",
@@ -560,51 +582,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "8fd7f664c6c4a79bbe84aa028c86eb570eb4fbb7",
-      "fingerprint": "9143e8069f3646498b3ff7b1c21bf1c58543d231",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/08/ukraine-strikes-oil-refinery-in-russias-krasnodar-region-in-drone-attack-a93441",
-      "published_utc": "2026-08-08T11:10:00Z",
-      "title_en": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-      "lead_en": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
-      "title_raw": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
-      "lead_raw": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ea5093fba7a35d5e8e982025dc1c7e5dd0e4abf0",
-      "fingerprint": "c49f615bbf44cb3cdf7d27b9234b55e3a929991b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2170489",
-      "published_utc": "2026-08-08T10:32:16Z",
-      "title_en": "Russian forces establish control over Ivanovka in Kharkov region",
-      "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
-      "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
-      "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
