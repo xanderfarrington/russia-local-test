@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-08-10T08:41:28Z",
+  "updated_at_utc": "2026-08-10T10:19:43Z",
   "topic": "energy",
-  "count": 25,
+  "count": 27,
   "articles": [
+    {
+      "id": "8e44d8d68743f9a9031013b1a556407485fc6cb7",
+      "fingerprint": "fc52c42e1bb8baf1794d425028673f0fcfc84530",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2170885",
+      "published_utc": "2026-08-10T09:56:54Z",
+      "title_en": "Kiev may be handed bill for Nord Stream pipelines at later date — Russian envoy",
+      "lead_en": "According to Rodion Miroshnik, Germany has now chosen a strategy of prolonging the investigation",
+      "title_raw": "Kiev may be handed bill for Nord Stream pipelines at later date — Russian envoy",
+      "lead_raw": "According to Rodion Miroshnik, Germany has now chosen a strategy of prolonging the investigation",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "49bfbd5eb7a8e93c79daf6ccbfc2fa286ded6f10",
+      "fingerprint": "2c81b9893bf526076faa13547f23e29c5a8d8169",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/27998347",
+      "published_utc": "2026-08-10T09:30:39Z",
+      "title_en": "Slutsky warned Europe against flirting with Nazism “by hereditary leaps”",
+      "lead_en": "This is how the leader of the LDPR commented on the anti-Russian statements of the representative of the German newspaper FAZ Michael Martens",
+      "title_raw": "Слуцкий предостерег Европу от заигрываний с нацизмом \"на потомственных дрожжах\"",
+      "lead_raw": "Так лидер ЛДПР прокомментировал антироссийские высказывания представителя германской газеты FAZ Михаэля Мартенса",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cee70861930dc03a8f83208e3a57a407ca45223e",
+      "fingerprint": "8375e2bd17a983b6750f90764c93bae2520b717b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/27998263",
+      "published_utc": "2026-08-10T09:12:26Z",
+      "title_en": "The Russian Armed Forces hit the energy and transport infrastructure of the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also attacked logistics centers and assembly and storage sites for enemy UAVs.",
+      "title_raw": "ВС РФ поразили энергетическую и транспортную инфраструктуру ВСУ",
+      "lead_raw": "Также российские силы атаковали логистические центры и места сборки и хранения БПЛА противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8166205a980edf07d0a897aed99be18ddd437fb5",
       "fingerprint": "9ed71616665b6dba39f45e43c24321c631b01edf",
@@ -526,29 +593,6 @@
       "lead_en": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
       "title_raw": "Russian forces establish control over Ivanovka in Kharkov region",
       "lead_raw": "The Russian Defense Ministry reported that Russian troops over the past 24 hours struck transport, energy and logistics infrastructure facilities used in the interests of Ukraine, enemy UAV storage depots, as well as deployment points of Ukraine and foreign mercenaries",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d8114d2117606d2c96f95247ab3ad88bfad3a403",
-      "fingerprint": "b955c31903f4c7956438da266552089c223b22db",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27994569",
-      "published_utc": "2026-08-08T09:08:52Z",
-      "title_en": "The Russian Armed Forces hit the transport and energy infrastructure used by the Ukrainian Armed Forces",
-      "lead_en": "The Russian military also hit temporary deployment points of Ukrainian armed forces and foreign mercenaries in 157 districts, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили используемую ВСУ транспортную и энергетическую инфраструктуру",
-      "lead_raw": "Российские военные также ударили по пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 157 районах, сообщили в Минобороны",
       "topic_scores": {
         "diplomacy": 0,
         "military": 3,
