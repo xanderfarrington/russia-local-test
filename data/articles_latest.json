@@ -1,8 +1,700 @@
 {
-  "updated_at_utc": "2026-08-10T15:01:42Z",
+  "updated_at_utc": "2026-08-10T16:56:42Z",
   "keep_hours": 48,
-  "count": 463,
+  "count": 484,
   "articles": [
+    {
+      "id": "b304c612a5796f4e6b76905bff4f110ddac24c0d",
+      "fingerprint": "76d4d43eddfe7a6e3a5bcf2ac0859f444548c26c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28000037",
+      "published_utc": "2026-08-10T16:52:01Z",
+      "title_en": "The Permanent Mission of the Russian Federation called the UN Security Council meeting part of a campaign to disrupt the peace treaty",
+      "lead_en": "Deputy Permanent Representative of Russia to the UN Maria Zabolotskaya emphasized that NATO countries are using the topic of treatment of prisoners of war and civilian prisoners for an information campaign against the Russian Federation",
+      "title_raw": "Постпредство РФ назвало встречу СБ ООН частью кампании по срыву мирного договора",
+      "lead_raw": "Зампостпреда России при ООН Мария Заболоцкая подчеркнула, что страны НАТО используют тему обращения с военнопленными и гражданскими заключенными для информационной кампании против РФ",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "68c903859169dbd0cfd7706b0e13e4d01b86cdf0",
+      "fingerprint": "c88cf13ceb027a38a70249130df754464792d530",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/the-funds-came-from-russian-citizens-not-from-abroad-yabloko-s-lawyer-answers-a-classified-foreign-funding-dossier-used-to-try-to-knock-the-antiwar-party-off-the-ballot",
+      "published_utc": "2026-08-10T16:48:53Z",
+      "title_en": "‘The funds came from Russian citizens, not from abroad’: Yabloko’s lawyer answers a classified foreign-funding dossier used to try to knock the antiwar party off the ballot",
+      "lead_en": "According to data from Russia’s Federal Financial Monitoring Service (Rosfinmonitoring), the Yabloko party had received funding from abroad, a Central Election Commission (CEC) representative said. The representative spoke during a court hearing on a lawsuit the Rodina party filed seeking to remove Yabloko from the State Duma election.",
+      "title_raw": "‘The funds came from Russian citizens, not from abroad’: Yabloko’s lawyer answers a classified foreign-funding dossier used to try to knock the antiwar party off the ballot",
+      "lead_raw": "According to data from Russia’s Federal Financial Monitoring Service (Rosfinmonitoring), the Yabloko party had received funding from abroad, a Central Election Commission (CEC) representative said. The representative spoke during a court hearing on a lawsuit the Rodina party filed seeking to remove Yabloko from the State Duma election.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7332101818d0a43b69b6ab32a31e20b2ffb7c365",
+      "fingerprint": "421cd03a41504db5888e38573d78545b1f00dbbb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28000039",
+      "published_utc": "2026-08-10T16:48:08Z",
+      "title_en": "The Supreme Court of the Russian Federation removed the Yabloko party from the State Duma elections following the suit of Rodina.",
+      "lead_en": "The statement of claim was satisfied in full, it follows from the court decision",
+      "title_raw": "Верховный суд РФ снял партию \"Яблоко\" с выборов в Госдуму по иску \"Родины\"",
+      "lead_raw": "Исковое заявление удовлетворено в полном объеме, следует из решения суда",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6e7530b4df21941ae6e455a8fb2a25ca9fdeb21d",
+      "fingerprint": "164b744a04ca77a8aabebcb06536a92a14c89bef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999997",
+      "published_utc": "2026-08-10T16:36:22Z",
+      "title_en": "The first meeting of the intergovernmental commission of Russia and Burkina Faso will take place on September 16",
+      "lead_en": "At a meeting of the Russian part of the IGC, key areas of bilateral interaction and organizational issues of preparing for a future meeting in Moscow were discussed",
+      "title_raw": "Первое заседание межправкомиссии России и Буркина-Фасо состоится 16 сентября",
+      "lead_raw": "На заседании российской части МПК обсудили ключевые направления двустороннего взаимодействия и организационные вопросы подготовки будущей встречи в Москве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8ae23655395439db10102e442c070f961a4d895f",
+      "fingerprint": "00a3bac09b29d34d2b28661b11d2db2d4cc967df",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171055",
+      "published_utc": "2026-08-10T16:35:24Z",
+      "title_en": "Russian financial watchdog finds evidence opposition party received funding from abroad",
+      "lead_en": "Yabloko will be provided with the documents from Rosfinmonitoring under a non-disclosure agreement",
+      "title_raw": "Russian financial watchdog finds evidence opposition party received funding from abroad",
+      "lead_raw": "Yabloko will be provided with the documents from Rosfinmonitoring under a non-disclosure agreement",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5552bac31b3c35466e366f5a01405c6993c10769",
+      "fingerprint": "e38bf2ae4e66114868226ccc2ba4200bf4ff4bb2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27999991",
+      "published_utc": "2026-08-10T16:33:22Z",
+      "title_en": "In Chechnya, 40 teams will compete in an international tactical shooting tournament",
+      "lead_en": "The championship will be dedicated to the memory of Hero of Russia Akhmat-Khadzhi Kadyrov",
+      "title_raw": "В Чечне 40 команд выступят в международном турнире по тактической стрельбе",
+      "lead_raw": "Чемпионат будет посвящен памяти Героя России Ахмат-Хаджи Кадырова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "43321c923fa0f36b1cc85b92eb1a067375840797",
+      "fingerprint": "066d44fcb3670f8b01fc4b80f63a34be099e191b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171053",
+      "published_utc": "2026-08-10T16:30:55Z",
+      "title_en": "IN BRIEF: Putin’s statements at State Council Presidium meeting on public transportation",
+      "lead_en": "According to the Russian leader, the law does not yet define the concept of a \"guaranteed carrier,\" but this approach could be promising",
+      "title_raw": "IN BRIEF: Putin’s statements at State Council Presidium meeting on public transportation",
+      "lead_raw": "According to the Russian leader, the law does not yet define the concept of a \"guaranteed carrier,\" but this approach could be promising",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "13fc337a8ed7e2241c1268123120ee208ffb8406",
+      "fingerprint": "9166445f102e65dcb36a2a13f24d8801429b7ba6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/27999979",
+      "published_utc": "2026-08-10T16:29:36Z",
+      "title_en": "The “Green Courtyard” at Sovremennik was visited by 3.5 thousand people in the first week",
+      "lead_en": "One of the central events of the first week was creative meetings with the artistic director of the theater, People's Artist of the Russian Federation Vladimir Mashkov and the artistic director of the Theater of Nations, People's Artist of the Russian Federation Evgeny Mironov",
+      "title_raw": "\"Зеленый дворик\" у \"Современника\" за первую неделю посетили 3,5 тыс. человек",
+      "lead_raw": "Одним из центральных событий первой недели стали творческие встречи с худруком театра, народным артистом РФ Владимиром Машковым и худруком Театра Наций, народным артистом РФ Евгением Мироновым",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e2bef0d86f5552a72bfc93959da5a5a7eb80f2d3",
+      "fingerprint": "3630c3487e8085eeba5e79dba73a5589e7bba382",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27999971",
+      "published_utc": "2026-08-10T16:23:04Z",
+      "title_en": "Russian Embassy: there is no data on Russians injured due to the earthquake in Colombia",
+      "lead_en": "Press Secretary of the diplomatic mission Vyacheslav Petukhov said that the embassy building in Bogota was not damaged",
+      "title_raw": "Посольство РФ: данных о пострадавших из-за землетрясения в Колумбии россиянах нет",
+      "lead_raw": "Пресс-секретарь диппредставительства Вячеслав Петухов сообщил, что здание посольства в Боготе не получило повреждений",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0887547768c5f418f3e0231bc7599901e1fff846",
+      "fingerprint": "9b7d9e96afc217d67f9d8d2c784d223f84897dc7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27999807",
+      "published_utc": "2026-08-10T16:22:07Z",
+      "title_en": "ONF: the share of Russians who consider public transport less convenient has grown to 59%",
+      "lead_en": "The organization annually monitors citizens’ attitudes towards public transport.",
+      "title_raw": "ОНФ: доля россиян, считающих общественный транспорт менее удобным, выросла до 59%",
+      "lead_raw": "Организация ежегодно проводит мониторинг отношения граждан к работе общественного транспорта",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c39968e7d8f4570bcb084593001a0c60caffff43",
+      "fingerprint": "40acbd17cd04b9bf4ae5bb4c3315bf3ba925cd80",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/we-re-unpacking-our-suitcases-the-american-farmer-known-as-russia-s-merry-milkman-says-he-isn-t-being-deported-after-all",
+      "published_utc": "2026-08-10T16:16:09Z",
+      "title_en": "‘We’re unpacking our suitcases’: the American farmer known as Russia’s ‘Merry Milkman’ says he isn’t being deported after all",
+      "lead_en": "Justus Walker, a U.S. citizen and farmer in Russia known as “The Merry Milkman,” said his family is not being deported from the country.",
+      "title_raw": "‘We’re unpacking our suitcases’: the American farmer known as Russia’s ‘Merry Milkman’ says he isn’t being deported after all",
+      "lead_raw": "Justus Walker, a U.S. citizen and farmer in Russia known as “The Merry Milkman,” said his family is not being deported from the country.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c6ae306d733fcda7f58bc25d6a427a5e0a5a9bfe",
+      "fingerprint": "1869e496c1278a9f8fb005bd0b249fdfdf81075a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27999939",
+      "published_utc": "2026-08-10T16:14:45Z",
+      "title_en": "Hero of the Russian Federation Golovin: United Russia will support young people at the beginning of their careers",
+      "lead_en": "The member of the party's Supreme Council added that they will improve the mechanisms for the transition from studying at universities and colleges to their first job",
+      "title_raw": "Герой РФ Головин: «Единая Россия» поддержит молодежь в начале карьеры",
+      "lead_raw": "Член высшего совета партии добавил, что они усовершенствуют механизмы перехода от обучения в вузах и колледжах к первому месту работы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1ba58e6b46e75191f30ca51d507045d772bcca62",
+      "fingerprint": "643539229ab7e899fac65d30021dd6f2045e674b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27999579",
+      "published_utc": "2026-08-10T16:13:59Z",
+      "title_en": "In the Leningrad region, a deputy was unable to challenge the refusal to register as a candidate in the State Duma",
+      "lead_en": "We are talking about the candidate from the Communist Party of the Russian Federation Ivan Apostolevsky",
+      "title_raw": "В Ленобласти депутат не смог оспорить отказ в регистрации в качестве кандидата в ГД",
+      "lead_raw": "Речь идет о кандидате от КПРФ Иване Апостолевском",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "98fb0f3e821496d3951d2fffdc590142f817768c",
+      "fingerprint": "ca1ccbbf4f4d03836dcd794bd39ab84b67e36c38",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/moldova-recalls-ambassador-from-russia-after-drone-explodes-in-crocmaz-near-ukraine-s-border",
+      "published_utc": "2026-08-10T16:13:04Z",
+      "title_en": "Moldova recalls ambassador from Russia after drone explodes in Crocmaz, near Ukraine’s border",
+      "lead_en": "Moldova’s Foreign Ministry recalled its ambassador from Moscow for consultations after a drone crashed in the village of Crocmaz.",
+      "title_raw": "Moldova recalls ambassador from Russia after drone explodes in Crocmaz, near Ukraine’s border",
+      "lead_raw": "Moldova’s Foreign Ministry recalled its ambassador from Moscow for consultations after a drone crashed in the village of Crocmaz.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "351193e7d1b39f3fc20caf6bdb1623280347cd31",
+      "fingerprint": "f0aec7348eaeeb538a5c61b2236637c4f7c132a0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999913",
+      "published_utc": "2026-08-10T16:06:26Z",
+      "title_en": "269 ​​projects became winners of the landscaping competition in the Russian Federation",
+      "lead_en": "A total of 582 applications were received for consideration.",
+      "title_raw": "Победителями конкурса по благоустройству в РФ стали 269 проектов",
+      "lead_raw": "Всего на рассмотрение поступило 582 заявки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f90c1f68f5bdd49080116fbc8e3079b2a1912d30",
+      "fingerprint": "555df1363651063d883610b7818a996981d42f36",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999897",
+      "published_utc": "2026-08-10T15:55:05Z",
+      "title_en": "Putin called issues in the field of transport “non-idle”",
+      "lead_en": "They must be improved, said the President of the Russian Federation",
+      "title_raw": "Путин назвал вопросы в сфере транспорта \"непраздными\"",
+      "lead_raw": "Их нужно обязательно доработать, заявил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7d91f9dc15e26622ea02db1dfca9f7c66fb88a32",
+      "fingerprint": "51661a3a92183ba475209ef6040adf1669e52ab3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999869",
+      "published_utc": "2026-08-10T15:53:00Z",
+      "title_en": "In Russia, 71 thousand units of rolling stock need to be updated by 2030",
+      "lead_en": "This is 66 thousand buses, 3.2 thousand.",
+      "title_raw": "В России до 2030 года необходимо обновить 71 тыс. единиц подвижного состава",
+      "lead_raw": "Это 66 тыс. автобусов, 3,2 тыс.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e04217ec0d15fbe62201e8f7ef8b341ddbc0d832",
+      "fingerprint": "db6ed691a8efa0f492d1b72fa694886cbe0ff447",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27999859",
+      "published_utc": "2026-08-10T15:51:43Z",
+      "title_en": "European Gymnastics explained the rules for participation of Russians in the European Championships",
+      "lead_en": "The tournament will take place in Zagreb from August 13 to 23",
+      "title_raw": "В European Gymnastics разъяснили правила участия россиян в ЧЕ",
+      "lead_raw": "Турнир пройдет в Загребе с 13 по 23 августа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "289d654aec15bc134dcb8c9217eb16c020769eda",
+      "fingerprint": "eec25afc42911d349d0ccaaecca550d5c2142a66",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999853",
+      "published_utc": "2026-08-10T15:51:18Z",
+      "title_en": "The Central Bank named the largest buyers at secondary exchange trading",
+      "lead_en": "In July, they traditionally became retail investors, the Bank of Russia said",
+      "title_raw": "ЦБ назвал крупнейших покупателей на вторичных биржевых торгах",
+      "lead_raw": "В июле ими традиционно стали розничные инвесторы, заявили в Банке России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "420789373590801c1c9e5e16a0440f0139112e94",
+      "fingerprint": "0a26d81f5117a09ef42b4943ff26bbbb70a90f4a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171045",
+      "published_utc": "2026-08-10T15:49:44Z",
+      "title_en": "Western pressure on Georgia regarding Russia has no effect — MFA",
+      "lead_en": "Mikhail Galuzin highlighted that Russia and Georgia’s relationship is rooted in centuries of shared history, culture, and spiritual bonds",
+      "title_raw": "Western pressure on Georgia regarding Russia has no effect — MFA",
+      "lead_raw": "Mikhail Galuzin highlighted that Russia and Georgia’s relationship is rooted in centuries of shared history, culture, and spiritual bonds",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "de69d0eca7d7650e3e75e51742e07955d5645141",
+      "fingerprint": "abc136172c5dd79a9d222e30aca7b477a7c106fa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/27999549",
+      "published_utc": "2026-08-10T15:44:40Z",
+      "title_en": "Balitsky called on drivers to remain vigilant on the Novorossiya highway",
+      "lead_en": "At the same time, according to the governor of the Zaporozhye region, the traffic situation has improved significantly",
+      "title_raw": "Балицкий призвал водителей сохранять бдительность на трассе \"Новороссия\"",
+      "lead_raw": "При этом, по словам губернатора Запорожской области, ситуация с движением значительно улучшилась",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "453613b0683d6df3c0cc0f8ded211c743c5546e5",
+      "fingerprint": "7a6afa2a489b86eb47827eb31503b389d091ab67",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999817",
+      "published_utc": "2026-08-10T15:44:28Z",
+      "title_en": "More than 70% of Russians surveyed complain about overcrowding in public transport",
+      "lead_en": "According to the head of the executive committee of the Popular Front, Mikhail Kuznetsov, 55% of citizens pointed to non-compliance with the schedule, another 45% - to poor performance of transport in the evening",
+      "title_raw": "Более 70% опрошенных россиян жалуются на переполненность общественного транспорта",
+      "lead_raw": "Как сообщил руководитель исполкома Народного фронта Михаил Кузнецов, 55% граждан указали на несоблюдение расписания, еще 45% - на плохую работу транспорта в вечернее время",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6a2a4bf22a302125de258498439fd899bf845915",
+      "fingerprint": "b01f1c2a40519b05e1a1859daa40528ffa8d67ce",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/10/russia-rolling-out-starlink-style-network-faster-than-expected-kyiv-says-a93453",
+      "published_utc": "2026-08-10T15:43:23Z",
+      "title_en": "Russia Rolling Out Starlink-Style Network Faster Than Expected, Kyiv Says",
+      "lead_en": "Russian forces had been using gray-market Starlink terminals in Ukraine until Kyiv successfully lobbied SpaceX to disable them earlier this year.",
+      "title_raw": "Russia Rolling Out Starlink-Style Network Faster Than Expected, Kyiv Says",
+      "lead_raw": "Russian forces had been using gray-market Starlink terminals in Ukraine until Kyiv successfully lobbied SpaceX to disable them earlier this year.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "49c44e7199b1e6171eeeeb42af79afa933315702",
+      "fingerprint": "ea6db4ec30db3d3daa7010c9b3de0f624161d3bd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27999819",
+      "published_utc": "2026-08-10T15:42:42Z",
+      "title_en": "The building of the Russian Embassy in Colombia was not damaged due to the earthquake",
+      "lead_en": "Press Secretary Vyacheslav Petukhov said that the diplomatic mission is finding out information about the injured Russians",
+      "title_raw": "Здание посольства РФ в Колумбии не пострадало из-за землетрясения",
+      "lead_raw": "Пресс-секретарь Вячеслав Петухов сообщил, что диппредставительство выясняет информацию о пострадавших россиянах",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "99fb8e446c256f95b6af141c97a631be1b96fcb1",
+      "fingerprint": "9a3efdacd33e69d2b1774fa47be09ff2a912668f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/27999797",
+      "published_utc": "2026-08-10T15:33:19Z",
+      "title_en": "The Russian Embassy in Colombia is finding out information about Russians injured in the earthquake",
+      "lead_en": "The epicenter was in the department of Valle del Cauca",
+      "title_raw": "Посольство РФ в Колумбии выясняет данные о пострадавших при землетрясении россиянах",
+      "lead_raw": "Эпицентр находился в департаменте Валье-дель-Каука",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "67ffa86b9a1e6820654cf16f39219d41c5a21ec6",
+      "fingerprint": "4a9899763168029f29089bb3fc2721a1c2b8ddbf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/27999513",
+      "published_utc": "2026-08-10T15:30:51Z",
+      "title_en": "TASS: \"Death Regiment\" of the Ukrainian Armed Forces is trying to hide crimes by blowing up torture chambers",
+      "lead_en": "Also, in the forests of the Chuguevsky district of the Kharkov region, the remains of killed forcibly mobilized Ukrainian soldiers are exhumed and burned, Russian security forces reported",
+      "title_raw": "ТАСС: \"полк смерти\" ВСУ пытается скрыть преступления, взрывая камеры пыток",
+      "lead_raw": "Также в лесных массивах Чугуевского района Харьковской области эксгумируют и сжигают останки убитых насильно мобилизованных украинских солдат, сообщили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6cca545cca42babf95e07e12069d89f3e4e67849",
+      "fingerprint": "36bc3a0d2144697d19fedcd1c2299afba5f0f511",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171035",
+      "published_utc": "2026-08-10T15:29:35Z",
+      "title_en": "FAZ journalist's comments must be legally assessed — Russian embassy in Serbia",
+      "lead_en": "The diplomatic mission noted that Michael Martens' remarks could incite hostility or intolerance towards Russians",
+      "title_raw": "FAZ journalist's comments must be legally assessed — Russian embassy in Serbia",
+      "lead_raw": "The diplomatic mission noted that Michael Martens' remarks could incite hostility or intolerance towards Russians",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3a0fb414d1c411e9382ff0689c682f899d04bbde",
+      "fingerprint": "35dc48b4de4418896a793dbe8f548f216c87cdb2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2171033",
+      "published_utc": "2026-08-10T15:19:32Z",
+      "title_en": "Russian woman escapes from Myanmar after being swindled into fraudulent crypto scheme",
+      "lead_en": "The Thai authorities have not yet conducted any official investigative procedures with her due to her psychological state",
+      "title_raw": "Russian woman escapes from Myanmar after being swindled into fraudulent crypto scheme",
+      "lead_raw": "The Thai authorities have not yet conducted any official investigative procedures with her due to her psychological state",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8d76694b5e48471aaa19c3b67fd57e3aa5b6e261",
+      "fingerprint": "502132a690893611ac7e7a0bc6ddba2ea364ea1b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/10/after-months-of-rarely-traveling-to-russia-s-regions-putin-visits-his-fourth-city-in-less-than-three-weeks",
+      "published_utc": "2026-08-10T15:16:56Z",
+      "title_en": "After months of rarely traveling to Russia’s regions, Putin visits his fourth city in less than three weeks",
+      "lead_en": "Vladimir Putin has arrived in Ulan-Ude, the capital of Buryatia, where he is set to chair a State Council presidium meeting on developing public transportation.",
+      "title_raw": "After months of rarely traveling to Russia’s regions, Putin visits his fourth city in less than three weeks",
+      "lead_raw": "Vladimir Putin has arrived in Ulan-Ude, the capital of Buryatia, where he is set to chair a State Council presidium meeting on developing public transportation.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ed9b65159a1d1b8033c0357696be399ea42efba4",
+      "fingerprint": "53cc155d063a1d3946ac50653a31ddc81dd13c3d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/27999749",
+      "published_utc": "2026-08-10T15:16:25Z",
+      "title_en": "The Central Bank called for improving the administration of the issue of lack of compulsory motor liability insurance for drivers",
+      "lead_en": "This will help level out the profits of insurance companies in this segment, said the head of the Bank of Russia, Elvira Nabiullina.",
+      "title_raw": "ЦБ призвал усовершенствовать администрирование вопроса отсутствия ОСАГО у водителей",
+      "lead_raw": "Это позволит выровнять прибыль страховых компаний в этом сегменте, заявила глава Банка России Эльвира Набиуллина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "305c3cd619937d62b06cf39d34c051385b9b4d27",
+      "fingerprint": "169482576e55f2a2ef5cff475c688893504e7a8b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/27999713",
+      "published_utc": "2026-08-10T15:16:11Z",
+      "title_en": "Trutnev said that young people need to be taught how to use weapons",
+      "lead_en": "The Plenipotentiary Representative of the President of the Russian Federation in the Far Eastern Federal District noted that young people will participate in the precision shooting tournament named after. Okhlopkova",
+      "title_raw": "Трутнев заявил, что молодежь нужно учить обращаться с оружием",
+      "lead_raw": "Полномочный представитель президента РФ в ДФО отметил, что молодые люди будут участвовать в турнире по высокоточной стрельбе им. Охлопкова",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "841ea22bd932d21d206cc0cc4073387ecc359bef",
+      "fingerprint": "5eb5f59c1c869002b9f6f9f925260f0996c644ed",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/10/election-officials-accuse-yabloko-candidates-of-foreign-funding-at-russian-supreme-court-hearing-a93452",
+      "published_utc": "2026-08-10T15:11:00Z",
+      "title_en": "Election Officials Accuse Yabloko Candidates of Foreign Funding at Russian Supreme Court Hearing",
+      "lead_en": "Yabloko denied that it received funding from abroad as it fought in court to remain on the ballot for next month’s State Duma elections.",
+      "title_raw": "Election Officials Accuse Yabloko Candidates of Foreign Funding at Russian Supreme Court Hearing",
+      "lead_raw": "Yabloko denied that it received funding from abroad as it fought in court to remain on the ballot for next month’s State Duma elections.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ca3c8948f1b8146ba7d4ba169a11011cb1d0ff21",
+      "fingerprint": "d5140695008165aeee39cfe61ebddf84ab8e06ca",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171027",
+      "published_utc": "2026-08-10T15:03:45Z",
+      "title_en": "Russian Be-200 aircraft help extinguish wildfires in Turkey",
+      "lead_en": "According to the Russian embassy, this collaboration has become a good tradition and serves as an example of practical cooperation between Russia and Turkey",
+      "title_raw": "Russian Be-200 aircraft help extinguish wildfires in Turkey",
+      "lead_raw": "According to the Russian embassy, this collaboration has become a good tradition and serves as an example of practical cooperation between Russia and Turkey",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e2ca669432fe9e69168c0905556ca728c99bfd65",
       "fingerprint": "c25fc03ba3ee7fad5b4a77502cae8d625e108db0",
@@ -9425,254 +10117,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "48942a467a02c7ab902f25234c0c6210244ff932",
-      "fingerprint": "00dfca6f0dc24d3a1b302ef3214fbbbb645e8cbf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/27995231",
-      "published_utc": "2026-08-08T16:56:28Z",
-      "title_en": "Deputy Minister of Culture Alekseeva: BRICS advocated the ethical use of AI",
-      "lead_en": "All relevant mechanisms must be implemented taking into account national legislation and applicable international legal norms, noted the State Secretary - Deputy Minister of Culture of the Russian Federation",
-      "title_raw": "Замминистра культуры Алексеева: БРИКС выступила за этичное применение ИИ",
-      "lead_raw": "Все соответствующие механизмы должны реализовываться с учетом национального законодательства и применимых международно-правовых норм, отметила статс-секретарь - заместитель министра культуры РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1f1e0401e53bde86fa199d9048c6a2e4530507df",
-      "fingerprint": "b9e1921330aa1eaa449b5bdb2d5e37a493cc41b9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27995229",
-      "published_utc": "2026-08-08T16:54:29Z",
-      "title_en": "TASS: chief of medical regiment of the Armed Forces of Ukraine experimented with lethal injections",
-      "lead_en": "The potential transfer of Elena Sheremet to another position will allow her to integrate into the new unit the work methodology adopted in the “death regiment,” noted the Russian security forces",
-      "title_raw": "ТАСС: начмед полка ВСУ экспериментировала со смертельными уколами",
-      "lead_raw": "Потенциальный перевод на другую должность Елены Шеремет позволит ей интегрировать в новое подразделение методику работы, принятую в \"полку смерти\", отметили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "37693d9fea113adbb40419a3c92dd00f48e1441b",
-      "fingerprint": "21869afd46d7788c393f9d6af22967f45d0bc103",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27995223",
-      "published_utc": "2026-08-08T16:53:49Z",
-      "title_en": "Security forces learned about a new route for mercenaries to the Ukrainian Armed Forces through Qatar and Poland",
-      "lead_en": "23-year-old Brazilian Eric Ferreira Soares, who was captured by the Russian Armed Forces, previously noted that he ended up in the Ukrainian Armed Forces on the front line because of Ukraine’s false propaganda",
-      "title_raw": "Силовики узнали о новом маршруте наемников в ВСУ через Катар и Польшу",
-      "lead_raw": "Попавший в плен ВС РФ 23-летний бразилец Эрик Феррейра Соариш ранее отмечал, что попал в ВСУ на передовую из-за лживой пропаганды Украины",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "22c698e1a94c59c928fd0b9d7a35b8d6e393620e",
-      "fingerprint": "6a2e6005dae8a05fb05f0d35a11bdd5fa59441f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27995227",
-      "published_utc": "2026-08-08T16:52:41Z",
-      "title_en": "TASS: the chief of staff of the Ukrainian Armed Forces battalion was eliminated in the Zaporozhye direction",
-      "lead_en": "In particular, a helicopter was destroyed in which they tried to evacuate senior lieutenant Yaroslav Demchevsky in the Kirovograd region, noted the Russian security forces",
-      "title_raw": "ТАСС: на запорожском направлении ликвидировали начальника штаба батальона ВСУ",
-      "lead_raw": "В том числе уничтожен вертолет, на котором пытались эвакуировать старшего лейтенанта Ярослава Демчевского, в Кировоградской области, отметили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0b871062075806ec041352a05a2705b5bb743445",
-      "fingerprint": "bdf9978097a8ce29dfbe78fc21b6fad84cc8bdfa",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27995225",
-      "published_utc": "2026-08-08T16:52:02Z",
-      "title_en": "TASS: militants of the “death regiments” and “Skala” of the Ukrainian Armed Forces will be transferred to “Azov”",
-      "lead_en": "Russian law enforcement agencies reported that people from the “death regiments” have already repeatedly moved to other positions in mechanized and motorized infantry brigades.",
-      "title_raw": "ТАСС: боевиков \"полков смерти\" и \"Скалы\" ВСУ переведут в \"Азов\"",
-      "lead_raw": "В российских силовых структурах сообщили, что выходцы из \"полков смерти\" уже неоднократно переходили на другие должности в механизированных и мотопехотных бригадах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "92b77f742fa9e23c54696b95972ebf998c87a2c6",
-      "fingerprint": "ba274de41bace3133575acfb011045a9759ec226",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/27995221",
-      "published_utc": "2026-08-08T16:51:33Z",
-      "title_en": "TASS: The Armed Forces of Ukraine abandon the corpses of military personnel and equipment in the Slavic-Kramatorsk agglomeration",
-      "lead_en": "City streets are littered with destroyed enemy equipment, Russian security forces noted",
-      "title_raw": "ТАСС: ВСУ бросают трупы военных и технику в славянско-краматорской агломерации",
-      "lead_raw": "Улицы городов завалены уничтоженной техникой противника, отметили в российских силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "79d0876886cb4134e425f0980074b0995f2ac15a",
-      "fingerprint": "b511ae826a38e0a9e8c2908467d2de6e0c2ad63b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/27995195",
-      "published_utc": "2026-08-08T16:16:39Z",
-      "title_en": "BelTA: search for missing Belarusian climbers in Kyrgyzstan",
-      "lead_en": "According to the Ministry of Foreign Affairs of Belarus, a group of climbers consisting of three people stopped communicating after climbing Kurumdy Peak",
-      "title_raw": "БелТА: в Киргизии ищут пропавших белорусских альпинистов",
-      "lead_raw": "По данным МИД Белоруссии, группа альпинистов в составе трех человек после восхождения на пик Курумды перестала выходить на связь",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3ea269866cece4b7e8d9207da51fd8c2e7b07278",
-      "fingerprint": "ac6785881b62d2dabca6d1b2311ee9ad545d3daf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27995159",
-      "published_utc": "2026-08-08T15:40:10Z",
-      "title_en": "A girl from the USA with a “Batman mask” leaves Russia on August 13",
-      "lead_en": "The final operation to remove the remains of the nevus and scars took place on July 22",
-      "title_raw": "Девочка из США с \"маской Бэтмена\" покидает Россию 13 августа",
-      "lead_raw": "Заключительная операция по удалению остатков невуса и рубцов прошла 22 июля",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b296b67e34c734aa636ccebd5ae132172cf0d7a4",
-      "fingerprint": "c2d4b63f4598712d2061534ef8770f4b2ad6b38b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27995157",
-      "published_utc": "2026-08-08T15:38:57Z",
-      "title_en": "Medvedev: Russia will win, no matter what von der Leyen says",
-      "lead_en": "The head of the EC is only interested in the “Bandera clique” and sanctions, and she is indifferent to Europe, said the deputy chairman of the Russian Security Council",
-      "title_raw": "Медведев: Россия победит, что бы ни говорила фон дер Ляйен",
-      "lead_raw": "Глава ЕК заинтересована только в \"бандеровской клике\" и санкциях, а Европа ей безразлична, указал зампред Совбеза РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9826c6478c63819f5074534514ed2d25bb8f7a32",
-      "fingerprint": "4005f8a7eb28d3b25297b1f0ef1d62cff77317cd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27995147",
-      "published_utc": "2026-08-08T15:27:05Z",
-      "title_en": "The opening ceremony of the Spartakiad of the Peoples of Russia was held in Yekaterinburg",
-      "lead_en": "Competitions will be held in seven regions until mid-October",
-      "title_raw": "Церемония открытия Спартакиады народов России прошла в Екатеринбурге",
-      "lead_raw": "Соревнования пройдут в семи регионах до середины октября",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3b8731d0c86187fd1bb8ef8882520c2e6da98603",
-      "fingerprint": "f269cfd3844bc2349e14f467bb6225583e63f309",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2170521",
-      "published_utc": "2026-08-08T15:10:59Z",
-      "title_en": "Russian strikes hit ships carrying military cargo at Nikolayev port, in Black Sea",
-      "lead_en": "During the day, high-precision long-range weapons and attack unmanned aerial vehicles struck a dry cargo ship carrying military equipment at the port of Nikolayev, as well as a warehouse storing weapons and military supplies",
-      "title_raw": "Russian strikes hit ships carrying military cargo at Nikolayev port, in Black Sea",
-      "lead_raw": "During the day, high-precision long-range weapons and attack unmanned aerial vehicles struck a dry cargo ship carrying military equipment at the port of Nikolayev, as well as a warehouse storing weapons and military supplies",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1a268409fbb803fd8707c10ecc661b985391e679",
-      "fingerprint": "60454a469219809ab5229dc2bf4bac3799df789a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2170519",
-      "published_utc": "2026-08-08T15:10:35Z",
-      "title_en": "Russian forces hit military warehouses storing electronic warfare equipment at Odessa port",
-      "lead_en": "The Russian Armed Forces continue to carry out strikes on Ukrainian port infrastructure and seagoing vessels used by the Ukrainian army",
-      "title_raw": "Russian forces hit military warehouses storing electronic warfare equipment at Odessa port",
-      "lead_raw": "The Russian Armed Forces continue to carry out strikes on Ukrainian port infrastructure and seagoing vessels used by the Ukrainian army",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
