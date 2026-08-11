@@ -1,8 +1,592 @@
 {
-  "updated_at_utc": "2026-08-11T11:47:02Z",
+  "updated_at_utc": "2026-08-11T13:13:16Z",
   "keep_hours": 48,
-  "count": 620,
+  "count": 630,
   "articles": [
+    {
+      "id": "13f16ffe559fdcdb4460954bdc4cd7e7ab1d1ca4",
+      "fingerprint": "004e1ed8799d9ae9a73feafcf85ead318ceba7b2",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/11/russias-central-bank-proposes-framework-for-publicly-trading-major-cryptocurrencies-a93460",
+      "published_utc": "2026-08-11T13:10:09Z",
+      "title_en": "Russia’s Central Bank Proposes Framework for Publicly Trading Major Cryptocurrencies",
+      "lead_en": "The proposal would allow investors to trade Bitcoin, Ether and Tether on official Russian exchanges, establishing a regulated infrastructure for cryptocurrency trading set to take effect next month.",
+      "title_raw": "Russia’s Central Bank Proposes Framework for Publicly Trading Major Cryptocurrencies",
+      "lead_raw": "The proposal would allow investors to trade Bitcoin, Ether and Tether on official Russian exchanges, establishing a regulated infrastructure for cryptocurrency trading set to take effect next month.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bda2e2fbdec64d50655a273c4af570c3ee3bfbdc",
+      "fingerprint": "3650b426a4affe66f6db0779e184df98d41f32ef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28003039",
+      "published_utc": "2026-08-11T13:07:36Z",
+      "title_en": "Archaeologists found a 13th century coin in Derbent",
+      "lead_en": "Vladimir Koval, head of the department of medieval archeology at the Institute of Archeology of the Russian Academy of Sciences, said that there are several dozen such coins all over the world.",
+      "title_raw": "Археологи нашли монету XIII века в Дербенте",
+      "lead_raw": "Завотделом средневековой археологии ИА РАН Владимир Коваль рассказал, что таких монет во всем мире насчитывается несколько десятков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e212f1217030bb27838a23f6dbfe2628e0cd6750",
+      "fingerprint": "9c26e43d54b42cca6432201cb323cd3b9528134b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28003047",
+      "published_utc": "2026-08-11T13:07:13Z",
+      "title_en": "Russia is preparing to participate in the G20 Ministerial Council in Atlanta at a high level",
+      "lead_en": "",
+      "title_raw": "Россия готовится к участию в СМИД G20 в Атланте на высоком уровне",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "19318b596438097a53e91862354a051cb4d715cf",
+      "fingerprint": "6c73bf5ace899543b26d929c7c92b3c4fc2bff50",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28003005",
+      "published_utc": "2026-08-11T13:02:57Z",
+      "title_en": "The foreign trade surplus of the Russian Federation in June 2026 increased to $12.461 billion",
+      "lead_en": "",
+      "title_raw": "Профицит внешней торговли РФ в июне 2026 года вырос до $12,461 млрд",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7ed5e3b738618b1f05f025aad57855571e3ae326",
+      "fingerprint": "b3fccd8362c486ecffdd1791441d85f4a008a8a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2171433",
+      "published_utc": "2026-08-11T13:02:51Z",
+      "title_en": "Kiev concerned over Russia’s Rassvet low-Earth orbit satellite constellation",
+      "lead_en": "In late March, Russia’s Bureau 1440 company successfully orbited the first 16 satellites of the Rassvet low-Earth orbit constellation",
+      "title_raw": "Kiev concerned over Russia’s Rassvet low-Earth orbit satellite constellation",
+      "lead_raw": "In late March, Russia’s Bureau 1440 company successfully orbited the first 16 satellites of the Rassvet low-Earth orbit constellation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8420b938264b3046a1cb0f87befc3fd788091e0c",
+      "fingerprint": "eedcd8409a8f29040436a36ac206dbbf5a3811be",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28002979",
+      "published_utc": "2026-08-11T12:57:29Z",
+      "title_en": "Russian and Chinese diplomats discussed prospects for liberalizing the mutual travel regime",
+      "lead_en": "The parties also touched upon issues of further development of relations in the consular sphere",
+      "title_raw": "Дипломаты РФ и Китая обсудили перспективы либерализации режима взаимных поездок",
+      "lead_raw": "Стороны также затронули вопросы дальнейшего развития отношений в консульской сфере",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2ef7e66089efc95227bb6ceb8a01d2016c86980b",
+      "fingerprint": "8896b7063a9d3f7d1d8d2fc75bbe26cdd307576d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2171427",
+      "published_utc": "2026-08-11T12:56:01Z",
+      "title_en": "IN BRIEF: Putin’s key statements on innovations, sovereignty, SKIF",
+      "lead_en": "The head of state noted that Russia has grown even stronger by expanding its technological capabilities",
+      "title_raw": "IN BRIEF: Putin’s key statements on innovations, sovereignty, SKIF",
+      "lead_raw": "The head of state noted that Russia has grown even stronger by expanding its technological capabilities",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "72d21ea135455b10a29402a90077311556f6e9a3",
+      "fingerprint": "60bfaff45c1b75a01105d48f426e73d4a09b6ef9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28002987",
+      "published_utc": "2026-08-11T12:55:11Z",
+      "title_en": "The Ministry of Eastern Development noted the positive dynamics of fuel supplies for northern delivery",
+      "lead_en": "Russian Deputy Prime Minister Alexander Novak held a meeting on the fuel market",
+      "title_raw": "Минвостокразвития отметило положительную динамику поставок топлива для северного завоза",
+      "lead_raw": "Вице-премьер РФ Александр Новак провел совещание по рынку топлива",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "019f4371b26c741421dee752d579a6a179b9da75",
+      "fingerprint": "9a9a573cedb9efa66101f205f1b603498de17284",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28002959",
+      "published_utc": "2026-08-11T12:49:54Z",
+      "title_en": "Titov proposed simplifying tax deferment for affected sellers",
+      "lead_en": "The measures will reduce the risk of forced bankruptcies and preserve Russian business and jobs, said the chairman of the federal political council of the New People party.",
+      "title_raw": "Титов предложил упростить пострадавшим селлерам отсрочку по уплате налогов",
+      "lead_raw": "Меры позволят снизить риск вынужденных банкротств, сохранить российский бизнес и рабочие места, сообщил председатель федерального политического совета партии \"Новые люди\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e532f62c37ff482958b85adfa1d469218a6c4339",
+      "fingerprint": "443648d2c056604b6510707fcef126931728b244",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28002953",
+      "published_utc": "2026-08-11T12:48:39Z",
+      "title_en": "Bloomberg: The Armed Forces of Ukraine have stopped publishing data on Russian missile launches",
+      "lead_en": "The agency's source called this a \"security measure\"",
+      "title_raw": "Bloomberg: ВСУ перестали публиковать данные о пусках ракет РФ",
+      "lead_raw": "Источник агентства назвал этот \"мерой безопасности\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "bedffa09e62dae7136717b08b46ed7dbb864332e",
+      "fingerprint": "b4ce8c1f2ed3d6d32441faf3051425dd93c1ff93",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28002961",
+      "published_utc": "2026-08-11T12:48:11Z",
+      "title_en": "Kamensky assessed Russian candidates for the Hall of Fame proposed by The Athletic",
+      "lead_en": "According to the publication, after the end of their careers, Alexander Ovechkin, Sergei Bobrovsky, Nikita Kucherov, Evgeni Malkin and Andrei Vasilevsky should be included in the Hockey Hall of Fame",
+      "title_raw": "Каменский оценил предложенных The Athletic российских кандидатов в Зал славы",
+      "lead_raw": "По версии издания, после завершения карьеры в Зал хоккейной славы должны быть включены Александр Овечкин, Сергей Бобровский, Никита Кучеров, Евгений Малкин и Андрей Василевский",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c433532f08849cedbc38e8cbf9a9d56884f9202c",
+      "fingerprint": "a806b0b750a29ef51b69e4238cb67574059f386b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002945",
+      "published_utc": "2026-08-11T12:47:12Z",
+      "title_en": "Police Major General Oleg Bezsmelnitsyn became the new head of the LPR Ministry of Internal Affairs",
+      "lead_en": "Also, the head of the Ministry of Internal Affairs of Russia Vladimir Kolokoltsev introduced to the personnel the new Minister of Internal Affairs for Adygea Alexei Kampf and the head of the Ministry of Internal Affairs for the Jewish Autonomous Region Gennady Berezin",
+      "title_raw": "Новым главой МВД ЛНР стал генерал-майор полиции Олег Безсмельницын",
+      "lead_raw": "Также глава МВД России Владимир Колокольцев представил личному составу новых министра внутренних дел по Адыгее Алексея Кампфа и начальника УМВД по ЕАО Геннадия Березина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bc6e97dab5843c1c2493f99e0e333df32b59bdfb",
+      "fingerprint": "9581c14c3aa3057c977b17b0cb077019b6154e60",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/science/2171425",
+      "published_utc": "2026-08-11T12:39:52Z",
+      "title_en": "SKIF research facility to cement Russia's global high tech leadership — science minister",
+      "lead_en": "Valery Falkov believes that the SKIF Center will deliver world-class breakthrough",
+      "title_raw": "SKIF research facility to cement Russia's global high tech leadership — science minister",
+      "lead_raw": "Valery Falkov believes that the SKIF Center will deliver world-class breakthrough",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "caee242f94987e416ca0de2ef22476ea92967a25",
+      "fingerprint": "db4b5e5e2d84eb33dadfc6332943a49ed48ef8f9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2171421",
+      "published_utc": "2026-08-11T12:34:21Z",
+      "title_en": "Bangkok to host 2nd Russia-Thailand Investment Forum on October 29-31 — Roscongress",
+      "lead_en": "The event is aimed at unlocking the existing economic potential between the two nations and laying the groundwork for long-term investment projects both in Russia and Southeast Asia",
+      "title_raw": "Bangkok to host 2nd Russia-Thailand Investment Forum on October 29-31 — Roscongress",
+      "lead_raw": "The event is aimed at unlocking the existing economic potential between the two nations and laying the groundwork for long-term investment projects both in Russia and Southeast Asia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5de4624c0e10636b97db92cc525b92e0b0bd3c8f",
+      "fingerprint": "5cbd27bf2e9aa4dc8226c32234d48b99dea50770",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002875",
+      "published_utc": "2026-08-11T12:27:17Z",
+      "title_en": "ATOR: tour operators did not receive information about plans to introduce visas to Serbia",
+      "lead_en": "Serbian plans to “be ready” for EU membership by 2027 obviously do not mean there are plans to abolish the visa-free regime for Russians, the association’s press service noted",
+      "title_raw": "АТОР: туроператоры не получали информации о планах введения виз в Сербию",
+      "lead_raw": "Сербские планы \"быть готовыми\" к 2027 году к членству в ЕС, очевидно, не означают наличия планов отмены безвизового режима для россиян, отметили в пресс-службе ассоциации",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "dd44033c19197052cd6b585f07a67e07d4f5af5f",
+      "fingerprint": "e266c9e76c7518c9c208f7916856634816d4bc5d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28002871",
+      "published_utc": "2026-08-11T12:25:56Z",
+      "title_en": "Chernyshenko: Russia plans to collect scientific data for AI training",
+      "lead_en": "The Deputy Prime Minister recalled that the state system of scientific and technical information GSNTI operated in the USSR",
+      "title_raw": "Чернышенко: в России планируют собрать научные данные для обучения ИИ",
+      "lead_raw": "Вице-премьер напомнил, что в СССР действовала государственная система научно-технической информации ГСНТИ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3cd5aff4faa29be8ca11bede089341772bffc679",
+      "fingerprint": "5308a2d5c975cd62c46cf4f5b90f7c8f3cd9085c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nedvizhimost/28002861",
+      "published_utc": "2026-08-11T12:21:34Z",
+      "title_en": "Since the beginning of the year, over 23.4 million sq. m. have been launched in Russia. m of new housing projects",
+      "lead_en": "The regions have been instructed to keep multi-apartment construction under special control, the Ministry of Construction reported.",
+      "title_raw": "В России с начала года запустили свыше 23,4 млн кв. м новых проектов жилья",
+      "lead_raw": "Регионам поручено держать многоквартирное строительство на особом контроле, сообщили в Минстрое",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "17391d80096826dec751020a0ec138ecffa59663",
+      "fingerprint": "c52b5e97ad287ceb96c9631f7a74c0e3fa856ba6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28002835",
+      "published_utc": "2026-08-11T12:16:05Z",
+      "title_en": "Commander Gen: when Russian attack aircraft approach, the Armed Forces of Ukraine abandon their positions",
+      "lead_en": "Those who did not have time to escape prefer to surrender, the military said",
+      "title_raw": "Командир Ген: при подходе российских штурмовиков военные ВСУ бросают позиции",
+      "lead_raw": "Кто не успел убежать, предпочитают сдаваться, рассказали военнослужащие",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dd2f2f62b07590fc700f7fcc7f1b06933b5ee607",
+      "fingerprint": "0e62e76aff69e5d1bc0ee3f2d00ea4a62bbe580c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28002845",
+      "published_utc": "2026-08-11T12:15:42Z",
+      "title_en": "TASS: The brigade commander of the Armed Forces of Ukraine does not keep in touch with the military",
+      "lead_en": "Alexey Volkov learned about supply problems from the media, Russian law enforcement agencies noted",
+      "title_raw": "ТАСС: комбриг ВСУ не держит связь с военными",
+      "lead_raw": "Алексей Волков узнал о проблемах со снабжением из СМИ, отметили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "da07e4205805a3282f7747d058906313c1833ede",
+      "fingerprint": "2320354c88efaefa5c6a80f6ea1fdce03ab65e36",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2171411",
+      "published_utc": "2026-08-11T12:14:51Z",
+      "title_en": "Ukrainian forces choose targets to sow fear, panic, but Russia shall win — expert",
+      "lead_en": "Yevgeny Poddubny emphasized that the most important thing for Russia right now is to prevail",
+      "title_raw": "Ukrainian forces choose targets to sow fear, panic, but Russia shall win — expert",
+      "lead_raw": "Yevgeny Poddubny emphasized that the most important thing for Russia right now is to prevail",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "327f72a71a83eabf0ddd63d17c2059b6dca4071d",
+      "fingerprint": "e2b8836cc65215da653443211eb27544bbbee8c5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002825",
+      "published_utc": "2026-08-11T12:14:07Z",
+      "title_en": "CAA: Russian Armed Forces evacuated a woman and child from the front-line part of the Kharkov region",
+      "lead_en": "The head of the Kharkov military-civil administration, Vitaly Ganchev, said that shortly before this, her husband died due to an attack by an FPV drone of the Ukrainian Armed Forces.",
+      "title_raw": "ВГА: ВС РФ эвакуировали женщину с ребенком из прифронтовой части Харьковщины",
+      "lead_raw": "Глава харьковской военно-гражданской администрации Виталий Ганчев сообщил, что незадолго до этого из-за атаки FPV-дрона ВСУ у нее погиб муж",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c42485e4f79b8c8459af84557d31f6021eed663f",
+      "fingerprint": "7df0a26938386c33e6b22dcf7cbb1b5487564428",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002499",
+      "published_utc": "2026-08-11T12:14:05Z",
+      "title_en": "In the Samara region, the first lawsuit was filed to deregister a candidate for the State Duma",
+      "lead_en": "We are talking about the deputy from the Communist Party of the Russian Federation Mikhail Matveev",
+      "title_raw": "В Самарской области поступил первый иск о снятии кандидата в ГД с регистрации",
+      "lead_raw": "Речь идет о депутате от КПРФ Михаиле Матвееве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "51f44948f13319ec7dae0f5739f4f699480cec0c",
+      "fingerprint": "290f35c72135e208b4057e5d28889161e6a278a0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/11/russian-lawmaker-vitaly-milonov-claims-he-killed-people-while-fighting-in-ukraine",
+      "published_utc": "2026-08-11T12:11:04Z",
+      "title_en": "Russian lawmaker Vitaly Milonov claims he killed people while fighting in Ukraine",
+      "lead_en": "State Duma Deputy Vitaly Milonov, a member of the ruling United Russia party, told blogger Amiran Sardarov in an interview that he had killed people during the Russia–Ukraine war.",
+      "title_raw": "Russian lawmaker Vitaly Milonov claims he killed people while fighting in Ukraine",
+      "lead_raw": "State Duma Deputy Vitaly Milonov, a member of the ruling United Russia party, told blogger Amiran Sardarov in an interview that he had killed people during the Russia–Ukraine war.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9316b9c01fae143ac3ded2c5e11d476c95ed9c16",
+      "fingerprint": "3a0b2c6ba0897b2398c27f4f355ce8fcb34929db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28002815",
+      "published_utc": "2026-08-11T12:09:26Z",
+      "title_en": "Expert Mishra commented on the Russian initiative on railway access to the Indian Ocean",
+      "lead_en": "In the future, this will simplify many processes in the field of trade between India and Russia, says the CEO of the forwarding company Y&amp;H Cargo",
+      "title_raw": "Эксперт Мишра прокомментировал инициативу РФ о ж/д выходе к Индийскому океану",
+      "lead_raw": "В будущем это упростит многие процессы в сфере торговли между Индией и Россией, считает гендиректор экспедиторской компании Y&amp;H Cargo",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "54c6ab2d86d8006dac31af64b7caa170f7bff956",
+      "fingerprint": "ce80c8d1a80821d44aca8b2a4536e9fabe903037",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002693",
+      "published_utc": "2026-08-11T12:05:59Z",
+      "title_en": "Bulgaria celebrated the 235th anniversary of Admiral Ushakov’s victory over the Ottoman flotilla",
+      "lead_en": "The ceremony of laying flowers at the monument to the Russian naval commander took place at Cape Kaliakra",
+      "title_raw": "В Болгарии отметили 235-летие победы адмирала Ушакова над османской флотилией",
+      "lead_raw": "Церемония возложения цветов к памятнику российскому флотоводцу состоялась на мысе Калиакра",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "32948e145e61d04d67702dfba845f4396d3b7425",
+      "fingerprint": "d02ffff223b83fef47b4ff7bfcc2a52039a0a7d2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28002779",
+      "published_utc": "2026-08-11T12:05:28Z",
+      "title_en": "Roscongress: II Russian-Thai Forum will be held in Bangkok on October 29-31",
+      "lead_en": "It will be attended by key representatives of government agencies and business, as well as major investors and entrepreneurs",
+      "title_raw": "Росконгресс: II Российско-таиландский форум пройдет в Бангкоке 29-31 октября",
+      "lead_raw": "В нем поучаствуют ключевые представители госструктур и бизнеса, а также крупные инвесторы и предприниматели",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "05cd96bcacdb66a2226db47a7b6167b494ddfc70",
+      "fingerprint": "f36ade28ac80fc9ddb277460a811774f3986244a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28002703",
+      "published_utc": "2026-08-11T12:00:15Z",
+      "title_en": "Deputy Mishin urged Kaliningrad residents not to be afraid of NATO reconnaissance aircraft",
+      "lead_en": "Encroachments towards the state border of the Russian Federation will be strictly suppressed, assured the deputy of the regional legislative assembly, deputy chairman of the committee on international and interregional relations, security and law and order.",
+      "title_raw": "Депутат Мишин призвал калининградцев не бояться самолетов-разведчиков НАТО",
+      "lead_raw": "Поползновения в сторону госграницы РФ будут жестко пресекаться, заверил депутат регионального заксобрания, зампред комитета по международным и межрегиональным отношениям, безопасности и правопорядку",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5d7f6ba255b71bce2ff7807f1c1d1ef058aa35c4",
+      "fingerprint": "e29a1ab54cc64982cfccda60f2f040caa9e83b32",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2171397",
+      "published_utc": "2026-08-11T11:48:38Z",
+      "title_en": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
+      "lead_en": "Battlegroup North units took control of the settlement of Shcherbakovka in the Kharkov Region and Battlegroup East units liberated the settlement of Novoye Pole in the Zaporozhye Region",
+      "title_raw": "Russian troops liberate two communities in Ukraine operation over past day — top brass",
+      "lead_raw": "Battlegroup North units took control of the settlement of Shcherbakovka in the Kharkov Region and Battlegroup East units liberated the settlement of Novoye Pole in the Zaporozhye Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "074ac5b54f444d4a3db1455692ee8969d78e75e0",
       "fingerprint": "77756b3d500a2158c6b70af45aa7ffed3e062f32",
@@ -12583,379 +13167,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3c5186a807fd4fcbea2a9594fe2591a74ed7c595",
-      "fingerprint": "66cd0aa4d6d63f10098111ffd034b7e0c85b474b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27996527",
-      "published_utc": "2026-08-09T13:06:03Z",
-      "title_en": "Zakharova commented on Tokyo’s position on bombing",
-      "lead_en": "The official representative of the Russian Foreign Ministry noted that no one respects traitors to memory",
-      "title_raw": "Захарова прокомментировала позицию Токио по бомбардировкам",
-      "lead_raw": "Официальный представитель МИД РФ отметила, что предателей памяти никто не уважает",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "37a59f1efc24959de49239f100ea8a938516bfae",
-      "fingerprint": "0241494beb90eb54b3018025251a29b5a0819fbf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/27996497",
-      "published_utc": "2026-08-09T13:02:12Z",
-      "title_en": "Lushnikov: the Russian defense industry needs healthy competition",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Лушников: в российском ОПК нужна здоровая конкуренция",
-      "lead_raw": "Российскому оборонно-промышленному комплексу необходимо разнообразие разработчиков и производителей, отметил глава АО \"Концерн \"Калашников\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "db60d13295804d68ddb30144a92e70cb82851625",
-      "fingerprint": "8d4741b920fb08aecdc6660247f0076957b3df1d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27996499",
-      "published_utc": "2026-08-09T13:01:31Z",
-      "title_en": "Russian Foreign Ministry: North Macedonia has taken the course of anti-Russian policies of the EU and NATO",
-      "lead_en": "Director of the Second European Department of the Russian Foreign Ministry Yuri Pilipson added that the opinion of the country’s citizens and national interests were “deliberately ignored”",
-      "title_raw": "МИД РФ: Северная Македония взяла курс антироссийских установок ЕС и НАТО",
-      "lead_raw": "Директор второго европейского департамента МИД РФ Юрий Пилипсон добавил, что мнение граждан страны и национальные интересы \"сознательно оставлены без внимания\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "31c12f5e05052d05bc04c71f77f5741e11495e77",
-      "fingerprint": "546a71a7a1c44210a897d262a415c079f0d8a1d2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2170693",
-      "published_utc": "2026-08-09T12:54:54Z",
-      "title_en": "European Aquatics ready to let Russians compete with flag, anthem if hosts agree",
-      "lead_en": "A number of European governments do not allow Russian and Belarusian athletes to participate unless they remain neutral",
-      "title_raw": "European Aquatics ready to let Russians compete with flag, anthem if hosts agree",
-      "lead_raw": "A number of European governments do not allow Russian and Belarusian athletes to participate unless they remain neutral",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "db411181fa5054420ae8de78b8ad0f9eba3e675b",
-      "fingerprint": "bd8857bf20db0fc68b9e6b7138e9cc5d2878a9ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27996475",
-      "published_utc": "2026-08-09T12:51:23Z",
-      "title_en": "The deadline for paying fines for cars with foreign license plates in the Russian Federation may be reduced to a day",
-      "lead_en": "Currently, the general deadline for paying car fines for all motorists is 60 days.",
-      "title_raw": "Срок оплаты штрафов для машин с иностранными номерами в РФ могут сократить до суток",
-      "lead_raw": "Сейчас общий для всех автомобилистов срок оплаты автоштрафов составляет 60 дней",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6e967537dc191b196cc0cac34cfa3681871e7e92",
-      "fingerprint": "913faf2dbfba1da7eb53db437ca56336055c74c1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996469",
-      "published_utc": "2026-08-09T12:48:31Z",
-      "title_en": "The USGU team won the World University Chess Championship",
-      "lead_en": "The Russian team included Arseny Nesterov, Rudik Markaryan, Sergey Lobanov and Leya Garifullina",
-      "title_raw": "Команда УГГУ выиграла ЧМ по шахматам среди университетов",
-      "lead_raw": "В составе российской команды выступали Арсений Нестеров, Рудик Маркарян, Сергей Лобанов и Лея Гарифуллина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4bdf15f3fb19b1de4951c37db97a349ea69da514",
-      "fingerprint": "c8c079dd0f6eedd678dbc55556c2fdda12012327",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996457",
-      "published_utc": "2026-08-09T12:39:22Z",
-      "title_en": "The head of European Aquatics believes that the Russians perform excellently at tournaments",
-      "lead_en": "European Aquatics Championships take place in Paris",
-      "title_raw": "Глава European Aquatics считает, что россияне великолепно выступают на турнирах",
-      "lead_raw": "Чемпионат Европы по водным видам спорта проходит в Париже",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d2d498b094a4c84f19f9de0f9fed6422b85fb4c0",
-      "fingerprint": "879df1de45de22517339966499cc9cee6fc63d1a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/27996449",
-      "published_utc": "2026-08-09T12:30:05Z",
-      "title_en": "Syria and the Russian Federation signed a memorandum on the future of Russian military bases",
-      "lead_en": "They will become centers for joint military training, the agency reported.",
-      "title_raw": "Сирия и РФ подписали меморандум о будущем российских военных баз",
-      "lead_raw": "Они станут центрами совместной военной подготовки, сообщило агентство",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "576dbf73ea1279e5c5b0bf0dba437510f69d5603",
-      "fingerprint": "0272b5481aeb8a26fed2c22941e54c64b7b577e1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996445",
-      "published_utc": "2026-08-09T12:29:43Z",
-      "title_en": "Athletes from the Russian Federation will receive prize money for their performance at the European Championships in aquatics",
-      "lead_en": "The tournament takes place in Paris",
-      "title_raw": "Атлеты из РФ получат призовые за выступление на ЧЕ по водным видам спорта",
-      "lead_raw": "Турнир проходит в Париже",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "189bd74b71f95cb12c183fc59a9ee9e5750bf609",
-      "fingerprint": "ecb59a6e153c7dd3135adf7780e37be6fe1b9aa1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996441",
-      "published_utc": "2026-08-09T12:26:29Z",
-      "title_en": "Silva: Russian participation strengthened synchronized swimming competitions at the European Championships",
-      "lead_en": "Russian synchronized swimmers took second place in the team competition at the tournament",
-      "title_raw": "Силва: участие россиян усилило соревнования по синхронному плаванию на ЧЕ",
-      "lead_raw": "Российские синхронисты заняли второе место в командном зачете на турнире",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "44b9f77f8dc885fa37c8cf6d18bd50bb91d29807",
-      "fingerprint": "7c7ef1f6c2bde3ab31ceee1fa07133fccfad8b3f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996433",
-      "published_utc": "2026-08-09T12:18:37Z",
-      "title_en": "European Aquatics is ready to allow Russians to participate in tournaments with the flag and anthem",
-      "lead_en": "The head of the organization, Antonio Silva, noted that permission from the governments of the countries where the competitions are held is also needed.",
-      "title_raw": "European Aquatics готова допускать россиян на турниры с флагом и гимном",
-      "lead_raw": "Глава организации Антониу Силва отметил, что нужно также разрешение правительств стран, где проходят соревнования",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "076a23e81292bda51edb96f7b84addd4d24a2573",
-      "fingerprint": "e01661601c2f7e300b0b9d8217a8a9a7a9326996",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996427",
-      "published_utc": "2026-08-09T12:18:33Z",
-      "title_en": "Silva: Russia has the right to host the 2028 European Aquatics Championships",
-      "lead_en": "European Aquatics is going to discuss this issue with all interested parties",
-      "title_raw": "Силва: у России есть право на проведение ЧЕ по водным видам спорта 2028 года",
-      "lead_raw": "В European Aquatics собираются обсудить этот вопрос со всеми заинтересованными сторонами",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "011027fd0557de344feb7d166de6f3d34da321e3",
-      "fingerprint": "54ae9764485a6ce172ba79458243e6ca514b809e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27996423",
-      "published_utc": "2026-08-09T12:17:09Z",
-      "title_en": "The Federation Council said that registration of benefits for housing and communal services should be simplified as much as possible",
-      "lead_en": "Deputy Chairman of the Federation Council Committee on Federal Structure Alexander Vysokinsky emphasized that Russians should not collect additional certificates and applications in order to receive a measure of support",
-      "title_raw": "В СФ заявили, что оформление льгот на ЖКУ нужно максимально упростить",
-      "lead_raw": "Зампред комитета Совфеда по федеративному устройству Александр Высокинский подчеркнул, что россияне не должны собирать дополнительные справки и заявления, чтобы получить меру поддержки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9d3dad118d73e2aca717ab9d3424bad88cbf6c7a",
-      "fingerprint": "cf2f4216433fa87fae5e8a7b2f5e9e07c3b8d1f4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27996409",
-      "published_utc": "2026-08-09T12:05:55Z",
-      "title_en": "Khusnullin and Sobyanin congratulated the builders on their professional holiday",
-      "lead_en": "The Deputy Prime Minister and the Mayor of Moscow expressed gratitude to them for the construction of various facilities in the capital and in Russia",
-      "title_raw": "Хуснуллин и Собянин поздравили строителей с профессиональным праздником",
-      "lead_raw": "Вице-премьер и мэр Москвы выразили им благодарность за возведение различных объектов в столице и в России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "544c49b121b42029e2cd95214f5f0209ac5c4a20",
-      "fingerprint": "d73e267a64e44c200b3eb4fc7891fe52ca74a496",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/27996403",
-      "published_utc": "2026-08-09T12:01:32Z",
-      "title_en": "Khusnullin thanked Russian builders for their work",
-      "lead_en": "The country's construction complex accounts for 21% of the country's gross domestic product, said the Deputy Prime Minister",
-      "title_raw": "Хуснуллин поблагодарил российских строителей за труд",
-      "lead_raw": "Строительный комплекс страны занимает 21% валового внутреннего продукта страны, заявил заместитель председателя правительства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f7681cd43168bf5d215edee8ba71d102d07744d9",
-      "fingerprint": "b590fa5c071ab5e7d507aead836d587dea65a286",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/27996413",
-      "published_utc": "2026-08-09T12:01:17Z",
-      "title_en": "The Russian Foreign Ministry regrets that Greece continues to provide military assistance to the criminal Kyiv regime",
-      "lead_en": "The weapons transferred to the Ukrainian Armed Forces are also used to kill ethnic Greeks, noted Yuri Pilipson, director of the second European department of the Russian diplomatic service.",
-      "title_raw": "МИД РФ сожалеет, что Греция продолжает военную помощь преступному киевскому режиму",
-      "lead_raw": "Из переданного оружия ВСУ убивают в том числе этнических греков, отметил директор второго европейского департамента российского дипведомства Юрий Пилипсон",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "498cf3ad1b485bfac79f7fc10cc288bf3d357aef",
-      "fingerprint": "eb07d3129756963d2a87d9662020e1b56764d42b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/27995313",
-      "published_utc": "2026-08-09T12:00:00Z",
-      "title_en": "Yuri Pilipson: pandering to the Ukrainian military brings NATO closer to a clash with the Russian Federation",
-      "lead_en": "The director of the second European department of the Russian Foreign Ministry, Yuri Pilipson, in an interview with TASS, explained who is sowing chaos in Serbia and how Romania is helping Kyiv, explained why Montenegro is “shooting itself in the foot” by introducing visas for Ru",
-      "title_raw": "Юрий Пилипсон: потворство украинской военщине приближает НАТО к столкновению с РФ",
-      "lead_raw": "Директор второго европейского департамента МИД РФ Юрий Пилипсон в интервью ТАСС рассказал, кто сеет смуту в Сербии и чем Румыния помогает Киеву, объяснил, почему введением виз для россиян Черногория \"стреляет себе в ногу\", а также обозначил, что может привести страны НАТО к пагуб",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2c76a26884fa8f1dfab299e642337702b494f375",
-      "fingerprint": "4b09df29b43f86b6b196211fc44c8815f80f158f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/27996397",
-      "published_utc": "2026-08-09T11:54:23Z",
-      "title_en": "Alexandrova admitted that no one expected her to win over Sabalenka",
-      "lead_en": "Russian tennis player beat the first racket of the world at a tournament in Toronto",
-      "title_raw": "Александрова призналась, что никто не ожидал от нее победы над Соболенко",
-      "lead_raw": "Российская теннисистка обыграла первую ракетку мира на турнире в Торонто",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
