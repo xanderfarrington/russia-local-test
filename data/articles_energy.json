@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-08-12T18:01:19Z",
+  "updated_at_utc": "2026-08-12T20:00:49Z",
   "topic": "energy",
   "count": 39,
   "articles": [
+    {
+      "id": "7a93b2a4621db5b2217c0e0d8c2347b0f6f4bce9",
+      "fingerprint": "7d478f53611b025b6a88353cbf7fcaef83b0f03d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2172095",
+      "published_utc": "2026-08-12T19:43:31Z",
+      "title_en": "Russian stocks close in the red on Wednesday",
+      "lead_en": "The yuan exchange rate against the ruble added 5 kopecks to 12.3 rubles",
+      "title_raw": "Russian stocks close in the red on Wednesday",
+      "lead_raw": "The yuan exchange rate against the ruble added 5 kopecks to 12.3 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2728b633dc2041a4e441f2f21bfb3cdf46e0f7ba",
+      "fingerprint": "9057b74a42892113210667792ee4bcedac59af39",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2172079",
+      "published_utc": "2026-08-12T18:36:56Z",
+      "title_en": "Russia remains top oil supplier to India, China in June — OPEC",
+      "lead_en": "Russia supplied around 2.2 mbd of oil to India in June",
+      "title_raw": "Russia remains top oil supplier to India, China in June — OPEC",
+      "lead_raw": "Russia supplied around 2.2 mbd of oil to India in June",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4e956c3ef088c4927cab31d3081d1edf54317668",
       "fingerprint": "0dc7d568392a1ebdd12134e0227f94164a283b2f",
@@ -828,51 +872,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "6f2c8d26f4aa60c2636f45b6092a31b7db1aa45e",
-      "fingerprint": "6f857c6a13fc55d471fe2a50fe31333d5b3ed0ce",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000221",
-      "published_utc": "2026-08-10T18:23:28Z",
-      "title_en": "Karelin discussed with the regional activists of United Russia the initiatives of the residents of Chuvashia",
-      "lead_en": "Issues of healthcare development and fuel safety were also raised",
-      "title_raw": "Карелин обсудил с региональным активом \"Единой России\" инициативы жителей Чувашии",
-      "lead_raw": "Также были подняты вопросы развития здравоохранения и топливной безопасности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c05f50ad412867c9ca49dc75aa36e451b71508e0",
-      "fingerprint": "4d42020248f669432c52ea00ab5d53f9e7e4776a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000001",
-      "published_utc": "2026-08-10T18:03:00Z",
-      "title_en": "Dmitriev explained why the Germans support the AfD",
-      "lead_en": "The Special Representative of the President of the Russian Federation for investment and economic cooperation with foreign countries noted that the party stands for energy cooperation, the fight against migration and peace",
-      "title_raw": "Дмитриев объяснил, почему немцы поддерживают АдГ",
-      "lead_raw": "Спецпредставитель президента РФ по инвестиционно-экономическому сотрудничеству с зарубежными странами отметил, что партия выступает за энергетическое сотрудничество, борьбу с миграцией и мир",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
