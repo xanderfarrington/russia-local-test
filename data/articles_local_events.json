@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-13T11:50:43Z",
+  "updated_at_utc": "2026-08-13T13:19:06Z",
   "topic": "local_events",
-  "count": 3,
+  "count": 5,
   "articles": [
+    {
+      "id": "1112880fb98e7dfc02cc56cff84c2bfb42c9da4b",
+      "fingerprint": "43c40e9644afb0ceb2e45f5ed892b5524c634361",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2172395",
+      "published_utc": "2026-08-13T12:18:19Z",
+      "title_en": "Russian officer killed in explosion in Sevastopol: what is known",
+      "lead_en": "The suspect in the crime has been detained",
+      "title_raw": "Russian officer killed in explosion in Sevastopol: what is known",
+      "lead_raw": "The suspect in the crime has been detained",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c26ae5ec14ca427febb5e4e5b5be50d821086801",
+      "fingerprint": "5b33e156aafb6d86dd3e6912a6e45474c46999a5",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
+      "published_utc": "2026-08-13T12:12:14Z",
+      "title_en": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
+      "lead_en": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
+      "title_raw": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
+      "lead_raw": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6993b2d43b72b36d90b2e3ffc2ef5fcb008f2662",
       "fingerprint": "ddbcb1c2584663b56b01222a982b620733fbaa7b",
