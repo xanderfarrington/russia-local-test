@@ -1,18 +1,630 @@
 {
-  "updated_at_utc": "2026-08-12T23:45:30Z",
+  "updated_at_utc": "2026-08-13T02:16:33Z",
   "keep_hours": 48,
   "count": 771,
   "articles": [
     {
-      "id": "929ede46faeb8b68306ee86aedf3c7f035fd43ee",
+      "id": "da3147f9cf876e14a4bfa34e0ce1922a7545c8b6",
+      "fingerprint": "f42db3caaf3efd78791d295623b19bef04b6a4a0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2172173",
+      "published_utc": "2026-08-13T02:14:26Z",
+      "title_en": "Russian Battlegroup West destroys 83 Ukrainian heavy six-rotor drones in past day",
+      "lead_en": "Apart from that, Ukraine’s daily losses included 61 drone control centers, a Starlink satellite communications station, and 39 ground-based robotic systems",
+      "title_raw": "Russian Battlegroup West destroys 83 Ukrainian heavy six-rotor drones in past day",
+      "lead_raw": "Apart from that, Ukraine’s daily losses included 61 drone control centers, a Starlink satellite communications station, and 39 ground-based robotic systems",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "88ba0553c9f86c45342fc70481f13b256edc9d88",
+      "fingerprint": "392445ee3b5a48f4c6ac29018ead101aa49f1b58",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007845",
+      "published_utc": "2026-08-13T02:11:10Z",
+      "title_en": "The southern group shot down 104 heavy copters of the Ukrainian Armed Forces in one day",
+      "lead_en": "Russian fighters also destroyed 48 UAV communication antennas",
+      "title_raw": "Южная группировка за сутки сбила 104 тяжелых коптерая ВСУ",
+      "lead_raw": "Российские бойцы также ликвидировали 48 антенн связи БПЛА",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bcd1a3ca10adfaf1806987309871d53243989538",
+      "fingerprint": "23eee4acfb61fae5b7743488b40b7462608697e0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007843",
+      "published_utc": "2026-08-13T02:10:04Z",
+      "title_en": "Soldiers of the Russian Armed Forces carried a 71-year-old resident of Konstantinovka out of shelling",
+      "lead_en": "Military personnel of the Southern group identified the location of a group of elderly residents who were hiding in the basements of private houses from attacks by UAVs of the Ukrainian Armed Forces",
+      "title_raw": "Бойцы ВС РФ вынесли на руках 71-летнего жителя Константиновки из-под обстрелов",
+      "lead_raw": "Военнослужащие Южной группировки установили местонахождение группы жителей преклонного возраста, укрывавшихся в подвалах частных домов от ударов БПЛА ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aab2a616b019d57efeec6916f50649174fe323ee",
+      "fingerprint": "aede253b73fb9816f71413d10ab33c9bf05b7fef",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007857",
+      "published_utc": "2026-08-13T02:09:01Z",
+      "title_en": "Izvestia reported that Russians are increasingly leaving Canada due to Russophobia",
+      "lead_en": "",
+      "title_raw": "\"Известия\" сообщили, что россияне все чаще уезжают из Канады из-за русофобии",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2c7c341e00df1d6fcefe0f4baab9a80a60ed9667",
+      "fingerprint": "2d1ca496d379240f3a24b16d95a0feb578419dd0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007841",
+      "published_utc": "2026-08-13T02:08:01Z",
+      "title_en": "The Sever group destroyed 93 Baba Yaga-type drones in one day",
+      "lead_en": "Russian forces also hit 38 UAV control points",
+      "title_raw": "Группировка \"Север\" за сутки уничтожила 93 дрона типа \"Баба-яга\"",
+      "lead_raw": "Силы РФ также поразили 38 пунктов управления БПЛА",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b4779c892bbca5f0893db4bdd278c8944949e026",
+      "fingerprint": "ad0f01a109f2d3002136f06b7308c11c064793a5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007827",
+      "published_utc": "2026-08-13T02:07:09Z",
+      "title_en": "The Zapad group shot down 83 heavy hexacopters of the Ukrainian Armed Forces in one day",
+      "lead_en": "Russian fighters also eliminated 61 enemy UAV control points",
+      "title_raw": "Группировка \"Запад\" за сутки сбила 83 тяжелых гексакоптера ВСУ",
+      "lead_raw": "Российские бойцы также ликвидировали 61 пункт управления БПЛА противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "eb911dd142cc88447d9df131bcae024b4b63f73b",
+      "fingerprint": "e6e54dc9d348fddf3fd361aeb7c52302d1df416f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007829",
+      "published_utc": "2026-08-13T02:05:35Z",
+      "title_en": "Paratroopers of the Russian Armed Forces disrupted the delivery of ammunition to the Armed Forces of Ukraine near Orekhov",
+      "lead_en": "Russian fighters discovered the movement of enemy equipment, the Russian Ministry of Defense said",
+      "title_raw": "Десантники ВС РФ сорвали подвоз боеприпасов ВСУ у Орехова",
+      "lead_raw": "Российские бойцы вскрыли передвижение вражеской техники, заявили в Минобороны РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "911ecab16e1e89f374f93f671b1df68789fde497",
+      "fingerprint": "a77cb0c53882f30b0cac17f060bc8f8df1f50f7f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007823",
+      "published_utc": "2026-08-13T02:04:30Z",
+      "title_en": "The Russian Armed Forces destroyed secretly moving groups of the Armed Forces of Ukraine in the Zaporozhye region",
+      "lead_en": "The combat mission was carried out by military groups of troops \"Vostok\"",
+      "title_raw": "ВС РФ уничтожили скрытно передвигающиеся группы ВСУ в Запорожской области",
+      "lead_raw": "Боевую задачу выполнили военные группировки войск \"Восток\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "cc3063ab78be0feee9c02de8fbffb0e5d463b50f",
+      "fingerprint": "b7c3e4afdb9030969b95cbff7eca43fba9e45693",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007847",
+      "published_utc": "2026-08-13T02:01:39Z",
+      "title_en": "The Ministry of Emergency Situations and the Ministry of Economic Development will evaluate fire regulations in the Russian Federation by the end of the year",
+      "lead_en": "",
+      "title_raw": "МЧС и Минэкономразвития до конца года оценят противопожарные правила в РФ",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "824f7af1105c31f43137dec20cff6ae9f80c230e",
+      "fingerprint": "99522a8102ad1d7445f78ffa11a08c5714824ac7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2172169",
+      "published_utc": "2026-08-13T01:50:00Z",
+      "title_en": "Russian forces advance 1 km north of Ustinovka in Kharkov Region — expert",
+      "lead_en": "Earlier, Andrey Marochko said that Russian forces have established control over Ustinovka and drove Ukrainian troops eight kilometers from the border with the Belgorod Region",
+      "title_raw": "Russian forces advance 1 km north of Ustinovka in Kharkov Region — expert",
+      "lead_raw": "Earlier, Andrey Marochko said that Russian forces have established control over Ustinovka and drove Ukrainian troops eight kilometers from the border with the Belgorod Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "babacb70514182c93eb1e0740a2e096d8f6754e5",
+      "fingerprint": "c9c3133cbb8fafce71dc895952d624c2d3963530",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007793",
+      "published_utc": "2026-08-13T01:39:57Z",
+      "title_en": "Khusnullin told us what issues he begins his work with.",
+      "lead_en": "The Deputy Prime Minister of the Russian Federation said that every morning, first of all, he devotes time to tasks related to Crimea and Novorossiya and providing them with fuel",
+      "title_raw": "Хуснуллин рассказал, с решения каких вопросов начинает работу",
+      "lead_raw": "Вице-премьер РФ сообщил, что каждое утро в первую очередь он посвящает время задачам по Крыму и Новороссии и обеспечению их топливом",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9b599ec84e4c73cdfee4a4c196937c86178dbd6b",
+      "fingerprint": "75d38632985dfbfa41710bd3e867fece7a3fa166",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2172167",
+      "published_utc": "2026-08-13T01:34:00Z",
+      "title_en": "Putin thanks Varyag crew for hospitality",
+      "lead_en": "The Russian President shook hands the commanders and ordered \"At ease!\" to the sailors",
+      "title_raw": "Putin thanks Varyag crew for hospitality",
+      "lead_raw": "The Russian President shook hands the commanders and ordered \"At ease!\" to the sailors",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "72d7a44126d297578723ed8e50c58e673f323a60",
+      "fingerprint": "78ff7fb883cf532508ef175441e9ee4718ce64ec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007785",
+      "published_utc": "2026-08-13T01:25:22Z",
+      "title_en": "Commander Tek reported the destruction of a Ukrainian Armed Forces truck for launching a UAV across Russia",
+      "lead_en": "The military noted that the target was hit by a crew of FPV drones",
+      "title_raw": "Командир Тэк сообщил об уничтожении фуры ВСУ для запуска БПЛА по России",
+      "lead_raw": "Военный отметил, что цель поразил расчет FPV-дронов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "81f31a2035e5d583d788721f45599e91b90a8586",
+      "fingerprint": "270532f3efbad1c0d31b03327f869d2eb9e66002",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007783",
+      "published_utc": "2026-08-13T01:25:08Z",
+      "title_en": "Forecaster Makarova admitted that Typhoon Chan Homa will hit Russia",
+      "lead_en": "In particular, it will bring showers with thunderstorms to Primorye, Khabarovsk Territory, the Jewish Autonomous Okrug and the Amur Region, but no sharp temperature changes are predicted, said a leading employee of the Hydrometeorological Center of the Russian Federation",
+      "title_raw": "Синоптик Макарова допустила, что тайфун \"Чан-Хома\" заденет Россию",
+      "lead_raw": "В частности, он принесет в Приморье, Хабаровский край, ЕАО и Амурскую область ливни с грозами, однако резких температурных скачков не прогнозируется, рассказала ведущий сотрудник Гидрометцентра РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6f246ec6866b9b9ea60ea303e9cbe7aa8da4d294",
+      "fingerprint": "0072d4057e1f94da823ca646b84b7f6916f23114",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007777",
+      "published_utc": "2026-08-13T01:16:08Z",
+      "title_en": "Mironov called for paying interns the full salary of employees",
+      "lead_en": "The chairman of the A Just Russia party noted that cut payments for internships discourage young people from working in their specialty",
+      "title_raw": "Миронов призвал платить стажерам полную зарплату сотрудников",
+      "lead_raw": "Председатель партии \"Справедливая Россия\" отметил, что урезанные выплаты за стажировку отбивают у молодежи желание работать по специальности",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "148126a73b73faae861bb68f7a09eaaf0ff80978",
+      "fingerprint": "e3169ba814086a1a05401d5e17d41c1a977b1140",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007773",
+      "published_utc": "2026-08-13T01:14:26Z",
+      "title_en": "SJR will develop recommendations for working with AI",
+      "lead_en": "Chairman of the Union of Journalists of Russia Vladimir Solovyov emphasized the need to thoroughly check the information provided by artificial intelligence",
+      "title_raw": "СЖР разработает рекомендации по работе с ИИ",
+      "lead_raw": "Председатель Союза журналистов России Владимир Соловьев подчеркнул необходимость тщательной проверки информации, которую выдает искусственный интеллект",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8820f7811e262b44a7725e9ef62a4546b428e6d3",
+      "fingerprint": "1da3e2b24b58f3eb7b84afd1baacf2d2eb72061b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007761",
+      "published_utc": "2026-08-13T01:03:29Z",
+      "title_en": "Scout of the Russian Armed Forces Cain stole a map from the rear of the Ukrainian Armed Forces with data on the location of their forces",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Разведчик ВС РФ Каин украл в тылу ВСУ карту с данными о расположении их сил",
+      "lead_raw": "Российский военный пронес ее через открытое поле",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9023c55186312660d84777b4bd6f873dcbd7d562",
+      "fingerprint": "d3387acd85430e8a84abc79a814caa00f9e88acd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007763",
+      "published_utc": "2026-08-13T01:02:33Z",
+      "title_en": "Marochko reported the advance of the Russian Armed Forces 1 km north of Ustinovka",
+      "lead_en": "The military expert noted that Russian fighters achieved these successes over the past few days",
+      "title_raw": "Марочко сообщил о продвижении ВС РФ на 1 км севернее Устиновки",
+      "lead_raw": "Военный эксперт отметил, что российские бойцы достигли этих успехов за несколько последних суток",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "435af4f36a249e319ba31a6d432f51b2bdb20bfe",
+      "fingerprint": "62ebe382c5d24b4f0ff6524cdb4f167216447113",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007759",
+      "published_utc": "2026-08-13T01:00:48Z",
+      "title_en": "Miroshnik commented on Britain’s desire to resume military contacts with the Russian Federation",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Мирошник прокомментировал желание Британии возобновить военные контакты с РФ",
+      "lead_raw": "Лондон утратил чувство меры в противостоянии с Москвой \"чужими руками\" и теперь после очередной выходки хочет \"успеть вовремя позвонить\", чтобы обеспечить собственную безопасность, считает посол по особым поручениям МИД России",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "82940a61cea422734bf53a4469a56af3d5ce7fbd",
+      "fingerprint": "847ed882ee354ee9940994d457875ac52aa11f98",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2172161",
+      "published_utc": "2026-08-13T00:50:01Z",
+      "title_en": "Russia’s security must be ensured along all of its borders — Putin",
+      "lead_en": "The Russian leader noted that the situation in the Pacific Fleet’s operational area \"is not easy\"",
+      "title_raw": "Russia’s security must be ensured along all of its borders — Putin",
+      "lead_raw": "The Russian leader noted that the situation in the Pacific Fleet’s operational area \"is not easy\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "80f94bfa19998064e091cbb500d2dcd85bb3a4aa",
+      "fingerprint": "0f3a58ae01ae00ea766f6f49316a12e269609ec5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007747",
+      "published_utc": "2026-08-13T00:44:51Z",
+      "title_en": "Putin thanked the Varyag crew for their hospitality",
+      "lead_en": "The President of Russia shook hands with the commanders and ordered “at ease!” sailors lined up on deck",
+      "title_raw": "Путин поблагодарил экипаж \"Варяга\" за гостеприимство",
+      "lead_raw": "Президент России пожал руки командирам и скомандовал \"вольно!\" выстроившимся на палубе морякам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "07ff4a43b5ae5e108033f8e1d85738ba158c10a4",
+      "fingerprint": "9385be1d3c1c7f4a335d8549a805715a8e7deb77",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28007717",
+      "published_utc": "2026-08-13T00:14:57Z",
+      "title_en": "In Novorossiysk and Gelendzhik, a threat of UAV attack was announced",
+      "lead_en": "These cities previously declared a drone danger",
+      "title_raw": "В Новороссийске и Геленджике объявили угрозу атаки БПЛА",
+      "lead_raw": "В этих городах ранее объявляли беспилотную опасность",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e59305bbdea01dd77a62f9f69e30d4afc2c68ac2",
+      "fingerprint": "42f1b694a7ca88c0e278431b7dfae3aa852988aa",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007715",
+      "published_utc": "2026-08-13T00:12:02Z",
+      "title_en": "Alaudinov spoke about the boundaries of the buffer zone created by the Russian Armed Forces",
+      "lead_en": "The commander of the Akhmat special forces is convinced that it should go deep inside Ukraine",
+      "title_raw": "Алаудинов рассказал о границах создаваемой ВС РФ буферной зоны",
+      "lead_raw": "Командир спецназа \"Ахмат\" убежден, что она должна уходить глубоко внутрь Украины",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "df3371642cd62353a679fe3f32cd4c6788441ebf",
+      "fingerprint": "a165ed86075b867dcc4d0eb590079a4cedc0964f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007689",
+      "published_utc": "2026-08-13T00:05:59Z",
+      "title_en": "Marochko said that the Russian Armed Forces are preparing bridgeheads for an attack on Shchurovo",
+      "lead_en": "A military expert said that Russian fighters are also planning to advance to Slavyansk",
+      "title_raw": "Марочко рассказал, что ВС РФ готовят плацдармы для наступления на Щурово",
+      "lead_raw": "Военный эксперт заявил, что российские бойцы также планируют продвижение к Славянску",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e1a4b71bf6c5f6a1ff7975db49dd531839249ae7",
+      "fingerprint": "a980c3a153e63a884eff3f2024203aea46d4de79",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007693",
+      "published_utc": "2026-08-13T00:04:20Z",
+      "title_en": "New footage of Putin on the cruiser \"Varyag\" has been published",
+      "lead_en": "The President of the Russian Federation observed maneuvers and firing from the command room of the flagship of the Pacific Fleet",
+      "title_raw": "Опубликованы новые кадры с Путиным на крейсере \"Варяг\"",
+      "lead_raw": "Президент РФ наблюдал за маневрами и стрельбами из командирской рубки флагмана Тихоокеанского флота",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d6bf2457834a294cc9254930cc4c8d4007481044",
+      "fingerprint": "670ad30909b1239c63c65c606b5a610329ea975a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007701",
+      "published_utc": "2026-08-13T00:03:29Z",
+      "title_en": "Putin held a meeting on ensuring the security of the eastern borders of the Russian Federation",
+      "lead_en": "The President of the Russian Federation noted that the territory in the zone of responsibility of the Pacific Fleet is “difficult”",
+      "title_raw": "Путин провел совещание по обеспечению безопасности восточных границ РФ",
+      "lead_raw": "Президент РФ отметил, что территория в зоне ответственности Тихоокеанского флота \"непростая\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ec583f1be319716d85d18c94ed7ccdbaa27fd25c",
+      "fingerprint": "aae4a7175bdd6cca38e498f8596b9db74b6028fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28007687",
+      "published_utc": "2026-08-13T00:01:00Z",
+      "title_en": "Miroshnik declared Europe’s immunity from Kyiv’s desire to drag it into war",
+      "lead_en": "The Ambassador at Large of the Russian Foreign Ministry noted that the Ukrainian authorities are doing everything to drag European countries into direct confrontation with Russia",
+      "title_raw": "Мирошник заявил об иммунитете Европы от желания Киева втянуть ее в войну",
+      "lead_raw": "Посол по особым поручениям МИД России отметил, что украинские власти делают все, чтобы втянуть европейские страны в прямое противостояние с Россией",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1ba4472eb4620a8a67bbdaf29921136f0230d2f9",
+      "fingerprint": "b765d27cefb9c0e5f0b1d54f688a1a84e0ca026e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28007675",
+      "published_utc": "2026-08-12T23:59:35Z",
+      "title_en": "The OP proposed introducing a two-week intensive course for low-performing schoolchildren",
+      "lead_en": "Deputy Secretary of the Public Chamber of the Russian Federation Vladislav Grib noted that participation in the course will be solely at the request of children and parents",
+      "title_raw": "В ОП предложили ввести двухнедельный интенсив для неуспевающих школьников",
+      "lead_raw": "Заместитель секретаря Общественной палаты РФ Владислав Гриб отметил, что участие в курсе будет исключительно по желанию детей и родителей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "591625fd66f2be23c595b1e2d5f9fdc8c988c6f9",
+      "fingerprint": "747c8c988833fbd17cd0f926f3a5e777cee03846",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/28007679",
+      "published_utc": "2026-08-12T23:59:02Z",
+      "title_en": "NASA during the broadcast showed a map on which Crimea is depicted as part of the Russian Federation",
+      "lead_en": "The peninsula is separated from Ukraine by a line that marks the state borders",
+      "title_raw": "NASA во время трансляции показало карту, на которой Крым изображен частью РФ",
+      "lead_raw": "Полуостров отделен от Украины линией, которой отмечены государственные границы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b40ceb0abc0ea209c6436ee629eff9d3c44c2f95",
       "fingerprint": "a8c92d42942d2b12164da512f3b866472791024e",
       "source": "TASS (RU)",
       "url": "https://tass.ru/obschestvo/28007667",
       "published_utc": "2026-08-12T23:35:59Z",
-      "title_en": "The State Duma explained why regulation of SIM boxes was introduced in the Russian Federation",
-      "lead_en": "",
-      "title_raw": "В ГД объяснили, зачем в РФ ввели регулирование SIM-боксов",
-      "lead_raw": "",
+      "title_en": "The Russian Federation has introduced a restriction on the use of SIM boxes",
+      "lead_en": "This has become a measure to combat fraudsters who often use such devices with a large number of SIM cards and combine them into software and hardware systems",
+      "title_raw": "В РФ ввели ограничение на использование sim-боксов",
+      "lead_raw": "Это стало мерой борьбы с мошенниками, которые часто используют такие устройства с большим количеством sim-карт и объединяют их в программно-аппаратные комплексы",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -36,6 +648,28 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5e0ac7d72a63b5c6e4e6de63cc27e687b1ddbaba",
+      "fingerprint": "1e0061bd304dcc155aefc218ba9439c69dc41e29",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28007659",
+      "published_utc": "2026-08-12T23:27:08Z",
+      "title_en": "Putin said that Pacific sailors are at the forefront",
+      "lead_en": "The combat effectiveness of the armed forces and navy must be maintained to protect the entire territory of the country, the Russian President noted",
+      "title_raw": "Путин заявил, что моряки-тихоокеанцы находятся на переднем крае",
+      "lead_raw": "Боеспособность вооруженных сил и флота должна поддерживаться для защиты всей территории страны, отметил президент России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
@@ -15398,653 +16032,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "e7f3a363adf5145f10aa314c0d18397f9364c738",
-      "fingerprint": "8a856c33971ef39da92426aebbac7deea47a4348",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000773",
-      "published_utc": "2026-08-11T02:08:31Z",
-      "title_en": "Russian military personnel arrived in Kyrgyzstan to participate in tactical exercises",
-      "lead_en": "Joint exercises will last until August 17",
-      "title_raw": "Российские военнослужащие прибыли в Киргизию для участия в тактических учениях",
-      "lead_raw": "Совместные учения продлятся до 17 августа",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "77be7126670b1ec67447ed6551071ffef6561751",
-      "fingerprint": "02371cae78724bef14ae1ae3eb1a8ea355476c86",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000771",
-      "published_utc": "2026-08-11T02:07:51Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Enemy shells were intended to hit Russian military targets",
-      "title_raw": "ЗРК \"Центра\" уничтожил управляемые авиабомбы ВСУ на добропольском направлении",
-      "lead_raw": "Снаряды противника предназначались для поражения объектов российских войск",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4a6a19b30083a5c076c8fa26019dcdbd9fcb44cc",
-      "fingerprint": "f109aab2f9a1656721445e466844bc9e64c0d7f0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28000767",
-      "published_utc": "2026-08-11T02:07:44Z",
-      "title_en": "The Ministry of Industry and Trade called support for the construction of cargo ships a priority",
-      "lead_en": "Deputy Minister of Industry and Trade Albert Karimov noted that Russia needs to solve the problem of updating its aged fleet",
-      "title_raw": "В Минпромторге назвали приоритетной поддержку строительства грузовых судов",
-      "lead_raw": "Заместитель министра промышленности и торговли Альберт Каримов отметил, что России нужно решать задачи по обновлению возрастного флота",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "151f300453bd01848cd4a89a422bded9b034f6d4",
-      "fingerprint": "b8689b1b312af23afd8b9567f29a354427a759b1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000765",
-      "published_utc": "2026-08-11T02:07:18Z",
-      "title_en": "The Armed Forces of the Russian Federation and Mongolia held days of cultural exchange at the Selenga-2026 exercises",
-      "lead_en": "Russian and Mongolian military personnel competed in basketball, basketball, shooting, wrestling and relay races",
-      "title_raw": "ВС РФ и Монголии провели дни культурного обмена на учениях \"Селенга-2026\"",
-      "lead_raw": "Российские и монгольские военнослужащие соревновались в баскетболе, баскетболе, стрельбе, борьбе и эстафетах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "60ec46f8209de1f0e18462bb72024533260167c2",
-      "fingerprint": "5cd3b13195e525f7711e8e16e182d717385b8eb5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000753",
-      "published_utc": "2026-08-11T02:03:29Z",
-      "title_en": "Three UAV crews of the Russian Armed Forces competed to see who would be the first to destroy a ground robot of the Armed Forces of Ukraine",
-      "lead_en": "Russian fighters launched three FPV drones at the target, said senior intelligence officer Alexander Plyashnik",
-      "title_raw": "Три расчета БПЛА ВС РФ соревновались, кто первым уничтожит наземный робот ВСУ",
-      "lead_raw": "Российские бойцы запустили по цели три FPV-дрона, рассказал старший разведчик Александр Пляшник",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d21596783738112d83fe2139192957eeba5919b2",
-      "fingerprint": "6db53971317e52f6a1319b651554f1d7a98489f4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000749",
-      "published_utc": "2026-08-11T02:02:50Z",
-      "title_en": "The Uragan crew destroyed the UAV control posts in the Krasnolimansk direction",
-      "lead_en": "Russian fighters also hit enemy infantry",
-      "title_raw": "Расчет \"Урагана\" уничтожил пункты управления БПЛА на краснолиманском направлении",
-      "lead_raw": "Российские бойцы также поразили пехоту противника",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "04d8752147d93dba811cedc9ebddc7e511561b36",
-      "fingerprint": "146da6a72833af6e382a3af5029103a233a94a85",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000743",
-      "published_utc": "2026-08-11T02:02:50Z",
-      "title_en": "Khusnullin told how he once chose a Kamaz instead of a Mercedes and did not regret it",
-      "lead_en": "The Deputy Chairman of the Government of the Russian Federation noted that he traveled the whole country in a truck",
-      "title_raw": "Хуснуллин рассказал, как однажды выбрал \"Камаз\" вместо Mercedes и не пожалел",
-      "lead_raw": "Зампред правительства РФ отметил, что на грузовике проехал всю страну",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5a759e69e5aff25ec4f7915f72ca478746986da7",
-      "fingerprint": "1189e51f7eca69ef7a5ae969e0d7fbdcb6751c7d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000739",
-      "published_utc": "2026-08-11T02:02:28Z",
-      "title_en": "Commander Volkov told how a Russian soldier single-handedly shot down 10 enemy UAVs",
-      "lead_en": "The soldier hit, among other things, two heavy Baba Yaga hexacopters, the serviceman said",
-      "title_raw": "Командир Волков рассказал, как боец РФ в одиночку сбил 10 БПЛА противника",
-      "lead_raw": "Солдат поразил в том числе два тяжелых гексакоптера \"Баба-яга\", сообщил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d29da2848d5172e453e65f03db69be2b339a5841",
-      "fingerprint": "f4efa448d94ded56d86297b03c42d0d2b3fbb5e1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28000715",
-      "published_utc": "2026-08-11T02:01:52Z",
-      "title_en": "Limarenko: Sakhalin's mining industry has become the highest paid in Russia",
-      "lead_en": "The governor added that over the past year, investment in the region has grown by 20%.",
-      "title_raw": "Лимаренко: добывающая отрасль Сахалина стала самой высокооплачиваемой в России",
-      "lead_raw": "Губернатор добавил, что за последний год рост инвестиций в регион составил 20%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7bb043761f17cf2d8476fe31367f228310a16ec2",
-      "fingerprint": "b8d54d3066d163c4f2d82f485c42d422c20ad593",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000721",
-      "published_utc": "2026-08-11T02:01:02Z",
-      "title_en": "Marochko: Kyiv is strengthening its position at Druzhkovka in an attempt to contain the offensive of the Russian Armed Forces",
-      "lead_en": "The Ukrainian command focused on the defense of Novogrigorivka, a military expert said",
-      "title_raw": "Марочко: Киев усиливает позиции у Дружковки в попытке сдержать наступление ВС РФ",
-      "lead_raw": "Украинское командование сосредоточилось на обороне Новогригоровки, сообщил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dec37a522d8f7f83ae063c53388cc87f1335230d",
-      "fingerprint": "ee3dd92e8ee5ffc5946bc41e00cd80b09661d160",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000719",
-      "published_utc": "2026-08-11T02:00:38Z",
-      "title_en": "Galuzin: The Russian Federation hopes that the West will not allow something irreparable for Europe to happen",
-      "lead_en": "The Deputy Foreign Minister noted that within the framework of the common defense space of Russia and Belarus, the joint Regional Group of Forces and the Unified Air Defense System are successfully functioning",
-      "title_raw": "Галузин: РФ рассчитывает, что Запад не допустит непоправимое для Европы",
-      "lead_raw": "Замглавы МИД отметил, что в рамках единого оборонного пространства России и Белоруссии успешно функционируют объединенная Региональная группировка войск и Единая система ПВО",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ec3a2d1fbcb45c6b72b86f9e76ad42669442e1e7",
-      "fingerprint": "abdf2d7e48ab16d1eb565b14c5b5dfac1bec6db6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000723",
-      "published_utc": "2026-08-11T02:00:35Z",
-      "title_en": "Miroshnik is confident in Russia's victory in the Ukrainian conflict",
-      "lead_en": "It is important to do everything possible to strengthen the country, noted the Ambassador at Large of the Russian Foreign Ministry",
-      "title_raw": "Мирошник уверен в победе России в украинском конфликте",
-      "lead_raw": "Важно делать все возможное, чтобы усилить страну, отметил посол по особым поручениям МИД РФ",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1297640d93ed357e5426a8b554557dec5a09b5cc",
-      "fingerprint": "e4154ca5dbebb51de259754d13e7bc39456ab346",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000495",
-      "published_utc": "2026-08-11T02:00:00Z",
-      "title_en": "Soldier Murzik spoke about the attempts of the Ukrainian Armed Forces to hide motorcycles from UAVs of the Russian Armed Forces",
-      "lead_en": "Ukrainian servicemen disguised the transport as garbage, the head of the Russian army UAV crew said.",
-      "title_raw": "Боец Мурзик рассказал о попытках ВСУ спрятать мотоциклы от БПЛА ВС РФ",
-      "lead_raw": "Украинские военнослужащие маскировали транспорт под мусор, сообщил начальник расчета БПЛА российской армии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f2fab92ae2fa3dd30a0b26e4e3b7bf94620bdb48",
-      "fingerprint": "466677098d0034ca910aa766422ca36e96745096",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28000711",
-      "published_utc": "2026-08-11T01:51:22Z",
-      "title_en": "Vedomosti: more than 70% of Russian companies use AI to create content",
-      "lead_en": "Another 12% of enterprises are ready to start using artificial intelligence within a year, the publication reported, citing a survey by the Go Influence agency.",
-      "title_raw": "\"Ведомости\": более 70% российских компаний используют ИИ для создания контента",
-      "lead_raw": "Еще 12% предприятий готовы начать использовать искусственный интеллект в течение года, сообщило издание со ссылкой на опрос агентства Go Influence",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fdc33e416cfd2bd123e5fae4bbdc3fdf83b7e9fc",
-      "fingerprint": "475026116d92d32064aecad5ce13f13f5b050b87",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000705",
-      "published_utc": "2026-08-11T01:46:21Z",
-      "title_en": "Commander Kopeyka: Russian soldiers were in the rear of the Ukrainian Armed Forces in Shevchenko for about two months",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Командир Копейка: бойцы РФ около двух месяцев находились в тылу ВСУ в Шевченко",
-      "lead_raw": "Российские разведчики выявляли позиции противника под постоянным контролем вражеской ПВО и дронов, отметил военнослужащий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f830bf306d792c5549cface03362e0c72193a20e",
-      "fingerprint": "3240e9f51034d7c4ff71f333ed9181533b4e3598",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2171165",
-      "published_utc": "2026-08-11T01:43:46Z",
-      "title_en": "Russia to resort to measures in response to growing NATO presence in Finland — embassy",
-      "lead_en": "According to a source in the embassy, Russia has repeatedly drawn attention to the detrimental consequences of this policy, and the diplomats are sure that Helsinki are aware of these signals",
-      "title_raw": "Russia to resort to measures in response to growing NATO presence in Finland — embassy",
-      "lead_raw": "According to a source in the embassy, Russia has repeatedly drawn attention to the detrimental consequences of this policy, and the diplomats are sure that Helsinki are aware of these signals",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "25b2ce542c1a11110f0cbaa41a17096f53455831",
-      "fingerprint": "6121d064ee3df25cffb6fb538f44d6492dcf12b7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000701",
-      "published_utc": "2026-08-11T01:35:09Z",
-      "title_en": "Prisoner from the Ukrainian Armed Forces: Ukrainian military “razed to the ground” a lost position",
-      "lead_en": "The Ukrainian Armed Forces soldiers did not take the bodies of their dead, noted the deputy chief of the 3rd outpost of the 4th detachment of the State Border Guard Service Vladislav Bogatyrev, who surrendered to the Russian Armed Forces in the Kharkov direction",
-      "title_raw": "Пленный из ВСУ: украинские военные \"сравняли с землей\" потерянную позицию",
-      "lead_raw": "Солдаты ВСУ не забрали тела своих погибших, отметил замначальника 3-й заставы 4-го отряда ГПСУ Владислав Богатырев, сдавшийся в плен ВС РФ на харьковском направлении",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3f059caaea6d47772e75f92531f79e99e5538c1b",
-      "fingerprint": "184c416960df286f0e1d6d5ca9af762c2ef33ba2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000681",
-      "published_utc": "2026-08-11T01:13:02Z",
-      "title_en": "Onishchenko reported that there is no risk of systemic transmission of STIs from the EU to Russia",
-      "lead_en": "Infections can enter the Russian Federation, but there is no reason for a serious increase in incidence, noted the Deputy President of the Russian Academy of Education",
-      "title_raw": "Онищенко сообщил об отсутствии рисков системного попадания ИППП из ЕС в Россию",
-      "lead_raw": "Инфекции могут попадать в РФ, но оснований для серьезного роста заболеваемости нет, отметил заместитель президента Российской академии образования",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "461afd86e4e4e7845bcd55a8ffb4126d5078373b",
-      "fingerprint": "da4efe6f1773b4da7939c357518a4125e315839a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000679",
-      "published_utc": "2026-08-11T01:08:36Z",
-      "title_en": "International Book Fair with Russian participation opened in Havana",
-      "lead_en": "The special representative of the President of the Russian Federation for international cultural cooperation, Mikhail Shvydkoy, spoke at the opening of the event.",
-      "title_raw": "В Гаване открылась Международная книжная ярмарка с участием России",
-      "lead_raw": "На открытии мероприятия выступил спецпредставитель президента РФ по международному культурному сотрудничеству Михаил Швыдкой",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "58f41689ded71a175adf63730e846c0ab382186a",
-      "fingerprint": "a20fd5f2b8f588157a866e54b2dbb371ebb9e9c7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000677",
-      "published_utc": "2026-08-11T01:01:48Z",
-      "title_en": "Marochko: The Russian Armed Forces have cleared almost all coastal zones near Toretsky",
-      "lead_en": "In some areas near the populated area, Russian fighters crossed rivers and are gaining a foothold on new lines and positions, a military expert said",
-      "title_raw": "Марочко: ВС РФ зачистили почти все прибрежные зоны у Торецкого",
-      "lead_raw": "На некоторых участках у населенного пункта российские бойцы форсировали реки и закрепляются на новых рубежах и позициях, сообщил военный эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "63fd1822d2a37b7b0aea7b90235630e64bfc501c",
-      "fingerprint": "a422d9d94e81084ab2d9b71e9364c3254f8e75f1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000665",
-      "published_utc": "2026-08-11T01:01:25Z",
-      "title_en": "Miroshnik called the registration of victims of the Ukrainian conflict by observers selective",
-      "lead_en": "Reports of international organizations are turning into a farce, said the Ambassador-at-Large of the Russian Foreign Ministry",
-      "title_raw": "Мирошник назвал учет жертв украинского конфликта наблюдателями избирательным",
-      "lead_raw": "Доклады международных организаций превращаются в фарс, заявил посол по особым поручениям МИД РФ",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "33a4db0ad6afe4e685ee70670b4c045087bb4301",
-      "fingerprint": "08410dcea50a322d61f9d05400d540defa3f9ae4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000661",
-      "published_utc": "2026-08-11T01:00:55Z",
-      "title_en": "Galuzin: any provocations by Kyiv against Minsk will be an encroachment on the entire SG",
-      "lead_en": "The Deputy Head of the Russian Foreign Ministry recalled the Treaty on Security Guarantees within the Union State between Russia and Belarus",
-      "title_raw": "Галузин: любые провокации Киева против Минска станут посягательством на все СГ",
-      "lead_raw": "Замглавы МИД РФ напомнил про действующий между Россией и Белоруссией Договор о гарантиях безопасности в рамках Союзного государства",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e213cf4bbadca3217c8519510d1800b25e012410",
-      "fingerprint": "703d408e85d6e9bd0c13f430044df3adb6cf37dc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000653",
-      "published_utc": "2026-08-11T00:50:19Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "The deputy head of the Main Military-Political Directorate of the Russian Armed Forces hopes that foreign soldiers in the Ukrainian army “will all remain lying in the ground that they came to trample”",
-      "title_raw": "Алаудинов заявил, что наемники ВСУ не должны возвращаться домой живыми",
-      "lead_raw": "Замначальника Главного военно-политического управления ВС России надеется, что иностранные солдаты в украинской армии \"все останутся лежать в той земле, которую они пришли топтать\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d4a535e8d117e86d07576d55b089f7778f511dd8",
-      "fingerprint": "93626eebc98b96044f6329a3e668c13c77595617",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000637",
-      "published_utc": "2026-08-11T00:33:14Z",
-      "title_en": "Avangard spoke about plans to open an analogue of the center in the UAE in 2027",
-      "lead_en": "The Russian side is also working together with Belarus to create a patriotic center in Brest, said Daria Borisova, director of the Moscow region educational and methodological center",
-      "title_raw": "В \"Авангарде\" рассказали о планах открыть аналог центра в ОАЭ в 2027 году",
-      "lead_raw": "Российская сторона также совместно с Белоруссией работает над созданием патриотического центра в Бресте, сообщила директор подмосковного учебно-методического центра Дарья Борисова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0848479aa2cced76e5c3581bccf9ae82ec26ef91",
-      "fingerprint": "65bb03cb206d31ae0452316af3614143657bedc0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000623",
-      "published_utc": "2026-08-11T00:20:40Z",
-      "title_en": "Vostok machine gunners helped the attack aircraft occupy a Ukrainian Armed Forces stronghold without losses",
-      "lead_en": "Thanks to this, Russian military personnel were able to advance deeper into the fortified area, said a machine gunner with the call sign Mina",
-      "title_raw": "Пулеметчики \"Востока\" помогли штурмовикам без потерь занять опорный пункт ВСУ",
-      "lead_raw": "Благодаря этому российские военнослужащие смогли продвинуться вглубь укрепрайона, сообщил пулеметчик с позывным Мина",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e694db9e2688fcee111bbf64cdddddac8eb2a711",
-      "fingerprint": "05f8cd8decbf69f67085e1d2978289ed4331561d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28000615",
-      "published_utc": "2026-08-11T00:15:10Z",
-      "title_en": "Expert Yudin reported on the Vatican’s preparations for the visit of the Pope’s envoy to Russia",
-      "lead_en": "It could become one of the possible results of the trip of the head of the Vatican diplomatic service, noted an associate professor at the Center for the Study of Religions of the Russian State University for the Humanities.",
-      "title_raw": "Эксперт Юдин сообщил о подготовке Ватиканом визита посланника Папы в Россию",
-      "lead_raw": "Он может стать одним из возможных результатов поездки главы дипслужбы Ватикана, отметил доцент Центра изучения религий РГГУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ce215ea99c2ffdcb9cffe16436e640d5243fcb95",
-      "fingerprint": "8222aee8f05a95fde3de3381963f8e962ef978e5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28000605",
-      "published_utc": "2026-08-11T00:01:29Z",
-      "title_en": "Marochko said that up to 1 thousand soldiers of the Ukrainian Armed Forces could end up in a cauldron near Volchansky",
-      "lead_en": "The Russian army is expanding the bridgehead for an offensive in this area, the expert noted",
-      "title_raw": "Марочко заявил, что до 1 тыс. солдат ВСУ могут оказаться в котле под Волчанском",
-      "lead_raw": "Армия России расширяет плацдарм для наступления на этом участке, отметил эксперт",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "dbaaf1649b4cc379ea580555fd1034685f00fc31",
-      "fingerprint": "41ce36553a1ab0467a2553fb14fa1e586cb317b3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000603",
-      "published_utc": "2026-08-11T00:00:55Z",
-      "title_en": "Miroshnik said that international organizations turn a blind eye to terrorism in Kyiv",
-      "lead_en": "Ambassador at Large of the Russian Foreign Ministry",
-      "title_raw": "Мирошник заявил, что международные организации закрывают глаза на терроризм Киева",
-      "lead_raw": "Посол по особым поручениям российского МИД",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c07d26bff778e3c638eb5b640d7def8c3f472336",
-      "fingerprint": "827632ebb8f8d109f04528b1927a157a117d7bd9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28000601",
-      "published_utc": "2026-08-11T00:00:40Z",
-      "title_en": "Galuzin: Ukraine wants to expand the geography of military operations to Belarus",
-      "lead_en": "Russia takes into account such risks, the Deputy Foreign Minister noted",
-      "title_raw": "Галузин: Украина хочет расширить географию боевых действий на Белоруссию",
-      "lead_raw": "Россия учитывает подобные риски, отметил замглавы МИД",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1d5eb029baef4cc37345557a9dca22741cabf9eb",
-      "fingerprint": "b9a4c5e0c06f176c5c6a3d9c24de7531be9dc572",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/11/where-did-the-ivory-trade-go-after-china-banned-elephant-tusks-north-into-the-russian-permafrost-where-an-estimated-10m-frozen-mammoths-lie-waiting-and-a-kilogram-of-tusk-fetches-up-to-1-900",
-      "published_utc": "2026-08-10T23:49:39Z",
-      "title_en": "Where did the ivory trade go after China banned elephant tusks? North, into the Russian permafrost — where an estimated 10M frozen mammoths lie waiting, and a kilogram of tusk fetches up to $1,900.",
-      "lead_en": "Mammoth tusks came to be known as “ethical ivory” after China banned imports of elephant tusks in 2017, closing the market that elephants were being slaughtered to supply. China and Hong Kong are home to the world’s most developed tusk-carving industry, in which a single piece can sell for as much as billions of rubles (tens of millions of dollars).",
-      "title_raw": "Where did the ivory trade go after China banned elephant tusks? North, into the Russian permafrost — where an estimated 10M frozen mammoths lie waiting, and a kilogram of tusk fetches up to $1,900.",
-      "lead_raw": "Mammoth tusks came to be known as “ethical ivory” after China banned imports of elephant tusks in 2017, closing the market that elephants were being slaughtered to supply. China and Hong Kong are home to the world’s most developed tusk-carving industry, in which a single piece can sell for as much as billions of rubles (tens of millions of dollars).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 5,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
