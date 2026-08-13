@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-13T08:23:30Z",
+  "updated_at_utc": "2026-08-13T10:10:49Z",
   "topic": "local_events",
   "count": 3,
   "articles": [
+    {
+      "id": "6993b2d43b72b36d90b2e3ffc2ef5fcb008f2662",
+      "fingerprint": "ddbcb1c2584663b56b01222a982b620733fbaa7b",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/13/russian-navy-officer-reportedly-killed-in-bomb-blast-in-occupied-sevastopol",
+      "published_utc": "2026-08-13T09:36:49Z",
+      "title_en": "Russian Navy officer reportedly killed in bomb blast in occupied Sevastopol",
+      "lead_en": "A local resident died in an explosion in occupied Sevastopol, according to Mash and Baza, Telegram channels close to Russian security services.",
+      "title_raw": "Russian Navy officer reportedly killed in bomb blast in occupied Sevastopol",
+      "lead_raw": "A local resident died in an explosion in occupied Sevastopol, according to Mash and Baza, Telegram channels close to Russian security services.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "cc3063ab78be0feee9c02de8fbffb0e5d463b50f",
       "fingerprint": "b7c3e4afdb9030969b95cbff7eca43fba9e45693",
@@ -35,28 +58,6 @@
       "lead_en": "According to Acting Governor Alexander Shuvayev, as many as 4,737 people have been injured",
       "title_raw": "Over 600 civilians killed in Ukrainian attacks on Russia’s Belgorod Region since Feb 2022",
       "lead_raw": "According to Acting Governor Alexander Shuvayev, as many as 4,737 people have been injured",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "84de5c7f69d8c6508a2ea3f7f364d0ac75e47d6a",
-      "fingerprint": "beb02e8536f8152d4c865e589edbfc623b78b8e9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28002001",
-      "published_utc": "2026-08-11T08:57:39Z",
-      "title_en": "United Russia offers credit holidays for entrepreneurs affected by the emergency",
-      "lead_en": "According to the initiative, the borrower will be able to apply for a credit holiday within 60 days from the date of introduction of the relevant emergency regime",
-      "title_raw": "ЕР предложила кредитные каникулы для пострадавших от ЧС предпринимателей",
-      "lead_raw": "Согласно инициативе, заемщик сможет обратиться за кредитными каникулами в течение 60 дней с даты введения соответствующего режима чрезвычайной ситуации",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
