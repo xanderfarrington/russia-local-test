@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-14T11:46:59Z",
+  "updated_at_utc": "2026-08-14T13:13:53Z",
   "topic": "diplomacy",
   "count": 100,
   "articles": [
+    {
+      "id": "bbb2669dc6c557e68bcd422e8ad14163c863cfc4",
+      "fingerprint": "d695a973e50b7f5cd01432edce08d9ba6c689b65",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/08/14/russia-dismisses-calls-for-black-sea-ceasefire-a93499",
+      "published_utc": "2026-08-14T11:43:00Z",
+      "title_en": "Russia Dismisses Calls for Black Sea Ceasefire",
+      "lead_en": "The Foreign Ministry said it saw no grounds for \"half-measures\" that would offer a respite to Ukrainian forces.",
+      "title_raw": "Russia Dismisses Calls for Black Sea Ceasefire",
+      "lead_raw": "The Foreign Ministry said it saw no grounds for \"half-measures\" that would offer a respite to Ukrainian forces.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "cd4d6c7027745def6659d9cdfe81922de3b4a9c1",
       "fingerprint": "d8c9a9ca665151cc3322296e6f9939faf97b1563",
@@ -2201,28 +2223,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2985551a21abd543a0ed8d48ee0be6f80860c8b7",
-      "fingerprint": "f1fa599f535489a94b3296e05eb1778a8ee390c8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28006305",
-      "published_utc": "2026-08-12T12:49:01Z",
-      "title_en": "Rospotrebnadzor ruled out mass infection of Russians with malaria from hollow mosquitoes",
-      "lead_en": "The number of this species is low, so the vector is found in isolated cases",
-      "title_raw": "Роспотребнадзор исключил массовое заражение россиян малярией от дупляных комаров",
-      "lead_raw": "Численность этого вида невысока, поэтому переносчик встречается в единичных случаях",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
