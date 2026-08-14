@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-14T16:57:10Z",
+  "updated_at_utc": "2026-08-14T17:57:18Z",
   "topic": "economy",
   "count": 16,
   "articles": [
+    {
+      "id": "2d25f039c899a547f3de3706981f30308c94831d",
+      "fingerprint": "24d7d367d011155566383150941aad367ff8fe53",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28012361",
+      "published_utc": "2026-08-14T16:57:09Z",
+      "title_en": "Russia increased electricity exports by 4% in the first half of the year",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Россия за I полугодие нарастила экспорт электроэнергии на 4%",
+      "lead_raw": "Импорт снизился на 5,3%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "0156913e434e8fde9813a2036ca74b4b9f15bc5f",
       "fingerprint": "42f89856f021310ccf107ca915a92c01cc9b03a2",
@@ -325,28 +348,6 @@
       "lead_en": "Russia’s gross domestic product (GDP) grew 1.3% in the second quarter of 2026 compared with the same period last year, according to preliminary data published by Russia’s official statistics agency, Rosstat, on August 12.",
       "title_raw": "Russia’s GDP grew 1.3% in the second quarter of 2026, beating Central Bank and government forecasts",
       "lead_raw": "Russia’s gross domestic product (GDP) grew 1.3% in the second quarter of 2026 compared with the same period last year, according to preliminary data published by Russia’s official statistics agency, Rosstat, on August 12.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "461b94ce78a5528ca13760789f1e094d8899059d",
-      "fingerprint": "b1a412639cd152357a5356d65a23342677aa06fd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28007271",
-      "published_utc": "2026-08-12T17:18:29Z",
-      "title_en": "The Russian stock market closed with a decline in the main indices",
-      "lead_en": "The Moscow Exchange Index decreased by 0.96% at the end of the main trading.",
-      "title_raw": "Российский рынок акций закрылся снижением основных индексов",
-      "lead_raw": "Индекс Мосбиржи по итогам основных торгов уменьшился на 0,96%",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
