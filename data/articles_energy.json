@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-14T13:13:53Z",
+  "updated_at_utc": "2026-08-14T14:54:29Z",
   "topic": "energy",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "c175e150ca37e6ead3e35072a1e5d8f3275d5550",
+      "fingerprint": "3ac1c59a7e0f128ebed2c0581bfdf5ba0209ca09",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2172687",
+      "published_utc": "2026-08-14T10:00:01Z",
+      "title_en": "Press review: Putin’s Iturup visit sends message to Japan as EU falls short of gas targets",
+      "lead_en": "Top stories from the Russian press on Friday, August 14th",
+      "title_raw": "Press review: Putin’s Iturup visit sends message to Japan as EU falls short of gas targets",
+      "lead_raw": "Top stories from the Russian press on Friday, August 14th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5af26dbff0b20586ec652c19aae0faa14de53799",
       "fingerprint": "284eb275ee8956e11bbda10205b548bf4b007a6c",
@@ -538,51 +560,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "f96befe9c90fa43aca4c03bec648e2215849a337",
-      "fingerprint": "5a68ad8ecb5675f7301140054b52299ba5f87750",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2171937",
-      "published_utc": "2026-08-12T13:37:43Z",
-      "title_en": "Russia cut oil production by 6,000 bpd in July — OPEC",
-      "lead_en": "Russia’s oil production is currently constrained by the OPEC+ agreement",
-      "title_raw": "Russia cut oil production by 6,000 bpd in July — OPEC",
-      "lead_raw": "Russia’s oil production is currently constrained by the OPEC+ agreement",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ec7b8a2a6097c695c5c6bcf17def0814bed77319",
-      "fingerprint": "c38acd5bb17aa1adc3bc4b41a74a0893c6c01e53",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/08/12/russia-s-fuel-crisis-is-back-with-queues-and-gasoline-rationing-returning-across-the-country",
-      "published_utc": "2026-08-12T13:21:03Z",
-      "title_en": "Russia’s fuel crisis is back, with queues and gasoline rationing returning across the country",
-      "lead_en": "In early August, judging by reports from the regions, a new wave of the fuel crisis hit Russia following Ukrainian strikes on oil refineries. Residents of various regions, from the south to the Far East, report lines at gas stations.",
-      "title_raw": "Russia’s fuel crisis is back, with queues and gasoline rationing returning across the country",
-      "lead_raw": "In early August, judging by reports from the regions, a new wave of the fuel crisis hit Russia following Ukrainian strikes on oil refineries. Residents of various regions, from the south to the Far East, report lines at gas stations.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
