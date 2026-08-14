@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-14T04:51:02Z",
+  "updated_at_utc": "2026-08-14T06:16:50Z",
   "topic": "energy",
   "count": 36,
   "articles": [
+    {
+      "id": "6ed619d83198922ab56ce269ebe93e4b90fcc9bb",
+      "fingerprint": "19cbf656d4e5e655dd9ab6440444f61d4ccfe979",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28011431",
+      "published_utc": "2026-08-14T05:13:45Z",
+      "title_en": "Expert Serova revealed how much Indian companies have invested in the oil and gas sector of the Russian Federation",
+      "lead_en": "The amount is about $5.5 billion, said the director of the international department of the Arctic Development Project Office",
+      "title_raw": "Эксперт Серова раскрыла, сколько компании Индии вложили в нефтегазовый сектор РФ",
+      "lead_raw": "Сумма составляет около $5,5 млрд, сообщила директор международного департамента Проектного офиса развития Арктики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9407761c529465d3fff7faf153d0dc744eddc279",
       "fingerprint": "ef8dafabe86a90526f2051c6d350f67e3d47c584",
@@ -781,29 +803,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "ff6802b1936b3856603fb79bc6f6b48c2c544696",
-      "fingerprint": "6a3f0dafcc01f773d47d83ff7b51568c304ae7a4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28004759",
-      "published_utc": "2026-08-12T05:52:03Z",
-      "title_en": "The Russian Armed Forces hit a base with fuel for the Ukrainian Armed Forces in the port of Odessa",
-      "lead_en": "Russian forces continue to carry out attacks on port infrastructure and sea vessels of Ukraine involved in the interests of the Armed Forces of Ukraine, the Russian Ministry of Defense noted",
-      "title_raw": "ВС РФ поразили в порту Одессы базу с топливом для ВСУ",
-      "lead_raw": "Российские силы продолжают нанесение ударов по портовой инфраструктуре и морским судам Украины, задействованным в интересах ВСУ, отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
