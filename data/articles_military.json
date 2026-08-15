@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-08-15T04:34:56Z",
+  "updated_at_utc": "2026-08-15T05:27:47Z",
   "topic": "military",
-  "count": 136,
+  "count": 137,
   "articles": [
     {
       "id": "7f8072df38b1ab50985b2d8e45f8b352be1623e5",
@@ -255,6 +255,28 @@
       "lead_en": "Russian military personnel were accumulating forces for this strike, he said.",
       "title_raw": "Замкомандира Дронов сообщил, что зачистка Петровки в ДНР заняла около двух дней",
       "lead_raw": "Российские военнослужащие накапливали силы для этого удара, рассказал он",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9a63f4e0b7724b166290fcadcd23da415b088a91",
+      "fingerprint": "ba48d75130187ea4232df384b365bae1fcf490c6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28014467",
+      "published_utc": "2026-08-15T02:03:04Z",
+      "title_en": "During the capture of Baksheevka, “North” fighters in groups destroyed strongholds of the Ukrainian Armed Forces",
+      "lead_en": "Before the start of the offensive, Russian military personnel approached a populated area and discovered enemy firing points and warehouses",
+      "title_raw": "Бойцы \"Севера\" при взятии Бакшеевки группами уничтожали опорные пункты ВСУ",
+      "lead_raw": "Перед началом наступления российские военнослужащие подошли к населенному пункту и обнаружили огневые точки и склады противника",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
