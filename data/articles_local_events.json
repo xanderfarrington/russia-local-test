@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-15T11:22:46Z",
+  "updated_at_utc": "2026-08-15T12:43:13Z",
   "topic": "local_events",
-  "count": 3,
+  "count": 2,
   "articles": [
+    {
+      "id": "db2735a9a2cf02df44d7be77d3a264c3e1357a74",
+      "fingerprint": "516a9f9df794de09dc4fc6d0f10c9c34dbed0b2f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2173689",
+      "published_utc": "2026-08-15T11:45:06Z",
+      "title_en": "Russian woman killed, another citizen injured in Vietnam tour bus crash",
+      "lead_en": "The remaining passengers escaped with minor injuries",
+      "title_raw": "Russian woman killed, another citizen injured in Vietnam tour bus crash",
+      "lead_raw": "The remaining passengers escaped with minor injuries",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "242b5aa7ade00874fe81ed28c469a92857860702",
       "fingerprint": "3e23d163bb079be393b7266ac9ac06db98aa8189",
@@ -25,51 +47,6 @@
         "local_events"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "1112880fb98e7dfc02cc56cff84c2bfb42c9da4b",
-      "fingerprint": "43c40e9644afb0ceb2e45f5ed892b5524c634361",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2172395",
-      "published_utc": "2026-08-13T12:18:19Z",
-      "title_en": "Russian officer killed in explosion in Sevastopol: what is known",
-      "lead_en": "The suspect in the crime has been detained",
-      "title_raw": "Russian officer killed in explosion in Sevastopol: what is known",
-      "lead_raw": "The suspect in the crime has been detained",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c26ae5ec14ca427febb5e4e5b5be50d821086801",
-      "fingerprint": "5b33e156aafb6d86dd3e6912a6e45474c46999a5",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/08/13/russian-military-officer-killed-in-annexed-crimea-bomb-explosion-a93488",
-      "published_utc": "2026-08-13T12:12:14Z",
-      "title_en": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
-      "lead_en": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
-      "title_raw": "Russian Military Officer Killed in Annexed Crimea Bomb Explosion",
-      "lead_raw": "Telegram channels identified the victim as Captain First Rank Robert Shageyev, who defected to Russia during the 2014 annexation of Crimea.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
