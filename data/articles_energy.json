@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-16T06:44:40Z",
+  "updated_at_utc": "2026-08-16T07:33:37Z",
   "topic": "energy",
   "count": 28,
   "articles": [
+    {
+      "id": "1f5fda2bfe62e067734b96ebf6f48f347b89ac98",
+      "fingerprint": "1b45f416d9733d8e9f18b09ca73049404270958c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2173821",
+      "published_utc": "2026-08-16T07:12:06Z",
+      "title_en": "Russian forces strike defense industry plants in Kiev, Defense Ministry says",
+      "lead_en": "According to the Russian Defense Ministry, Russian forces also struck an oil refinery in Kremenchug and steel plant in Krivoy Rog",
+      "title_raw": "Russian forces strike defense industry plants in Kiev, Defense Ministry says",
+      "lead_raw": "According to the Russian Defense Ministry, Russian forces also struck an oil refinery in Kremenchug and steel plant in Krivoy Rog",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "37a1fe7123b292843761944c52147ed08e04517b",
       "fingerprint": "898619e1722fa8957c861f00cffd690383ca334b",
@@ -613,29 +636,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "64382c08e0a3b239004c1c65e58f5099a13035cf",
-      "fingerprint": "0b01634f3c31d3ae8e75e421f263cbe6e729e0a5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2172683",
-      "published_utc": "2026-08-14T06:53:25Z",
-      "title_en": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
-      "lead_en": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
-      "title_raw": "Russian forces strike two tugboats, Izmail port rail station in new attacks",
-      "lead_raw": "According to the Russian Defense Ministry, a rail station at the port of Izmail has been used to load, store and transport military cargo and fuel for Ukrainian troops",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
