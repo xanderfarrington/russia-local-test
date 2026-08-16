@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-16T01:35:41Z",
+  "updated_at_utc": "2026-08-16T03:03:14Z",
   "topic": "energy",
   "count": 30,
   "articles": [
+    {
+      "id": "37a1fe7123b292843761944c52147ed08e04517b",
+      "fingerprint": "898619e1722fa8957c861f00cffd690383ca334b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28016081",
+      "published_utc": "2026-08-16T01:29:50Z",
+      "title_en": "In Kamchatka, an increase in the activity of the Klyuchevskaya Sopka volcano was recorded",
+      "lead_en": "A gas plume stretches from the giant, reported the Institute of Volcanology and Seismology, Far Eastern Branch of the Russian Academy of Sciences.",
+      "title_raw": "На Камчатке зафиксировали увеличение активности вулкана Ключевская сопка",
+      "lead_raw": "От исполина тянется газовый шлейф, сообщили в Институте вулканологии и сейсмологии ДВО РАН.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bf54d147fb31cecaec41ff15740e54760929d82f",
       "fingerprint": "434f1e68e176202799415396e1c529e4dbe27ba8",
@@ -659,28 +681,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "dde78a69ffd586390f89f478cc3345774a49b1f2",
-      "fingerprint": "df56c8b58cbf61347f97304ea972f2ee96c7f230",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/28011147",
-      "published_utc": "2026-08-14T02:06:32Z",
-      "title_en": "Khusnullin reported that individual housing construction provided more than half of the housing construction in Russia",
-      "lead_en": "The Deputy Chairman of the Government of the Russian Federation noted that this was facilitated by the registration of previously built houses and unfinished objects, the development of roads and networks, gasification, dacha and garage amnesties, as well as preferential mortgage",
-      "title_raw": "Хуснуллин сообщил, что дома ИЖС обеспечили более половины ввода жилья в России",
-      "lead_raw": "Зампред правительства РФ отметил, что этому способствовали регистрация ранее построенных домов и незавершенных объектов, развитие дорог и сетей, газификация, дачная и гаражная амнистии, а также льготная ипотека",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
