@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-17T04:46:27Z",
+  "updated_at_utc": "2026-08-17T05:37:16Z",
   "topic": "energy",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "3d81895f1b05a3b2d8092542f94efe6196955635",
+      "fingerprint": "9cf12cb89733e24103207601d02f88c96d6e006b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28017637",
+      "published_utc": "2026-08-17T05:01:50Z",
+      "title_en": "Thai Foreign Ministry: the crisis in the Middle East has forced us to look for new sources of energy resources",
+      "lead_en": "The Kingdom is considering energy supplies from Russia, said Sihasak Phuangketkaew",
+      "title_raw": "МИД Таиланда: кризис на Ближнем Востоке заставил искать новые источники энергоресурсов",
+      "lead_raw": "Королевство рассматривает поставки энергоносителей из России, заявил Сихасак Пхуангкеткеу",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "a6f9194980513c670e592669757d50dc46d37386",
       "fingerprint": "bd0a51168cbc689d91c8bcffee5e2f74880fc3d7",
@@ -25,6 +48,28 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c3df781c806ac5c2b5ba1e9243d3a52e35885c7b",
+      "fingerprint": "1a47bc130dc1726f97c33a3765188f9d003f6d29",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28017489",
+      "published_utc": "2026-08-17T03:40:37Z",
+      "title_en": "Izvestia learned about the possible closure of more than 2 thousand bank branches in the Russian Federation",
+      "lead_en": "By the end of the year, more than 2.1 thousand branches of financial organizations may stop working, the newspaper reported",
+      "title_raw": "\"Известия\" узнали о возможном закрытии более 2 тыс. отделений банков в РФ",
+      "lead_raw": "К концу года перестать работать могут свыше 2,1 тыс. отделений финорганизаций, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
     },
     {
       "id": "af747fb954631c50ffacf49098235fd28bc8aadb",
