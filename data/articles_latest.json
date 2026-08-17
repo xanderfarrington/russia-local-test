@@ -1,8 +1,73 @@
 {
-  "updated_at_utc": "2026-08-17T22:27:25Z",
+  "updated_at_utc": "2026-08-17T23:26:10Z",
   "keep_hours": 48,
-  "count": 534,
+  "count": 535,
   "articles": [
+    {
+      "id": "d093e4a240387a165859f3774bef1c19a9659b26",
+      "fingerprint": "17aa115cd58c899bea62db70d6c7d2c768ccf74e",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/08/18/ye-kanye-west-is-coming-to-st-petersburg-russia-the-dates-the-ticket-prices-and-the-campaign-to-stop-the-shows",
+      "published_utc": "2026-08-17T23:20:24Z",
+      "title_en": "Ye (Kanye West) is coming to St. Petersburg, Russia: the dates, the ticket prices, and the campaign to stop the shows",
+      "lead_en": "Say Agency, a Russian concert promoter, has announced that the American rapper Ye, better known as Kanye West, will perform in St. Petersburg this fall.",
+      "title_raw": "Ye (Kanye West) is coming to St. Petersburg, Russia: the dates, the ticket prices, and the campaign to stop the shows",
+      "lead_raw": "Say Agency, a Russian concert promoter, has announced that the American rapper Ye, better known as Kanye West, will perform in St. Petersburg this fall.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "21fafab07fa181a616aa2cb3aa977896d4088c5b",
+      "fingerprint": "6fd87ff533881b5186649faa316cb08a35acdac0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28020323",
+      "published_utc": "2026-08-17T22:47:26Z",
+      "title_en": "Kanye West's meetings during his visit to Russia are not yet planned",
+      "lead_en": "The rapper's concerts are scheduled to take place on October 10 and 11 at the Gazprom Arena in St. Petersburg",
+      "title_raw": "Встречи Канье Уэста во время визита в Россию пока не запланированы",
+      "lead_raw": "Концерты рэпера должны пройти 10 и 11 октября на \"Газпром-Арене\" в Санкт-Петербурге",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "03cfde971c015e980ab348b0872cf161ea746bab",
+      "fingerprint": "3852a6e663dc2b1ec1e0a5eb5db718e1639d11cd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28020315",
+      "published_utc": "2026-08-17T22:35:52Z",
+      "title_en": "The OP proposed to extend the acceptance of applications for family benefits",
+      "lead_en": "This measure is necessary because many families do not know about the new support instrument, as well as whether they have the right to receive such a payment, says Sergei Rybalchenko, Chairman of the Commission of the Public Chamber of the Russian Federation on Family Issues",
+      "title_raw": "В ОП предложили продлить прием заявок на получение семейной выплаты",
+      "lead_raw": "Такая мера необходима, поскольку многие семьи не знают о новом инструменте поддержки, а также о том, есть ли у них право на получение такой выплаты, считает председатель комиссии Общественной палаты РФ по вопросам семьи Сергей Рыбальченко",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "7b0fc6fafc2c80d7e59683adbd272722496866aa",
       "fingerprint": "58768e381c4137da4ea28fbbe906cd7809c4a7e1",
@@ -11037,50 +11102,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "09670e26eb9dc8a1eed91ba15302cd7eb2464b25",
-      "fingerprint": "7cab9d2f34acda64ba851ea4b74c4805f5e780ac",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2173779",
-      "published_utc": "2026-08-15T23:11:52Z",
-      "title_en": "More US weapons supplies to Kiev via Turkey to make peace more distant prospect — expert",
-      "lead_en": "Ivan Timofeyev, director general of the Russian International Affairs Council, said that the US is not seeking a military defeat for Ukraine",
-      "title_raw": "More US weapons supplies to Kiev via Turkey to make peace more distant prospect — expert",
-      "lead_raw": "Ivan Timofeyev, director general of the Russian International Affairs Council, said that the US is not seeking a military defeat for Ukraine",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f55f842d1d6a51519fafaf2396074e4d6a8450ad",
-      "fingerprint": "659d58d47ea571ddb81b9a84fa02efb5d076f0e7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28015979",
-      "published_utc": "2026-08-15T23:04:28Z",
-      "title_en": "Marochko spoke about the offensive of the Russian Armed Forces near Olkhovatka with a front of 10 km",
-      "lead_en": "The military expert added that Russian fighters are clearing the area",
-      "title_raw": "Марочко рассказал о наступлении ВС РФ у Ольховатки фронтом в 10 км",
-      "lead_raw": "Военный эксперт добавил, что российские бойцы проводят зачистку местности",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
