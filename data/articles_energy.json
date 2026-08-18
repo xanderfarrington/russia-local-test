@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-18T09:36:42Z",
+  "updated_at_utc": "2026-08-18T10:31:39Z",
   "topic": "energy",
   "count": 35,
   "articles": [
+    {
+      "id": "f05f3c8ff84eee5e7f852093120fb7cededb89c4",
+      "fingerprint": "5fa45e464c48c514fdbc8c1f51e577e39cc8816e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28021795",
+      "published_utc": "2026-08-18T09:39:25Z",
+      "title_en": "The Russian Armed Forces hit logistics centers and energy facilities used by the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also attacked drone assembly shops",
+      "title_raw": "ВС РФ поразили используемые ВСУ логистические центры и объекты энергетики",
+      "lead_raw": "Российские силы атаковали также цеха сборки беспилотников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "bcff352102f64db7ece3517d844e3ba69570fa9e",
       "fingerprint": "acb03ec4040759e79fc74b6c57758fcf9140f4cb",
@@ -765,28 +787,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "7ad97e04a435496ffbe41c1dcfe20110dcfe0194",
-      "fingerprint": "f85d358749af7db24aa4edde49652c4b2d2fff17",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28016683",
-      "published_utc": "2026-08-16T09:51:40Z",
-      "title_en": "Expert Moon: full participation of the Republic of Korea in the WEF would be timely",
-      "lead_en": "According to the chairman of the Korean-Russian Friendship Association, “there remains great potential for cooperation” between Moscow and Seoul “in areas such as energy, logistics, and agriculture.”",
-      "title_raw": "Эксперт Мун: полноценное участие Республики Корея в ВЭФ было бы своевременным",
-      "lead_raw": "По словам председателя Ассоциации корейско-российской дружбы, \"сохраняется большой потенциал для сотрудничества\" между Москвой и Сеулом \"в таких областях, как энергетика, логистика, сельское хозяйство\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
