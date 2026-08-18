@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-18T14:36:38Z",
+  "updated_at_utc": "2026-08-18T15:34:57Z",
   "topic": "energy",
-  "count": 37,
+  "count": 38,
   "articles": [
+    {
+      "id": "6022e52a03229493a511ebcf6dfc7c8f327696bc",
+      "fingerprint": "19a31600ef64d946603ebec1efc17b808019b303",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28022879",
+      "published_utc": "2026-08-18T14:58:44Z",
+      "title_en": "Mironov called London's provision of drones to the Armed Forces of Ukraine direct participation in the conflict",
+      "lead_en": "The chairman of the A Just Russia party commented on the publication of The Sunday Times newspaper about Kiev's use of British UAVs to launch strikes deep into Russian territory",
+      "title_raw": "Миронов назвал предоставление Лондоном дронов ВСУ прямым участием в конфликте",
+      "lead_raw": "Председатель партии \"Справедливая Россия\" прокомментировал публикацию газеты The Sunday Times об использовании Киевом британских БПЛА для нанесения ударов вглубь российской территории",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3a553eb1b19fa46f89a94652efe957393a59747e",
+      "fingerprint": "1d9712f10b0399439f575b3ce31e23615ecd8a55",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2174733",
+      "published_utc": "2026-08-18T14:41:49Z",
+      "title_en": "China’s ambassador to Moscow highlights importance of energy cooperation with Russia",
+      "lead_en": "Zhang Hanhui said the importance of energy cooperation is steadily growing",
+      "title_raw": "China’s ambassador to Moscow highlights importance of energy cooperation with Russia",
+      "lead_raw": "Zhang Hanhui said the importance of energy cooperation is steadily growing",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1ae912d6a8ebeff574b3fe911812b6b100599c9f",
       "fingerprint": "3d760ed232ae21818bd9465ce5887415c2ca75a4",
@@ -808,29 +853,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "02fc9ce7d8431e8dcca1b7d23d26d969f8b2ebb3",
-      "fingerprint": "a6d1d4b76c049af6103d05179c6f944e16ad0d98",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2173883",
-      "published_utc": "2026-08-16T15:00:23Z",
-      "title_en": "Russian forces hit three dry cargo ships, two tankers at Odessa port",
-      "lead_en": "Fuel tanks were also destroyed, the Russian defense ministry said",
-      "title_raw": "Russian forces hit three dry cargo ships, two tankers at Odessa port",
-      "lead_raw": "Fuel tanks were also destroyed, the Russian defense ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
