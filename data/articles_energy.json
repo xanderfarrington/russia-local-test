@@ -1,29 +1,98 @@
 {
-  "updated_at_utc": "2026-08-18T13:45:08Z",
+  "updated_at_utc": "2026-08-18T14:36:38Z",
   "topic": "energy",
   "count": 37,
   "articles": [
     {
-      "id": "f5e50273e173ba5f4f7ded2f033ad314170f68b5",
-      "fingerprint": "195dd8e09b3d8c18b176e77d8e0e492202008f67",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28022617",
-      "published_utc": "2026-08-18T13:20:21Z",
-      "title_en": "“The worst thing that happened to Zaporizhzhya NPP.” Grossi about the Ukrainian Armed Forces' attack on the stop in Energodar",
-      "lead_en": "",
-      "title_raw": "\"Худшее, что случалось с ЗАЭС\". Гросси об ударе ВСУ по остановке в Энергодаре",
-      "lead_raw": "",
+      "id": "1ae912d6a8ebeff574b3fe911812b6b100599c9f",
+      "fingerprint": "3d760ed232ae21818bd9465ce5887415c2ca75a4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2174729",
+      "published_utc": "2026-08-18T14:33:54Z",
+      "title_en": "Bank of Russia raises dollar exchange rate to 85.16 rubles for August 19",
+      "lead_en": "The regulator raised official euro exchange rate by 39.6 kopecks to 98.7312 rubles",
+      "title_raw": "Bank of Russia raises dollar exchange rate to 85.16 rubles for August 19",
+      "lead_raw": "The regulator raised official euro exchange rate by 39.6 kopecks to 98.7312 rubles",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
+        "economy": 1,
         "local_events": 0
       },
       "topics": [
         "energy"
       ],
       "primary_topic": "energy"
+    },
+    {
+      "id": "f525a66966dbe3f86e59261b9d2d2a6477c9a91f",
+      "fingerprint": "4095fb5bc26a8d7d204ab57beefcd0a0e3427af3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2174719",
+      "published_utc": "2026-08-18T14:14:03Z",
+      "title_en": "Chinese envoy says yuan settlements between China, Russia grow steadily",
+      "lead_en": "According to the diplomat, the parties are actively developing major strategic projects in such areas as nuclear energy, aviation, and space exploration",
+      "title_raw": "Chinese envoy says yuan settlements between China, Russia grow steadily",
+      "lead_raw": "According to the diplomat, the parties are actively developing major strategic projects in such areas as nuclear energy, aviation, and space exploration",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "59b72d9d0da99aee7d96d9311be4ea0bdcec48e9",
+      "fingerprint": "bbd95a9a36784dea52b2403dd77770220a45ea0d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28022677",
+      "published_utc": "2026-08-18T13:43:33Z",
+      "title_en": "The Ambassador of the People's Republic of China emphasized the importance of energy cooperation between China and Russia",
+      "lead_en": "The Russian Federation is the largest supplier of oil and natural gas for the republic, noted Zhang Hanhui",
+      "title_raw": "Посол КНР подчеркнул значение энергетического взаимодействия Китая и России",
+      "lead_raw": "РФ является крупнейшим поставщиком нефти и природного газа для республики, отметил Чжан Ханьхуэй",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f5e50273e173ba5f4f7ded2f033ad314170f68b5",
+      "fingerprint": "195dd8e09b3d8c18b176e77d8e0e492202008f67",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28022617",
+      "published_utc": "2026-08-18T13:20:21Z",
+      "title_en": "\"The worst thing that happened to ZNPP.\" Grossi about the Ukrainian Armed Forces' attack on the stop in Energodar",
+      "lead_en": "The IAEA Director General also called on the military commanders responsible for the attacks to “immediately stop these unacceptable actions.”",
+      "title_raw": "\"Худшее, что случалось с ЗАЭС\". Гросси об ударе ВСУ по остановке в Энергодаре",
+      "lead_raw": "Гендиректор МАГАТЭ также призвал военных командиров, ответственных за атаки, \"немедленно прекратить эти неприемлемые действия\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
     },
     {
       "id": "d5febd30593b2ac8c21ea2e62a06ee3f2e38baef",
@@ -750,75 +819,6 @@
       "lead_en": "Fuel tanks were also destroyed, the Russian defense ministry said",
       "title_raw": "Russian forces hit three dry cargo ships, two tankers at Odessa port",
       "lead_raw": "Fuel tanks were also destroyed, the Russian defense ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "23dde6064cf662b69345d286928ec1ec072eb757",
-      "fingerprint": "5195e170f80c3a888ff2e2a16a3cc2fea55e969a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28016935",
-      "published_utc": "2026-08-16T14:33:47Z",
-      "title_en": "The Russian Armed Forces hit three dry cargo ships and two tankers in the port of Odessa",
-      "lead_en": "The Russian military also hit fuel tanks, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили три сухогруза и два танкера в порту Одесса",
-      "lead_raw": "Российские военные также ударили по резервуарам с топливом, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "171888f8184d8a2397cb7d332e1f102a18afb7fe",
-      "fingerprint": "9f552a49cb78062398bbd2b1aa4413560f5a6568",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28016933",
-      "published_utc": "2026-08-16T14:33:43Z",
-      "title_en": "The Russian Armed Forces hit the parking lot of Ukrainian Navy patrol boats in Vilkovo",
-      "lead_en": "The crews accompanied sea vessels with military cargo and fuel for the Ukrainian Armed Forces, the Russian Ministry of Defense reported.",
-      "title_raw": "ВС РФ поразили в Вилково стоянку патрульных катеров ВМС Украины",
-      "lead_raw": "Экипажи сопровождали морские суда с грузами военного назначения и топливом для ВСУ, сообщили в Минобороны РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d60013205969ba5cddef62f71eaa80f4b2671555",
-      "fingerprint": "b686de937a2fd6e4051de17557901297652e240f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28016927",
-      "published_utc": "2026-08-16T14:30:38Z",
-      "title_en": "The Russian Armed Forces hit the production of unmanned boats",
-      "lead_en": "They were used to carry out attacks on sea vessels and energy infrastructure facilities in the Black Sea, as well as Russian coastal cities, the Ministry of Defense reported.",
-      "title_raw": "ВС РФ ударили по производству безэкипажных катеров",
-      "lead_raw": "Они применялись для совершения атак на морские суда и объекты энергетической инфраструктуры в акватории Черного моря, а также российские прибрежные города, сообщили в Минобороны",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
