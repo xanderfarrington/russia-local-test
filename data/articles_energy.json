@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-08-19T09:36:57Z",
+  "updated_at_utc": "2026-08-19T10:32:21Z",
   "topic": "energy",
-  "count": 43,
+  "count": 44,
   "articles": [
+    {
+      "id": "db7b991eefe4271ff04b4678527998c23c3a73fe",
+      "fingerprint": "09dc566c6d9ea31578942299a305e3e0a2f4e881",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2174929",
+      "published_utc": "2026-08-19T10:00:00Z",
+      "title_en": "Press review: Ukraine conflict fuels EU ultra-right as Trump seeks Iran pressure via Oman",
+      "lead_en": "Top stories from the Russian press on Wednesday, August 19th",
+      "title_raw": "Press review: Ukraine conflict fuels EU ultra-right as Trump seeks Iran pressure via Oman",
+      "lead_raw": "Top stories from the Russian press on Wednesday, August 19th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6867403ce032765e814ac1f098f635aae018783b",
+      "fingerprint": "7d0a1db9998d0173f4508c701208f742a9211636",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28025191",
+      "published_utc": "2026-08-19T09:27:39Z",
+      "title_en": "The Russian Armed Forces hit military-industrial complex enterprises and logistics centers used by the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also attacked fuel, energy and transport infrastructure facilities working in the interests of the enemy",
+      "title_raw": "ВС РФ поразили используемые ВСУ предприятия ВПК и логистические центры",
+      "lead_raw": "Российские силы также атаковали объекты топливно-энергетической и транспортной инфраструктуры, работающие в интересах противника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6dc362636a5f17aca1c3610d92ab42f995432f0c",
       "fingerprint": "bf7030a5c78ec7ccb5b47267c1ce37cafdd86c83",
@@ -944,28 +988,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "3c53cb288e7bd4bc217e488e0aa5e963df315126",
-      "fingerprint": "92f7a17d3f03b92fda00c2b7f2dabefe3cb92f96",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28018679",
-      "published_utc": "2026-08-17T09:52:51Z",
-      "title_en": "Pravda: Eustream increases gas tariffs due to a stop in transit through Ukraine",
-      "lead_en": "Until the beginning of 2025, the company made money mainly by transiting Russian gas through Slovakia to the Czech Republic, Austria and Western European countries, the newspaper reported",
-      "title_raw": "Pravda: Eustream повышает тарифы на газ из-за остановки транзита через Украину",
-      "lead_raw": "До начала 2025 года фирма зарабатывала главным образом на том, что осуществляла транзит российского газа через Словакию в Чехию, Австрию и государства Западной Европы, сообщила газета",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
