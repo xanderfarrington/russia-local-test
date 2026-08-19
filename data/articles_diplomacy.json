@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-19T22:27:49Z",
+  "updated_at_utc": "2026-08-19T23:25:30Z",
   "topic": "diplomacy",
   "count": 140,
   "articles": [
+    {
+      "id": "fe1fe89402bfa63be6ca7c71c61f863466f3a683",
+      "fingerprint": "ac313831419c235f8faa04a820d4fd66300a3be6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28027237",
+      "published_utc": "2026-08-19T22:35:48Z",
+      "title_en": "Zakharova announced the Russian Federation’s readiness to further help Venezuela after the earthquake",
+      "lead_en": "The official representative of the Russian Foreign Ministry recalled that Moscow had previously sent humanitarian aid and specialists to Caracas",
+      "title_raw": "Захарова заявила о готовности РФ еще помочь Венесуэле после землетрясения",
+      "lead_raw": "Официальный представитель МИД России напомнила, что Москва ранее направила в Каракас гуманитарную помощь и специалистов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "bd55cfbcf6da56333316461376b08436618d95dd",
       "fingerprint": "2caf0ed9f01ec4296e23869d4194d74f3fc032b8",
@@ -3089,29 +3111,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "21fafab07fa181a616aa2cb3aa977896d4088c5b",
-      "fingerprint": "6fd87ff533881b5186649faa316cb08a35acdac0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/28020323",
-      "published_utc": "2026-08-17T22:47:26Z",
-      "title_en": "Kanye West's meetings during his visit to Russia are not yet planned",
-      "lead_en": "The rapper's concerts are scheduled to take place on October 10 and 11 at the Gazprom Arena in St. Petersburg",
-      "title_raw": "Встречи Канье Уэста во время визита в Россию пока не запланированы",
-      "lead_raw": "Концерты рэпера должны пройти 10 и 11 октября на \"Газпром-Арене\" в Санкт-Петербурге",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
