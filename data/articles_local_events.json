@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-19T08:40:56Z",
+  "updated_at_utc": "2026-08-19T09:36:57Z",
   "topic": "local_events",
   "count": 5,
   "articles": [
+    {
+      "id": "0986621516d2dbdc707f29c49c08a0f54574f847",
+      "fingerprint": "708edad335db459c133164d5ff38757cf20f09af",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/19/russia-to-allow-rescue-workers-to-use-firearms-vedomosti-reports",
+      "published_utc": "2026-08-19T08:46:41Z",
+      "title_en": "Russia to allow rescue workers to use firearms, Vedomosti reports",
+      "lead_en": "A Russian government commission on legislative activity has approved a bill that would allow personnel in the Emergency Situations Ministry’s rescue military units to use force and firearms, the Russian business daily Vedomosti reported, citing sources and the text of the documen",
+      "title_raw": "Russia to allow rescue workers to use firearms, Vedomosti reports",
+      "lead_raw": "A Russian government commission on legislative activity has approved a bill that would allow personnel in the Emergency Situations Ministry’s rescue military units to use force and firearms, the Russian business daily Vedomosti reported, citing sources and the text of the documen",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e50cca50949f2916e8a53772c45c6cb35c47c8d0",
       "fingerprint": "74494c0f12541fbc17fee6452573372d92a2ff10",
@@ -87,29 +110,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8777bfd36ad942da4c833bcbee9f26bf2e1fbdfa",
-      "fingerprint": "d1256fd3e0bab4af865a9a4024b0beb624e5c4d2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2174061",
-      "published_utc": "2026-08-17T09:13:19Z",
-      "title_en": "Ukrainian missile attack on Russia’s Belgorod Region kills six, leaves four others injured",
-      "lead_en": "A building was destroyed by fire and a car was damaged at the scene",
-      "title_raw": "Ukrainian missile attack on Russia’s Belgorod Region kills six, leaves four others injured",
-      "lead_raw": "A building was destroyed by fire and a car was damaged at the scene",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
