@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-19T10:32:21Z",
+  "updated_at_utc": "2026-08-19T11:28:01Z",
   "topic": "energy",
   "count": 44,
   "articles": [
+    {
+      "id": "2e05f22dc3b89b435df043e5627aae80b6a56ece",
+      "fingerprint": "32be12d19c4a99a8b93b97faa84b72d218f422b1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28025403",
+      "published_utc": "2026-08-19T10:38:52Z",
+      "title_en": "A model has been created for the extraction of heavy grades of oil",
+      "lead_en": "The mathematical model predicts changes in oil composition with an accuracy of 93%, the press service of the Russian Science Foundation reported.",
+      "title_raw": "Создана модель для добычи тяжелых сортов нефти",
+      "lead_raw": "Математическая модель прогнозирует изменения состава нефти с точностью до 93%, сообщили в пресс-службе Российского научного фонда",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "db7b991eefe4271ff04b4678527998c23c3a73fe",
       "fingerprint": "09dc566c6d9ea31578942299a305e3e0a2f4e881",
@@ -965,29 +987,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a46a5a12a4e4a8007877710f6855c47e86e3ce74",
-      "fingerprint": "5e343ca8f2cc73c3e0c9147677f3b7baeaf9f7b2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28018855",
-      "published_utc": "2026-08-17T11:01:23Z",
-      "title_en": "Bild reported on NATO's strategy in the event of a military conflict with Russia",
-      "lead_en": "According to the newspaper, at the first stage the alliance intends to focus on countering fighters, missiles and drones",
-      "title_raw": "Bild сообщила о стратегии НАТО в случае военного конфликта с Россией",
-      "lead_raw": "По данным газеты, на первой стадии альянс намерен сосредоточиться на противодействии истребителям, ракетам и беспилотникам",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
