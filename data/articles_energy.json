@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-20T07:43:14Z",
+  "updated_at_utc": "2026-08-20T08:42:03Z",
   "topic": "energy",
-  "count": 49,
+  "count": 50,
   "articles": [
+    {
+      "id": "c01bffb1cab79da207297425c146fc75c945a693",
+      "fingerprint": "b29e69e71ee0bfa940dda98db819a028a889a815",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2175483",
+      "published_utc": "2026-08-20T08:10:08Z",
+      "title_en": "Russian stocks down as main trading session opens",
+      "lead_en": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "title_raw": "Russian stocks down as main trading session opens",
+      "lead_raw": "The yuan exchange rate against the ruble fell by 3.8 kopecks as trading opened",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "62d813d73fdc0d88e0c493c72a0a46c39afdd2f9",
+      "fingerprint": "af5ac6e35a590987ec3467bfd4042b6d885c3924",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2175477",
+      "published_utc": "2026-08-20T08:03:34Z",
+      "title_en": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_en": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "title_raw": "Fuel imports to Russia: statements by Novak and overview of market situation",
+      "lead_raw": "Russian authorities expect a number of oil refineries to complete maintenance work soon, leading to a significant improvement in the fuel market situation",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "04f881b1abaa02b4e6c02da8b11627ea92389645",
       "fingerprint": "405deca39a4f516722b2f34dfdad8cdc9b3493c8",
@@ -1076,28 +1121,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3215024d3c9650931077ade463c778b81c4d1a69",
-      "fingerprint": "3db15bbd4744ae9f7fd188f6a1e3c5a3923f2e41",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/18/russian-woman-fined-for-joining-group-appeal-over-gasoline-shortage",
-      "published_utc": "2026-08-18T07:47:09Z",
-      "title_en": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_en": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "title_raw": "Russian woman fined for joining group appeal over gasoline shortage",
-      "lead_raw": "A court in Volgograd has fined local resident Tatyana Smetanko 10,000 rubles under a protocol for participating in a mass public event, the independent Russian news outlet Mediazona reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
