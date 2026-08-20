@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-20T08:42:03Z",
+  "updated_at_utc": "2026-08-20T09:37:59Z",
   "topic": "energy",
-  "count": 50,
+  "count": 49,
   "articles": [
+    {
+      "id": "07d588ddc94ca279d5bed26a627da79772194d10",
+      "fingerprint": "d13919c34055388faf6c3eeda8b14d63ec0c2a6a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28028585",
+      "published_utc": "2026-08-20T09:11:32Z",
+      "title_en": "The Russian Armed Forces hit energy facilities used in the interests of the Armed Forces of Ukraine",
+      "lead_en": "Russian forces also attacked storage sites for UAVs and components, enemy deployment points and foreign mercenaries",
+      "title_raw": "ВС РФ поразили используемые в интересах ВСУ энергетические объекты",
+      "lead_raw": "Российские силы также атаковали места хранения БПЛА и комплектующих, пункты дислокации противника и иностранных наемников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c01bffb1cab79da207297425c146fc75c945a693",
       "fingerprint": "b29e69e71ee0bfa940dda98db819a028a889a815",
@@ -1075,52 +1097,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "bcff352102f64db7ece3517d844e3ba69570fa9e",
-      "fingerprint": "acb03ec4040759e79fc74b6c57758fcf9140f4cb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28021775",
-      "published_utc": "2026-08-18T09:29:45Z",
-      "title_en": "The Russian Armed Forces hit tanks with fuel intended for the Ukrainian Armed Forces in the port of Odessa",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили в порту Одесса резервуары с топливом, предназначенным для ВСУ",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dbcfe7733f390967f0e25652ecad529d29c55042",
-      "fingerprint": "3ada9aded46f5ad7a4737beb618e3b04f9d5fcc4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/info/23300367",
-      "published_utc": "2026-08-18T08:52:00Z",
-      "title_en": "Oil, weapons and nuclear power plants. History of relations between Russia and Myanmar",
-      "lead_en": "Negotiations between the presidents of the two countries, Vladimir Putin and Min Aung Hlaing, will take place in Moscow on August 18",
-      "title_raw": "Нефть, оружие и АЭС. История отношений России и Мьянмы",
-      "lead_raw": "В Москве 18 августа состоятся переговоры президентов двух стран Владимира Путина и Мин Аун Хлайна",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
