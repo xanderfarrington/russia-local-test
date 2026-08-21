@@ -1,8 +1,32 @@
 {
-  "updated_at_utc": "2026-08-21T16:38:13Z",
+  "updated_at_utc": "2026-08-21T17:31:44Z",
   "topic": "energy",
-  "count": 49,
+  "count": 48,
   "articles": [
+    {
+      "id": "935a4d09c63d6b63e55ae720d939e99cce8991a0",
+      "fingerprint": "ed4ae38bd4db1b8fe32310e173eb7a37738bcbb1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28033461",
+      "published_utc": "2026-08-21T17:00:45Z",
+      "title_en": "Miroshnik: Kyiv is intensifying attacks on Energodar, trying to squeeze out employees of the Zaporizhzhya NPP",
+      "lead_en": "Ambassador at Large of the Russian Foreign Ministry called Ukraine's actions direct pressure",
+      "title_raw": "Мирошник: Киев усиливает удары по Энергодару, пытаясь выдавить сотрудников ЗАЭС",
+      "lead_raw": "Посол по особым поручениям МИД РФ назвал действия Украины прямым давлением",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "61e6b3a7791affda469836629441102615376f13",
       "fingerprint": "f33e44c7149a3bffcba4a540e925e0b797bbf9c8",
@@ -1045,51 +1069,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "4fabf05510a3e5287a39e157c4a7f9885bdcb791",
-      "fingerprint": "b2f200c6cbbbcb5742616ed502ff9f57fea04626",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28026797",
-      "published_utc": "2026-08-19T17:00:13Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Швейцария расширила антироссийские санкции",
-      "lead_raw": "В частности, вводятся запреты на обслуживание газовозов, ледоколов и расположенных в России терминалов СПГ, а также запрещает продажу танкеров в страну",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7c3e29facedf851ad935401e9537dd816febfb59",
-      "fingerprint": "bb562cf7343d817bc8a99fdd5bb6c82a8bfa03c4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2175279",
-      "published_utc": "2026-08-19T16:58:53Z",
-      "title_en": "Russia has begun importing fuel to boost domestic supplies — Novak",
-      "lead_en": "The Russian government earlier decided to extend the import damper mechanism to diesel fuel, a move intended to provide additional economic incentives for supplying imported diesel to the domestic market if necessary",
-      "title_raw": "Russia has begun importing fuel to boost domestic supplies — Novak",
-      "lead_raw": "The Russian government earlier decided to extend the import damper mechanism to diesel fuel, a move intended to provide additional economic incentives for supplying imported diesel to the domestic market if necessary",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
