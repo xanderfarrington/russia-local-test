@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-21T17:31:44Z",
+  "updated_at_utc": "2026-08-21T18:40:34Z",
   "topic": "energy",
-  "count": 48,
+  "count": 47,
   "articles": [
+    {
+      "id": "e37eb2827e9e9a16f31f23113a00cd9bfb94c66b",
+      "fingerprint": "960b8c164f0b177587d92bbf6eb139a9b1d724c4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2176271",
+      "published_utc": "2026-08-21T18:12:01Z",
+      "title_en": "Russian stock market ends week with main indices up",
+      "lead_en": "The yuan exchange rate against the ruble added 1 kopeck to 12.33 rubles",
+      "title_raw": "Russian stock market ends week with main indices up",
+      "lead_raw": "The yuan exchange rate against the ruble added 1 kopeck to 12.33 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "935a4d09c63d6b63e55ae720d939e99cce8991a0",
       "fingerprint": "ed4ae38bd4db1b8fe32310e173eb7a37738bcbb1",
@@ -1025,50 +1048,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b6a58e819d09cea7012922eb78ae8b50eb788a7c",
-      "fingerprint": "ce2e6c8ba8e10852e744d550c838ff8a04628964",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2175303",
-      "published_utc": "2026-08-19T18:04:53Z",
-      "title_en": "Bank of Russia lowers dollar exchange rate for August 20 to 85.13 rubles",
-      "lead_en": "The official euro exchange rate was lowered by 18.55 kopecks to 98.5457 rubles",
-      "title_raw": "Bank of Russia lowers dollar exchange rate for August 20 to 85.13 rubles",
-      "lead_raw": "The official euro exchange rate was lowered by 18.55 kopecks to 98.5457 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9b0f5843672af33132b830d0a14c5dd744250c5c",
-      "fingerprint": "45f177682f6371b72b74b2540d11f6d9804edab1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2175301",
-      "published_utc": "2026-08-19T18:03:48Z",
-      "title_en": "Authorities expect fuel situation to improve as refineries return from maintenance",
-      "lead_en": "Deputy Prime Minister Alexander Novak said the Russian government is monitoring the fuel market on a daily basis and working with companies to redirect fuel supplies to regions facing shortages",
-      "title_raw": "Authorities expect fuel situation to improve as refineries return from maintenance",
-      "lead_raw": "Deputy Prime Minister Alexander Novak said the Russian government is monitoring the fuel market on a daily basis and working with companies to redirect fuel supplies to regions facing shortages",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
