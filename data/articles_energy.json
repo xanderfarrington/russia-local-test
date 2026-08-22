@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-08-22T09:30:23Z",
+  "updated_at_utc": "2026-08-22T10:27:26Z",
   "topic": "energy",
   "count": 38,
   "articles": [
+    {
+      "id": "43ab9599689d03865bbfa09cb5b453d1f0715327",
+      "fingerprint": "b0e96aee65654a1e2311f2621098995e9b128d07",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28034809",
+      "published_utc": "2026-08-22T09:22:47Z",
+      "title_en": "Within 24 hours, the Russian Armed Forces hit a military airfield and energy facilities in Ukraine",
+      "lead_en": "The objects were used in the interests of the Ukrainian Armed Forces",
+      "title_raw": "ВС РФ за сутки поразили военный аэродром и объекты энергетики Украины",
+      "lead_raw": "Объекты использовались в интересах ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "161cb4187f9619856100b859d1d3f74c02d90ad8",
       "fingerprint": "9540d81d511ec6596d554b4eb9755652583f9ae7",
@@ -818,28 +841,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ad5f22637632a8e3a18a6860305a7795b25061b7",
-      "fingerprint": "5b8288f2fb454dd8061d2857dccfbb9152daa589",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28028779",
-      "published_utc": "2026-08-20T10:00:59Z",
-      "title_en": "Putin will hold a meeting on nuclear energy",
-      "lead_en": "The development of the fuel and energy complex will also be discussed at it, said the press secretary of the Russian leader Dmitry Peskov",
-      "title_raw": "Путин проведет совещание по атомной энергетике",
-      "lead_raw": "На нем также будет обсуждаться развитие топливно-энергетического комплекса, рассказал пресс-секретарь российского лидера Дмитрий Песков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
