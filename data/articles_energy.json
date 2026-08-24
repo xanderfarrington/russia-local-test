@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-24T15:41:26Z",
+  "updated_at_utc": "2026-08-24T16:41:28Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "d2cf4e75498752fd200c877e09cfb380825c117b",
+      "fingerprint": "533b80d9eca486d1d84ee735956790cdf298478c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2177103",
+      "published_utc": "2026-08-24T16:24:48Z",
+      "title_en": "Bank of Russia raises dollar rate to 83.29 rubles for August 25",
+      "lead_en": "The official euro exchange rate was raised by 57.83 kopecks to 97.4384 rubles",
+      "title_raw": "Bank of Russia raises dollar rate to 83.29 rubles for August 25",
+      "lead_raw": "The official euro exchange rate was raised by 57.83 kopecks to 97.4384 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "34bd69fc1b5beaa37779e0d4a4b02fab8e29ace0",
       "fingerprint": "3a09a9ca53980c59b9c77f59667a17698b3742f4",
@@ -451,29 +473,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "de0be75d10ff8c7e2d33b697ccfc66d502b72778",
-      "fingerprint": "1c614b92e389ab11bcd4fc65e5f3ae42ab6cf09f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28035935",
-      "published_utc": "2026-08-22T15:55:41Z",
-      "title_en": "The Russian Armed Forces hit a cargo ship for the delivery of weapons in the port of Chernomorsk",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ВС РФ поразили сухогруз для доставки вооружения в порту Черноморск",
-      "lead_raw": "Российские военные также ударили по резервуарам с топливом, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
