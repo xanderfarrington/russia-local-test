@@ -1,8 +1,76 @@
 {
-  "updated_at_utc": "2026-08-24T07:04:24Z",
+  "updated_at_utc": "2026-08-24T08:51:54Z",
   "topic": "energy",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "cafcd5e912d75137ef2ed3064fd3aae891ddb215",
+      "fingerprint": "1eddda38fea07a66a65fbf0ba61717d7cee12530",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2176855",
+      "published_utc": "2026-08-24T08:48:34Z",
+      "title_en": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army’s supplies",
+      "lead_en": "The Russian Armed Forces delivered strikes by air-launched precision-guided weapons and attack UAVs",
+      "title_raw": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army’s supplies",
+      "lead_raw": "The Russian Armed Forces delivered strikes by air-launched precision-guided weapons and attack UAVs",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "721f146e501cf1349143ac814dddeeb5563c130c",
+      "fingerprint": "ff098b600277d46248ec5654d738e61d8046c9fa",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2176845",
+      "published_utc": "2026-08-24T08:26:05Z",
+      "title_en": "Russian stock market declines at start of trading session",
+      "lead_en": "The yuan rose by 5.45 kopecks from the previous trading session’s closing level to 12.391 rubles at the opening of Moscow Exchange trading",
+      "title_raw": "Russian stock market declines at start of trading session",
+      "lead_raw": "The yuan rose by 5.45 kopecks from the previous trading session’s closing level to 12.391 rubles at the opening of Moscow Exchange trading",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c4dfd0a40be6642560852d39fbeaa97bb26fe399",
+      "fingerprint": "001892392eec404551ca93c9efe3db94a6ff94d2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28038867",
+      "published_utc": "2026-08-24T08:03:04Z",
+      "title_en": "A tanker with fuel and lubricants and fuel tanks were hit. Strikes by the Russian Armed Forces on Ukrainian ports",
+      "lead_en": "Russian forces also attacked the power substation PS-330 \"Adzhalik\"",
+      "title_raw": "Поражены танкер с ГСМ и резервуары с топливом. Удары ВС РФ по портам Украины",
+      "lead_raw": "Российские силы также атаковали электроподстанцию ПС-330 \"Аджалик\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "cb73f46ad5acdd7664580d7fbc558939aec54751",
       "fingerprint": "7bf276a93609d2174bdf7ed90f2077aa0d1950f0",
@@ -655,50 +723,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "161cb4187f9619856100b859d1d3f74c02d90ad8",
-      "fingerprint": "9540d81d511ec6596d554b4eb9755652583f9ae7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28034557",
-      "published_utc": "2026-08-22T07:49:22Z",
-      "title_en": "More than 12 thousand houses in Donbass and Novorossia will be supplied with gas under the state program",
-      "lead_en": "Also in the regions, the restoration of over 150 housing and communal services facilities will continue",
-      "title_raw": "Более 12 тыс. домов Донбасса и Новороссии газифицируют по госпрограмме",
-      "lead_raw": "Также в регионах продолжат восстановление свыше 150 объектов жилищно-коммунального хозяйства",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d4c9c64ff7a49f89f46f745f65f79b525565f855",
-      "fingerprint": "6a8edec8c4145e8f47bffc8589e5386d2755d75d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28034527",
-      "published_utc": "2026-08-22T07:29:37Z",
-      "title_en": "United Russia intends to implement the TTK development project",
-      "lead_en": "Plans include the construction of 4 more nuclear icebreakers and 14 rescue ships",
-      "title_raw": "ЕР намерена реализовать проект развития ТТК",
-      "lead_raw": "Планы включают в себя строительство еще 4 атомных ледоколов и 14 спасательных судов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
