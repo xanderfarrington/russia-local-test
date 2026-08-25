@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-25T11:31:08Z",
+  "updated_at_utc": "2026-08-25T12:52:47Z",
   "topic": "local_events",
   "count": 7,
   "articles": [
+    {
+      "id": "a178778d14fae7f0be042d132bf9d81d378c7e33",
+      "fingerprint": "c4fe2c5c287ea80bc178120fe727d5d2f42f43e7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28043481",
+      "published_utc": "2026-08-25T12:45:20Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Вице-премьер Сербии вместе с послом РФ в Белграде посетили спецборт МЧС России",
+      "lead_raw": "Самолет задействован в тушении лесных пожаров в балканской республике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7e29687bdae7fcde2481fe5b2a7e82b77ae44b50",
       "fingerprint": "7cdd5119a5d14ad648c8d78c87cde925c38e473c",
@@ -124,28 +146,6 @@
       "lead_en": "According to the Russian emergencies ministry, over the four days of participating in firefighting operations, the aircraft has performed 19 flights and dropped an overall of 798 tons of water",
       "title_raw": "Russian plane extinguishes major wildfire hotspots in Serbia",
       "lead_raw": "According to the Russian emergencies ministry, over the four days of participating in firefighting operations, the aircraft has performed 19 flights and dropped an overall of 798 tons of water",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "703a5e9dd6d398090ad7305a8b20a558ac507f91",
-      "fingerprint": "3a494c88f87126ff61bcf67aa00771d7414cf477",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28037149",
-      "published_utc": "2026-08-23T11:31:25Z",
-      "title_en": "Vucic: Russia immediately after the appeal sent a special plane from the Ministry of Emergency Situations to fight fires",
-      "lead_en": "The President of Serbia also thanked Romania, Slovakia, the Czech Republic, and Germany",
-      "title_raw": "Вучич: Россия сразу после обращения прислала спецборт МЧС для борьбы с пожарами",
-      "lead_raw": "Президент Сербии также поблагодарил Румынию, Словакию, Чехию, Германию",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
