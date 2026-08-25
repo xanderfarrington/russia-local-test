@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-25T08:47:20Z",
+  "updated_at_utc": "2026-08-25T09:38:49Z",
   "topic": "energy",
   "count": 28,
   "articles": [
+    {
+      "id": "13713b52b2646674521a0d79b5fef083bc6d5c98",
+      "fingerprint": "be18e61bb256d9bf1b8847de988636f66355e63f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28042565",
+      "published_utc": "2026-08-25T09:07:47Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "ВС РФ поразили место запуска \"Фламинго\" и предприятие ВПК",
+      "lead_raw": "Российская армия также ударила по складам боеприпасов, объектам топливно-энергетической, транспортной и портовой инфраструктуры Украины",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "16d282ce8e86ca7b11c0ff6cec2992ae426c052f",
       "fingerprint": "d7bd23971222c9caf02ff595981854199474d310",
@@ -604,28 +626,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "720891340d904d4922722c7a2f8a4e433a8badbe",
-      "fingerprint": "e995d787f05f1425f00e983487d5765891b64a69",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28037001",
-      "published_utc": "2026-08-23T09:32:06Z",
-      "title_en": "The Russian Armed Forces hit Ukrainian energy and transport infrastructure facilities",
-      "lead_en": "They were used by the Ukrainian Armed Forces",
-      "title_raw": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры Украины",
-      "lead_raw": "Их использовали ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
