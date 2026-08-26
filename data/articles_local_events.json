@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-26T14:54:02Z",
+  "updated_at_utc": "2026-08-26T16:20:33Z",
   "topic": "local_events",
-  "count": 10,
+  "count": 12,
   "articles": [
+    {
+      "id": "e2427e5eb2b22baa3ddc417b704a1754cbe1d856",
+      "fingerprint": "15062b0b81a2fd19cf53e95c1ce8a573f51d3fde",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2178005",
+      "published_utc": "2026-08-26T16:14:51Z",
+      "title_en": "Flood in Nepal: At least 95 killed, some 400 tourists missing and $1.3 billion in damage",
+      "lead_en": "The Russian embassy in Kathmandu has told TASS that the diplomatic mission has no information about the presence of Russian citizens in the affected areas.",
+      "title_raw": "Flood in Nepal: At least 95 killed, some 400 tourists missing and $1.3 billion in damage",
+      "lead_raw": "The Russian embassy in Kathmandu has told TASS that the diplomatic mission has no information about the presence of Russian citizens in the affected areas.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9cf5b61a931019164cf5c892df0a7484bbfd8d0e",
+      "fingerprint": "1287cdd6ee8cdb08aca7f39445ff041747921552",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28047215",
+      "published_utc": "2026-08-26T15:01:47Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Ущерб на $1,3 млрд, 95 жертв и 384 пропавших. Что известно о наводнении в Непале",
+      "lead_raw": "В зоне бедствия находилось по крайней мере четыре российских гражданина, с которыми утрачена связь",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0279001b64f95f6f7feff6ca3f81c66b8406dc57",
       "fingerprint": "9be049bdd085a52672830750fec68416a7dcdfe8",
