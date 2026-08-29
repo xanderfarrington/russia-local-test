@@ -1,8 +1,52 @@
 {
-  "updated_at_utc": "2026-08-29T13:03:30Z",
+  "updated_at_utc": "2026-08-29T17:35:15Z",
   "topic": "local_events",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "id": "8f17f5487cf02a82799ec60083ab106ef79573e1",
+      "fingerprint": "f56173d26586e33d88d3bbae4fa55660422cb417",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28057175",
+      "published_utc": "2026-08-29T17:01:40Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Российский Ил-76 сбросил более 210 тонн воды на очаги пожаров в Сербии",
+      "lead_raw": "Как сообщили в МЧС, экипаж самолета работал при сложных погодных и ландшафтных условиях",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b7e8ec96cfbcfa755f4cb8d729423dc86dd7ee05",
+      "fingerprint": "3e49b3462a2e41c2a5f607efdb34a301a1d1bac3",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/08/29/at-least-37-killed-after-russian-strike-hits-an-ammunition-warehouse-near-kyiv-triggering-massive-explosions-many-of-the-victims-were-residents-of-a-nearby-care-home",
+      "published_utc": "2026-08-29T15:44:34Z",
+      "title_en": "At least 37 killed after Russian strike hits an ammunition depot near Kyiv, triggering massive explosions. Many of the victims were residents of a nearby care home.",
+      "lead_en": "The Russian army struck the village of Myla on the outskirts of Kyiv on the evening of August 28, setting fire to a warehouse where ammunition was being stored. The fire triggered a series of detonations, sending flames into nearby private homes.",
+      "title_raw": "At least 37 killed after Russian strike hits an ammunition depot near Kyiv, triggering massive explosions. Many of the victims were residents of a nearby care home.",
+      "lead_raw": "The Russian army struck the village of Myla on the outskirts of Kyiv on the evening of August 28, setting fire to a warehouse where ammunition was being stored. The fire triggered a series of detonations, sending flames into nearby private homes.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "90d342d61f1dc0e82f2788c0854fbb44dec374fa",
       "fingerprint": "f7dfaca354d8e55fc3a036b2a69182bb5c3cc2fb",
@@ -47,29 +91,6 @@
         "local_events"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "defe310b5501170b42aeeaed5a16d1f388c2e1fc",
-      "fingerprint": "ac079fe7d13656d9375c67782834b169707178f2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/27/fire-at-russia-s-amur-gas-chemical-complex-one-of-the-world-s-largest-chemical-plants-kills-15",
-      "published_utc": "2026-08-27T16:11:22Z",
-      "title_en": "Fire at Russia’s Amur Gas Chemical Complex — one of the world’s largest chemical plants — kills 15",
-      "lead_en": "A large-scale fire at the construction site of the Amur Gas Chemical Complex (AGCC), which is being readied for launch, has killed 15 people, and search-and-rescue operations have now ended, the company’s press service said.",
-      "title_raw": "Fire at Russia’s Amur Gas Chemical Complex — one of the world’s largest chemical plants — kills 15",
-      "lead_raw": "A large-scale fire at the construction site of the Amur Gas Chemical Complex (AGCC), which is being readied for launch, has killed 15 people, and search-and-rescue operations have now ended, the company’s press service said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
