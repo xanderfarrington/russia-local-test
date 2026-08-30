@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-08-30T19:10:33Z",
+  "updated_at_utc": "2026-08-30T22:31:43Z",
   "topic": "energy",
   "count": 14,
   "articles": [
+    {
+      "id": "0cc511a1e6e50560b64f5335fd397db673240a57",
+      "fingerprint": "5e8b0aac2fe2773619d4ba43ef358056bec1c8b9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2179589",
+      "published_utc": "2026-08-30T20:55:02Z",
+      "title_en": "Georgia’s Kulevi oil refinery stops processing Russian oil",
+      "lead_en": "The refinery has switched to processing oil from Kazakhstan and Libya, the media outlet bm.ge reported",
+      "title_raw": "Georgia’s Kulevi oil refinery stops processing Russian oil",
+      "lead_raw": "The refinery has switched to processing oil from Kazakhstan and Libya, the media outlet bm.ge reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8e3e0716bf3a718164de5d11fb8e393ac76ddab1",
       "fingerprint": "fa374afe8193b2846afa070c39847fb9fbc8105b",
@@ -285,28 +307,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ee39fb966345232aa7cb8580f73c79da9ea44c7f",
-      "fingerprint": "6de5f6dc76b582371b099330717bcb2b67f70626",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28055467",
-      "published_utc": "2026-08-28T20:57:16Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "\"Роснефть\" назвала приоритетом снабжение РФ качественным топливом",
-      "lead_raw": "Компания продала в России почти 19 млн тонн нефтепродуктов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
         "economy": 0,
         "local_events": 0
       },
