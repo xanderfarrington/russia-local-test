@@ -1,8 +1,602 @@
 {
-  "updated_at_utc": "2026-08-30T15:14:49Z",
+  "updated_at_utc": "2026-08-30T19:10:33Z",
   "keep_hours": 48,
-  "count": 267,
+  "count": 271,
   "articles": [
+    {
+      "id": "3178481af885517f2ad751caff324020bcbd7a65",
+      "fingerprint": "ff8259f2a08639eaf1823e0396f6d69c2c97efa9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28058915",
+      "published_utc": "2026-08-30T18:47:27Z",
+      "title_en": "Russian Embassy: there are no Russians among the victims of the shipwreck near Northern Cyprus",
+      "lead_en": "The Russian diplomatic mission referred to data from the Turkish-Cypriot foreign ministry",
+      "title_raw": "Посольство РФ: среди жертв крушения судна у Северного Кипра россиян нет",
+      "lead_raw": "В российском диппредставительстве сослались на данные турко-кипрского внешнеполитического ведомства",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "95e30b824636cd977289ea5576b58d539e2465da",
+      "fingerprint": "1a85111b8bc18490a6bbf785fa06fbefc7603b50",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28058911",
+      "published_utc": "2026-08-30T18:44:21Z",
+      "title_en": "The Prime Minister of Belarus announced increasing economic cooperation with the Russian Federation",
+      "lead_en": "Alexander Turchin noted that the parties are finding mutually beneficial solutions that allow increasing the volume of mutual trade turnover and implementing joint projects",
+      "title_raw": "Премьер Белоруссии заявил о наращивании экономического взаимодействия с РФ",
+      "lead_raw": "Александр Турчин отметил, что стороны находят взаимовыгодные решения, которые позволяют наращивать объем взаимного товарооборота и реализовывать совместные проекты",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f8b53e015fea3fe0f9b7c9010e68d3e42645a368",
+      "fingerprint": "6eadf927f8ce99c6e55098e340d78cecb7a6aa04",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28058907",
+      "published_utc": "2026-08-30T18:34:34Z",
+      "title_en": "Tennis player Yatsenko won her debut match at the Grand Slam tournaments",
+      "lead_en": "The Russian woman beat the Mexican Renata Zarazua",
+      "title_raw": "Теннисистка Яценко выиграла дебютный матч на турнирах Большого шлема",
+      "lead_raw": "Россиянка обыграла мексиканку Ренату Сарасуа",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "40b69408594ca52a871b96217c7bceac6cb4b43f",
+      "fingerprint": "ef65938f5d8b10e830341d016e6bb1e0f8ce4580",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28058881",
+      "published_utc": "2026-08-30T18:22:45Z",
+      "title_en": "Activists from the Russian Federation, Moldova, Slovakia and Mongolia cleaned the White Sea coast",
+      "lead_en": "They collected 26 bags of garbage on the coast",
+      "title_raw": "Активисты из РФ, Молдовы, Словакии и Монголии провели очистку берега Белого моря",
+      "lead_raw": "Они собрали на побережье 26 мешков мусора",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a061c0f7a847f54c725fbb5a14f735272d146910",
+      "fingerprint": "5729dea480fb8dbf356c68750ef1be95a16f9a2b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28058865",
+      "published_utc": "2026-08-30T17:49:28Z",
+      "title_en": "54 Ukrainian UAVs shot down over Russian regions",
+      "lead_en": "Air defense systems were working",
+      "title_raw": "Над регионами России сбили 54 украинских БПЛА",
+      "lead_raw": "Работали средства ПВО",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c852284c2e6866412410301f8c1bf75f3b202139",
+      "fingerprint": "fce7e4dd0e3dccd948431000e3500c08fb56d70f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28058847",
+      "published_utc": "2026-08-30T17:34:37Z",
+      "title_en": "The Russians won the medal count of the Grand Slam judo tournament in Lausanne",
+      "lead_en": "Russian athletes won 2 gold, 1 silver and 4 bronze awards",
+      "title_raw": "Россияне выиграли медальный зачет турнира Большого шлема по дзюдо в Лозанне",
+      "lead_raw": "Российские спортсмены завоевали 2 золотые, 1 серебряную и 4 бронзовые награды",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8e3e0716bf3a718164de5d11fb8e393ac76ddab1",
+      "fingerprint": "fa374afe8193b2846afa070c39847fb9fbc8105b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2179555",
+      "published_utc": "2026-08-30T17:22:22Z",
+      "title_en": "Energy cooperation always on agenda of Russian-Chinese contacts — Kremlin",
+      "lead_en": "This is mutually beneficial cooperation, Russian presidential press secretary Dmitry Peskov said",
+      "title_raw": "Energy cooperation always on agenda of Russian-Chinese contacts — Kremlin",
+      "lead_raw": "This is mutually beneficial cooperation, Russian presidential press secretary Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7fdc86a362f5c79a1c372a7e5e0fc4bcaf850e8b",
+      "fingerprint": "ed2fd6fa6107129202eb1ea233c1722c0be78b5a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28058833",
+      "published_utc": "2026-08-30T17:17:35Z",
+      "title_en": "Judoist Tasoev won the Grand Slam tournament in Lausanne",
+      "lead_en": "In the final fight in the weight category over 100 kg, the Russian defeated Finn Marti Puumalainen",
+      "title_raw": "Дзюдоист Тасоев выиграл турнир Большого шлема в Лозанне",
+      "lead_raw": "В финальной схватке в весовой категории свыше 100 кг россиянин победил финна Марти Пуумалайнена",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bc6d3a75bb2afb31ffed7cbcf69dffab8928153c",
+      "fingerprint": "aade6ac1ffe65a6363fd825d23f199d17cadfed9",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179553",
+      "published_utc": "2026-08-30T17:10:56Z",
+      "title_en": "Putin to lay out Russia’s position on referendum on EU to Armenian PM — Kremlin",
+      "lead_en": "Each top-level contact is important, Russian presidential press secretary Dmitry Peskov said",
+      "title_raw": "Putin to lay out Russia’s position on referendum on EU to Armenian PM — Kremlin",
+      "lead_raw": "Each top-level contact is important, Russian presidential press secretary Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e56d3afbbada1ad1a2f267523659960c0c0fd340",
+      "fingerprint": "52af5e4a2a80c2d8ceb43f6b20f9646988672005",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179551",
+      "published_utc": "2026-08-30T17:09:24Z",
+      "title_en": "Russia still open to talks on Ukraine, but there are no conditions for them — Kremlin",
+      "lead_en": "There are no preconditions for this, said Russian presidential press secretary Dmitry Peskov",
+      "title_raw": "Russia still open to talks on Ukraine, but there are no conditions for them — Kremlin",
+      "lead_raw": "There are no preconditions for this, said Russian presidential press secretary Dmitry Peskov",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "381b256f2864253f58e0e54a9bd44a8727b29d86",
+      "fingerprint": "71db91dd7f4895eda353bd275dbb8377809976d5",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179549",
+      "published_utc": "2026-08-30T17:06:40Z",
+      "title_en": "Putin may have brief conversation with UN chief on SCO summit’s sidelines",
+      "lead_en": "No separate meeting between Russian President Vladimir Putin and UN Secretary General Antonio Guterres is planned on the sidelines of the AShanghai Cooperation Organization summit, Russian presidential press secretary Dmitry Peskov said",
+      "title_raw": "Putin may have brief conversation with UN chief on SCO summit’s sidelines",
+      "lead_raw": "No separate meeting between Russian President Vladimir Putin and UN Secretary General Antonio Guterres is planned on the sidelines of the AShanghai Cooperation Organization summit, Russian presidential press secretary Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f8d4584cae82a2cef7fdf29e5b83429da752b7ad",
+      "fingerprint": "bf43b1dcf269ca68768bd31bf54afdf4e246d05f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179547",
+      "published_utc": "2026-08-30T17:03:45Z",
+      "title_en": "Kiev reluctant to engage in true settlement — Kremlin spokesman",
+      "lead_en": "Russian presidential press secretary Dmitry Peskov commented a proposal to organize a trilateral meeting between Putin, Donald Trump, and Vladimir Zelensky",
+      "title_raw": "Kiev reluctant to engage in true settlement — Kremlin spokesman",
+      "lead_raw": "Russian presidential press secretary Dmitry Peskov commented a proposal to organize a trilateral meeting between Putin, Donald Trump, and Vladimir Zelensky",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2385ba61e976f04586d67cb6a089ceee366f5eb8",
+      "fingerprint": "88e8573321afd04d86f8aa811c82f831de36ca70",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28058801",
+      "published_utc": "2026-08-30T16:48:27Z",
+      "title_en": "TASS: the command of the Armed Forces of Ukraine sends wounded and injured women to positions",
+      "lead_en": "Russian law enforcement agencies said that the Ukrainian command “doesn’t care who they send to zero”",
+      "title_raw": "ТАСС: командование ВСУ отправляет на позиции раненых и травмированных женщин",
+      "lead_raw": "В российских силовых структурах рассказали, что украинскому командованию \"не важно кого отправлять на ноль\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4c781192268b93d456601498bb15966be2203407",
+      "fingerprint": "2c308e490c9925c94f0a4409e0fcbd2f73314895",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28058797",
+      "published_utc": "2026-08-30T16:41:44Z",
+      "title_en": "TASS: in Kyiv, a man in the uniform of the Ukrainian Armed Forces beat up a passerby",
+      "lead_en": "The victim lost consciousness, Russian security forces reported.",
+      "title_raw": "ТАСС: в Киеве мужчина в форме ВСУ избил прохожего",
+      "lead_raw": "Пострадавший потерял сознание, сообщили в российских силовых структурах",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fe24510e59237e74152312f56941203987b7e8bb",
+      "fingerprint": "71b11d4b56a34e986dd0cb62175ffc54e9619d76",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179545",
+      "published_utc": "2026-08-30T16:38:48Z",
+      "title_en": "Putin to hold meeting on Far East’s development on sidelines of Eastern Economic Forum",
+      "lead_en": "Before attending the Eastern Economic Forum, Russian president will pay a visit to Kyrgyzstan, which will host a Shanghai Cooperation Organization summit",
+      "title_raw": "Putin to hold meeting on Far East’s development on sidelines of Eastern Economic Forum",
+      "lead_raw": "Before attending the Eastern Economic Forum, Russian president will pay a visit to Kyrgyzstan, which will host a Shanghai Cooperation Organization summit",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "24ee2f4c53da455eeff67b0517bcb08aa6826225",
+      "fingerprint": "43bd7c7b3ff6de61136f9f12f5ff253042408b02",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2179543",
+      "published_utc": "2026-08-30T16:36:48Z",
+      "title_en": "Putin-Trump-Zelensky summit possible only at end of talks — Kremlin spokesman",
+      "lead_en": "There have been calls for organizing a Putin-Trump-Zelensky summit for quite some time now, Russian presidential press secretary Dmitry Peskov said",
+      "title_raw": "Putin-Trump-Zelensky summit possible only at end of talks — Kremlin spokesman",
+      "lead_raw": "There have been calls for organizing a Putin-Trump-Zelensky summit for quite some time now, Russian presidential press secretary Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f683a107a860dfe471283ca47c98686b9736ecb0",
+      "fingerprint": "5443597deaaebbba95612eb8bfbb52262e4a0d2b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058751",
+      "published_utc": "2026-08-30T16:03:08Z",
+      "title_en": "Peskov: Belarus is sensitive to Russia’s needs for fuel supplies",
+      "lead_en": "The Kremlin representative noted that the Russian Federation is grateful to the Belarusian side for the supply of gasoline",
+      "title_raw": "Песков: Белоруссия чутко реагирует на потребности России в поставках топлива",
+      "lead_raw": "Представитель Кремля отметил, что РФ признательна белорусской стороне за поставки бензина",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0298c14fc133105f5ada437c2394b3f5d6ce343e",
+      "fingerprint": "d5f82a72fc065587f7ab2f21ace14211aa5202ac",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28058739",
+      "published_utc": "2026-08-30T16:01:44Z",
+      "title_en": "bm.ge: Kulev oil refinery in Georgia has completely abandoned Russian oil",
+      "lead_en": "The oil refinery switched to processing Kazakh and Libyan oil",
+      "title_raw": "bm.ge: кулевский НПЗ в Грузии полностью отказался от российской нефти",
+      "lead_raw": "Нефтеперерабатывающий завод перешел на переработку казахстанской и ливийской нефти",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5b7b7a8473624f051b4398561e23383c7ae4da97",
+      "fingerprint": "91db7febc645cf69d402370d3ddf0426ec2a09a7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058741",
+      "published_utc": "2026-08-30T15:59:51Z",
+      "title_en": "Peskov: Putin will outline Russia’s position on the EU referendum to Pashinyan",
+      "lead_en": "The Russian leader’s press secretary noted that every time contact at the highest level is important",
+      "title_raw": "Песков: Путин изложит Пашиняну позицию России по референдуму насчет ЕС",
+      "lead_raw": "Пресс-секретарь российского лидера отметил, что каждый раз контакт на высшем уровне важен",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "98a68ddd2d52a97be3f0b76b9978e59c999f725d",
+      "fingerprint": "2b17822823167fd283629546abd64ef333b459c1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058737",
+      "published_utc": "2026-08-30T15:58:41Z",
+      "title_en": "Peskov: Putin can talk to Guterres “on his feet” on the sidelines of the SCO",
+      "lead_en": "The Russian President does not have a separate meeting with the UN Secretary General, the Russian leader’s press secretary said.",
+      "title_raw": "Песков: Путин может переговорить с Гутерришем \"на ногах\" на полях ШОС",
+      "lead_raw": "Отдельной встречи с генеральным секретарем ООН у президента РФ не запланировано, сообщил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5b0f83f6a4630e517d8544529e02ec56e1d0bd13",
+      "fingerprint": "bf5a2d2c1c33d4563e8db30543cb1d3526de0264",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058733",
+      "published_utc": "2026-08-30T15:55:53Z",
+      "title_en": "Peskov stated the importance for the Russian Federation of bilateral meetings planned on the sidelines of the SCO",
+      "lead_en": "The press secretary of the Russian President emphasized the importance of the meeting within the framework of the Shanghai Cooperation Organization",
+      "title_raw": "Песков заявил о важности для РФ запланированных на полях ШОС двусторонних встреч",
+      "lead_raw": "Пресс-секретарь президента России подчеркнул значимость заседания в рамках Шанхайской организации сотрудничества",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "24beed28a3feb74abb821d0159cda73b8d0c6e67",
+      "fingerprint": "1b815ca506999b4bfcace31c75fa41d74f132471",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058731",
+      "published_utc": "2026-08-30T15:54:50Z",
+      "title_en": "Peskov: Russia remains open to negotiations on Ukraine",
+      "lead_en": "There are no prerequisites for continuing the negotiation process yet, noted the press secretary of the President of the Russian Federation",
+      "title_raw": "Песков: Россия сохраняет открытость к переговорам по Украине",
+      "lead_raw": "Предпосылок к продолжению переговорного процесса пока нет, отметил пресс-секретарь президента РФ",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bd94ac321ee78f23687840e76fd2ebf8a80bbbea",
+      "fingerprint": "71cabbaa17e8f5bbdc1adf884eff1e854b0052fc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28058729",
+      "published_utc": "2026-08-30T15:54:38Z",
+      "title_en": "Peskov: the topic of energy cooperation is constantly on the agenda of the Russian Federation and China",
+      "lead_en": "Each country defends its own interests, said the press secretary of the Russian President",
+      "title_raw": "Песков: тема энергосотрудничества постоянно в повестке РФ и КНР",
+      "lead_raw": "Каждая страна отстаивает свои собственные интересы, заявил пресс-секретарь президента России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "64024f59c2603d07cb6c42a75a271e0cb8878fdd",
+      "fingerprint": "1bf604ecc577acacd4b6a0663220010665565a43",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058727",
+      "published_utc": "2026-08-30T15:54:25Z",
+      "title_en": "Peskov: Kyiv does not want to engage in a real settlement",
+      "lead_en": "The press secretary of the Russian President commented on proposals to hold a meeting between Russian leader Vladimir Putin, US President Donald Trump and Vladimir Zelensky",
+      "title_raw": "Песков: Киев не хочет заниматься реальным урегулированием",
+      "lead_raw": "Пресс-секретарь президента РФ прокомментировал предложения о проведении встречи российского лидера Владимира Путина, президента США Дональда Трампа и Владимира Зеленского",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "343683ce2df79c13cf4f7f7f5fea2b84d664bf59",
+      "fingerprint": "fc95988096323a6d5597fcb892da0efd1b765b65",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28058721",
+      "published_utc": "2026-08-30T15:54:10Z",
+      "title_en": "Peskov: Putin will hold a meeting on the development of the Far East on the sidelines of the EEF",
+      "lead_en": "The Russian President will also have a long and eventful trip to Kyrgyzstan, the Russian leader’s press secretary noted.",
+      "title_raw": "Песков: Путин на полях ВЭФ проведет совещание по развитию Дальнего Востока",
+      "lead_raw": "Президенту России предстоит также длительная и насыщенная поездка в Киргизию, отметил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "66b3b0f71db643fe1d7c2fa983cb1d47c2e5202c",
+      "fingerprint": "ba66fbb352bd4b8f47e4082d168cf13d54b17c70",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28058717",
+      "published_utc": "2026-08-30T15:52:03Z",
+      "title_en": "Peskov: Putin begins a long and eventful trip",
+      "lead_en": "During it, the Russian leader will attend the SCO summit in Kyrgyzstan and the Eastern Economic Forum in Vladivostok",
+      "title_raw": "Песков: Путин начинает длительную и насыщенную поездку",
+      "lead_raw": "В ходе нее российский лидер посетит саммит ШОС в Киргизии и Восточный экономический форум во Владивостоке",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4904e1c4b25f7275093e85dc2defdf520ff363af",
+      "fingerprint": "ac13414f9b339d3146cc961a5e1cc843ccb8fed0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28058681",
+      "published_utc": "2026-08-30T15:23:55Z",
+      "title_en": "The Russian Embassy is clarifying the circumstances of the emergency with a catamaran off Northern Cyprus",
+      "lead_en": "The diplomatic mission is clarifying the possible presence of Russians on board",
+      "title_raw": "Посольство РФ выясняет обстоятельства ЧП с катамараном у Северного Кипра",
+      "lead_raw": "Диппредставительство уточняет возможное присутствие на борту россиян",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0995147e31e55d071bd48c294e11861229a904f5",
+      "fingerprint": "63c98e09e3b7ab67c3ee3e9356b709890e549e64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28058675",
+      "published_utc": "2026-08-30T15:17:02Z",
+      "title_en": "Figure skater Andreeva left the Tutberidze group",
+      "lead_en": "The athlete took 4th place at the Russian Championship and in the final of the Junior Grand Prix of the 2024/25 season",
+      "title_raw": "Фигуристка Андреева покинула группу Тутберидзе",
+      "lead_raw": "Спортсменка заняла 4-е место на первенстве России и в финале юниорского Гран-при сезона-2024/25",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "7674aa36cc9a7b49d50474ba0b143a5fb95ef5b4",
       "fingerprint": "620871810a0049090ec2b42c931ea56553858593",
@@ -5086,513 +5680,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "85780f709485a754005751683e9048a5c8b6da73",
-      "fingerprint": "4e80e71db3f82d4d9af6a9f60994e1706785ff63",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/they-left-russia-to-keep-teaching-now-the-kremlin-has-blacklisted-the-school-they-built-from-exile",
-      "published_utc": "2026-08-28T19:07:11Z",
-      "title_en": "They left Russia to keep teaching. Now the Kremlin has blacklisted the school they built from exile.",
-      "lead_en": "Russia’s Prosecutor General’s Office declared the Faculty of Liberal Arts and Sciences in Montenegro an “undesirable” organization, according to Russian Justice Ministry data found by Mediazona.",
-      "title_raw": "They left Russia to keep teaching. Now the Kremlin has blacklisted the school they built from exile.",
-      "lead_raw": "Russia’s Prosecutor General’s Office declared the Faculty of Liberal Arts and Sciences in Montenegro an “undesirable” organization, according to Russian Justice Ministry data found by Mediazona.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e95678c7ea16a9d29314650272ae9151e072d2c3",
-      "fingerprint": "743ab435c5e8aef91d1169eb3f60f30099e5f7d7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2179137",
-      "published_utc": "2026-08-28T18:59:30Z",
-      "title_en": "Fourteen Russian tennis players to hit court in New York at 2026 US Open",
-      "lead_en": "The 2026 US Open is played on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York between August 30 and September 13",
-      "title_raw": "Fourteen Russian tennis players to hit court in New York at 2026 US Open",
-      "lead_raw": "The 2026 US Open is played on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York between August 30 and September 13",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3f05ec1f9c2a72ec69464d71e7ba488f14ac3a41",
-      "fingerprint": "87760d667d629fb0fe118f31a7cd01f8ec3aa5f5",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/an-exiled-dissident-s-wife-returned-to-russia-for-a-visit-she-s-now-serving-10-days-in-jail-over-a-locked-phone",
-      "published_utc": "2026-08-28T18:49:34Z",
-      "title_en": "An exiled dissident’s wife returned to Russia for a visit. She’s now serving 10 days in jail — over a locked phone.",
-      "lead_en": "Elena Morgunova, the wife of Russian performance artist Pavel Krisevich, was detained and sentenced to 10 days of administrative arrest for disobeying police orders, the projects “Zona Svobody” and “Slovo Zashchite” said, citing those close to her.",
-      "title_raw": "An exiled dissident’s wife returned to Russia for a visit. She’s now serving 10 days in jail — over a locked phone.",
-      "lead_raw": "Elena Morgunova, the wife of Russian performance artist Pavel Krisevich, was detained and sentenced to 10 days of administrative arrest for disobeying police orders, the projects “Zona Svobody” and “Slovo Zashchite” said, citing those close to her.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8933ab44bd4807618e087dee484447e848d3b5e1",
-      "fingerprint": "4959ffd3d6648b555f5defdb298abee623e874f0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russian-singer-oleg-gazmanov-s-former-manager-dmitry-tsarenko-sentenced-to-seven-years-for-fraud-in-second-conviction",
-      "published_utc": "2026-08-28T18:47:30Z",
-      "title_en": "Russian singer Oleg Gazmanov’s former manager Dmitry Tsarenko sentenced to seven years for fraud in second conviction",
-      "lead_en": "Moscow’s Khoroshevsky District Court sentenced Oleg Gazmanov’s former manager Dmitry Tsarenko to seven years in a penal colony.",
-      "title_raw": "Russian singer Oleg Gazmanov’s former manager Dmitry Tsarenko sentenced to seven years for fraud in second conviction",
-      "lead_raw": "Moscow’s Khoroshevsky District Court sentenced Oleg Gazmanov’s former manager Dmitry Tsarenko to seven years in a penal colony.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "23bf702cea6c3e97412951274441759f9b62fdf2",
-      "fingerprint": "c3b129e2805db7146bdd55f6e3cce6b2c071212b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2179129",
-      "published_utc": "2026-08-28T18:42:14Z",
-      "title_en": "Medvedev declares Russia's drone supremacy over rest of world",
-      "lead_en": "It is because of the dramatic developments taking place in Russia amid the military conflict, the Russian security council deputy chairman said",
-      "title_raw": "Medvedev declares Russia's drone supremacy over rest of world",
-      "lead_raw": "It is because of the dramatic developments taking place in Russia amid the military conflict, the Russian security council deputy chairman said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "069a22ac80cf9585bea9de8577fbb450cc75838b",
-      "fingerprint": "c864f1a2abb7f62dc22f184621eed367ce68f18d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russian-antiwar-party-yabloko-removed-from-kaliningrad-and-sverdlovsk-region-elections-in-latest-wave-of-court-rulings",
-      "published_utc": "2026-08-28T18:40:49Z",
-      "title_en": "Russian antiwar party Yabloko removed from Kaliningrad and Sverdlovsk region elections in latest wave of court rulings",
-      "lead_en": "A court in Russia’s Sverdlovsk region has sided with LDPR in a lawsuit, revoking Yabloko’s list for the region’s legislative assembly election, Yabloko’s press service said on August 28.",
-      "title_raw": "Russian antiwar party Yabloko removed from Kaliningrad and Sverdlovsk region elections in latest wave of court rulings",
-      "lead_raw": "A court in Russia’s Sverdlovsk region has sided with LDPR in a lawsuit, revoking Yabloko’s list for the region’s legislative assembly election, Yabloko’s press service said on August 28.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f004a798a3707551b887172b871c747b2be3fa71",
-      "fingerprint": "c3eb1359582967b468ffc3038d51e011057686a6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2179127",
-      "published_utc": "2026-08-28T18:29:58Z",
-      "title_en": "Russian judoka Vorobyova wins gold at 2026 Judo Grand Slam in Switzerland",
-      "lead_en": "In the final bout, the Russian judoka defeated Laura Martinez Abelenda of Spain",
-      "title_raw": "Russian judoka Vorobyova wins gold at 2026 Judo Grand Slam in Switzerland",
-      "lead_raw": "In the final bout, the Russian judoka defeated Laura Martinez Abelenda of Spain",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "89363e4d5de3c1ba62ad73413424407798126335",
-      "fingerprint": "952a83476401935813b339192874062de9d84b19",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/mediazona-names-26-more-troops-killed-in-march-s-crash-of-an-an-26-military-transport-plane-in-crimea",
-      "published_utc": "2026-08-28T18:13:54Z",
-      "title_en": "Mediazona names 26 more troops killed in March’s crash of an An-26 military transport plane in Crimea",
-      "lead_en": "Journalists at the independent Russian outlet Mediazona identified 27 military personnel believed to have died when an An-26 aircraft crashed in annexed Crimea in March.",
-      "title_raw": "Mediazona names 26 more troops killed in March’s crash of an An-26 military transport plane in Crimea",
-      "lead_raw": "Journalists at the independent Russian outlet Mediazona identified 27 military personnel believed to have died when an An-26 aircraft crashed in annexed Crimea in March.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ee588924e630709fb7b3600f35006cbfc90b935b",
-      "fingerprint": "556e62d1054a057cc42038cb06c5058d5c5997c6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2179119",
-      "published_utc": "2026-08-28T18:02:29Z",
-      "title_en": "Whole world underestimated AI’s military potential — Medvedev",
-      "lead_en": "The Russian security council deputy chairman noted that Russia had barely worked on drones before the start of the special military operation",
-      "title_raw": "Whole world underestimated AI’s military potential — Medvedev",
-      "lead_raw": "The Russian security council deputy chairman noted that Russia had barely worked on drones before the start of the special military operation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9c9d5399ee5513cb8c1176cf6b4d8291f7cf1b97",
-      "fingerprint": "61fe349c7d4bc93ef0429c8d3124cd0e70ea33d7",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russia-already-took-one-family-s-stake-in-its-biggest-baltic-oil-terminal-now-it-s-coming-for-the-rest",
-      "published_utc": "2026-08-28T18:02:16Z",
-      "title_en": "Russia already took one family’s stake in its biggest Baltic oil terminal. Now it’s coming for the rest.",
-      "lead_en": "The Prosecutor General’s Office has filed a lawsuit with the Arbitration Court of St. Petersburg and the Leningrad Region against Elena Vasilyeva, who owns 45% of the St.",
-      "title_raw": "Russia already took one family’s stake in its biggest Baltic oil terminal. Now it’s coming for the rest.",
-      "lead_raw": "The Prosecutor General’s Office has filed a lawsuit with the Arbitration Court of St. Petersburg and the Leningrad Region against Elena Vasilyeva, who owns 45% of the St.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9d1376af7299e8f461b5f9bdf1b1fd0a73fb763b",
-      "fingerprint": "26e8a16b8d950f3ff33bbe3e28c0717170523d87",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/zelensky-orders-ukraine-s-military-to-launch-1-000-drones-a-day-at-russia",
-      "published_utc": "2026-08-28T17:57:57Z",
-      "title_en": "Zelensky orders Ukraine’s military to launch 1,000 drones a day at Russia",
-      "lead_en": "Ukrainian President Volodymyr Zelensky said he ordered Ukraine’s military to launch 1,000 drones a day at Russia.",
-      "title_raw": "Zelensky orders Ukraine’s military to launch 1,000 drones a day at Russia",
-      "lead_raw": "Ukrainian President Volodymyr Zelensky said he ordered Ukraine’s military to launch 1,000 drones a day at Russia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "adbf6e05d9d2e5ed43386e0c8d3ab8a56cbdf1d9",
-      "fingerprint": "4089d3992c8cd9ed2b44cda1bfddaa516ce4a533",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/bloomberg-ukraine-s-drones-have-pushed-russian-oil-refining-to-a-20-year-low",
-      "published_utc": "2026-08-28T17:52:36Z",
-      "title_en": "Bloomberg: Ukraine’s drones have pushed Russian oil refining to a 20-year low",
-      "lead_en": "Ukraine struck Russian oil refineries at least 21 times in August, according to public statements from both sides. That was more than in any other month since Russia’s full-scale invasion of Ukraine began, Bloomberg said in an article on the second wave of Russia’s fuel crisis.",
-      "title_raw": "Bloomberg: Ukraine’s drones have pushed Russian oil refining to a 20-year low",
-      "lead_raw": "Ukraine struck Russian oil refineries at least 21 times in August, according to public statements from both sides. That was more than in any other month since Russia’s full-scale invasion of Ukraine began, Bloomberg said in an article on the second wave of Russia’s fuel crisis.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "25543e96d6ebc296f591eea06f1b7257e286c836",
-      "fingerprint": "31e21a7e57efd26a77841e5b70f234a2ec41a817",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2179115",
-      "published_utc": "2026-08-28T17:49:01Z",
-      "title_en": "Russia tops medal standings at 2026 World Aquatics Junior Diving Championships",
-      "lead_en": "The Russians won six gold, three silver and two bronze medals at the competition",
-      "title_raw": "Russia tops medal standings at 2026 World Aquatics Junior Diving Championships",
-      "lead_raw": "The Russians won six gold, three silver and two bronze medals at the competition",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4b079716800ca1ec97735215e9f3305bf45f5e8f",
-      "fingerprint": "91b13b52543c9ee55c6cb3dd62e2d0a1a734cece",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2179111",
-      "published_utc": "2026-08-28T17:43:33Z",
-      "title_en": "Russia to win both hot, economic wars — Medvedev",
-      "lead_en": "The information war will continue indefinitely, the Russian security council deputy chairman said",
-      "title_raw": "Russia to win both hot, economic wars — Medvedev",
-      "lead_raw": "The information war will continue indefinitely, the Russian security council deputy chairman said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d6268114f31293834b0be07ab9b216d0464779ac",
-      "fingerprint": "56a0a944ca7165fd98f62f14bc3dbf26989b5ba0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/belarusian-state-tv-says-it-planted-freelancers-inside-current-time-and-handed-over-the-names-of-more-than-70-journalists-to-their-home-countries-mostly-russia-names-that-were-already-public",
-      "published_utc": "2026-08-28T17:29:15Z",
-      "title_en": "Belarusian state TV says it planted ‘freelancers’ inside Current Time and handed over the names of more than 70 journalists to their home countries, mostly Russia — names that were already public",
-      "lead_en": "Employees of the Belarusian state television channel First Informational said they spent several years working with Alina Rudnitskaya, an editor at Current Time — the Russian-language TV and digital network run by Radio Free Europe/Radio Liberty in cooperation with Voice of Ameri",
-      "title_raw": "Belarusian state TV says it planted ‘freelancers’ inside Current Time and handed over the names of more than 70 journalists to their home countries, mostly Russia — names that were already public",
-      "lead_raw": "Employees of the Belarusian state television channel First Informational said they spent several years working with Alina Rudnitskaya, an editor at Current Time — the Russian-language TV and digital network run by Radio Free Europe/Radio Liberty in cooperation with Voice of Ameri",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "739a726647d2cf5be521a824b48564ec6d2abdbb",
-      "fingerprint": "176ee9f777c8b8af420f42dcff1b5ec024c8a1a0",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russia-test-fires-icbm-toward-kamchatka",
-      "published_utc": "2026-08-28T17:12:25Z",
-      "title_en": "Russia test-fires ICBM toward Kamchatka",
-      "lead_en": "Russia’s Defense Ministry said it test-launched a solid-fuel intercontinental ballistic missile (ICBM) from the Plesetsk Cosmodrome.",
-      "title_raw": "Russia test-fires ICBM toward Kamchatka",
-      "lead_raw": "Russia’s Defense Ministry said it test-launched a solid-fuel intercontinental ballistic missile (ICBM) from the Plesetsk Cosmodrome.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "08adc8fdb4e37a84a01dc11ea43ad158d708aea0",
-      "fingerprint": "6adf17f627a235e8a239dde619d28015f59357ae",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/how-does-a-gasoline-crisis-vanish-overnight-ask-the-people-of-nizhny-novgorod-about-the-day-putin-came-to-town",
-      "published_utc": "2026-08-28T17:06:39Z",
-      "title_en": "How does a gasoline crisis vanish overnight? Ask the people of Nizhny Novgorod about the day Putin came to town.",
-      "lead_en": "Russian President Vladimir Putin arrived in Nizhny Novgorod on August 28.",
-      "title_raw": "How does a gasoline crisis vanish overnight? Ask the people of Nizhny Novgorod about the day Putin came to town.",
-      "lead_raw": "Russian President Vladimir Putin arrived in Nizhny Novgorod on August 28.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "125b0717a5a4ad1897a002c4705ee6f05eba73d0",
-      "fingerprint": "415d533163e3f9de0d6f8cae4e3af40f6ceb0555",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2179085",
-      "published_utc": "2026-08-28T16:56:18Z",
-      "title_en": "Putin will participate in Eastern Economic Forum on September 1-3 — Kremlin aide",
-      "lead_en": "On the evening of September 1, the Russian president will fly to Vladivostok, Yury Ushakov said",
-      "title_raw": "Putin will participate in Eastern Economic Forum on September 1-3 — Kremlin aide",
-      "lead_raw": "On the evening of September 1, the Russian president will fly to Vladivostok, Yury Ushakov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "49f025f1af919471955f8e4de44e7c3fd83f461b",
-      "fingerprint": "d6c235e3ff865a6387a19915d14fca5cb744ce65",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2179079",
-      "published_utc": "2026-08-28T16:53:52Z",
-      "title_en": "Over 6,500 sign petition demanding FAZ journalist be fired for comments about Russians",
-      "lead_en": "The petition's initiators accuse Martens of going beyond the boundaries of journalistic impartiality",
-      "title_raw": "Over 6,500 sign petition demanding FAZ journalist be fired for comments about Russians",
-      "lead_raw": "The petition's initiators accuse Martens of going beyond the boundaries of journalistic impartiality",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "fe1163b180a7cad52514b9fefea2133a8332893a",
-      "fingerprint": "115ce3977683c0ea7abc12a3ec95067988922817",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russians-bought-over-25-billion-rubles-290-million-in-body-armor-night-vision-gear-and-drone-parts-on-the-ozon-marketplace-in-a-year-verstka-finds",
-      "published_utc": "2026-08-28T16:36:58Z",
-      "title_en": "Russians bought over 25 billion rubles ($290 million) in body armor, night-vision gear, and drone parts on the Ozon marketplace in a year, Verstka finds",
-      "lead_en": "Shoppers on the Ozon marketplace ordered dual-use and military-purpose goods worth more than 25 billion rubles between August 2025 and July 2026, the independent Russian news outlet Verstka said, citing data it obtained from the marketplace’s internal analytics.",
-      "title_raw": "Russians bought over 25 billion rubles ($290 million) in body armor, night-vision gear, and drone parts on the Ozon marketplace in a year, Verstka finds",
-      "lead_raw": "Shoppers on the Ozon marketplace ordered dual-use and military-purpose goods worth more than 25 billion rubles between August 2025 and July 2026, the independent Russian news outlet Verstka said, citing data it obtained from the marketplace’s internal analytics.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4027dc57397447ffaf767e18a3bd4ebe2e5f7b28",
-      "fingerprint": "ad0f462c5f13668c4a5d3da803e8989e02878883",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/a-24-year-old-woman-planted-a-bomb-that-killed-a-russian-officer-near-st-petersburg-by-the-time-the-fsb-tracked-her-to-turkey-she-had-already-left-for-moldova",
-      "published_utc": "2026-08-28T16:31:32Z",
-      "title_en": "A 24-year-old woman planted a bomb that killed a Russian officer near St. Petersburg. By the time the FSB tracked her to Turkey, she had already left for Moldova.",
-      "lead_en": "A 24-year-old Russian woman is a suspect in the bombing of a car belonging to a lieutenant colonel with a St. Petersburg unit of Russia’s Air Force and Air Defense, the local news outlet Fontanka said, without disclosing its source.",
-      "title_raw": "A 24-year-old woman planted a bomb that killed a Russian officer near St. Petersburg. By the time the FSB tracked her to Turkey, she had already left for Moldova.",
-      "lead_raw": "A 24-year-old Russian woman is a suspect in the bombing of a car belonging to a lieutenant colonel with a St. Petersburg unit of Russia’s Air Force and Air Defense, the local news outlet Fontanka said, without disclosing its source.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "562c2d53facea5336f0a364dfbf26ad275a29fa9",
-      "fingerprint": "be214aada5a4fb8eda7af6eb2ed8e7293649b1a6",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/08/28/russian-court-sentences-former-ukrainian-presidential-adviser-oleksii-arestovych-to-11-years-in-absentia",
-      "published_utc": "2026-08-28T16:23:34Z",
-      "title_en": "Russian court sentences former Ukrainian presidential adviser Oleksii Arestovych to 11 years in absentia",
-      "lead_en": "The 2nd Western District Military Court in Moscow sentenced Oleksii Arestovych, a former adviser to the presidential chief of staff of Ukraine, in absentia to 11 years in prison, the independent outlet Mediazona said on August 28.",
-      "title_raw": "Russian court sentences former Ukrainian presidential adviser Oleksii Arestovych to 11 years in absentia",
-      "lead_raw": "The 2nd Western District Military Court in Moscow sentenced Oleksii Arestovych, a former adviser to the presidential chief of staff of Ukraine, in absentia to 11 years in prison, the independent outlet Mediazona said on August 28.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "69188b0d77d454b1087e64a35d1fe129d7bdb420",
-      "fingerprint": "f1a2ce4ab9d55974ff8bc42c273b271e031259c3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2178995",
-      "published_utc": "2026-08-28T15:48:36Z",
-      "title_en": "Official decisions should be focused on Russian families, their needs — Putin",
-      "lead_en": "The head of state invited the Agency for Strategic Initiatives to come up with ideas regarding additional incentives for investment in business, social and educational initiatives",
-      "title_raw": "Official decisions should be focused on Russian families, their needs — Putin",
-      "lead_raw": "The head of state invited the Agency for Strategic Initiatives to come up with ideas regarding additional incentives for investment in business, social and educational initiatives",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b5083844659a1a957992f960602f4e7653902cdb",
-      "fingerprint": "6d57939dab9e885d901ffd3530438f4e6af8ef37",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2178981",
-      "published_utc": "2026-08-28T15:22:01Z",
-      "title_en": "Russia fights for its present and future — Putin",
-      "lead_en": "The Russian leader emphasized the key role the Agency for Strategic Initiatives, established 15 years ago",
-      "title_raw": "Russia fights for its present and future — Putin",
-      "lead_raw": "The Russian leader emphasized the key role the Agency for Strategic Initiatives, established 15 years ago",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
