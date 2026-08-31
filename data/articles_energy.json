@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-08-31T01:12:58Z",
+  "updated_at_utc": "2026-08-31T08:22:19Z",
   "topic": "energy",
-  "count": 15,
+  "count": 16,
   "articles": [
+    {
+      "id": "7f7835ee262fcfc5fe4197a4becdd15dc6956062",
+      "fingerprint": "2392ddd94136fd20b03851b05f3a9f34505839d9",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/08/31/russia-s-defense-ministry-says-it-is-preparing-large-scale-strikes-on-ukraine-s-energy-facilities-in-response-to-ukrainian-attacks-on-russian-infrastructure",
+      "published_utc": "2026-08-31T05:11:41Z",
+      "title_en": "Russia’s Defense Ministry says it is preparing large-scale strikes on Ukraine’s energy facilities in response to Ukrainian attacks on Russian infrastructure",
+      "lead_en": "Russia’s Defense Ministry said on its Telegram channel that, “in accordance with instructions received,” it has begun preparing massive strikes on Ukraine’s energy facilities.",
+      "title_raw": "Russia’s Defense Ministry says it is preparing large-scale strikes on Ukraine’s energy facilities in response to Ukrainian attacks on Russian infrastructure",
+      "lead_raw": "Russia’s Defense Ministry said on its Telegram channel that, “in accordance with instructions received,” it has begun preparing massive strikes on Ukraine’s energy facilities.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "88ba8a6a40623231dd3c77006b5fdd47f1402d58",
+      "fingerprint": "39badc58e5eba159798a62482c8846d82eba0aba",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/sports/2179645",
+      "published_utc": "2026-08-31T01:19:47Z",
+      "title_en": "Russia’s Alexandrova, Medvedev advance to second round of US Open",
+      "lead_en": "The players defeated McCartney Kessler and Hugo Gaston respectively",
+      "title_raw": "Russia’s Alexandrova, Medvedev advance to second round of US Open",
+      "lead_raw": "The players defeated McCartney Kessler and Hugo Gaston respectively",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5f48e952c0d6951e0361fc893465b0c0668fe7bf",
       "fingerprint": "3f6908650543606e54a862ba7235d088582b6706",
@@ -312,28 +357,6 @@
       },
       "topics": [
         "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4876dbb108394a5790d3e795c64e72d10e9ae7a2",
-      "fingerprint": "98852a05349945ed0f8ced6f5bd1bbf4c0ca3a4e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28056175",
-      "published_utc": "2026-08-29T06:29:39Z",
-      "title_en": "The Russian Armed Forces hit a fuel tanker parking lot and fuel unloading area in the port of Izmail",
-      "lead_en": "",
-      "title_raw": "ВС РФ поразили в порту Измаил стоянку топливозаправщиков и места разгрузки ГСМ",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
         "energy"
       ],
       "primary_topic": "energy"
