@@ -1,8 +1,77 @@
 {
-  "updated_at_utc": "2026-09-01T01:05:43Z",
+  "updated_at_utc": "2026-09-01T07:30:23Z",
   "topic": "energy",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "5a62636926aa47f97f6ada5db6f69c9f179b4dac",
+      "fingerprint": "309f5b2084ac89b34090c89b5d6282d33136a70d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180221",
+      "published_utc": "2026-09-01T06:50:12Z",
+      "title_en": "China ready to deepen energy cooperation with Russia, including Power of Siberia 2 — MFA",
+      "lead_en": "Guo Jiakun noted that Beijing is \"ready to work with Russia to continuously deepen practical bilateral cooperation based on the principles of mutual respect and mutual benefit\"",
+      "title_raw": "China ready to deepen energy cooperation with Russia, including Power of Siberia 2 — MFA",
+      "lead_raw": "Guo Jiakun noted that Beijing is \"ready to work with Russia to continuously deepen practical bilateral cooperation based on the principles of mutual respect and mutual benefit\"",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4e37f80fcc2b8322046729dd6091f94cf543a6cf",
+      "fingerprint": "61edbb2b158d701ea528f94c4bba4d3cbe97f991",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28064099",
+      "published_utc": "2026-09-01T06:32:29Z",
+      "title_en": "The Russian Armed Forces hit the Flamingo missile production plant in Kyiv",
+      "lead_en": "Fire Point LLC also produces solid fuel boosters",
+      "title_raw": "ВС РФ поразили в Киеве предприятие по производству ракет \"Фламинго\"",
+      "lead_raw": "ООО \"Файер пойнт\" также производит твердотопливные ускорители",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7151cfa67a5ca09d4d9f607521b05efcc2d7bad7",
+      "fingerprint": "8da901b45cd6152c78bb6cc72d11640f7174e8cc",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28064127",
+      "published_utc": "2026-09-01T06:30:57Z",
+      "title_en": "The Russian Armed Forces hit an oil depot supporting the Ukrainian Armed Forces in Boryspil",
+      "lead_en": "It provided the Ukrainian Armed Forces with fuels and lubricants, the Russian Ministry of Defense reported.",
+      "title_raw": "ВС РФ поразили обеспечивающую ВСУ нефтебазу в Борисполе",
+      "lead_raw": "Она обеспечивала ВСУ горюче-смазочными материалами, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "43085e2fa95fc8171d4bd27d9c7ff205c3e6bd60",
       "fingerprint": "40403e5e31594ba99957b4037a98714cacac456d",
@@ -429,51 +498,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b354a68b86ee81978b7d89774ed4a36e72ca61a4",
-      "fingerprint": "728a80cae660fdabdf775e8d9275269c74c24aa3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28058007",
-      "published_utc": "2026-08-30T07:17:46Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "ВС РФ поразили место запуска \"Фламинго\" и объекты энергетики Украины",
-      "lead_raw": "Также были поражены логистические центры, используемые ВСУ, добавили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f1307c6b2d30d903e14e461800142074b2c1222f",
-      "fingerprint": "4702e6cca75d485ad6c8ebd2e14d393f79f07b6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28057657",
-      "published_utc": "2026-08-30T03:01:24Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Кобяков назвал абсурдом энергодефицит на Дальнем Востоке",
-      "lead_raw": "Энергетическая недостаточность в регионе наблюдается в условиях избытка гидроресурсов, пояснил советник президента России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
