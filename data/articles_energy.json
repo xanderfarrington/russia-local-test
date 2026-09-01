@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-09-01T07:30:23Z",
+  "updated_at_utc": "2026-09-01T13:16:47Z",
   "topic": "energy",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "3c43201cdcd7e4c98b97ee8e4d3232739f5ddca8",
+      "fingerprint": "f850edb063060cadf1b545599bee22442f40d244",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28065995",
+      "published_utc": "2026-09-01T12:31:43Z",
+      "title_en": "System Operator predicts annual growth in energy consumption in the Russian Federation until 2032",
+      "lead_en": "The indicator will increase by an average of 1.87% per year",
+      "title_raw": "\"Системный оператор\" прогнозирует ежегодный рост энергопотребления в РФ до 2032 года",
+      "lead_raw": "Показатель будет увеличиваться в среднем на 1,87% в год",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fc32a2dc24bf9ffeee1db50dbbf17d85f356eb78",
+      "fingerprint": "19d799a0b035fa76450951ec4a2396c487e7236f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2180413",
+      "published_utc": "2026-09-01T12:19:09Z",
+      "title_en": "Russian gas exports to Europe via TurkStream up 3.4% in January-August",
+      "lead_en": "In August, Russian gas exports to Europe via this route rose by 6.5% month-on-month and by 3% year-on-year, reaching 1.61 bcm",
+      "title_raw": "Russian gas exports to Europe via TurkStream up 3.4% in January-August",
+      "lead_raw": "In August, Russian gas exports to Europe via this route rose by 6.5% month-on-month and by 3% year-on-year, reaching 1.61 bcm",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e82fef1313ae995ee8d81edf9072bf0ad0208181",
+      "fingerprint": "9a0d7323efa999b33b054f3cc649cf75554caed0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2180265",
+      "published_utc": "2026-09-01T08:05:37Z",
+      "title_en": "Defense industry facilities in Kiev, port infrastructure: Russian forces' massive strike",
+      "lead_en": "A gas station was damaged in the Obukhov district in the Kiev region",
+      "title_raw": "Defense industry facilities in Kiev, port infrastructure: Russian forces' massive strike",
+      "lead_raw": "A gas station was damaged in the Obukhov district in the Kiev region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5a62636926aa47f97f6ada5db6f69c9f179b4dac",
       "fingerprint": "309f5b2084ac89b34090c89b5d6282d33136a70d",
@@ -452,52 +519,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "841a3e4bd282ee65602ef37da726af2e2f533625",
-      "fingerprint": "d1e47220f9e89cece0e23ec36b4453bbf407a357",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28058423",
-      "published_utc": "2026-08-30T11:28:37Z",
-      "title_en": "The Russian Embassy in Cyprus is finding out whether there are Russians among those affected by the disaster",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посольство РФ на Кипре выясняет, есть ли россияне в числе пострадавших в бедствии",
-      "lead_raw": "Газета \"Кыбрыз\" ранее сообщила, что у побережья северной части Кипра терпит бедствие быстроходное судно, на борту которого находятся порядка 270 пассажиров и членов экипажа",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "83f35d5a285f23ccb4dc88ee9e1fac1158fd4a5f",
-      "fingerprint": "e62cd81851c4945ea20c416aea7fe4ec4c6f72fc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2179463",
-      "published_utc": "2026-08-30T09:21:06Z",
-      "title_en": "Russia readies to strike Ukraine’s energy sites to retaliate attacks on its infrastructure",
-      "lead_en": "At the same time, Russian servicemen continued to launch coordinated strikes against Ukrainian military-industrial facilities that support the Ukrainian military overnight, the ministry emphasized",
-      "title_raw": "Russia readies to strike Ukraine’s energy sites to retaliate attacks on its infrastructure",
-      "lead_raw": "At the same time, Russian servicemen continued to launch coordinated strikes against Ukrainian military-industrial facilities that support the Ukrainian military overnight, the ministry emphasized",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
