@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-03T17:39:42Z",
+  "updated_at_utc": "2026-09-03T20:44:15Z",
   "topic": "energy",
-  "count": 57,
+  "count": 56,
   "articles": [
+    {
+      "id": "4713ba865e52c8386501a367c55a0d4bd40d2bb5",
+      "fingerprint": "b41fbc600b822b1ad74d69b206c31773d14fd74b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28077569",
+      "published_utc": "2026-09-03T19:35:49Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Трамп пока не думал о приглашении Путина на саммит G20",
+      "lead_raw": "Газета The Washington Post ранее сообщила, что президент США намерен пригласить российского лидера на саммит",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "e57bb83c032950d8f42ddeac56f47fdb13e1a5f8",
       "fingerprint": "c9e6de2d495a3969680fe504ba2f35468aef477a",
@@ -1218,50 +1241,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ae455e36d2888c87fb3f28e95b896c2ee6d1946b",
-      "fingerprint": "79fdf19af900420498c2417bb46ea0af9f394c57",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28067411",
-      "published_utc": "2026-09-01T20:20:20Z",
-      "title_en": "Putin: Germany has “no guts” to make a decision on resuming gas supplies from Russia",
-      "lead_en": "",
-      "title_raw": "Путин: у ФРГ \"кишка тонка\" принять решение по возобновлению поставок газа из РФ",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c927742f9ac533075c3c7838c9f842e884c4bc43",
-      "fingerprint": "bed558b63717c7fa9aa2348976223e192e83a37c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28067399",
-      "published_utc": "2026-09-01T20:18:21Z",
-      "title_en": "Putin: The Russian Armed Forces gave instructions to launch massive strikes on the energy sector of Ukraine",
-      "lead_en": "",
-      "title_raw": "Путин: ВС РФ дали указания по нанесению массированных ударов по энергетике Украины",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
