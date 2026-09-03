@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-09-03T13:23:31Z",
+  "updated_at_utc": "2026-09-03T17:39:42Z",
   "topic": "energy",
-  "count": 61,
+  "count": 57,
   "articles": [
+    {
+      "id": "e57bb83c032950d8f42ddeac56f47fdb13e1a5f8",
+      "fingerprint": "c9e6de2d495a3969680fe504ba2f35468aef477a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2182327",
+      "published_utc": "2026-09-03T17:30:09Z",
+      "title_en": "Russian military strikes reduce fuel supplies for Ukrainian forces by half",
+      "lead_en": "Reports about inflicted damage to gas stations come from various regions of Ukraine almost daily",
+      "title_raw": "Russian military strikes reduce fuel supplies for Ukrainian forces by half",
+      "lead_raw": "Reports about inflicted damage to gas stations come from various regions of Ukraine almost daily",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "dc5952f661283cea8afe74539bbf0f1ee14866d1",
+      "fingerprint": "46041420a42d2450fba451260787a70e29e7ebd7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28077211",
+      "published_utc": "2026-09-03T16:13:26Z",
+      "title_en": "TASS: strikes by the Russian Armed Forces halved fuel supplies for the Armed Forces of Ukraine",
+      "lead_en": "Information about damage to gas stations comes from different regions of Ukraine almost daily",
+      "title_raw": "ТАСС: удары ВС РФ вдвое урезали топливные поставки для ВСУ",
+      "lead_raw": "Информация о повреждении автозаправочных станций поступает из разных регионов Украины практически ежедневно",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "57a965f48a7577a5334c5b9afb1770d14a9ccb15",
       "fingerprint": "c965e600baedf3c0fb4bdc86dce6e1489d4db913",
@@ -1218,139 +1263,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cdcbba9284094737fe2533c1c3446586fef443fa",
-      "fingerprint": "c378219dddb883c083fc1f345eb204953db31366",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/01/reuters-venezuela-to-hand-oil-fields-run-by-chinese-russian-firms-to-u-s-backed-operator",
-      "published_utc": "2026-09-01T17:23:10Z",
-      "title_en": "Reuters: Venezuela to hand oil fields run by Chinese, Russian firms to U.S.-backed operator",
-      "lead_en": "The American company North American Blue Energy Partners (NABEP) will take control of several oil fields in Venezuela that were previously operated by several Chinese companies and one Russian firm, two U.S. officials told Reuters.",
-      "title_raw": "Reuters: Venezuela to hand oil fields run by Chinese, Russian firms to U.S.-backed operator",
-      "lead_raw": "The American company North American Blue Energy Partners (NABEP) will take control of several oil fields in Venezuela that were previously operated by several Chinese companies and one Russian firm, two U.S. officials told Reuters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14652bc8753db9b9a7a9bb9a72c94f570c7b59b5",
-      "fingerprint": "2be7941b4cc4e80e477e5d17c8184dea9a2e7f23",
-      "source": "RT",
-      "url": "https://www.rt.com/news/639655-eu-drone-sightings-denmark",
-      "published_utc": "2026-09-01T16:54:05Z",
-      "title_en": "Faith in fakes: How anti-Russian hysteria is driving the EU’s drone hoax",
-      "lead_en": "Waves of drone sightings across Europe fueled a surge in rearmament and anti-Russian hysteria, but the drones never existed Read Full Article at RT.com",
-      "title_raw": "Faith in fakes: How anti-Russian hysteria is driving the EU’s drone hoax",
-      "lead_raw": "Waves of drone sightings across Europe fueled a surge in rearmament and anti-Russian hysteria, but the drones never existed Read Full Article at RT.com",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0698f7a554269d86a6ae4bde133804a5da5122a7",
-      "fingerprint": "2454b735767e997fe3adafacb2a2e1028ecdf39d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28066879",
-      "published_utc": "2026-09-01T16:44:01Z",
-      "title_en": "Putin: Russia and Armenia are implementing joint projects, including in the nuclear sector",
-      "lead_en": "We are also talking about projects in the field of industry, agriculture, mining, peaceful nuclear energy, transport, and the digital economy, the Russian President noted",
-      "title_raw": "Путин: РФ и Армения реализуют совместные проекты, в том числе в атомной сфере",
-      "lead_raw": "Речь идет также о проектах в области промышленности, сельского хозяйства, горнодобычи, мирного атома, транспорта, цифровой экономики, отметил президент России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b19dcebcf79de63b439af458bfaa370412c04916",
-      "fingerprint": "a8ef95cc0140c0b03c68fceb394d6a7885ca13f4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28066881",
-      "published_utc": "2026-09-01T16:44:00Z",
-      "title_en": "Putin called Russian companies the largest taxpayers to the budget of Armenia",
-      "lead_en": "They strengthen the country’s energy security, the Russian President noted",
-      "title_raw": "Путин назвал российские компании крупнейшими налогоплательщиками в бюджет Армении",
-      "lead_raw": "Они укрепляют энергобезопасность страны, отметил президент РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "efc2b440e1f928e84c21909491f6310ccc517a88",
-      "fingerprint": "893a65320fe730ccde068080fc2173f528098758",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2180555",
-      "published_utc": "2026-09-01T15:23:05Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 86.75 rubles for September 2",
-      "lead_en": "The official euro exchange rate has been raised by 2.74 kopecks to 100.5988 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 86.75 rubles for September 2",
-      "lead_raw": "The official euro exchange rate has been raised by 2.74 kopecks to 100.5988 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "caa4577128ab783566e3adcfd8838359297abc77",
-      "fingerprint": "a9b1d8ac3747fd72cf3f9b5bfad311ab90700e77",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/01/why-the-middle-east-oil-shock-failed-to-save-russias-budget-a93552",
-      "published_utc": "2026-09-01T14:03:08Z",
-      "title_en": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
-      "lead_en": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
-      "title_raw": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
-      "lead_raw": "Six months into the U.S.-Iran war, Russia’s oil windfall looks surprisingly meager despite initial predictions of a revenue boom.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
