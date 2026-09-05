@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-05T16:39:09Z",
+  "updated_at_utc": "2026-09-05T18:53:02Z",
   "topic": "energy",
   "count": 40,
   "articles": [
+    {
+      "id": "ad1890a2c59d40848733b7dfd8d451c5ef540f69",
+      "fingerprint": "9248d06938e559655ee38d67bf192b4fd1bb35fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28083709",
+      "published_utc": "2026-09-05T17:55:51Z",
+      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_raw": "Guardian: в НАТО опасаются, что Европа не сможет выдержать войну с Россией",
+      "lead_raw": "Военные эксперты, работающие с НАТО, также убеждали чиновников ЕС в ходе конференции по вопросам будущего европейской военной координации усилить информационную атаку на РФ, сообщила газета",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "cd64365c684db9fa25509b1d14779d94f7b4e2c3",
       "fingerprint": "cd7d5895a81bf8ede5c41ca8ecf5f70bc20c8269",
@@ -871,29 +894,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e57bb83c032950d8f42ddeac56f47fdb13e1a5f8",
-      "fingerprint": "c9e6de2d495a3969680fe504ba2f35468aef477a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2182327",
-      "published_utc": "2026-09-03T17:30:09Z",
-      "title_en": "Russian military strikes reduce fuel supplies for Ukrainian forces by half",
-      "lead_en": "Reports about inflicted damage to gas stations come from various regions of Ukraine almost daily",
-      "title_raw": "Russian military strikes reduce fuel supplies for Ukrainian forces by half",
-      "lead_raw": "Reports about inflicted damage to gas stations come from various regions of Ukraine almost daily",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
