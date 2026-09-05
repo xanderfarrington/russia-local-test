@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-05T10:14:39Z",
+  "updated_at_utc": "2026-09-05T13:45:16Z",
   "topic": "economy",
-  "count": 19,
+  "count": 14,
   "articles": [
+    {
+      "id": "0192e9555b820ca17a6a3c3535ba668d2c16cfbe",
+      "fingerprint": "0233dc1e64c432a12d5bf7b245a9794b9c8a617d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28083017",
+      "published_utc": "2026-09-05T12:20:38Z",
+      "title_en": "The Russian Embassy in Oslo called the closure of the Russian House in Germany an example of hybrid warfare",
+      "lead_en": "Russia is not interested in deteriorating relations either with Germany, which until recently was the country's key trade and economic partner, or with other Western states, the diplomatic mission noted in its commentary",
+      "title_raw": "Посольство РФ в Осло назвало закрытие Русского дома в ФРГ примером гибридной войны",
+      "lead_raw": "Россия не заинтересована в ухудшении отношений ни с Германией, которая до недавнего времени была ключевым торгово-экономическим партнером страны, ни с другими западными государствами, отмечается в комментарии диппредставительства",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3bda3d0bf3315281e6af989c558b1c092f01ea0e",
       "fingerprint": "af8c7279db18a8bd34a163c03af53d800e57d5d0",
@@ -285,139 +308,6 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "554164f9e294a498e95ca1c0ad814f14e6e7244b",
-      "fingerprint": "ac8a7cb13a6129b88abecf2f40bc2bd6ccaff712",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/interviews/28076311",
-      "published_utc": "2026-09-03T13:16:36Z",
-      "title_en": "Alexander Vedyakhin: The Far East is a champion in investment activity",
-      "lead_en": "Investment growth in the Far East has reached a plateau, but the region retains opportunities for development through new logistics projects, mining and processing of minerals, and the introduction of artificial intelligence. First Deputy Chairman of the Board of Sberbank Alexander Vedyakhin spoke about this and the first results of the digital ruble, plans for the sale of the state stake in Aeroflot and the prospects of Russian aircraft on the Indian market in an interview with TASS",
-      "title_raw": "Александр Ведяхин: Дальний Восток — чемпион по инвестиционной активности",
-      "lead_raw": "Инвестиционный рост на Дальнем Востоке вышел на плато, однако регион сохраняет возможности для развития за счет новых логистических проектов, добычи и переработки полезных ископаемых и внедрения искусственного интеллекта. Об этом и первых результатах работы цифрового рубля, планах по продаже госпакета \"Аэрофлота\" и перспективах российских самолетов на индийском рынке в интервью ТАСС рассказал первый заместитель председателя правления Сбербанка Александр Ведяхин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3ab2b757fc3b6ca26f126db546a170be114faeed",
-      "fingerprint": "4722a0fc65e6431127eda2c28a8a01f3afdd2c3f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28076563",
-      "published_utc": "2026-09-03T12:49:10Z",
-      "title_en": "Vladimirov: the largest berry cluster in the Russian Federation will create hundreds of jobs in the Stavropol region",
-      "lead_en": "The project is important from the point of view of import substitution and the development of the agro-industrial complex, explained the head of the region",
-      "title_raw": "Владимиров: крупнейший в РФ ягодный кластер создаст сотни рабочих мест на Ставрополье",
-      "lead_raw": "Проект важен с точки зрения импортозамещения и развития агропромышленного комплекса, пояснил глава региона",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "385837a637536c52401d409d061e667233cbf22c",
-      "fingerprint": "2b9060989079f165419d85f82e8082cf42a9f9ed",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28076519",
-      "published_utc": "2026-09-03T12:37:08Z",
-      "title_en": "In Moscow, a court returned to an Omsk company a claim for 102 million rubles against a Canadian bank",
-      "lead_en": "The reason for the return of the claim was the lack of evidence that the plaintiff sent the claim to Toronto Dominion Bank, as well as the translation of documents into Russian",
-      "title_raw": "В Москве суд вернул омской компании иск на 102 млн рублей к канадскому банку",
-      "lead_raw": "Причиной возврата иска стало отсутствие доказательства о направлении истцом претензии Toronto Dominion Bank, а также перевода документов на русский язык",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "820e66a558d3db9f013333a51adb764ead387c51",
-      "fingerprint": "ce8ee763ffd783034e829c8a8d05621bf229dda3",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2182113",
-      "published_utc": "2026-09-03T11:48:11Z",
-      "title_en": "Putin expects stability of economic policy to ensure flow of foreign investment",
-      "lead_en": "Sources of investment can vary widely, the Russian leader noted",
-      "title_raw": "Putin expects stability of economic policy to ensure flow of foreign investment",
-      "lead_raw": "Sources of investment can vary widely, the Russian leader noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b9866f0f3a8f8423ce27efafe9dda6514be16da9",
-      "fingerprint": "273f1665868b97cabfcb31950a59c73b0fbfaa97",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2182105",
-      "published_utc": "2026-09-03T11:34:47Z",
-      "title_en": "Parallel imports to Russia may reach $20.5 bln in 2026 — Industry and Trade Minister",
-      "lead_en": "Parallel imports for the first seven months of 2026 amounted to approximately $12.2 billion, Anton Alikhanov specified",
-      "title_raw": "Parallel imports to Russia may reach $20.5 bln in 2026 — Industry and Trade Minister",
-      "lead_raw": "Parallel imports for the first seven months of 2026 amounted to approximately $12.2 billion, Anton Alikhanov specified",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "be9053f67207abbc6ed93753e8f8caeb7199c175",
-      "fingerprint": "6f31f76832b808e6702747abab4c230d6b984f2a",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/03/russia-can-manage-its-growing-deficit-putin-says-a93630",
-      "published_utc": "2026-09-03T11:06:00Z",
-      "title_en": "Russia Can Manage Its Growing Deficit, Putin Says",
-      "lead_en": "The federal budget deficit grew by 40% in the first half of this year to reach 2.8% of gross domestic product.",
-      "title_raw": "Russia Can Manage Its Growing Deficit, Putin Says",
-      "lead_raw": "The federal budget deficit grew by 40% in the first half of this year to reach 2.8% of gross domestic product.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
         "local_events": 0
       },
       "topics": [
