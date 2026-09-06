@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-06T18:56:32Z",
+  "updated_at_utc": "2026-09-06T21:10:51Z",
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "5e05c3d995d7e14fafaaa21391b3ab2e76290de4",
+      "fingerprint": "c990d2104d77644901583e2981d462d13173da27",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2183411",
+      "published_utc": "2026-09-06T20:18:01Z",
+      "title_en": "North Macedonia interested in energy cooperation with Russia — politician",
+      "lead_en": "Marjan Dimitriev emphasized that Macedonia needs stable energy supplies at a good price",
+      "title_raw": "North Macedonia interested in energy cooperation with Russia — politician",
+      "lead_raw": "Marjan Dimitriev emphasized that Macedonia needs stable energy supplies at a good price",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2db1c0da5a82a3d7ce18cfce2ec65d710141fe8b",
       "fingerprint": "5abb3c53497c67d5f699a22a98b3827d0695ecdb",
@@ -359,30 +381,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "0c3131737940dc8f17796dc0e94394f70ab2335b",
-      "fingerprint": "82cd55025140853a4fb320d3e49e114d35bcd15a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28081673",
-      "published_utc": "2026-09-04T19:27:15Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Посольство РФ в Дании указало на ложь в СМИ о школе при диппредставительстве",
-      "lead_raw": "Российское диппредставительство прокомментировало публикацию газеты Politiken, в которой утверждалось, что ученики школы при посольстве якобы получают образование, \"призванное подготовить их к войне\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
