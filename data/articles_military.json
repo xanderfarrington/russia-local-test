@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-09-06T12:42:47Z",
+  "updated_at_utc": "2026-09-06T16:02:27Z",
   "topic": "military",
-  "count": 65,
+  "count": 61,
   "articles": [
+    {
+      "id": "2db1c0da5a82a3d7ce18cfce2ec65d710141fe8b",
+      "fingerprint": "5abb3c53497c67d5f699a22a98b3827d0695ecdb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28085051",
+      "published_utc": "2026-09-06T14:36:06Z",
+      "title_en": "After the Ukrainian Armed Forces struck the market in Energodar, a case of terrorist attack was opened",
+      "lead_en": "Ukrainian troops struck the facility again, despite the presence of emergency services and civilians, the Russian Investigative Committee emphasized",
+      "title_raw": "После удара ВСУ по рынку в Энергодаре завели дело о теракте",
+      "lead_raw": "Украинские войска повторно ударили по объекту, несмотря на присутствие экстренных служб и мирных граждан, подчеркнули в СК РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fa91c5f4d391c4e888085aed1941d7c7f02f949c",
+      "fingerprint": "a96db8288a1adc91745b56129249bdaad364519f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28085037",
+      "published_utc": "2026-09-06T14:30:27Z",
+      "title_en": "The Russian Armed Forces hit a dry cargo ship with military equipment of the Armed Forces of Ukraine in the Black Sea",
+      "lead_en": "It was installed by Western countries",
+      "title_raw": "ВС РФ ударили по сухогрузу с военным имуществом ВСУ в Черном море",
+      "lead_raw": "Его поставили западные страны",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "849b57a10f4fb93724acb3429bcc19aa1f0eace9",
       "fingerprint": "c665d98daebf707f36a8246a806de94a0fa19fb0",
@@ -1306,140 +1351,6 @@
       "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_raw": "ТАСС: число пропавших без вести солдат ВСУ может превышать 500 тыс.",
       "lead_raw": "В российских силовых структурах сообщили, что более 17 тыс. тел солдат Вооруженных сил Украины, переданных Россией, до сих пор не идентифицировали",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "feb9ff345b8eb6eb315fc6a75a8789234006ae82",
-      "fingerprint": "5018affd9a0b12c0a44610235b36dbb18b9167ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2182915",
-      "published_utc": "2026-09-04T15:39:22Z",
-      "title_en": "OPCW in no haste to visit Russia amid evidence of Ukraine using chemical weapons — envoy",
-      "lead_en": "Vladimir Tarabrin said the experts will inevitably receive data confirming the use of chemical weapons by the Ukrainians",
-      "title_raw": "OPCW in no haste to visit Russia amid evidence of Ukraine using chemical weapons — envoy",
-      "lead_raw": "Vladimir Tarabrin said the experts will inevitably receive data confirming the use of chemical weapons by the Ukrainians",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4685176d0ce29e1d346d53a75897231ef1a99696",
-      "fingerprint": "d4d8c1b9a247ca930d9ce9a1dc569494e1af3fc6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2182847",
-      "published_utc": "2026-09-04T14:03:43Z",
-      "title_en": "Russian air defenses down over 6,000 Ukrainian drones over past week — top brass",
-      "lead_en": "According to the Russian Defense Ministry, since the start of the special military operation, Russian forces have destroyed a total of 674 Ukrainian aircraft, 284 helicopters and 227,730 unmanned aerial vehicles",
-      "title_raw": "Russian air defenses down over 6,000 Ukrainian drones over past week — top brass",
-      "lead_raw": "According to the Russian Defense Ministry, since the start of the special military operation, Russian forces have destroyed a total of 674 Ukrainian aircraft, 284 helicopters and 227,730 unmanned aerial vehicles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d575fdd023be0de8e1e1b23732b8ae70c112ce6a",
-      "fingerprint": "a3f41d098ec96b58469f7dd89bab460822734e28",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/04/russian-drone-strikes-sbu-headquarters-in-kyiv-zelensky-says",
-      "published_utc": "2026-09-04T13:39:40Z",
-      "title_en": "Russian drone strikes SBU headquarters in Kyiv, Zelensky says",
-      "lead_en": "A Russian drone struck the Kyiv headquarters of Ukraine’s Security Service (SBU), Volodymyr Zelensky said.",
-      "title_raw": "Russian drone strikes SBU headquarters in Kyiv, Zelensky says",
-      "lead_raw": "A Russian drone struck the Kyiv headquarters of Ukraine’s Security Service (SBU), Volodymyr Zelensky said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fd74ff41a57eb165b59e4ed71fd9ff6880223143",
-      "fingerprint": "ff36768ae1ad8ff1b6be6588176e4c85e6a96294",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2182791",
-      "published_utc": "2026-09-04T13:27:47Z",
-      "title_en": "Germany’s long-range arms facilities could rightfully be targeted, Russian Embassy says",
-      "lead_en": "German military initiatives would constitute a direct threat to Russia and the Union State if put into practice, the Russian diplomatic mission said",
-      "title_raw": "Germany’s long-range arms facilities could rightfully be targeted, Russian Embassy says",
-      "lead_raw": "German military initiatives would constitute a direct threat to Russia and the Union State if put into practice, the Russian diplomatic mission said",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "179c04932cca23d18bd2069b9c141efc544d21dc",
-      "fingerprint": "ab1429bae42db5a5a3b1680d09dbc60e3a4064bd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28080759",
-      "published_utc": "2026-09-04T13:13:47Z",
-      "title_en": "OPCW concerned about the use of AI for artisanal chemical weapons production",
-      "lead_en": "The risk of using artificial intelligence in the interests of chemical terrorism exists, it must be taken into account and mitigated, noted Vladimir Tarabrin, the permanent representative of the Russian Federation to the organization.",
-      "title_raw": "ОЗХО обеспокоена применением ИИ для кустарного производства химоружия",
-      "lead_raw": "Риск использования искусственного интеллекта в интересах химического терроризма существует, его нужно учитывать и купировать, отметил постпред РФ при организации Владимир Тарабрин",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dd0ba044c3597daefd7c69c53723948b0209b301",
-      "fingerprint": "6100dc6de67fb36141c8a0d47e73234600f712c0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28080765",
-      "published_utc": "2026-09-04T13:09:07Z",
-      "title_en": "Foreign Intelligence Service of the Russian Federation: Western countries are destabilizing the military-political situation at the borders of the CIS",
-      "lead_en": "The activities of individual countries of the collective West, aimed at maintaining global dominance, lead to the undermining of the international legal system, the Foreign Intelligence Service said",
-      "title_raw": "СВР РФ: страны Запада дестабилизируют военно-политическую ситуацию у границ СНГ",
-      "lead_raw": "Деятельность отдельных стран коллективного Запада, направленная на сохранение глобального доминирования, ведет к подрыву международной правовой системы, заявили в Службе внешней разведки",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
