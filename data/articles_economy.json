@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-07T15:37:11Z",
+  "updated_at_utc": "2026-09-07T19:42:12Z",
   "topic": "economy",
   "count": 7,
   "articles": [
+    {
+      "id": "1a69bdbd53dbd623e120f2407feac6d11178633b",
+      "fingerprint": "eeeb129d8dc631f74b5c3ad69a69e905ebeb3701",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2183789",
+      "published_utc": "2026-09-07T17:41:05Z",
+      "title_en": "Russian stock market closes with major indices up",
+      "lead_en": "BCS World of Investments expects the MOEX Index to consolidate within the 2,230-2,270 point range on Tuesday",
+      "title_raw": "Russian stock market closes with major indices up",
+      "lead_raw": "BCS World of Investments expects the MOEX Index to consolidate within the 2,230-2,270 point range on Tuesday",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "57fee6a38dfd5169d94380bcd62dded2d6c6bb99",
       "fingerprint": "27e157fa3cec45e68c987f18879282526717c2ab",
@@ -136,29 +158,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "29abcb7f9f1b7b626a9d670ac4f6daab6d579e52",
-      "fingerprint": "d78218e3d8b3877e32717a4476181e72999fef97",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28083513",
-      "published_utc": "2026-09-05T15:57:46Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Сечин: объем инвестиций по \"Восток ойлу\" достиг 4 трлн рублей",
-      "lead_raw": "Все используемое на проекте оборудование производится в России, отметил глава \"Роснефти\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
