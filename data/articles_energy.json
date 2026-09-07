@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-09-07T09:07:18Z",
+  "updated_at_utc": "2026-09-07T15:37:11Z",
   "topic": "energy",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "cc5d0a6969b09a8709a73a6340214c404b418d5b",
+      "fingerprint": "95e2deafb33da5877739fda86272927b4f042eb3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2183719",
+      "published_utc": "2026-09-07T14:26:45Z",
+      "title_en": "Lavrov comments on West’s attempts to spoil elections and robbery of Russian assets",
+      "lead_en": "The foreign minister stressed that Russia is not prepared to enter into agreements that fail to ensure a balance of interests",
+      "title_raw": "Lavrov comments on West’s attempts to spoil elections and robbery of Russian assets",
+      "lead_raw": "The foreign minister stressed that Russia is not prepared to enter into agreements that fail to ensure a balance of interests",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "600683561b5f2a49e57b9eec80c6ac2ac407ac0e",
+      "fingerprint": "743f05ffda5c3745e91de8a3c61bf417fd28ee18",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2183651",
+      "published_utc": "2026-09-07T12:15:51Z",
+      "title_en": "The West is doing everything possible to spoil upcoming elections — Lavrov",
+      "lead_en": "The Russian foreign minister cited the example of attempts to invent as many pretexts as possible that can then be used to question the fairness of the elections",
+      "title_raw": "The West is doing everything possible to spoil upcoming elections — Lavrov",
+      "lead_raw": "The Russian foreign minister cited the example of attempts to invent as many pretexts as possible that can then be used to question the fairness of the elections",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "40f41d08b325081b763c81e1370e7b054d7bac34",
       "fingerprint": "43ba9d8ef093a98af103cd00230215b207236365",
@@ -470,29 +515,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "09b05e3bf970aa5073c7e7d7867bf3a6b5a36ae9",
-      "fingerprint": "00b1dac2263dc22fd61e8285f2f5358c157befb0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2183141",
-      "published_utc": "2026-09-05T12:59:00Z",
-      "title_en": "Odessa port nearly lifeless following Russian strikes — resistance member",
-      "lead_en": "Russian strikes targeted only dry cargo ships \"used to transport dual-use goods, as well as fuel storage tanks intended for military purposes.\"",
-      "title_raw": "Odessa port nearly lifeless following Russian strikes — resistance member",
-      "lead_raw": "Russian strikes targeted only dry cargo ships \"used to transport dual-use goods, as well as fuel storage tanks intended for military purposes.\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
