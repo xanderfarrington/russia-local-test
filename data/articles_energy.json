@@ -1,8 +1,76 @@
 {
-  "updated_at_utc": "2026-09-11T05:49:32Z",
+  "updated_at_utc": "2026-09-11T10:54:08Z",
   "topic": "energy",
-  "count": 41,
+  "count": 43,
   "articles": [
+    {
+      "id": "53be4dce552ec39c426627689ffc2e1df4692ced",
+      "fingerprint": "1ada20fcca7965df769b9db5eb48f38bf694ef13",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2185901",
+      "published_utc": "2026-09-11T10:00:00Z",
+      "title_en": "Press review: Ukraine seeks donors outside EU as Europe faces prolonged fuel price surge",
+      "lead_en": "Top stories from the Russian press on Friday, August 11th",
+      "title_raw": "Press review: Ukraine seeks donors outside EU as Europe faces prolonged fuel price surge",
+      "lead_raw": "Top stories from the Russian press on Friday, August 11th",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37cafff982d0737c373358065fabaa0b11b7675a",
+      "fingerprint": "6726c21386790119875fc917bc46edd1927de74b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28102615",
+      "published_utc": "2026-09-11T09:50:54Z",
+      "title_en": "The Republic of Korea expressed concern about UK sanctions against the Russian Federation",
+      "lead_en": "The representative of the Republic of Korea at trade negotiations, Park Jong-sung, asked to remove contracts from restrictions, as they affect the energy security of Seoul",
+      "title_raw": "В Республике Корея выразили обеспокоенность санкциями Великобритании против РФ",
+      "lead_raw": "Представитель РК на торговых переговорах Пак Чон Сон попросил вывести контракты из-под органичений, так как они влияют на энергетическую безопасность Сеула",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d4be6d64b19c2dd976405e02af15b47d1928c88c",
+      "fingerprint": "274fb3d920462273fb17fdc86ea9589c8d5fa139",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2186003",
+      "published_utc": "2026-09-11T09:05:21Z",
+      "title_en": "Russia’s oil exports down to 6.44 mbd in August, revenues up to $13.8 bln — IEA",
+      "lead_en": "Russia’s revenues from oil exports this August were $320 mln higher than in the same period last year",
+      "title_raw": "Russia’s oil exports down to 6.44 mbd in August, revenues up to $13.8 bln — IEA",
+      "lead_raw": "Russia’s revenues from oil exports this August were $320 mln higher than in the same period last year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "eb2770c9c96dab8f96684fd7fadae6fc6a6adba7",
       "fingerprint": "4393bc7ad01287317e27fe2ebd74eaf89947ac89",
@@ -899,28 +967,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0f05a3c7e462678f4be9c3ddaf78c3b1a5a16d72",
-      "fingerprint": "16e1a405c782ffb06d0cbe0c5c3d5ffbeffdd597",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2184719",
-      "published_utc": "2026-09-09T10:24:30Z",
-      "title_en": "Germany’s AfD leader calls for resumption of Russian gas supplies amid low storage",
-      "lead_en": "Alice Weidel stressed that gas injection must be the top priority",
-      "title_raw": "Germany’s AfD leader calls for resumption of Russian gas supplies amid low storage",
-      "lead_raw": "Alice Weidel stressed that gas injection must be the top priority",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
