@@ -1,8 +1,911 @@
 {
-  "updated_at_utc": "2026-09-12T09:06:31Z",
+  "updated_at_utc": "2026-09-12T13:26:46Z",
   "keep_hours": 48,
-  "count": 445,
+  "count": 422,
   "articles": [
+    {
+      "id": "c5b16c9eec72d391db721719e6f4aa0a8dfd87ea",
+      "fingerprint": "87fc09930ef9f91c4cdd9c9f95580213a8960a9c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28106491",
+      "published_utc": "2026-09-12T13:23:49Z",
+      "title_en": "More than 300 Ukrainian Armed Forces drones were shot down over the Zaporozhye region in one day",
+      "lead_en": "Military personnel of the Russian Armed Forces and mobile fire groups worked",
+      "title_raw": "Над Запорожской областью за сутки сбили более 300 беспилотников ВСУ",
+      "lead_raw": "Работали военнослужащие ВС РФ и мобильные огневые группы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d95387bed9abc7bd6551a4094b04b4ed0a405a76",
+      "fingerprint": "97bd393e99145dcee9b9b46184dfca3e73ab3fcb",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28106485",
+      "published_utc": "2026-09-12T13:21:21Z",
+      "title_en": "Skaters Artemyeva and Bryukhanov may miss test skates",
+      "lead_en": "The Russian national team skates will be held on September 19-20 in Moscow",
+      "title_raw": "Фигуристы Артемьева и Брюханов могут пропустить контрольные прокаты",
+      "lead_raw": "Прокаты сборной России пройдут 19-20 сентября в Москве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "944645ccb8d258242c3ef2e79cdbf371ae7991f1",
+      "fingerprint": "72e2ff07a51e4beee8d7c7fd9e855477be56bdbf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106443",
+      "published_utc": "2026-09-12T13:21:07Z",
+      "title_en": "Putin concluded negotiations in India with a meeting with the Crown Prince of Abu Dhabi",
+      "lead_en": "It became the seventh for the Russian leader in the negotiation marathon that lasted two days.",
+      "title_raw": "Путин встречей с наследным принцем Абу-Даби завершил переговоры в Индии",
+      "lead_raw": "Она стала для российского лидера седьмой в длившемся два дня переговорном марафоне",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "917e1f849c38ada7a3398e40534ec8d9b02d77d0",
+      "fingerprint": "8ddf1cb1d340fc360dd98149e6b5ac38a1f0e890",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28106473",
+      "published_utc": "2026-09-12T13:16:55Z",
+      "title_en": "The \"Cultural Code Alley\" was planted in Yekaterinburg",
+      "lead_en": "On the territory of the Ural Federal University named after the first President of Russia B.N.",
+      "title_raw": "В Екатеринбурге высадили \"Аллею культурного кода\"",
+      "lead_raw": "На территории Уральского федерального университета имени первого президента России Б. Н.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "da10daf8b5e9ae70523ee02818f9f848200e9bd0",
+      "fingerprint": "6519392700627f4fd366b1067dd7f3692269effe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106457",
+      "published_utc": "2026-09-12T13:14:32Z",
+      "title_en": "Ethiopian Prime Minister said Lavrov is getting younger over the years",
+      "lead_en": "The Russian Foreign Minister visited the country on a working visit on July 6-8",
+      "title_raw": "Премьер Эфиопии заявил, что Лавров с годами молодеет",
+      "lead_raw": "Глава МИД РФ посетил страну с рабочим визитом 6-8 июля",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "36f23a250bcb622dc72e96187f26acc486915c02",
+      "fingerprint": "c51f69b56e107e69dd1f75241378084c50223aa4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106465",
+      "published_utc": "2026-09-12T13:13:00Z",
+      "title_en": "Putin: relations between the Russian Federation and the UAE will strengthen",
+      "lead_en": "",
+      "title_raw": "Путин: отношения РФ и ОАЭ будут укрепляться",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3e72305a3a85722966aa36ee31f373262dbc451c",
+      "fingerprint": "f9e2efd7c43e5343e4452d35d560a12c5ed29ee0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106459",
+      "published_utc": "2026-09-12T13:12:37Z",
+      "title_en": "Putin: The UAE has become one of the countries closest to Russia in the Middle East",
+      "lead_en": "",
+      "title_raw": "Путин: ОАЭ стали одной из самых близких России стран Ближнего Востока",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "dd337d27d71eedacb044bfa50b046b6b1db88db2",
+      "fingerprint": "e3fb5a8f94fc86f08ac8f90dd65622c207ab9e33",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106435",
+      "published_utc": "2026-09-12T13:07:24Z",
+      "title_en": "Dmitriev: for the Russian-US-Germany business forum they will choose a neutral country",
+      "lead_en": "The venue will be chosen closer to the end of the year, said the special representative of the Russian President for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев: для бизнес-форума РФ - США - Германия выберут нейтральную страну",
+      "lead_raw": "Место проведения выберут ближе к концу года, сообщил спецпредставитель президента России по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0b636266e4c0c09eb4b8d3b59f9173c760fe24fd",
+      "fingerprint": "9f080bbe85e298f94cd4bef82ca00f12ae2cc574",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106433",
+      "published_utc": "2026-09-12T13:05:45Z",
+      "title_en": "Dmitriev announced the holding of a business forum between the Russian Federation - USA - Germany in 2027",
+      "lead_en": "More than 20 requests for participation from German businesses have already been received, said the special presidential representative for investment and economic cooperation with foreign countries",
+      "title_raw": "Дмитриев анонсировал проведение бизнес-форума РФ - США - Германия в 2027 году",
+      "lead_raw": "Уже получено более 20 запросов на участие от немецкого бизнеса, сообщил спецпредставитель президента по инвестиционно-экономическому сотрудничеству с зарубежными странами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c43331da25812b9163334310ed1ac6ea472d2beb",
+      "fingerprint": "a3be91430def7ae5bf590f1bbe8385589ceb894c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106401",
+      "published_utc": "2026-09-12T13:03:48Z",
+      "title_en": "Peskov: Europe is not showing initiatives for the negotiation process on Ukraine",
+      "lead_en": "The press secretary of the Russian President noted that “those who want negotiations” are looking for dialogue",
+      "title_raw": "Песков: Европа не проявляет инициатив для переговорного процесса по Украине",
+      "lead_raw": "Пресс-секретарь президента России отметил, что \"тот, кто хочет переговоров\", - ищет диалог",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "46d97bdc8437ecab9343b9d0ab4bfdca5e781296",
+      "fingerprint": "38b9dd388714e57a64305b31697ba3387780cfe0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28106381",
+      "published_utc": "2026-09-12T12:55:19Z",
+      "title_en": "The Russian Ministry of Defense showed footage of the liberation of Vesely in the DPR",
+      "lead_en": "The entry into the populated area was preceded by aerial reconnaissance",
+      "title_raw": "МО РФ показало кадры освобождения Веселого в ДНР",
+      "lead_raw": "Заходу в населенный пункт предшествовала разведка с воздуха",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "670c2d8e805ea921784d8b046b0ad04c0c9914c2",
+      "fingerprint": "f1ab1eb4900310e0b1e26adf873e21d1066d3a01",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28106375",
+      "published_utc": "2026-09-12T12:50:43Z",
+      "title_en": "Peskov: The Kremlin will convey congratulations to Oliver Stone on his 80th birthday",
+      "lead_en": "Press Secretary of the Russian President Dmitry Peskov noted that he does not know whether Putin will congratulate the director personally",
+      "title_raw": "Песков: Кремль передаст поздравления Оливеру Стоуну к его 80-летию",
+      "lead_raw": "Пресс-секретарь президента РФ Дмитрий Песков отметил, что не знает, поздравит ли Путин режиссера лично",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "36e17797629c450679aa2518633f5a6bdc4a9b93",
+      "fingerprint": "148ca765815908a8ebd0dd179be509c72d4aa44e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28106357",
+      "published_utc": "2026-09-12T12:46:42Z",
+      "title_en": "The release of Vesely allowed to disrupt the logistics of the Ukrainian Armed Forces in this area",
+      "lead_en": "Control over the settlement also created the conditions for an offensive by the Russian Armed Forces in the Dobropol direction",
+      "title_raw": "Освобождение Веселого позволило нарушить логистику ВСУ на этом участке",
+      "lead_raw": "Контроль над населенным пунктом также создал условия для наступления ВС РФ на добропольском направлении",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "81758d61f3dedb67b4355078a235a215ea6834e0",
+      "fingerprint": "3374a29c79b96c352f9c62722ca5b17e1e686873",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106365",
+      "published_utc": "2026-09-12T12:44:03Z",
+      "title_en": "Peskov announced the absence of progress on the topic of the BRICS grain exchange",
+      "lead_en": "The press secretary of the President of the Russian Federation answered a corresponding question from journalists",
+      "title_raw": "Песков заявил об отсутствии подвижек по теме зерновой биржи БРИКС",
+      "lead_raw": "Пресс-секретарь президента РФ ответил на соответствующий вопрос журналистов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "de7c67db9090e6bd351deeda32caf1ecbeea25e0",
+      "fingerprint": "4cdb3d3c3c8986f31f0d6d459179b3e1c3cfc874",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106363",
+      "published_utc": "2026-09-12T12:43:47Z",
+      "title_en": "Peskov: Putin and Xi Jinping did not talk in detail",
+      "lead_en": "The Russian President's press secretary said that the leaders of Russia and China greeted each other at the BRICS summit events",
+      "title_raw": "Песков: Путин и Си Цзиньпин предметно не беседовали",
+      "lead_raw": "Пресс-секретарь президента РФ сообщил, что лидеры России и Китая поприветствовали друг друга на мероприятиях саммита БРИКС",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5a16fe4f905c69e88c6e49164be773b7e70cd33f",
+      "fingerprint": "d6899f7785e0df4b372623c8cbf83d7b4cfe3e04",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106361",
+      "published_utc": "2026-09-12T12:43:25Z",
+      "title_en": "The Kremlin is concerned about the situation in the Bab el-Mandeb Strait",
+      "lead_en": "The situation is clearly uncontrollable, said Russian Presidential Press Secretary Dmitry Peskov",
+      "title_raw": "Кремль обеспокоен ситуацией в Баб-эль-Мандебском проливе",
+      "lead_raw": "Ситуация явно неконтролируема, заявил пресс-секретарь президента РФ Дмитрий Песков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "58fad7e754103d2f254f5508c2d340fe7a6e7801",
+      "fingerprint": "8934ed7aee31169910dcf8b49a041eeb073127c2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106335",
+      "published_utc": "2026-09-12T12:33:22Z",
+      "title_en": "Ethiopian Prime Minister noted growth in trade turnover and development of relations with Russia",
+      "lead_en": "Abiy Ahmed also thanked the Russian side for providing scholarships to Ethiopian students",
+      "title_raw": "Премьер Эфиопии отметил рост товарооборота и развитие отношений с Россией",
+      "lead_raw": "Абий Ахмед также поблагодарил российскую сторону за предоставление стипендий эфиопским студентам",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8110c1fb32f92a90048ddb6bbce0552e80b9cc95",
+      "fingerprint": "9b6d721f3ae655a956de834a4cc8f17b90ea45de",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106307",
+      "published_utc": "2026-09-12T12:24:04Z",
+      "title_en": "Putin noted that he was able to discuss all important topics with the Prime Minister of Ethiopia on the way",
+      "lead_en": "The President of the Russian Federation is actively using the possibilities of “car diplomacy”, talking with colleagues without cameras",
+      "title_raw": "Путин отметил, что смог по дороге обсудить с премьером Эфиопии все важные темы",
+      "lead_raw": "Президент РФ активно использует возможности \"автомобильной дипломатии\", разговаривая с коллегами без камер",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2ea34cfdb5587f6a1654403c096e4dc430f23f84",
+      "fingerprint": "7576e5ff3567c00be3d8c5b8bbfb042b196bfcc4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106237",
+      "published_utc": "2026-09-12T12:13:06Z",
+      "title_en": "Putin went with the Prime Minister of Ethiopia to a bilateral meeting in one Aurus",
+      "lead_en": "The Russian President's motorcade can be seen on the streets of New Delhi",
+      "title_raw": "Путин поехал с премьером Эфиопии на двустороннюю встречу в одном \"Аурусе\"",
+      "lead_raw": "Кортеж президента РФ можно увидеть на улицах Нью-Дели",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8e7080e6ef3c6df485da882b94efc893c0700d67",
+      "fingerprint": "5da16ebdc2f9ebda090265e24c6a0d1b8d1002d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28106275",
+      "published_utc": "2026-09-12T12:12:03Z",
+      "title_en": "Filippo called for the lifting of anti-Russian sanctions",
+      "lead_en": "The politician also called on the French authorities to withdraw from the EU, reduce taxes and develop oil fields off the coast of French Guiana",
+      "title_raw": "Филиппо призвал к снятию антироссийских санкций",
+      "lead_raw": "Политик также призвал власти Франции к выходу из ЕС, снижению налогов и разработке нефтяных месторождений у берегов Французской Гвианы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f20caff65ea7725ac6a12ab42b13445d8f1d9b2d",
+      "fingerprint": "4e2540142a1ad590de05e91f447d4cc4df9a04d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106269",
+      "published_utc": "2026-09-12T12:09:23Z",
+      "title_en": "Putin: The Russian Federation attaches special importance to relations with all African countries",
+      "lead_en": "Ethiopia has been invited to the Russia-Africa summit, which will be held on October 28-29 in Moscow",
+      "title_raw": "Путин: РФ придает особое значение отношениям со всеми странами Африки",
+      "lead_raw": "Эфиопия приглашена на саммит \"Россия - Африка\", который пройдет 28-29 октября в Москве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c71fcebabffb8f253e516fa349ae1f20f0ba0cd3",
+      "fingerprint": "7341f54985434fb142ae85a86b5deccc296044b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106259",
+      "published_utc": "2026-09-12T12:08:48Z",
+      "title_en": "Putin: Russia is proud of Ethiopia's admission to BRICS",
+      "lead_en": "Addis Ababa is making its contribution to the unification, the Russian President emphasized",
+      "title_raw": "Путин: РФ гордится приемом Эфиопии в БРИКС",
+      "lead_raw": "Аддис-Абеба вносит свой вклад в объединение, подчеркнул президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1ee40f65368f7db965b3b26cb72acdd6490b90d0",
+      "fingerprint": "4569624d2ed47939f5bc577d7ada41fc2b4b73ce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106261",
+      "published_utc": "2026-09-12T12:08:42Z",
+      "title_en": "Putin announced a threefold increase in trade turnover between Russia and Ethiopia in 2025",
+      "lead_en": "This is a good indicator, noted the President of the Russian Federation",
+      "title_raw": "Путин заявил о росте товарооборота РФ и Эфиопии в 2025 году втрое",
+      "lead_raw": "Это хороший показатель, отметил президент РФ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bfee4369c774526722e7373638490948d3055c79",
+      "fingerprint": "36592ff646421239221da137c2f6a46ef87234ba",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106247",
+      "published_utc": "2026-09-12T12:08:21Z",
+      "title_en": "Putin met with the Prime Minister of Ethiopia in New Delhi",
+      "lead_en": "Assistant to the Russian leader Yuri Ushakov previously announced an “interesting meeting” at which the problem of escalation in the Middle East would also be discussed.",
+      "title_raw": "Путин провел в Нью-Дели встречу с премьером Эфиопии",
+      "lead_raw": "Помощник российского лидера Юрий Ушаков ранее анонсировал \"интересную встречу\", на которой будет в том числе затронута проблема эскалации на Ближнем Востоке",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "13edd9df1004be4406c15d63e5cb5b58c2dbcc8d",
+      "fingerprint": "1979464b1c9da52163d3f4b66c427e106416e924",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106255",
+      "published_utc": "2026-09-12T12:07:24Z",
+      "title_en": "Putin said that BRICS is aimed at consolidating the world majority",
+      "lead_en": "BRICS is a full-format strategic partnership, the Russian President emphasized",
+      "title_raw": "Путин заявил, что БРИКС нацелен на консолидацию мирового большинства",
+      "lead_raw": "БРИКС - полноформатное стратегическое партнерство, подчеркнул президент России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "eb04f086af57c618b2069ddde582bae7f337f3c9",
+      "fingerprint": "e7bff29210ec3250b35c060c17f1eb9cb01797d1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106189",
+      "published_utc": "2026-09-12T12:04:24Z",
+      "title_en": "Peskov: The West, on its own initiative, reduced relations with the Russian Federation to almost zero",
+      "lead_en": "Such decisions are illogical and unhelpful for Europe itself, the Kremlin representative emphasized",
+      "title_raw": "Песков: Запад по своей инициативе свел практически к нулю отношения с РФ",
+      "lead_raw": "Такие решения нелогичны и неполезны для самой Европы, подчеркнул представитель Кремля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "52f4a2997eb5d2e8704bcec4cebaa38221ac0ca7",
+      "fingerprint": "5fcba23ec8cce7e0a296358fc904b6fb35f5de96",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106227",
+      "published_utc": "2026-09-12T12:00:37Z",
+      "title_en": "The Kremlin said that Zelensky’s invitation to Moscow remains in force",
+      "lead_en": "If Vladimir Zelensky really wants to meet with the President of the Russian Federation, then he can fly to Russia, the Russian leader’s press secretary noted",
+      "title_raw": "В Кремле заявили, что приглашение Зеленского в Москву остается в силе",
+      "lead_raw": "Если Владимир Зеленский действительно хочет встретиться с президентом РФ, то он может прилететь в Россию, отметил пресс-секретарь российского лидера",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ac804c402cfcfd74da146ee2a257e59cf058e8b1",
+      "fingerprint": "2828b29c8518c5e9758c6da75807a0744f52cc04",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106213",
+      "published_utc": "2026-09-12T11:55:45Z",
+      "title_en": "The Kremlin does not yet know whether Putin will go to the G20 summit in Miami",
+      "lead_en": "Press Secretary of the Head of State Dmitry Peskov reported this in the context of Vladimir Zelensky’s statements about his intention to meet with the Russian leader at the site",
+      "title_raw": "В Кремле пока не знают, поедет ли Путин на саммит G20 в Майами",
+      "lead_raw": "Пресс-секретарь главы государства Дмитрий Песков сообщил об этом в контексте заявлений Владимира Зеленского о намерении встретиться с российским лидером на площадке",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "388a9224fd167b4972ac47860f4eb57eb7befb9d",
+      "fingerprint": "7ba4114313d421e341b0c64c850d23491a5f6d54",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28106177",
+      "published_utc": "2026-09-12T11:50:35Z",
+      "title_en": "Putin and BRICS leaders planted a tree symbolizing the commonwealth in New Delhi",
+      "lead_en": "The President of Russia and his colleagues sprinkled soil on a prepared banyan tree seedling",
+      "title_raw": "Путин с лидерами БРИКС посадил в Нью-Дели символизирующее содружество дерево",
+      "lead_raw": "Президент России и его коллеги присыпали землей подготовленный саженец баньяна",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0e5e3ac062c78d86bf06ce1ba0ec50000c128997",
+      "fingerprint": "496899731e8208689e090db79395a57626604d3f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186623",
+      "published_utc": "2026-09-12T11:45:31Z",
+      "title_en": "Countries of Global South need greater representation on UN Security Council — Putin",
+      "lead_en": "Russian President said that on the BRICS summit in India",
+      "title_raw": "Countries of Global South need greater representation on UN Security Council — Putin",
+      "lead_raw": "Russian President said that on the BRICS summit in India",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0d55b89a88d3954b61832a9c1aafd6636aba1da0",
+      "fingerprint": "80922261a944fc867ad485d86d05753067b48b0d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186625",
+      "published_utc": "2026-09-12T11:45:10Z",
+      "title_en": "Reforming IMF, World Bank, WTO long overdue — Putin",
+      "lead_en": "They were all created in completely different political and economic realities, Russian President said",
+      "title_raw": "Reforming IMF, World Bank, WTO long overdue — Putin",
+      "lead_raw": "They were all created in completely different political and economic realities, Russian President said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "745adcfb12b0dd781c870a2e88751a087d4bf31c",
+      "fingerprint": "dd1f173fb7d32586289ff5d426ea8f08954a0544",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186627",
+      "published_utc": "2026-09-12T11:44:37Z",
+      "title_en": "Putin describes UN Charter as key source of international law",
+      "lead_en": "Russia places particular importance on preserving and strengthening the central role of the United Nations in international affairs, Russian President said",
+      "title_raw": "Putin describes UN Charter as key source of international law",
+      "lead_raw": "Russia places particular importance on preserving and strengthening the central role of the United Nations in international affairs, Russian President said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "00d83894e6e8e88cbc118be02113167ea424d6cc",
+      "fingerprint": "c56755ffd4b51a2d6f3a60995f1157b9dfda34f3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186621",
+      "published_utc": "2026-09-12T11:41:59Z",
+      "title_en": "Multipolar world formation faces difficulties, resistance — Putin",
+      "lead_en": "Russian President pointed out that an increasing number of states are loudly and clearly declaring their readiness to defend their national interests and participate in addressing global problems",
+      "title_raw": "Multipolar world formation faces difficulties, resistance — Putin",
+      "lead_raw": "Russian President pointed out that an increasing number of states are loudly and clearly declaring their readiness to defend their national interests and participate in addressing global problems",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f84b87f4ecbadb8928149b792199b4a5af831aa7",
+      "fingerprint": "ca1449d44d7b11434c19044c270f99b95931ada7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186615",
+      "published_utc": "2026-09-12T11:28:55Z",
+      "title_en": "Intellectual, technological potential is key advantage for BRICS — Putin",
+      "lead_en": "Russian President Vladimir Putin told it on the BRICS summit",
+      "title_raw": "Intellectual, technological potential is key advantage for BRICS — Putin",
+      "lead_raw": "Russian President Vladimir Putin told it on the BRICS summit",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d12eb2204553a8efa274197e8de9c792dffeb665",
+      "fingerprint": "3601f4db32ecc3c5aa8cf1c7378656ae00b2d377",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28106009",
+      "published_utc": "2026-09-12T11:08:24Z",
+      "title_en": "A video of the meeting between Putin and Modi accompanied by the song “Mother Earth” was shared in India.",
+      "lead_en": "The Indian Prime Minister presented the Russian President with a book with the ancient Indian treatise on life \"Tirukkural\" in Russian",
+      "title_raw": "В Индии поделились видео встречи Путина и Моди под песню \"Матушка-земля\"",
+      "lead_raw": "Индийский премьер-министр вручил президенту России книгу с древнеиндийским трактатом о жизни \"Тируккурал\" на русском языке",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a0b657ef6e25c111d78191d0599af55809b41458",
+      "fingerprint": "de7cde6c3e982f5ad9f646758ff3210cd52d1e27",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28106019",
+      "published_utc": "2026-09-12T11:04:56Z",
+      "title_en": "Putin: BRICS can play a leading role in shaping rules for new areas",
+      "lead_en": "According to the Russian President, breakthrough industries, such as the platform economy and digital trade, require separate regulation",
+      "title_raw": "Путин: БРИКС может сыграть ведущую роль в формировании правил для новых сфер",
+      "lead_raw": "По словам президента России, прорывные отрасли, такие как платформенная экономика, цифровая торговля, требуют отдельного регулирования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f07acb5ba3187dcefd3e94458ebce651437342c6",
+      "fingerprint": "242359481cabfea84af05cb20027840453af92fd",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28105983",
+      "published_utc": "2026-09-12T11:02:46Z",
+      "title_en": "Rosatom intends to develop logistics along the Northern Sea Route within the BRICS framework",
+      "lead_en": "Rosatom General Director Alexei Likhachev recalled that Russian President Vladimir Putin set the task of turning the Northern Sea Route into an Arctic transport corridor",
+      "title_raw": "Росатом намерен развивать в рамках БРИКС логистику по СМП",
+      "lead_raw": "Генеральный директор Росатома Алексей Лихачев напомнил, что президент РФ Владимир Путин поставил задачу превращения Северного морского пути в арктический транспортный коридор",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ee4de2f1d8f223a172b238e46c686d0cd90bcb70",
+      "fingerprint": "9fc5e97f682c79cbd92e93b5ddb52bec77452821",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186593",
+      "published_utc": "2026-09-12T10:49:58Z",
+      "title_en": "Russia conveys stance on potential Western troop deployment to Ukraine worldwide — Kremlin",
+      "lead_en": "Russian President Vladimir Putin’s statement that European troops deployed to Ukraine would mean a war with Russia reflects Moscow’s position, Kremlin Spokesman Dmitry Peskov said",
+      "title_raw": "Russia conveys stance on potential Western troop deployment to Ukraine worldwide — Kremlin",
+      "lead_raw": "Russian President Vladimir Putin’s statement that European troops deployed to Ukraine would mean a war with Russia reflects Moscow’s position, Kremlin Spokesman Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "965fccf639ddd582d705f0e1e4add86423089340",
+      "fingerprint": "87e2c846cec256e92f42a96326ca6bae8ecc78a7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186585",
+      "published_utc": "2026-09-12T10:22:48Z",
+      "title_en": "Unclear if Russia-US business projects emerge before Ukraine settlement — Kremlin",
+      "lead_en": "Kremlin Spokesman Dmitry Peskov noted that \"the logic of development suggests that trade, economic, and investment cooperation needs to be resumed as soon as possible\"",
+      "title_raw": "Unclear if Russia-US business projects emerge before Ukraine settlement — Kremlin",
+      "lead_raw": "Kremlin Spokesman Dmitry Peskov noted that \"the logic of development suggests that trade, economic, and investment cooperation needs to be resumed as soon as possible\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "18025cdd27190cde2a618da7e3440ef92d69017b",
+      "fingerprint": "17cb32122276f23ccab6a0511df5d21ba1de743a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186577",
+      "published_utc": "2026-09-12T10:16:06Z",
+      "title_en": "Russia sincerely hopes US peacekeeping efforts will yield results — Kremlin",
+      "lead_en": "There is no cooperation with the Americans at the moment. Let us proceed from that, Dmitry Peskov said",
+      "title_raw": "Russia sincerely hopes US peacekeeping efforts will yield results — Kremlin",
+      "lead_raw": "There is no cooperation with the Americans at the moment. Let us proceed from that, Dmitry Peskov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f0c1909937abbc12da6c55c61c264d1ee2d3e6eb",
+      "fingerprint": "9a86f0f8c4e337188c3bf750bca9bb3ef2c942b2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2186575",
+      "published_utc": "2026-09-12T09:38:33Z",
+      "title_en": "No discussions yet on Putin’s potential G20 summit trip — Kremlin aide",
+      "lead_en": "Russian experts keep working on documents for the summit, Yury Ushakov told",
+      "title_raw": "No discussions yet on Putin’s potential G20 summit trip — Kremlin aide",
+      "lead_raw": "Russian experts keep working on documents for the summit, Yury Ushakov told",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d875a6bc51087470063aeba21fba3c2c40700c97",
+      "fingerprint": "f30b260cf4e2d4a9a6b0750e24bcf7e40534c4be",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2186571",
+      "published_utc": "2026-09-12T09:36:06Z",
+      "title_en": "Russian forces close in on Ukrainian troops trapped in Kharkov Region",
+      "lead_en": "The Russia’s Defense Ministry added that two attempts by Ukrainian assault teams to break out of the encirclement near Sliznyovo and Gogino had been thwarted",
+      "title_raw": "Russian forces close in on Ukrainian troops trapped in Kharkov Region",
+      "lead_raw": "The Russia’s Defense Ministry added that two attempts by Ukrainian assault teams to break out of the encirclement near Sliznyovo and Gogino had been thwarted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "199b2173dfb9047cab85d01a5d9ea8e67d184c18",
+      "fingerprint": "c6e91a6e6dfa1631c2a7d59ab474d2f73f90bae1",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2186563",
+      "published_utc": "2026-09-12T09:34:55Z",
+      "title_en": "Russian forces strike logistics hubs used by Ukrainian army",
+      "lead_en": "Other targets included production sites for unmanned aerial vehicles and ground-based robotic systems",
+      "title_raw": "Russian forces strike logistics hubs used by Ukrainian army",
+      "lead_raw": "Other targets included production sites for unmanned aerial vehicles and ground-based robotic systems",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "b99717802f56452dc1f1af0c33e36e91201fa2f3",
       "fingerprint": "f92ec5794ca329422b973c5cb60451fcb3a876b9",
@@ -7935,1371 +8838,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "e66e9239dd2d61e49658550d93f0c56b07075af9",
-      "fingerprint": "4818227db113e79eabf2671135d6ef92d77cce05",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185611",
-      "published_utc": "2026-09-10T13:25:25Z",
-      "title_en": "'Imaginary threat' to Zelensky’s plane, Kiev’s provocations: topics of Kremlin’s briefing",
-      "lead_en": "The Kiev regime’s provocations are a matter of heightened attention for Russian intelligence agencies, Dmitry Peskov said",
-      "title_raw": "'Imaginary threat' to Zelensky’s plane, Kiev’s provocations: topics of Kremlin’s briefing",
-      "lead_raw": "The Kiev regime’s provocations are a matter of heightened attention for Russian intelligence agencies, Dmitry Peskov said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "352e199f049aeda4b9f58a05aa3f32fadff41fe4",
-      "fingerprint": "a6cba87f558a93a8feb8439669b76c169dc9c964",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/10/reuters-russian-military-tested-new-technology-in-northern-atlantic-to-disable-undersea-communications-cables",
-      "published_utc": "2026-09-10T13:25:11Z",
-      "title_en": "Reuters: Russian military tested new technology in northern Atlantic to disable undersea communications cables",
-      "lead_en": "Russian military personnel attempted to test new technology designed to disable undersea communications cables in the northern Atlantic Ocean in April, two Western officials told the Reuters news agency on condition of anonymity.",
-      "title_raw": "Reuters: Russian military tested new technology in northern Atlantic to disable undersea communications cables",
-      "lead_raw": "Russian military personnel attempted to test new technology designed to disable undersea communications cables in the northern Atlantic Ocean in April, two Western officials told the Reuters news agency on condition of anonymity.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "9f49a00378f326afb4976d13d7ad2867003fd0b9",
-      "fingerprint": "61848ee6b35931c4ecbeb86dee7dc3f42440063f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185601",
-      "published_utc": "2026-09-10T13:18:40Z",
-      "title_en": "Kiev loses some 1,430 troops along engagement line in past day — Russia’s top brass",
-      "lead_en": "Units of Russia's Battlegroup North took control of the settlements of Zarubinka and Goptovka in the Kharkov Region",
-      "title_raw": "Kiev loses some 1,430 troops along engagement line in past day — Russia’s top brass",
-      "lead_raw": "Units of Russia's Battlegroup North took control of the settlements of Zarubinka and Goptovka in the Kharkov Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f4179cbb2ff09c434163615be9de1a7012acc2dd",
-      "fingerprint": "cbe78a789cb07129149902bcd3c8ae2d5f3c0c0c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099955",
-      "published_utc": "2026-09-10T13:14:14Z",
-      "title_en": "Russian Ambassador: Hungary is losing independence in foreign policy",
-      "lead_en": "Evgeny Stanislavov noted that Budapest wants to join the EU countries that are confrontational towards the Russian Federation",
-      "title_raw": "Посол России: Венгрия теряет самостоятельность внешней политики",
-      "lead_raw": "Евгений Станиславов отметил, что Будапешт хочет примкнуть к странам ЕС, конфронтационно настроенным к РФ",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6eb26eb7ff71d1478581471abd36220803561da8",
-      "fingerprint": "491bfa1c352836b8e79c342639afd117c80da3c1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099937",
-      "published_utc": "2026-09-10T13:09:50Z",
-      "title_en": "Titov spoke about ways for Russian businesses to enter the Chinese markets",
-      "lead_en": "It is possible through competition and online sales, noted the special representative of the President of the Russian Federation for relations with international organizations for sustainable development goals",
-      "title_raw": "Титов рассказал о путях выхода на рынки КНР для бизнеса РФ",
-      "lead_raw": "Он возможен через конкуренцию и онлайн-продажи, отметил спецпредставитель президента РФ по связям с международными организациями для целей устойчивого развития",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d561bdb8b670fd59de99879bd7aae42b59fa0bbd",
-      "fingerprint": "e003d1f3dca271aa809847e32da612e5956d8098",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099929",
-      "published_utc": "2026-09-10T13:08:45Z",
-      "title_en": "Rosatom localized production of its 3D scanners in India",
-      "lead_en": "At the exhibition \"Innoprom. India\" the state corporation presented the capabilities of Russian additive technologies",
-      "title_raw": "Росатом локализовал производство своих 3D-сканеров в Индии",
-      "lead_raw": "На выставке \"Иннопром. Индия\" госкорпорация представила возможности российских аддитивных технологий",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2d5420147bceacffa17458acdb23880023eaf438",
-      "fingerprint": "6b98a535cf495163227f6afc46d1f55640375084",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099953",
-      "published_utc": "2026-09-10T13:07:49Z",
-      "title_en": "Peskov: Russia stands for a speedy resolution of the Ukrainian conflict",
-      "lead_en": "Press Secretary of the President of the Russian Federation Dmitry Peskov clarified that the SVO is being carried out in the absence of possibilities for its peaceful resolution",
-      "title_raw": "Песков: Россия выступает за скорейшее урегулирование украинского конфликта",
-      "lead_raw": "Пресс-секретарь президента РФ Дмитрий Песков уточнил, что СВО проводится в отсутствие возможностей его мирного разрешения",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f30fd6add91f00c81f786eeed3781fdf89f141e8",
-      "fingerprint": "8d3cb4975d62b148d5b17c61bbb5474a427f03da",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099935",
-      "published_utc": "2026-09-10T13:05:14Z",
-      "title_en": "Peskov: Friends of the Russian Federation in the UAE reported their readiness to accept negotiations on Ukraine",
-      "lead_en": "",
-      "title_raw": "Песков: друзья РФ в ОАЭ сообщали о готовности принять переговоры по Украине",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8ca141b4710f07dee7706a331dc412713e22cf50",
-      "fingerprint": "252adfdaeb461e82c19a58c9c20f07de1f0ddfa3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099933",
-      "published_utc": "2026-09-10T13:04:42Z",
-      "title_en": "Peskov: all Russian proposals to stop hostilities are known",
-      "lead_en": "",
-      "title_raw": "Песков: все предложения РФ по остановке боевых действий известны",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "67a78d231804c1ae6d983aeea2451b69a145306d",
-      "fingerprint": "cc35df6d7d3fdc32bb03258f96a37cf546987d8b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185587",
-      "published_utc": "2026-09-10T13:03:56Z",
-      "title_en": "Putin plans no press conference after BRICS summit — Kremlin aide",
-      "lead_en": "The Russian president is set to deliver numerous public addresses in India, including remarks at the BRICS Business Council, Yury Ushakov said",
-      "title_raw": "Putin plans no press conference after BRICS summit — Kremlin aide",
-      "lead_raw": "The Russian president is set to deliver numerous public addresses in India, including remarks at the BRICS Business Council, Yury Ushakov said",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2cfd000016340a2dc26a39356db51c85fd5bf59f",
-      "fingerprint": "eb3a4e0188b62e5c335ab49d4416e2ffa4817608",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099917",
-      "published_utc": "2026-09-10T13:03:50Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "The press secretary of the President of the Russian Federation answered the question of whether such a possibility is being considered:",
-      "title_raw": "Песков: предметных разговоров об энергетическом перемирии с Украиной не ведется",
-      "lead_raw": "Пресс-секретарь президента РФ так ответил на вопрос о том, рассматривается ли такая возможность",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dfd8109502f46b0f306e9c9b82f4055049db2815",
-      "fingerprint": "52706ec95a50abbda7ddbc5adf1c94eeb6855cc6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099923",
-      "published_utc": "2026-09-10T13:03:41Z",
-      "title_en": "Peskov: The Russian Armed Forces are systematically hitting targets in Ukraine",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Песков: ВС РФ планомерно бьют по целям на Украине",
-      "lead_raw": "Пресс-секретарь президента России отметил, что удары наносятся широкомасштабно и системно",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "dce0a3b9c5440084601d642a5162fa0b3a5fd050",
-      "fingerprint": "61bc29fc0a51d66a0c1135e0b7181c659ada5d73",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/28099895",
-      "published_utc": "2026-09-10T13:02:28Z",
-      "title_en": "Yampolskaya supported the idea of ​​​​creating a museum on the basis of the nuclear submarine \"Dmitry Donskoy\"",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Ямпольская поддержала идею создания музея на базе АПЛ \"Дмитрий Донской\"",
-      "lead_raw": "Крейсер останется символом несокрушимости России, потому что она не только в железе, она и в духе, заявила советник президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "83c61221cb6a4c21a86598643c231323374c969d",
-      "fingerprint": "92f6370a9986159060281e63b6f5807abf050612",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185585",
-      "published_utc": "2026-09-10T13:01:23Z",
-      "title_en": "Grid-connected data center capacity in Russia reaches 5 GW",
-      "lead_en": "They are largely concentrated around the Moscow and St. Petersburg metropolitan areas",
-      "title_raw": "Grid-connected data center capacity in Russia reaches 5 GW",
-      "lead_raw": "They are largely concentrated around the Moscow and St. Petersburg metropolitan areas",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f9c5a3fbb8c5efa3fa845ac0e25e0aee3ec35aa3",
-      "fingerprint": "0245609c89bd7d07369a572ce3d4110ca53a1609",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099893",
-      "published_utc": "2026-09-10T13:01:21Z",
-      "title_en": "Russia's international reserves fell by $20.7 billion over the week",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Международные резервы России за неделю снизились на $20,7 млрд",
-      "lead_raw": "Их объем составил $753,5 млрд",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "10852b4ea017cf8e460a050ec1311e3fecc76d3b",
-      "fingerprint": "47481e2cf7ad1ad3987ce3984d721aa6c18332d9",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099855",
-      "published_utc": "2026-09-10T12:59:54Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "The trusting nature of Russian-Indian cooperation is largely due to the constructive dialogue between Russian President Vladimir Putin and the Prime Minister of India, said the head of the Russian Ministry of Industry and Trade",
-      "title_raw": "Алиханов: визит Моди в Москву ожидается до конца года",
-      "lead_raw": "Доверительный характер российско-индийского сотрудничества во многом обусловлен конструктивным диалогом президента РФ Владимира Путина и премьер-министра Индии, заявил глава Минпромторга РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6b5fc7e9dd413d4b79fed06cf8ea0af393a66481",
-      "fingerprint": "22f42824f043f677f7c149da7b2daafe2030fbc2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099889",
-      "published_utc": "2026-09-10T12:59:38Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "На конкурсе овощей-гигантов в Москве вес самой большой капусты составил 22,5 кг",
-      "lead_raw": "На конкурсе также был установлен рекорд России по кабачку и рекорд России по томату",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "849ae6b11a9ad577afe882bdb930138caee9b90c",
-      "fingerprint": "ad01f45a7a45e1ae58545833921bc700a9ad15f5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099861",
-      "published_utc": "2026-09-10T12:51:20Z",
-      "title_en": "Yampolskaya was outraged by Japan's demand to remove the monument to a Russian soldier",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Ямпольскую возмутило требование Японии убрать памятник русскому солдату",
-      "lead_raw": "Страна стала забывать о вопросах сохранения общей памяти, отметила советник президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "9b6bb7a4ab465eab458b84481af1cf20a292a614",
-      "fingerprint": "2ca4ac681a2f9a24efa0d4699271dfac55080bf1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099823",
-      "published_utc": "2026-09-10T12:51:04Z",
-      "title_en": "BRICS summit and bilateral negotiations. Ushakov about Putin’s visit to India",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Саммит БРИКС и двусторонние переговоры. Ушаков о визите Путина в Индию",
-      "lead_raw": "Президент России начнет марафон двусторонних контактов со встречи 11 сентября с премьер-министром Индии Нарендрой Моди, сообщил помощник главы государства",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6eb9b304d9c41d4c8c583076ae6acfe84e2b04da",
-      "fingerprint": "f952a304d903795622cf0f8f52db97eca966be31",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099755",
-      "published_utc": "2026-09-10T12:51:02Z",
-      "title_en": "Alikhanov: the participation of Indian companies in the development of the Angara-Yenisei cluster is being worked out",
-      "lead_en": "The topic of rare earth metals is quite broad and is not limited only to the Murmansk deposits, said the head of the Ministry of Industry and Trade of the Russian Federation",
-      "title_raw": "Алиханов: участие компаний Индии в развитии Ангаро-Енисейского кластера прорабатывается",
-      "lead_raw": "Тема редкоземельных металлов достаточно широкая и не ограничивается только Мурманскими месторождениями, заявил глава Минпромторга РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "abcec4a0b3eb72d881b29f59aa01b6e1f39bf37b",
-      "fingerprint": "9e6680a2f273cc028b14a4dadbc0e32486536068",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nauka/28099811",
-      "published_utc": "2026-09-10T12:50:40Z",
-      "title_en": "Scientists call for changes in approaches to oil production in Western Siberia",
-      "lead_en": "According to a study by the Russian State University of Oil and Gas named after I.M.",
-      "title_raw": "Ученые призвали изменить подходы к нефтедобыче в Западной Сибири",
-      "lead_raw": "Согласно исследованию Российского государственного университета нефти и газа имени И. М.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5e3f16f686d8f04d2de3340117fe36d63b4f54c0",
-      "fingerprint": "1755caa70efcb30791cf5404cee9e398e58be1da",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099555",
-      "published_utc": "2026-09-10T12:48:33Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Россия в июле вновь была крупнейшим поставщиком нефти в Индию",
-      "lead_raw": "В июле 56% индийского импорта нефти пришлось на закупки из РФ, следует из отчета ОПЕК",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ac252717e8229aa7fb9dd8fd35e9e5834eacdc3b",
-      "fingerprint": "12e4bc591a01d0b9889a2fdef5eebf9b6ff924d1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/10/international-skating-union-strips-russian-figure-skaters-kamila-valieva-and-mark-kondratiuk-of-neutral-status",
-      "published_utc": "2026-09-10T12:46:25Z",
-      "title_en": "International Skating Union strips Russian figure skaters Kamila Valieva and Mark Kondratiuk of neutral status",
-      "lead_en": "The International Skating Union (ISU) has rejected appeals from Russian figure skaters Kamila Valieva and Mark Kondratiuk, who had challenged the revocation of their neutral athlete status — a status that would have allowed them to compete internationally.",
-      "title_raw": "International Skating Union strips Russian figure skaters Kamila Valieva and Mark Kondratiuk of neutral status",
-      "lead_raw": "The International Skating Union (ISU) has rejected appeals from Russian figure skaters Kamila Valieva and Mark Kondratiuk, who had challenged the revocation of their neutral athlete status — a status that would have allowed them to compete internationally.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "631815f511f580160267c96bf6c753a9abe93de4",
-      "fingerprint": "9403c5a9c2e8c61f01b6277b49c3571d2d703ca5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099781",
-      "published_utc": "2026-09-10T12:46:08Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_raw": "Ямпольская отметила особый интерес к русскому языку в Германии",
-      "lead_raw": "В стране им владеет около 6 млн человек, указала советник президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c85280ee767ffbe7b5839ab2c142a7e68f5efcd1",
-      "fingerprint": "e4bac0ad7d7c5210874267876143eaa81724191c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28099843",
-      "published_utc": "2026-09-10T12:42:52Z",
-      "title_en": "\"Wings of the Soviets\" announced the return of Russian football champion Akhmetov",
-      "lead_en": "The agreement with the player is valid for one year",
-      "title_raw": "\"Крылья Советов\" объявили о возвращении чемпиона России по футболу Ахметова",
-      "lead_raw": "Соглашение с игроком рассчитано на один год",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0f241e80d06ea8b77e541a56f00941909d42daca",
-      "fingerprint": "901ad44c7febfd8a3e0a7a2d411dc6053d77ae51",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099779",
-      "published_utc": "2026-09-10T12:42:08Z",
-      "title_en": "The Children's Book Card is planned to be tested in 10 regions from September 2027",
-      "lead_en": "The new program is designed for preschool children, said Advisor to the President of the Russian Federation Elena Yampolskaya",
-      "title_raw": "\"Детскую книжную карту\" планируют опробовать в 10 регионах с сентября 2027 года",
-      "lead_raw": "Новая программа рассчитана на детей дошкольного возраста, рассказала советник президента РФ Елена Ямпольская",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cf3468ed8bd3fc0ac9527cdf281b5ab5159a6e4a",
-      "fingerprint": "f12bb6b9fb7107d0db613e5f71d34a4c57c21d37",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099815",
-      "published_utc": "2026-09-10T12:40:56Z",
-      "title_en": "Alikhanov spoke about the launch of Russian-Indian drug production in Dubna",
-      "lead_en": "The start of joint work is expected in 2027, the head of the Ministry of Industry and Trade of the Russian Federation specified.",
-      "title_raw": "Алиханов рассказал о запуске российско-индийского производства лекарств в Дубне",
-      "lead_raw": "Начало совместной работы ожидается в 2027 году, уточнил глава Минпромторга РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "de824c7b1cb7e5ce52e6915bae2fc7b39f579eae",
-      "fingerprint": "57dfe7fc5318349124cd2f7375d96c64264e1694",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185569",
-      "published_utc": "2026-09-10T12:40:24Z",
-      "title_en": "Indian PM Modi may pay official visit to Russia next year — Kremlin aide",
-      "lead_en": "Yury Ushakov said there is an agreement between Vladimir Putin and Narendra Modi that they will meet at least once in one country or the other",
-      "title_raw": "Indian PM Modi may pay official visit to Russia next year — Kremlin aide",
-      "lead_raw": "Yury Ushakov said there is an agreement between Vladimir Putin and Narendra Modi that they will meet at least once in one country or the other",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8ca0a0ac1e11b817d3d0ebb302160acf0841ff21",
-      "fingerprint": "d60a93d0e21a12a87ef077effdc4fc45df7ef93a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099819",
-      "published_utc": "2026-09-10T12:38:27Z",
-      "title_en": "MPEI and the Vietnam Academy of Sciences and Technology have expanded cooperation",
-      "lead_en": "The exchange of signed documents took place in the Kremlin in the presence of Russian President Vladimir Putin and the General Secretary of the Central Committee of the Communist Party of Vietnam, President of Vietnam To Lam",
-      "title_raw": "МЭИ и Вьетнамская академия наук и технологий расширили сотрудничество",
-      "lead_raw": "Обмен подписанными документами состоялся в Кремле в присутствии президента России Владимира Путина и генерального секретаря ЦК Компартии Вьетнама, президента Вьетнама То Лама",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ee0ca0fc4badb17d2486dd409c3ee3e3c604044c",
-      "fingerprint": "5794e63916d1a407de3ae37e3b26814da410b3c2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099805",
-      "published_utc": "2026-09-10T12:38:03Z",
-      "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "lead_en": "The Special Representative of the Russian President for Relations with International Organizations for Sustainable Development noted that he himself drives a car from China",
-      "title_raw": "Титов: автомобили из Китая сильно опередили западных конкурентов",
-      "lead_raw": "Спецпредставитель президента России по связям с международными организациями для целей устойчивого развития отметил, что сам ездит на машине из КНР",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "85e1900bd9dd2f102c3519a0d17e067fb8e3cac5",
-      "fingerprint": "fcc111e3305dc800b976252931216d99544c248c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099801",
-      "published_utc": "2026-09-10T12:35:55Z",
-      "title_en": "Alikhanov pointed to the prospects for cooperation with India in the field of microelectronics",
-      "lead_en": "The Russian Federation is working to create its own technologies in this area, noted the head of the Russian Ministry of Industry and Trade",
-      "title_raw": "Алиханов указал на перспективы сотрудничества с Индией в сфере микроэлектроники",
-      "lead_raw": "РФ работает над созданием собственных технологий в этой области, отметил глава Минпромторга России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ab0bacd4c4f86dab5f53cbeb09a49be20cb40e72",
-      "fingerprint": "14114e32e4c4849ce64219b84de1e2480a9a35ac",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099817",
-      "published_utc": "2026-09-10T12:35:48Z",
-      "title_en": "The head of the Ministry of Trade and Industry of India called for investing in the Russian Federation and expanding exports",
-      "lead_en": "The minister advised Russian industrialists to “set up production in India, and not limit themselves to sales”",
-      "title_raw": "Глава Минторгпрома Индии призвал инвестировать в РФ и расширять экспорт",
-      "lead_raw": "Российским промышленникам министр посоветовал \"налаживать производство в Индии, а не ограничиваться продажами\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3e036d23429433d3442001b357e817c500bac6b9",
-      "fingerprint": "284f080c59de25c7a955701ce56047bdec315f01",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28098995",
-      "published_utc": "2026-09-10T12:34:03Z",
-      "title_en": "There is no antidote: records of the Prince Vandal drone in a special operation",
-      "lead_en": "Millions of Prince Vandal drones have been supplied to the Russian Armed Forces since their first use, and the enemy has not found effective ways to counter them in two years. But, despite this, the developers continue to improve it, offering the enemy more and more new surprises.",
-      "title_raw": "Противоядия нет: рекорды дрона \"Князь Вандал\" в спецоперации",
-      "lead_raw": "Миллионы дронов \"Князь Вандал\" были поставлены в Вооруженные силы России с момента их первого применения, а противник за два года не нашел эффективных способов противодействия их. Но, несмотря на это, разработчики продолжают его совершенствовать, предлагая врагу все новые сюрпризы.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2b9cc4566c6e1f6b981dd909f0b2664fa030e9a5",
-      "fingerprint": "db3bfb91f6403a86a8118934657fe81257dd4132",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099797",
-      "published_utc": "2026-09-10T12:32:41Z",
-      "title_en": "India announced work with Russia on a new investment agreement",
-      "lead_en": "This is necessary to provide investors with legal certainty, said the Minister of Trade and Industry of the Republic Piyush Goyal",
-      "title_raw": "В Индии заявили о работе с Россией над новым инвестиционным соглашением",
-      "lead_raw": "Это нужно для обеспечения инвесторам правовой определенности, уточнил министр торговли и промышленности республики Пиюш Гоял",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "734fc6b3182130da768172cb436c2e6aba308ba5",
-      "fingerprint": "23b94916544c23bb5894a8d0eef6344dcf4f582e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099789",
-      "published_utc": "2026-09-10T12:32:14Z",
-      "title_en": "Yampolskaya: the bill on the creation of the register of languages ​​of the peoples of the Russian Federation will be submitted to the State Assembly in the autumn",
-      "lead_en": "Advisor to the President of Russia noted that the register should reflect information about the languages ​​of the peoples of the Russian Federation who historically lived in the country",
-      "title_raw": "Ямпольская: законопроект о создании реестра языков народов РФ внесут в ГД осенью",
-      "lead_raw": "Советник президента России отметила, что в реестре должны быть отражены сведения о языках народов Российской Федерации, которые исторически проживают на территории страны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1c3def4c29d52088310cc3dd99a1fa3c092ddd0a",
-      "fingerprint": "53a36a6ebae75b135c0adad46471576bcf2f73ee",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185557",
-      "published_utc": "2026-09-10T12:30:36Z",
-      "title_en": "Strikes on Black Sea vessels cannot affect Russia-Turkey relations — Kremlin",
-      "lead_en": "Dmitry Peskov stated that Kiev had originally opened this \"Pandora’s box\" by attacking Russian civilian infrastructure",
-      "title_raw": "Strikes on Black Sea vessels cannot affect Russia-Turkey relations — Kremlin",
-      "lead_raw": "Dmitry Peskov stated that Kiev had originally opened this \"Pandora’s box\" by attacking Russian civilian infrastructure",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2e65d941fce75274d69e2406419bdcacb83cedbf",
-      "fingerprint": "735a62e516e05eac64403486aa4566451f383c58",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185547",
-      "published_utc": "2026-09-10T12:27:18Z",
-      "title_en": "Russian, Indian companies to cooperate on textile production",
-      "lead_en": "Under the cooperation, wool produced in Russia, including in the Republic of Kalmykia, is expected to be used to manufacture fabrics under the Aurus Cashmere brand in India at Bansal Spinning Mills' production facilities",
-      "title_raw": "Russian, Indian companies to cooperate on textile production",
-      "lead_raw": "Under the cooperation, wool produced in Russia, including in the Republic of Kalmykia, is expected to be used to manufacture fabrics under the Aurus Cashmere brand in India at Bansal Spinning Mills' production facilities",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "361add3db31ea72e4482b14cfc576dc10964cde2",
-      "fingerprint": "3f9d06c083ab78ecbb9fe096aa8bfbf15aaa293c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099753",
-      "published_utc": "2026-09-10T12:26:25Z",
-      "title_en": "Alikhanov told when they could sign a contract for the localization of Il-114 in India",
-      "lead_en": "Signing is expected at the end of 2026 or beginning of 2027, noted the head of the Russian Ministry of Industry and Trade",
-      "title_raw": "Алиханов рассказал, когда могут подписать контракт по локализации Ил-114 в Индии",
-      "lead_raw": "Подписание ожидается в конце 2026 или начале 2027 года, отметил глава Минпромторга России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "93a85d2754ab80487df04bfc0ee8bed85adf32ed",
-      "fingerprint": "620530cc22375df43d34c095af293275d1f3a18b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099723",
-      "published_utc": "2026-09-10T12:25:45Z",
-      "title_en": "Yampolskaya proposed giving domestic aircraft names in Russian",
-      "lead_en": "This is necessary to preserve historical memory, said the adviser to the President of the Russian Federation",
-      "title_raw": "Ямпольская предложила давать отечественным самолетам названия на русском языке",
-      "lead_raw": "Это необходимо для сохранения исторической памяти, указала советник президента РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e351c16d00ed2643ae04a64dedbf4123ed91473c",
-      "fingerprint": "0cd151dc9e75f1c66ae2b5bb79ba673d203c01ef",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099711",
-      "published_utc": "2026-09-10T12:25:19Z",
-      "title_en": "Tsivilev: Russia is increasing supplies of oil, gas and coal to APEC countries",
-      "lead_en": "The Minister of Energy of the Russian Federation noted that the economies of the Asia-Pacific Economic Cooperation account for more than half of global energy consumption",
-      "title_raw": "Цивилев: Россия наращивает поставки нефти, газа и угля в страны АТЭС",
-      "lead_raw": "Министр энергетики РФ отметил, что на долю экономик Азиатско-Тихоокеанского экономического сотрудничества приходится более половины мирового энергопотребления",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "854d592a44488a51f5107c548a4cf733f42ebffe",
-      "fingerprint": "618c1843d46e6faa9ade214974c058634a56c139",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28099717",
-      "published_utc": "2026-09-10T12:24:10Z",
-      "title_en": "Titov recommended opening production facilities in the Russian Federation using Chinese technologies",
-      "lead_en": "The Chairman of the Russian part of the Russian-Chinese Committee for Friendship, Peace and Development drew attention to the fact that the Russian Federation still imports a very large percentage of finished nails",
-      "title_raw": "Титов рекомендовал открывать производства в РФ, используя китайские технологии",
-      "lead_raw": "Председатель российской части Российско-китайского комитета дружбы, мира и развития обратил внимание, что РФ до сих пор импортирует очень большой процент готовых гвоздей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "156d375548effa63a342b85d77b44de0cb5bd29d",
-      "fingerprint": "78ff58e1ea5736c0b4631b7dfb68ffd6224bfd06",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28099709",
-      "published_utc": "2026-09-10T12:23:24Z",
-      "title_en": "The Russian Red Cross warned about the creation of fake organization accounts",
-      "lead_en": "This is a fraudulent scheme for theft of personal data, the RKK indicated",
-      "title_raw": "Российский Красный Крест предупредил о создании фейковых аккаунтов организации",
-      "lead_raw": "Это мошенническая схема для кражи персональных данных, указали в РКК",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5a7393be422b7e249e90120aa13137abe7b9b7a3",
-      "fingerprint": "948c1eabf60dfa044017eafec39158e343bac646",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099641",
-      "published_utc": "2026-09-10T12:23:09Z",
-      "title_en": "BRICS leaders will work together to plant a banyan tree with the world's largest crown",
-      "lead_en": "This will symbolize joining efforts for the sake of the future, said Assistant to the President of the Russian Federation Yuri Ushakov",
-      "title_raw": "Лидеры БРИКС вместе высадят дерево баньян с самой большой в мире кроной",
-      "lead_raw": "Это будет символизировать объединение усилий ради будущего, заявил помощник президента РФ Юрий Ушаков",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ad94f675ba58e2ef64c7df7288198d8ddc6098c4",
-      "fingerprint": "56922adf401f554e78aff28d0d269d17b1208f7d",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/28099691",
-      "published_utc": "2026-09-10T12:21:29Z",
-      "title_en": "An exhibition dedicated to the 105th anniversary of ties with Russia was opened in Mongolia",
-      "lead_en": "It presented the works of Russian artist Fyodor Torkhov",
-      "title_raw": "В Монголии открыли выставку к 105-летию связей с Россией",
-      "lead_raw": "На ней представили работы российского художника Федора Торхова",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6e9537a84ddb6eb6471aedbae7ee66d0b24008ca",
-      "fingerprint": "68319ae909aed31a2e2261a40115c54c69bac0bd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185539",
-      "published_utc": "2026-09-10T12:21:20Z",
-      "title_en": "BRICS accounts for around 40% of global GDP today — Ushakov",
-      "lead_en": "The Russian presidential aide recalled that the group includes leading countries in Eurasia, Africa and Latin America",
-      "title_raw": "BRICS accounts for around 40% of global GDP today — Ushakov",
-      "lead_raw": "The Russian presidential aide recalled that the group includes leading countries in Eurasia, Africa and Latin America",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e8c85f96bdf1aff8095e0be6c53b5a1a15327076",
-      "fingerprint": "4b9272a06926d315cdda4dd92ade9be2e830d8eb",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28099609",
-      "published_utc": "2026-09-10T12:18:13Z",
-      "title_en": "Ushakov believes that Modi may visit Russia in 2027",
-      "lead_en": "This will happen if the schedule does not allow the Indian Prime Minister to arrive before the end of 2026, said an aide to the Russian President",
-      "title_raw": "Ушаков полагает, что Моди может посетить РФ с визитом в 2027 году",
-      "lead_raw": "Это произойдет, если график не позволит премьер-министру Индии приехать до конца 2026 года, заявил помощник президента России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3f1615c701fb6022b140ac3a979345e574c2c6c4",
-      "fingerprint": "c14463389685776313463f8166aaf23efb7bbde6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185469",
-      "published_utc": "2026-09-10T11:52:24Z",
-      "title_en": "System for controlling drones without satellite navigation unveiled in Russia",
-      "lead_en": "Geoscan’s solution was named the best in the \"Autonomous Navigation\" category based on the results of three days of testing",
-      "title_raw": "System for controlling drones without satellite navigation unveiled in Russia",
-      "lead_raw": "Geoscan’s solution was named the best in the \"Autonomous Navigation\" category based on the results of three days of testing",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d26a30cac30ef3b5702f6b302fdb6f76440cf46f",
-      "fingerprint": "3ca82af67c0d093458641a66d101b84324691e50",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2185463",
-      "published_utc": "2026-09-10T11:44:24Z",
-      "title_en": "Russian figure skaters to appeal with CAS against ISU’s neutral-status denial — minister",
-      "lead_en": "Mikhail Degtyarev stressed that Russian athletes and federations will receive legal support",
-      "title_raw": "Russian figure skaters to appeal with CAS against ISU’s neutral-status denial — minister",
-      "lead_raw": "Mikhail Degtyarev stressed that Russian athletes and federations will receive legal support",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "785ff83ff0ead018d28b2d0c5d7b9f163aa823ff",
-      "fingerprint": "918078362902b8a26be701e6c4b45d86d7ef7f47",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185427",
-      "published_utc": "2026-09-10T11:10:23Z",
-      "title_en": "Market for Russian helicopters in India could reach 5,000 aircraft",
-      "lead_en": "According to Tatarstan Industry and Trade Minister Oleg Korobchenko, Tatarstan intends to work with the Indian side on options for localizing Russian helicopter production, maintenance services and technology transfers",
-      "title_raw": "Market for Russian helicopters in India could reach 5,000 aircraft",
-      "lead_raw": "According to Tatarstan Industry and Trade Minister Oleg Korobchenko, Tatarstan intends to work with the Indian side on options for localizing Russian helicopter production, maintenance services and technology transfers",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2679c07d090d1f3cd29a7ccff76897f3cb5b696c",
-      "fingerprint": "ebdc2a4855b29f91700d2cde8a8a0c4289bbf0e1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2185419",
-      "published_utc": "2026-09-10T11:05:14Z",
-      "title_en": "ISU declines again neutral status for Russian figure skating duo Stepanova-Bukin",
-      "lead_en": "TASS reported earlier that Alexandra Stepanova and Ivan Bukin had previously filed an appeal against ISU’s refusal to grant them neutral status, which is required for competing in international tournaments",
-      "title_raw": "ISU declines again neutral status for Russian figure skating duo Stepanova-Bukin",
-      "lead_raw": "TASS reported earlier that Alexandra Stepanova and Ivan Bukin had previously filed an appeal against ISU’s refusal to grant them neutral status, which is required for competing in international tournaments",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7f0d6a84db6ba66e5eeb94c6989c8a1ea5b99ab7",
-      "fingerprint": "794994c1cd3e8a7dc39b3dc9e310e88fdce9d57c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185417",
-      "published_utc": "2026-09-10T11:02:21Z",
-      "title_en": "Zaporozhye NPP loses power 10 times over past three months — Russian envoy",
-      "lead_en": "Mikhail Ulyanov noted that over the past three months, various parts of the plant have come under Ukrainian forces’ attacks, including the diesel fuel storage facility, the electrical network workshop, and the pumping station",
-      "title_raw": "Zaporozhye NPP loses power 10 times over past three months — Russian envoy",
-      "lead_raw": "Mikhail Ulyanov noted that over the past three months, various parts of the plant have come under Ukrainian forces’ attacks, including the diesel fuel storage facility, the electrical network workshop, and the pumping station",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0a0b6da417ee9f0d6f27524a9ca42df0daa612bc",
-      "fingerprint": "085c5cc3a757507827b2c9364e5f06516726c471",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185415",
-      "published_utc": "2026-09-10T11:01:06Z",
-      "title_en": "Japanese PM reaffirms importance of relations with Russia — lawmaker",
-      "lead_en": "During their meenting, Muneo Suzuki and Sanae Takaichi \"exchanged views\" on Russian President Vladimir Putin’s recent trip to Iturup Island, the Kyodo news agency reported",
-      "title_raw": "Japanese PM reaffirms importance of relations with Russia — lawmaker",
-      "lead_raw": "During their meenting, Muneo Suzuki and Sanae Takaichi \"exchanged views\" on Russian President Vladimir Putin’s recent trip to Iturup Island, the Kyodo news agency reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "846b1886ea559de148f18a8c4a640e9f7a46e616",
-      "fingerprint": "73951b9948d680fb177d5ecb76c39b3a7219f0b1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/10/ukrainian-sea-drones-strike-sochi-waterfront-injuring-nearly-30-photos-and-videos-from-the-scene",
-      "published_utc": "2026-09-10T10:56:34Z",
-      "title_en": "Ukrainian sea drones strike Sochi waterfront, injuring nearly 30. Photos and videos from the scene.",
-      "lead_en": "Ukrainian sea drones — which Russia’s Defense Ministry calls “uncrewed boats” — struck the waterfront in Sochi on the evening of September 9. Twenty-eight people were injured, including two children, Krasnodar Krai’s operational headquarters reported.",
-      "title_raw": "Ukrainian sea drones strike Sochi waterfront, injuring nearly 30. Photos and videos from the scene.",
-      "lead_raw": "Ukrainian sea drones — which Russia’s Defense Ministry calls “uncrewed boats” — struck the waterfront in Sochi on the evening of September 9. Twenty-eight people were injured, including two children, Krasnodar Krai’s operational headquarters reported.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6f2070714f5e05720dcb64ca52be1e4cd3e165e2",
-      "fingerprint": "712cdcd11fdcd6da3647dd5cf114f6a0370ea2dd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185411",
-      "published_utc": "2026-09-10T10:43:00Z",
-      "title_en": "Kiev forms cyberterrorism structure under NATO auspices — MFA",
-      "lead_en": "Spokeswoman Maria Zakharova stressed that organized Ukrainian forces were tasked with carrying out extremist acts against Russian civilian infrastructure under the guise of fraud",
-      "title_raw": "Kiev forms cyberterrorism structure under NATO auspices — MFA",
-      "lead_raw": "Spokeswoman Maria Zakharova stressed that organized Ukrainian forces were tasked with carrying out extremist acts against Russian civilian infrastructure under the guise of fraud",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ff5b0aea88d1f6665f72b88f65b4f6e1bd4ee876",
-      "fingerprint": "f55926ce7e87fc426d75ff094220bb4e1b3d6ac5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185403",
-      "published_utc": "2026-09-10T10:39:50Z",
-      "title_en": "First aircraft to be supplied to India directly from Russia after certificate validation",
-      "lead_en": "UAC CEO Vadim Badekha described the validation of Russian aircraft certificates in India as a key issue",
-      "title_raw": "First aircraft to be supplied to India directly from Russia after certificate validation",
-      "lead_raw": "UAC CEO Vadim Badekha described the validation of Russian aircraft certificates in India as a key issue",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "843cd41d048e0640350b7f22378e5b78214f4666",
-      "fingerprint": "d04dc00babe52842791a387b29d5e1ee7bad0648",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2185391",
-      "published_utc": "2026-09-10T10:33:57Z",
-      "title_en": "China ready to take relations with Russia to new level — senior politician",
-      "lead_en": "Li Hongzhong noted that \"mutual trust between our countries is steadily increasing, cooperation is constantly progressing, and humanitarian, cultural and interregional exchanges continue to develop rapidly\"",
-      "title_raw": "China ready to take relations with Russia to new level — senior politician",
-      "lead_raw": "Li Hongzhong noted that \"mutual trust between our countries is steadily increasing, cooperation is constantly progressing, and humanitarian, cultural and interregional exchanges continue to develop rapidly\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a88a9887b0fbde6f6c4d5431473a1eb4037a6693",
-      "fingerprint": "58c49805e146d433b5dd38141781e77b72adce7e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2185389",
-      "published_utc": "2026-09-10T10:32:39Z",
-      "title_en": "High Precision Systems developments help Russia create unified air defense system",
-      "lead_en": "The airspace control system ensures early detection and classification of targets, generates a unified situational picture, and transmits data to the command post",
-      "title_raw": "High Precision Systems developments help Russia create unified air defense system",
-      "lead_raw": "The airspace control system ensures early detection and classification of targets, generates a unified situational picture, and transmits data to the command post",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "985d2565a6be8162879b5898aba8d4fe9cc62101",
-      "fingerprint": "aa3424c45bf95c820fcecbb1daac91dfee432a12",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185387",
-      "published_utc": "2026-09-10T10:31:10Z",
-      "title_en": "Europe not interested in peace in Ukraine at all — Patrushev",
-      "lead_en": "The Russian Presidential Aide added that the United States can influence Ukraine regarding a peaceful settlement",
-      "title_raw": "Europe not interested in peace in Ukraine at all — Patrushev",
-      "lead_raw": "The Russian Presidential Aide added that the United States can influence Ukraine regarding a peaceful settlement",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "05c3c7ab841a937f633667e9a8c25e23c495fa9d",
-      "fingerprint": "0b206a80ff56f058fbb7bbe3f936ffced9af64cb",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185385",
-      "published_utc": "2026-09-10T10:30:11Z",
-      "title_en": "Russia-China trade tops $185 bln in first eight months of 2026 — Titov",
-      "lead_en": "The Russian Presidential Special Representative said it is an increase of 28% compared with the same period last year",
-      "title_raw": "Russia-China trade tops $185 bln in first eight months of 2026 — Titov",
-      "lead_raw": "The Russian Presidential Special Representative said it is an increase of 28% compared with the same period last year",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bb79e2c05758ba48727f4f073d35883a08c82aa1",
-      "fingerprint": "33f4065a483ff7df3d85167b947e6259116f86d9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185383",
-      "published_utc": "2026-09-10T10:27:39Z",
-      "title_en": "Number of forcibly deported illegal migrants up by 85% — Putin",
-      "lead_en": "The Russian leader said the number of deportations through administrative proceedings had increased 2.6-fold",
-      "title_raw": "Number of forcibly deported illegal migrants up by 85% — Putin",
-      "lead_raw": "The Russian leader said the number of deportations through administrative proceedings had increased 2.6-fold",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f318f9372f9707bb766fc7b194f695fa5c666dc2",
-      "fingerprint": "b1930c57080550723a6e771299c75ade7bd9c4cd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185381",
-      "published_utc": "2026-09-10T10:25:11Z",
-      "title_en": "Number of Russian tourists in China up 54% in first half of 2026",
-      "lead_en": "Russian Presidential Special Representative Boris Titov stressed that Russia is very interested in attracting Chinese tourists",
-      "title_raw": "Number of Russian tourists in China up 54% in first half of 2026",
-      "lead_raw": "Russian Presidential Special Representative Boris Titov stressed that Russia is very interested in attracting Chinese tourists",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "14c76c4fc83b6e45de6f75612c89b1896942e185",
-      "fingerprint": "9028a3a1d3ed85ebcadddbd66872827639e2af4e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2185379",
-      "published_utc": "2026-09-10T10:22:51Z",
-      "title_en": "Russia, China have huge potential for AI cooperation — deputy PM",
-      "lead_en": "Marat Khusnullin said he had seen firsthand China's extensive experience in this area during his visit to the city of Xiong'an",
-      "title_raw": "Russia, China have huge potential for AI cooperation — deputy PM",
-      "lead_raw": "Marat Khusnullin said he had seen firsthand China's extensive experience in this area during his visit to the city of Xiong'an",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4f6d5462c2b5b3cc37bf81817abb1ab17895518c",
-      "fingerprint": "98d2a33e4e8076a2dc586154b87bbf403c7b35d0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2185371",
-      "published_utc": "2026-09-10T10:20:15Z",
-      "title_en": "Russia records sharp decline in crime rates among migrants in 2026 — Interior Ministry",
-      "lead_en": "First Deputy Interior Minister Andrey Kikot pointed out that the Migration Service had additional powers for combating crime",
-      "title_raw": "Russia records sharp decline in crime rates among migrants in 2026 — Interior Ministry",
-      "lead_raw": "First Deputy Interior Minister Andrey Kikot pointed out that the Migration Service had additional powers for combating crime",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "df535d8e7aca7730ccff8df4a452443653bf2fe8",
-      "fingerprint": "0957bc6e910f82ddb8c73b80fe8dd103d2880478",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/sports/2185367",
-      "published_utc": "2026-09-10T10:15:56Z",
-      "title_en": "ISU rejects appeals from Valieva, Kondratyuk against neutral status revocation",
-      "lead_en": "At the 2026 Winter Olympic Games, the ISU allowed other two Russian figure skaters to participate under a neutral status",
-      "title_raw": "ISU rejects appeals from Valieva, Kondratyuk against neutral status revocation",
-      "lead_raw": "At the 2026 Winter Olympic Games, the ISU allowed other two Russian figure skaters to participate under a neutral status",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0493999a3eaee37dabccaf5a0f1bdc3d45b6deee",
-      "fingerprint": "86728ffb521bfaa921b096011abec7cb2434137d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/pressreview/2185247",
-      "published_utc": "2026-09-10T10:00:01Z",
-      "title_en": "Press review: Europe eyes Ukraine talks as US unlikely to reduce Middle East military role",
-      "lead_en": "Top stories from the Russian press on Thursday, August 10th",
-      "title_raw": "Press review: Europe eyes Ukraine talks as US unlikely to reduce Middle East military role",
-      "lead_raw": "Top stories from the Russian press on Thursday, August 10th",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3b9a217cbb4c9c8f52fc5601b98fd118ee7876cd",
-      "fingerprint": "92e16d749c86e03281e1b74813d8506821fc24c1",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/10/russians-abroad-are-losing-access-to-passport-renewals-and-other-consular-services-belarusians-know-what-comes-next",
-      "published_utc": "2026-09-10T09:51:46Z",
-      "title_en": "Russians abroad are losing access to passport renewals and other consular services. Belarusians know what comes next.",
-      "lead_en": "In the summer of 2026, Russian authorities banned Russians abroad who have been convicted in absentia from receiving any consular services. The ban applies to anyone convicted under any article of the Criminal Code, as well as anyone with an administrative fine for “discrediting the army,” failing to label themselves a “foreign agent,” or working with an “undesirable organization.” In effect, many will face an illusory choice: return to Russia and serve their sentence, or live in another country without a foreign passport, since it can no longer be renewed.",
-      "title_raw": "Russians abroad are losing access to passport renewals and other consular services. Belarusians know what comes next.",
-      "lead_raw": "In the summer of 2026, Russian authorities banned Russians abroad who have been convicted in absentia from receiving any consular services. The ban applies to anyone convicted under any article of the Criminal Code, as well as anyone with an administrative fine for “discrediting the army,” failing to label themselves a “foreign agent,” or working with an “undesirable organization.” In effect, many will face an illusory choice: return to Russia and serve their sentence, or live in another country without a foreign passport, since it can no longer be renewed.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
