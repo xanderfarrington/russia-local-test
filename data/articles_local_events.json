@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-13T11:22:50Z",
+  "updated_at_utc": "2026-09-13T15:52:46Z",
   "topic": "local_events",
   "count": 2,
   "articles": [
+    {
+      "id": "338862251587ca6edd258cdc3884c4a0c11e0105",
+      "fingerprint": "e5800cfcc13c629c873ba9c89d96a82e39430076",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28108345",
+      "published_utc": "2026-09-13T14:13:45Z",
+      "title_en": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
+      "lead_en": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
+      "title_raw": "Погибших в ущелье Безенги альпинистов искали более 70 человек",
+      "lead_raw": "В Эльбрусском высокогорном поисково-спасательном отряде МЧС России уточнили, что после обнаружения тела последнего, 17-го, альпиниста группировки возвращаются в места постоянной дислокации",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b99717802f56452dc1f1af0c33e36e91201fa2f3",
       "fingerprint": "f92ec5794ca329422b973c5cb60451fcb3a876b9",
@@ -21,29 +43,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ea4b639a322e193671b0f51f737b92484eef2123",
-      "fingerprint": "602f72eda4e8d5b56a83229d376862abf8a48953",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/11/russian-strikes-hit-two-kyiv-gas-stations-one-of-them-twice-several-killed-and-injured-including-rescue-worker",
-      "published_utc": "2026-09-11T11:56:22Z",
-      "title_en": "Russian strikes hit two Kyiv gas stations, one of them twice. Several killed and injured, including rescue worker.",
-      "lead_en": "Russian forces struck two gas stations in Kyiv, one in the Dniprovskyi district and one in the Obolonskyi district, Mayor Vitali Klitschko said.",
-      "title_raw": "Russian strikes hit two Kyiv gas stations, one of them twice. Several killed and injured, including rescue worker.",
-      "lead_raw": "Russian forces struck two gas stations in Kyiv, one in the Dniprovskyi district and one in the Obolonskyi district, Mayor Vitali Klitschko said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
         "local_events"
       ],
       "primary_topic": "local_events"
