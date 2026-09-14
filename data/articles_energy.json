@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-09-13T23:57:22Z",
+  "updated_at_utc": "2026-09-14T04:42:03Z",
   "topic": "energy",
-  "count": 18,
+  "count": 20,
   "articles": [
+    {
+      "id": "e08273d149c42d042e7eb885d8224178993a151b",
+      "fingerprint": "4f076e420d57a91679d86e00f92ad0b303ffb227",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28109005",
+      "published_utc": "2026-09-14T03:42:38Z",
+      "title_en": "WSJ отметила лидерство РФ в производстве недорогих и технологичных вооружений",
+      "lead_en": "Газета отметила, что Россия опережает по этому показателю Украину и США",
+      "title_raw": "WSJ отметила лидерство РФ в производстве недорогих и технологичных вооружений",
+      "lead_raw": "Газета отметила, что Россия опережает по этому показателю Украину и США",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1e4f0bf2ce8632d588993f45b489a735df4f6106",
+      "fingerprint": "29bc30499cc06e2465880202b8af6e145d27215a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2187129",
+      "published_utc": "2026-09-14T03:42:32Z",
+      "title_en": "Japan maintains its presence in oil and gas projects in Russia — diplomat",
+      "lead_en": "Maria Zakharova noted that Tokyo maintains and reaffirms the importance of its relations and energy cooperation with Moscow",
+      "title_raw": "Japan maintains its presence in oil and gas projects in Russia — diplomat",
+      "lead_raw": "Maria Zakharova noted that Tokyo maintains and reaffirms the importance of its relations and energy cooperation with Moscow",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "72eac2ca5e632051d179d1bc125c711900c1b9c3",
+      "fingerprint": "41f69cec92766d6759a85d0b351806f19929372d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28108941",
+      "published_utc": "2026-09-14T03:07:25Z",
+      "title_en": "Аналитики рассказали о росте трат россиян на новые легковые машины РФ",
+      "lead_en": "По данным исследования компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\", показатель увеличился почти на 78%",
+      "title_raw": "Аналитики рассказали о росте трат россиян на новые легковые машины РФ",
+      "lead_raw": "По данным исследования компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\", показатель увеличился почти на 78%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "35684b61d3d7bdc3f59844d34cc38236c0fb18f7",
       "fingerprint": "2d202ae3d1caa64659461af6f777801956005613",
@@ -382,29 +449,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "74d236453683018052979e15377dfaf4a0de46e3",
-      "fingerprint": "41b21ff8df864847dd765acf1762adb85820e45e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2186519",
-      "published_utc": "2026-09-12T03:23:29Z",
-      "title_en": "Asian countries resist Western pressure over Russian energy — Foreign Ministry spokeswoman",
-      "lead_en": "Maria Zakharova added that the events of February and March 2026 proved right \"those who argued that energy cooperation should not become a battleground for political disputes or contests\"",
-      "title_raw": "Asian countries resist Western pressure over Russian energy — Foreign Ministry spokeswoman",
-      "lead_raw": "Maria Zakharova added that the events of February and March 2026 proved right \"those who argued that energy cooperation should not become a battleground for political disputes or contests\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
