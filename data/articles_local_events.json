@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-18T05:39:13Z",
+  "updated_at_utc": "2026-09-18T10:50:55Z",
   "topic": "local_events",
   "count": 4,
   "articles": [
+    {
+      "id": "1c5cfa21b5ba342e419720df5684b440c4e4aa4b",
+      "fingerprint": "f0f1630dcea83cc2c0f6f8cfd549f1a5f33c1b6d",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2189601",
+      "published_utc": "2026-09-18T10:44:40Z",
+      "title_en": "Kiev seeks to disrupt elections in frontline regions by attacking civilians — Russian MFA",
+      "lead_en": "Rodion Miroshnik noted that a district election commission head had been killed and another one injured in the Zaporozhye Region over the previous two days",
+      "title_raw": "Kiev seeks to disrupt elections in frontline regions by attacking civilians — Russian MFA",
+      "lead_raw": "Rodion Miroshnik noted that a district election commission head had been killed and another one injured in the Zaporozhye Region over the previous two days",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "diplomacy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e611b5b3ab392f0e571a49b121a1c76356a8f12e",
       "fingerprint": "866836ec33cc93548fde61686ba1fe11c75d8309",
@@ -69,28 +92,6 @@
         "local_events"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "c13cfb1285a48d95eedf771684a8a03d25624674",
-      "fingerprint": "f91f60fd57b462d326caf2ba2fc4d10e71c69961",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/16/russian-drone-strikes-bus-in-ukraine-s-dnipropetrovsk-region-killing-5",
-      "published_utc": "2026-09-16T08:12:10Z",
-      "title_en": "Russian drone strikes bus in Ukraine’s Dnipropetrovsk region, killing 5",
-      "lead_en": "A Russian drone strike on a passenger bus in Ukraine’s Dnipropetrovsk region killed five people and injured seven others, Governor Oleksandr Hanzha said.",
-      "title_raw": "Russian drone strikes bus in Ukraine’s Dnipropetrovsk region, killing 5",
-      "lead_raw": "A Russian drone strike on a passenger bus in Ukraine’s Dnipropetrovsk region killed five people and injured seven others, Governor Oleksandr Hanzha said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
