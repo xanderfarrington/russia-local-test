@@ -1,8 +1,54 @@
 {
-  "updated_at_utc": "2026-09-19T04:29:05Z",
+  "updated_at_utc": "2026-09-19T09:17:12Z",
   "topic": "energy",
-  "count": 35,
+  "count": 27,
   "articles": [
+    {
+      "id": "cfafcd8ac020fb0591b9cc13d86123e1c5048656",
+      "fingerprint": "a1ec4f195416a1dc4dfa51d3831b91075db30eec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28128351",
+      "published_utc": "2026-09-19T09:09:08Z",
+      "title_en": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
+      "lead_en": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
+      "title_raw": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
+      "lead_raw": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2612671c3ebbf61fd424870b069626a44ddd6155",
+      "fingerprint": "c567e4d6f6715abdf4eeb07078b6fa23733a7923",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/09/19/trump-signs-sweeping-russia-sanctions-bill-a93750",
+      "published_utc": "2026-09-19T08:53:59Z",
+      "title_en": "Trump Signs Sweeping Russia Sanctions Bill",
+      "lead_en": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
+      "title_raw": "Trump Signs Sweeping Russia Sanctions Bill",
+      "lead_raw": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d7836c6922f4c7bdebf6cf1b636a02c8db0e7055",
       "fingerprint": "fdf4e7ce8cd3df8dfd76842c4df6c3d955ae36ae",
@@ -565,233 +611,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "e786659cd2c1ffcbfd361e45b94eefc50d2c6130",
-      "fingerprint": "c25c800784d475edd232f8456c584d20ab9a7c2e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/emergencies/2188839",
-      "published_utc": "2026-09-17T07:51:56Z",
-      "title_en": "Oil refinery fire in Yaroslavl Region, 641 drones: aftermath of attack on Russian regions",
-      "lead_en": "An electrical substation was damaged by falling debris, causing power outages in four districts of Rostov-on-Don",
-      "title_raw": "Oil refinery fire in Yaroslavl Region, 641 drones: aftermath of attack on Russian regions",
-      "lead_raw": "An electrical substation was damaged by falling debris, causing power outages in four districts of Rostov-on-Don",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0aa7a8c45ac69a0e9ce7a6c05bc49450c790dd27",
-      "fingerprint": "1cd8e3c0591096ea0478e36e3ae853cbc1c521a2",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/17/us-congress-passes-sanctions-from-hell-bill-against-russia-a93732",
-      "published_utc": "2026-09-17T07:50:00Z",
-      "title_en": "U.S. Congress Passes ‘Sanctions From Hell’ Bill Against Russia",
-      "lead_en": "The legislation targets Russia’s energy and defense industries, as well as its “shadow fleet” of tankers that evade existing sanctions.",
-      "title_raw": "U.S. Congress Passes ‘Sanctions From Hell’ Bill Against Russia",
-      "lead_raw": "The legislation targets Russia’s energy and defense industries, as well as its “shadow fleet” of tankers that evade existing sanctions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fc7f5b345f73fca7dbe93897c6818157dfc2844f",
-      "fingerprint": "a738f31fc7cee764d2b6b3537623e79711d4707b",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/17/ukrainian-drone-attack-sets-russian-oil-refinery-on-fire-cuts-power-to-part-of-russian-city",
-      "published_utc": "2026-09-17T07:28:46Z",
-      "title_en": "Ukrainian drone attack sets Russian oil refinery on fire, cuts power to part of Russian city",
-      "lead_en": "Ukraine struck Russia’s Yaroslavl region with drones overnight on September 17, regional Governor Mikhail Yevrayev said, adding that 65 of the drones were shot down.",
-      "title_raw": "Ukrainian drone attack sets Russian oil refinery on fire, cuts power to part of Russian city",
-      "lead_raw": "Ukraine struck Russia’s Yaroslavl region with drones overnight on September 17, regional Governor Mikhail Yevrayev said, adding that 65 of the drones were shot down.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a5ca28cda821d47eae3541b56ef104739888288a",
-      "fingerprint": "33af7d61ac340d6c11d85549ecbf7bb1ba103e10",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28120031",
-      "published_utc": "2026-09-17T07:00:30Z",
-      "title_en": "\"Интер РАО\": Россия за восемь месяцев немного сократила экспорт электроэнергии",
-      "lead_en": "В I полугодии \"Интер РАО\" нарастила экспорт на 4%, до 3,2 млрд кВт·ч",
-      "title_raw": "\"Интер РАО\": Россия за восемь месяцев немного сократила экспорт электроэнергии",
-      "lead_raw": "В I полугодии \"Интер РАО\" нарастила экспорт на 4%, до 3,2 млрд кВт·ч",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b1d8ae58796959dd516b58d8ff51500b61b38801",
-      "fingerprint": "f847567505638dd82140bf71c3282d84ba638ce3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28119911",
-      "published_utc": "2026-09-17T06:46:57Z",
-      "title_en": "Поражены предприятия металлургической промышленности и энергообъекты. Удары ВС РФ",
-      "lead_en": "Также российские силы поразили морские суда, задействованные в интересах ВСУ",
-      "title_raw": "Поражены предприятия металлургической промышленности и энергообъекты. Удары ВС РФ",
-      "lead_raw": "Также российские силы поразили морские суда, задействованные в интересах ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0a83d99ddda65a8fac71853c44966468cf732e69",
-      "fingerprint": "05e6161bdc6aed847f6c65098efa1f6b11b255b1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28119925",
-      "published_utc": "2026-09-17T06:43:59Z",
-      "title_en": "В Генштабе ВСУ признали, что снова не перехватили ни одной баллистической ракеты",
-      "lead_en": "Утром в Минобороны России сообщили, что ВС РФ нанесли массированный удар по предприятиям металлургической и радиоэлектронной промышленности, ВПК Украины, объектам энергетической инфраструктуры в Киеве, Одесской области и подконтрольном Киеву Запорожье",
-      "title_raw": "В Генштабе ВСУ признали, что снова не перехватили ни одной баллистической ракеты",
-      "lead_raw": "Утром в Минобороны России сообщили, что ВС РФ нанесли массированный удар по предприятиям металлургической и радиоэлектронной промышленности, ВПК Украины, объектам энергетической инфраструктуры в Киеве, Одесской области и подконтрольном Киеву Запорожье",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fcfa8e4ee4bf04a58872763fb2344545943983db",
-      "fingerprint": "395779ead2edd71055687bc4ea5a031770b22d5b",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28119929",
-      "published_utc": "2026-09-17T06:39:29Z",
-      "title_en": "ВС РФ поразили аккумуляторный парк хранения энергии, питавший объекты ВСУ",
-      "lead_en": "Объект расположен в Броварах, отметили в Минобороны России",
-      "title_raw": "ВС РФ поразили аккумуляторный парк хранения энергии, питавший объекты ВСУ",
-      "lead_raw": "Объект расположен в Броварах, отметили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d701922d35d8a30b5dfa3e775f5d6546de620dec",
-      "fingerprint": "ed969df698e9410f730d677c6d0debd645ac4120",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/kultura/28119885",
-      "published_utc": "2026-09-17T06:32:30Z",
-      "title_en": "\"Газпром-медиа\" представит на ФОКе исследование российского культурного кода",
-      "lead_en": "Гендиректор \"Газпром-медиа холдинга\" Александр Жаров отметил рост международного интереса к Форуму объединенных культур",
-      "title_raw": "\"Газпром-медиа\" представит на ФОКе исследование российского культурного кода",
-      "lead_raw": "Гендиректор \"Газпром-медиа холдинга\" Александр Жаров отметил рост международного интереса к Форуму объединенных культур",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2126d9bd00aa4ae7e10fbd228da9c02c916c3f91",
-      "fingerprint": "19ca74198fba24825f65da1dde630333f571fd5e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2188779",
-      "published_utc": "2026-09-17T05:50:00Z",
-      "title_en": "Russian forces strike metallurgical enterprises, Ukraine’s energy facilities",
-      "lead_en": "The Russian army also hit Ukraine’s military-industrial complex, the Defense Ministry reported",
-      "title_raw": "Russian forces strike metallurgical enterprises, Ukraine’s energy facilities",
-      "lead_raw": "The Russian army also hit Ukraine’s military-industrial complex, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e039e6d7adf178f863172a4af35f414fb0e72f6f",
-      "fingerprint": "b77db37227ac81d9a26eba66f5ddfabfe6c1cb0d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2188769",
-      "published_utc": "2026-09-17T05:15:00Z",
-      "title_en": "India to take necessary measures following US adoption of Russia-Iran sanctions act — MFA",
-      "lead_en": "According to the statement, India remains firmly committed to ensuring energy security",
-      "title_raw": "India to take necessary measures following US adoption of Russia-Iran sanctions act — MFA",
-      "lead_raw": "According to the statement, India remains firmly committed to ensuring energy security",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
