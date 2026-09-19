@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-19T13:46:52Z",
+  "updated_at_utc": "2026-09-19T17:04:54Z",
   "topic": "energy",
-  "count": 24,
+  "count": 21,
   "articles": [
+    {
+      "id": "a862bc6d8b9578dc5f4537e61a9df17c810a1e4c",
+      "fingerprint": "9bdd747829105767a78ff3b2f1a5af9f34ed3bec",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28129121",
+      "published_utc": "2026-09-19T14:37:19Z",
+      "title_en": "В Узбекистане более 100 россиян проголосовали на площадке АЭС",
+      "lead_en": "Они работают на стройплощадке возводимой Росатомом атомной электростанции",
+      "title_raw": "В Узбекистане более 100 россиян проголосовали на площадке АЭС",
+      "lead_raw": "Они работают на стройплощадке возводимой Росатомом атомной электростанции",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "38bfde958c8a183150d33d0c67e698b9fc554738",
       "fingerprint": "2ea38ba3889ed42ca6da4e9e64340aa664cd471f",
@@ -449,95 +471,6 @@
       },
       "topics": [
         "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6eeeff9aafccc9da1b62d43bf120ad08458e91ad",
-      "fingerprint": "ebd4471c403ec7630309d5aa84b83a5c30a789f7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28122309",
-      "published_utc": "2026-09-17T16:44:49Z",
-      "title_en": "Полянский: инцидент в Лейпциге призван отвлечь жителей ФРГ от острых проблем",
-      "lead_en": "Постоянный представитель РФ при ОБСЕ отметил, что германские власти обвиняют Россию в энергетическом кризисе, который сами спровоцировали",
-      "title_raw": "Полянский: инцидент в Лейпциге призван отвлечь жителей ФРГ от острых проблем",
-      "lead_raw": "Постоянный представитель РФ при ОБСЕ отметил, что германские власти обвиняют Россию в энергетическом кризисе, который сами спровоцировали",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ba1b893773bae86bb626580620c0d0b59c3cd5ff",
-      "fingerprint": "6cf7162d82ca9e25054726e011a0f90b17f7b114",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189145",
-      "published_utc": "2026-09-17T15:18:39Z",
-      "title_en": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
-      "lead_en": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
-      "title_raw": "Bank of Russia raises dollar exchange rate to 84.5 rubles for September 18",
-      "lead_raw": "The official euro exchange rate has been raised by 37.09 kopecks to 97.4984 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9778a6b7882202579895c42b65968fcfb88548b1",
-      "fingerprint": "4fc04d1b787580c6d3b7c24bf8a024a524b633f2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/09/17/russia-upgraded-the-system-that-tabulates-its-election-results-experts-found-vulnerabilities-that-could-be-exploited-to-manipulate-the-vote",
-      "published_utc": "2026-09-17T14:27:12Z",
-      "title_en": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
-      "lead_en": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
-      "title_raw": "Russia upgraded the system that tabulates its election results. Experts found vulnerabilities that could be exploited to manipulate the vote.",
-      "lead_raw": "Hackers have breached Tsifrotek, the company behind GAS Vybory 2.0, Russia’s upgraded vote-tabulation system, which is being used in a federal election for the first time this year. The hackers gave the files to the investigative outlet iStories, which analyzed them with the help of technical and election experts.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "52a994a5c4763a2d35cac175573bae80877ea3cc",
-      "fingerprint": "7535442334eabf0e4262392f86f4ab78d6f3a5d1",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189101",
-      "published_utc": "2026-09-17T14:13:05Z",
-      "title_en": "Russia’s electricity exports down slightly in eight months of this year",
-      "lead_en": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
-      "title_raw": "Russia’s electricity exports down slightly in eight months of this year",
-      "lead_raw": "Inter RAO increased exports by 4% to 3.2 bln kWh and reduced electricity imports by 5.3% to 1.2 bln kWh in the first half of the year",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "energy",
         "economy"
       ],
