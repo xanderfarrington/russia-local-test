@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-19T17:04:54Z",
+  "updated_at_utc": "2026-09-19T20:17:30Z",
   "topic": "energy",
   "count": 21,
   "articles": [
+    {
+      "id": "add4f594adb9247228813567b79e61d1aacd3973",
+      "fingerprint": "6b31a555c4898f99185477fc9584351906d5959c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2190133",
+      "published_utc": "2026-09-19T18:59:39Z",
+      "title_en": "Dmitriev says Europe in largest energy crisis in history",
+      "lead_en": "Special Representative of Russian President for investment and economic cooperation with foreign countries, Chief Executive Officer of Russian Direct Investment Fund (RDIF) also gave a comment on reports of fuel supply disruptions in France",
+      "title_raw": "Dmitriev says Europe in largest energy crisis in history",
+      "lead_raw": "Special Representative of Russian President for investment and economic cooperation with foreign countries, Chief Executive Officer of Russian Direct Investment Fund (RDIF) also gave a comment on reports of fuel supply disruptions in France",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a862bc6d8b9578dc5f4537e61a9df17c810a1e4c",
       "fingerprint": "9bdd747829105767a78ff3b2f1a5af9f34ed3bec",
@@ -451,30 +474,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c990856eaf3fb29443c43414670917a7cc563e94",
-      "fingerprint": "51140b8ae960342fb2035d63a5c9ed2bb26e2864",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2189259",
-      "published_utc": "2026-09-17T18:20:51Z",
-      "title_en": "Russia projects 2% budget deficit even under conservative oil price estimate — Putin",
-      "lead_en": "Opening a meeting on the economy, the head of state noted that this fiscal gap remains manageable under the current macroeconomic assumptions",
-      "title_raw": "Russia projects 2% budget deficit even under conservative oil price estimate — Putin",
-      "lead_raw": "Opening a meeting on the economy, the head of state noted that this fiscal gap remains manageable under the current macroeconomic assumptions",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
