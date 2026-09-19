@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-19T09:17:12Z",
+  "updated_at_utc": "2026-09-19T13:46:52Z",
   "topic": "energy",
-  "count": 27,
+  "count": 24,
   "articles": [
+    {
+      "id": "38bfde958c8a183150d33d0c67e698b9fc554738",
+      "fingerprint": "2ea38ba3889ed42ca6da4e9e64340aa664cd471f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2190067",
+      "published_utc": "2026-09-19T12:14:55Z",
+      "title_en": "Russian troops strike logistics centers, energy sites used by Ukrainian army in past day",
+      "lead_en": "Operational/tactical aircraft, attack unmanned aerial vehicles, missile troops and artillery of the Russian groups of forces struck arms depots, logistics centers, fuel and energy, transport and port infrastructure facilities in Ukraine used by the Ukrainian army, ammunition and",
+      "title_raw": "Russian troops strike logistics centers, energy sites used by Ukrainian army in past day",
+      "lead_raw": "Operational/tactical aircraft, attack unmanned aerial vehicles, missile troops and artillery of the Russian groups of forces struck arms depots, logistics centers, fuel and energy, transport and port infrastructure facilities in Ukraine used by the Ukrainian army, ammunition and",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "cfafcd8ac020fb0591b9cc13d86123e1c5048656",
       "fingerprint": "a1ec4f195416a1dc4dfa51d3831b91075db30eec",
@@ -519,98 +542,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "5627c31ad1181f27047805125a851be3ad932165",
-      "fingerprint": "20e628b93057b2544a9ffc7cdc59841364cce055",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2188981",
-      "published_utc": "2026-09-17T11:21:20Z",
-      "title_en": "Kremlin comments on US 'sanctions from hell,' their impact on Ukrainian settlement",
-      "lead_en": "The Kremlin is monitoring how the situation around the bill passed by the House of Representatives on US \"sanctions from hell\" on Russian oil and gas exports last night will unfold",
-      "title_raw": "Kremlin comments on US 'sanctions from hell,' their impact on Ukrainian settlement",
-      "lead_raw": "The Kremlin is monitoring how the situation around the bill passed by the House of Representatives on US \"sanctions from hell\" on Russian oil and gas exports last night will unfold",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cfdc144aa8d66a03ff5c99345edc565a8e17f60d",
-      "fingerprint": "1a0f1e77dda4c5550e2839f16e437c5a51d39f70",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/17/sanctions-from-hell-from-us-will-complicate-peace-talks-kremlin-says",
-      "published_utc": "2026-09-17T10:46:29Z",
-      "title_en": "‘Sanctions from hell’ from US will complicate peace talks, Kremlin says",
-      "lead_en": "New U.S. sanctions on Russian oil and gas exports would hinder negotiations to end Russia’s war with Ukraine, Kremlin spokesman Dmitry Peskov said.",
-      "title_raw": "‘Sanctions from hell’ from US will complicate peace talks, Kremlin says",
-      "lead_raw": "New U.S. sanctions on Russian oil and gas exports would hinder negotiations to end Russia’s war with Ukraine, Kremlin spokesman Dmitry Peskov said.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "17fb6b26093d2e44fd0d0c97794d521b9b4164e5",
-      "fingerprint": "6351e37b954c793488eae98cba6796a3ba6c935e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2188915",
-      "published_utc": "2026-09-17T09:59:15Z",
-      "title_en": "Russia’s Su-57E fighter demonstrates exceptional flight range with internal tanks — Rostec",
-      "lead_en": "The state corporation noted that the flight was completed with a single stopover, after which the aircraft still had enough fuel for another 1,000 km",
-      "title_raw": "Russia’s Su-57E fighter demonstrates exceptional flight range with internal tanks — Rostec",
-      "lead_raw": "The state corporation noted that the flight was completed with a single stopover, after which the aircraft still had enough fuel for another 1,000 km",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6f5c2e00c061e1ad6ee63cfdc6d3ac52321aa4bf",
-      "fingerprint": "7b5d9cef3dfe2474e8692dc4f97d1f388dfe7f72",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2188903",
-      "published_utc": "2026-09-17T09:32:44Z",
-      "title_en": "Russian forces strike metallurgical, energy facilities in Kiev, Zaporozhye, Odessa Region",
-      "lead_en": "The Russian military also struck vessels supporting the Ukrainian army",
-      "title_raw": "Russian forces strike metallurgical, energy facilities in Kiev, Zaporozhye, Odessa Region",
-      "lead_raw": "The Russian military also struck vessels supporting the Ukrainian army",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
