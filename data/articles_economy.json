@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-21T04:43:34Z",
+  "updated_at_utc": "2026-09-21T10:30:16Z",
   "topic": "economy",
   "count": 7,
   "articles": [
+    {
+      "id": "f41797af1e9cc0861ff6763244f04b5d352799a8",
+      "fingerprint": "b5a5c9e339f150dbe9535560dbc88752d184fef5",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/21/russian-strikes-knock-out-three-of-ukraine-s-largest-steel-plants",
+      "published_utc": "2026-09-21T07:44:46Z",
+      "title_en": "Russian strikes knock out three of Ukraine’s largest steel plants",
+      "lead_en": "Russian missile strikes have knocked out three of Ukraine’s largest steel plants, putting the country’s entire steel industry at risk, the Financial Times reported in an article examining how Russian attacks are battering Ukraine’s economy.",
+      "title_raw": "Russian strikes knock out three of Ukraine’s largest steel plants",
+      "lead_raw": "Russian missile strikes have knocked out three of Ukraine’s largest steel plants, putting the country’s entire steel industry at risk, the Financial Times reported in an article examining how Russian attacks are battering Ukraine’s economy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "a4a4fbd085411585e7e1769e0f9495aafbdbfd7d",
       "fingerprint": "97ac34f26de138a916bf629351ad4d04716cae8a",
@@ -138,29 +161,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "cfafcd8ac020fb0591b9cc13d86123e1c5048656",
-      "fingerprint": "a1ec4f195416a1dc4dfa51d3831b91075db30eec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28128351",
-      "published_utc": "2026-09-19T09:09:08Z",
-      "title_en": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
-      "lead_en": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
-      "title_raw": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
-      "lead_raw": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

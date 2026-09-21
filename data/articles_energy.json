@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-09-21T04:43:34Z",
+  "updated_at_utc": "2026-09-21T10:30:16Z",
   "topic": "energy",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "8b812262e28e208d77fc3bcfc2ccde0b93cc5c87",
+      "fingerprint": "58fb8bbe890965b50ed03588feac830f764115c4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28135295",
+      "published_utc": "2026-09-21T10:06:41Z",
+      "title_en": "Песков объяснил падение конкурентоспособности экономики Германии",
+      "lead_en": "Это связано с тем, что ФРГ перестала закупать дешевый российский газ, отметил представитель Кремля",
+      "title_raw": "Песков объяснил падение конкурентоспособности экономики Германии",
+      "lead_raw": "Это связано с тем, что ФРГ перестала закупать дешевый российский газ, отметил представитель Кремля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bb2e6210d3586105a77216c53de5f644df4edaf6",
+      "fingerprint": "2abcd837d1ba02bf1731636dc44dccba19a613b6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/pressreview/2190431",
+      "published_utc": "2026-09-21T10:00:01Z",
+      "title_en": "Press review: State Duma set to keep five parties while Europe faces record fuel prices",
+      "lead_en": "Top stories from the Russian press on Monday, September 21st",
+      "title_raw": "Press review: State Duma set to keep five parties while Europe faces record fuel prices",
+      "lead_raw": "Top stories from the Russian press on Monday, September 21st",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "07f1706d931bf3ee2e082876f8b7412c54fbd60e",
+      "fingerprint": "28873134d3943ba9d29486a4915c408a11e6239d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/21/germany-s-afd-held-talks-with-gazprom-ceo-on-resuming-russian-gas-supplies",
+      "published_utc": "2026-09-21T09:54:25Z",
+      "title_en": "Germany’s AfD held talks with Gazprom CEO on resuming Russian gas supplies",
+      "lead_en": "The far-right Alternative for Germany (AfD) party is already in talks with Russia about resuming gas supplies. The party’s foreign policy spokesperson, Markus Frohnmaier, discussed the matter with Gazprom CEO Alexey Miller.",
+      "title_raw": "Germany’s AfD held talks with Gazprom CEO on resuming Russian gas supplies",
+      "lead_raw": "The far-right Alternative for Germany (AfD) party is already in talks with Russia about resuming gas supplies. The party’s foreign policy spokesperson, Markus Frohnmaier, discussed the matter with Gazprom CEO Alexey Miller.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1135a9c98d525cd7b2a78dec096dd4a22d493988",
       "fingerprint": "cd712d90456298701618b26a2da0dbb713312f32",
@@ -263,52 +330,6 @@
         "military": 3,
         "energy": 2,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cfafcd8ac020fb0591b9cc13d86123e1c5048656",
-      "fingerprint": "a1ec4f195416a1dc4dfa51d3831b91075db30eec",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28128351",
-      "published_utc": "2026-09-19T09:09:08Z",
-      "title_en": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
-      "lead_en": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
-      "title_raw": "Эксперт Рар: закон о санкциях США грозит привести к турбулентности на энергорынке",
-      "lead_raw": "Санкционная политика выходит далеко за рамки давления на Россию, отметил германский политолог",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2612671c3ebbf61fd424870b069626a44ddd6155",
-      "fingerprint": "c567e4d6f6715abdf4eeb07078b6fa23733a7923",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/19/trump-signs-sweeping-russia-sanctions-bill-a93750",
-      "published_utc": "2026-09-19T08:53:59Z",
-      "title_en": "Trump Signs Sweeping Russia Sanctions Bill",
-      "lead_en": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
-      "title_raw": "Trump Signs Sweeping Russia Sanctions Bill",
-      "lead_raw": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
