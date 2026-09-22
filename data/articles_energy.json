@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-09-22T09:42:02Z",
+  "updated_at_utc": "2026-09-22T14:29:44Z",
   "topic": "energy",
   "count": 14,
   "articles": [
+    {
+      "id": "47187e2583eb0ca050a137973155b34ba7510987",
+      "fingerprint": "b93e1b723ac56100eec747943d58dd63ff8863a5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28139927",
+      "published_utc": "2026-09-22T13:58:18Z",
+      "title_en": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
+      "lead_en": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
+      "title_raw": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
+      "lead_raw": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d4052e235fcf5ca09ad2842da3298771438489cc",
+      "fingerprint": "af20f53c831d6c3374519acbb2adc05ae2da0aa6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2191067",
+      "published_utc": "2026-09-22T10:37:11Z",
+      "title_en": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
+      "lead_en": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
+      "title_raw": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
+      "lead_raw": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "3653bbc1ee0e052fcf7b881d2138c602d904c1bd",
       "fingerprint": "61eda1136047190d3e7889eed43f988316075a2c",
@@ -268,51 +313,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "61db04690dae35e3a0cd570fa055f5e88d863d62",
-      "fingerprint": "e17d4d420a15b0c14befe4370959f27ad93fa7ad",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28131529",
-      "published_utc": "2026-09-20T14:07:42Z",
-      "title_en": "В \"Сербиягаз\" рассчитывают, что Россия продлит газовый контракт с Сербией",
-      "lead_en": "Директор госкомпании Душан Баятович выразил уверенность, что Москва не оставит республику без энергоресурсов",
-      "title_raw": "В \"Сербиягаз\" рассчитывают, что Россия продлит газовый контракт с Сербией",
-      "lead_raw": "Директор госкомпании Душан Баятович выразил уверенность, что Москва не оставит республику без энергоресурсов",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2641ac5e1f42852906debe7e3c7661619c3830b3",
-      "fingerprint": "d75f70f4bc9f0324c54cf4f469c75b3b4e93ce9a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28131449",
-      "published_utc": "2026-09-20T13:35:33Z",
-      "title_en": "Историк Ганзер считает, что Швейцарии стоит извиниться перед РФ за санкции",
-      "lead_en": "Глава независимого Швейцарского института исследований в области мира и энергетики назвал ограничения против России экономической войной стран коллективного Запада",
-      "title_raw": "Историк Ганзер считает, что Швейцарии стоит извиниться перед РФ за санкции",
-      "lead_raw": "Глава независимого Швейцарского института исследований в области мира и энергетики назвал ограничения против России экономической войной стран коллективного Запада",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
