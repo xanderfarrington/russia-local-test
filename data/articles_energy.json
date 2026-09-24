@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-24T18:53:18Z",
+  "updated_at_utc": "2026-09-24T22:07:55Z",
   "topic": "energy",
   "count": 40,
   "articles": [
+    {
+      "id": "3cb42c6b947c4268a2d0013a0ea32d1884d8c8c3",
+      "fingerprint": "4a72827d2e08f78cbe62ffbce6cbaa9a8996943c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2192459",
+      "published_utc": "2026-09-24T21:02:07Z",
+      "title_en": "Macron admits Ukrainian attacks on Russian oil refineries worsen fuel situation in Europe",
+      "lead_en": "The French president said he would not call on Ukraine to stop the attacks simply because they were causing prices in Europe to rise",
+      "title_raw": "Macron admits Ukrainian attacks on Russian oil refineries worsen fuel situation in Europe",
+      "lead_raw": "The French president said he would not call on Ukraine to stop the attacks simply because they were causing prices in Europe to rise",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "88ad0a09027a300f4f0ef1cdb82e09f0bbba7295",
       "fingerprint": "70a7e4b9cf4040be8225743f60b22110fb26bcaa",
@@ -877,30 +899,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d58fbb6da31af0768ddd08e378a8b2722d6799e5",
-      "fingerprint": "fb4f9388eb283d55647e37c40eed8ee39ff19f97",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28140907",
-      "published_utc": "2026-09-22T19:27:43Z",
-      "title_en": "На Запорожье из-за ударов ВСУ на неделе были обесточены более 60% абонентов",
-      "lead_en": "Посол по особым поручениям МИД России Родион Мирошник заявил, что Киев продолжал реализовывать преступную стратегию энергоцида",
-      "title_raw": "На Запорожье из-за ударов ВСУ на неделе были обесточены более 60% абонентов",
-      "lead_raw": "Посол по особым поручениям МИД России Родион Мирошник заявил, что Киев продолжал реализовывать преступную стратегию энергоцида",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
