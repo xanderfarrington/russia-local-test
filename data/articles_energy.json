@@ -1,8 +1,74 @@
 {
-  "updated_at_utc": "2026-09-24T09:11:39Z",
+  "updated_at_utc": "2026-09-24T14:43:48Z",
   "topic": "energy",
-  "count": 32,
+  "count": 34,
   "articles": [
+    {
+      "id": "7c43ae68148ab29db0ad0004f869f5bc4a1ab62e",
+      "fingerprint": "051f469c29d9bf87777afe5c796ca35830f5c386",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28148245",
+      "published_utc": "2026-09-24T14:38:15Z",
+      "title_en": "\"Роснефть\" подтвердила лидерство в инновациях среди крупнейших компаний России",
+      "lead_en": "Компания получила высший рейтинг научно-технического развития агентства AK&M",
+      "title_raw": "\"Роснефть\" подтвердила лидерство в инновациях среди крупнейших компаний России",
+      "lead_raw": "Компания получила высший рейтинг научно-технического развития агентства AK&M",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "19490498dcea5cd73af0751a65cf0b8d989fb64c",
+      "fingerprint": "791d822295f210f64e1a4c6fc490b59c94322253",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28148211",
+      "published_utc": "2026-09-24T14:33:48Z",
+      "title_en": "Россия и Гана обсудили возможность реализации инициатив в атомной отрасли",
+      "lead_en": "Министр энергетики РФ Сергей Цивилев отметил, что Москва заинтересована в последовательном расширении взаимодействия с африканскими государствами",
+      "title_raw": "Россия и Гана обсудили возможность реализации инициатив в атомной отрасли",
+      "lead_raw": "Министр энергетики РФ Сергей Цивилев отметил, что Москва заинтересована в последовательном расширении взаимодействия с африканскими государствами",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d2a78d1a87a79efaefe3deb1a8e5d17404ef7aa0",
+      "fingerprint": "05d54b1f13959f705c88574e657b41893f62a955",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2192201",
+      "published_utc": "2026-09-24T12:44:06Z",
+      "title_en": "Belogorsk - Khabarovsk interconnector 90% completed, Gazprom says",
+      "lead_en": "The Power of Siberia is the largest gas transportation system in eastern Russia",
+      "title_raw": "Belogorsk - Khabarovsk interconnector 90% completed, Gazprom says",
+      "lead_raw": "The Power of Siberia is the largest gas transportation system in eastern Russia",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c522a1cae99d93b4b53eb1c70cd1939854823cd4",
       "fingerprint": "4f04e3dbe7d3fb81b3eb20ffda37d8387e30c278",
@@ -81,6 +147,28 @@
       "lead_en": "The yuan exchange rate was down by 2.8 kopecks at 12.673 rubles",
       "title_raw": "Russian stocks up as main trading session opens",
       "lead_raw": "The yuan exchange rate was down by 2.8 kopecks at 12.673 rubles",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1b2a2edffed934f312168d2ca8951cea78a0252c",
+      "fingerprint": "567496c386e463e15aa23a6a94cd5c9c5d5decdf",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646164-lavrov-rubio-kiev-energy-infrastructure",
+      "published_utc": "2026-09-24T00:40:55Z",
+      "title_en": "Kiev deliberately destabilizing global energy markets, Lavrov tells Rubio",
+      "lead_en": "Sergey Lavrov and Marco Rubio have discussed the Ukraine conflict and US-Russia relations on the sidelines of the UN General Assembly Read Full Article at RT.com",
+      "title_raw": "Kiev deliberately destabilizing global energy markets, Lavrov tells Rubio",
+      "lead_raw": "Sergey Lavrov and Marco Rubio have discussed the Ukraine conflict and US-Russia relations on the sidelines of the UN General Assembly Read Full Article at RT.com",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -677,51 +765,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "47187e2583eb0ca050a137973155b34ba7510987",
-      "fingerprint": "b93e1b723ac56100eec747943d58dd63ff8863a5",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28139927",
-      "published_utc": "2026-09-22T13:58:18Z",
-      "title_en": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
-      "lead_en": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
-      "title_raw": "\"Газпром\" в 2025 году на четверть нарастил продажи СПГ в России",
-      "lead_raw": "В завершающей стадии находится строительство второй очереди малотоннажного СПГ-комплекса КСПГ в Амурской области",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d4052e235fcf5ca09ad2842da3298771438489cc",
-      "fingerprint": "af20f53c831d6c3374519acbb2adc05ae2da0aa6",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2191067",
-      "published_utc": "2026-09-22T10:37:11Z",
-      "title_en": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
-      "lead_en": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
-      "title_raw": "IN BRIEF: Military-industrial, energy, metallurgy facilities hit in strike by Russian army",
-      "lead_raw": "The Russian Armed Forces launched a massive strike using precision land-, sea-, and air-based weapons, as well as unmanned aerial vehicles, against targets in Ukraine overnight, the Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
