@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-27T18:08:32Z",
+  "updated_at_utc": "2026-09-27T21:54:54Z",
   "topic": "energy",
   "count": 5,
   "articles": [
+    {
+      "id": "3f3bfc7300492674e6cc76d13d35bf307fc25440",
+      "fingerprint": "99aed16197bfb4f600beda589d7c1e3fcc79746f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2193691",
+      "published_utc": "2026-09-27T21:09:05Z",
+      "title_en": "Russia ready to supply India with as much oil as it needs — ambassador",
+      "lead_en": "Denis Alipov added that in addition to oil, Russia has been India’s partner for many years in nuclear energy, petrochemical production, and oil refining",
+      "title_raw": "Russia ready to supply India with as much oil as it needs — ambassador",
+      "lead_raw": "Denis Alipov added that in addition to oil, Russia has been India’s partner for many years in nuclear energy, petrochemical production, and oil refining",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "21b0d290024ca77db8a91c65f030501598e081a1",
       "fingerprint": "19754f74d06591faed2d97532c7ab66460af5921",
@@ -93,28 +116,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "535e2d5200a176e3929afdf0c6aeae7d5ddf598f",
-      "fingerprint": "6ec3ec5d3594bc3ccadb5993e605740669825f0d",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/25/reuters-russia-s-seventh-largest-refinery-halts-operations-after-a-ukrainian-drone-attack",
-      "published_utc": "2026-09-25T19:56:32Z",
-      "title_en": "Reuters: Russia’s seventh-largest refinery halts operations after a Ukrainian drone attack",
-      "lead_en": "An oil refinery in Perm halted operations after an attack by Ukrainian drones overnight on September 25, Reuters reported, citing industry sources.",
-      "title_raw": "Reuters: Russia’s seventh-largest refinery halts operations after a Ukrainian drone attack",
-      "lead_raw": "An oil refinery in Perm halted operations after an attack by Ukrainian drones overnight on September 25, Reuters reported, citing industry sources.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
