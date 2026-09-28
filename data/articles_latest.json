@@ -1,8 +1,623 @@
 {
-  "updated_at_utc": "2026-09-28T00:25:05Z",
+  "updated_at_utc": "2026-09-28T06:28:40Z",
   "keep_hours": 48,
-  "count": 255,
+  "count": 258,
   "articles": [
+    {
+      "id": "ad16277e59239b6ab204e4c1a83cd9ed42d2aa27",
+      "fingerprint": "c15218c9ab0bc5934e94d88ec020160d06bc9196",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193735",
+      "published_utc": "2026-09-28T06:24:06Z",
+      "title_en": "Russian air defenses down 254 Ukrainian drones overnight — ministry",
+      "lead_en": "On-duty air defense units intercepted Ukrainian UAVs over 16 Russian regions",
+      "title_raw": "Russian air defenses down 254 Ukrainian drones overnight — ministry",
+      "lead_raw": "On-duty air defense units intercepted Ukrainian UAVs over 16 Russian regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d43572088196eac1f4918add6f6ca4620b4ec803",
+      "fingerprint": "167b8e98be043ad6b0efde976afc51ec990cdd53",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157361",
+      "published_utc": "2026-09-28T06:22:47Z",
+      "title_en": "Поражены центры обработки данных и объекты ТЭК. Удары ВС РФ",
+      "lead_en": "Российские силы, в частности, поразили инфраструктуру и объекты на военном аэродроме Васильков в Киевской области",
+      "title_raw": "Поражены центры обработки данных и объекты ТЭК. Удары ВС РФ",
+      "lead_raw": "Российские силы, в частности, поразили инфраструктуру и объекты на военном аэродроме Васильков в Киевской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1492730c7c035dacbc05c948a045488f86fc2388",
+      "fingerprint": "220c6284cd7efd49966caa0347a6af2bd0f64e14",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28157281",
+      "published_utc": "2026-09-28T06:11:57Z",
+      "title_en": "Cyprus Times: тело россиянина обнаружили в море на пляже Кипра",
+      "lead_en": "Посольство РФ пытается связаться с родственниками погибшего",
+      "title_raw": "Cyprus Times: тело россиянина обнаружили в море на пляже Кипра",
+      "lead_raw": "Посольство РФ пытается связаться с родственниками погибшего",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "aea0f9b2ce855659339474e2e5eab3f23568efda",
+      "fingerprint": "1a19aa70d951346e6d34a7dcf399603da635779c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28157369",
+      "published_utc": "2026-09-28T06:10:55Z",
+      "title_en": "ФСБ: Лондон стремится создать иллюзию, что в русской эмиграции зреет альтернатива власти",
+      "lead_en": "",
+      "title_raw": "ФСБ: Лондон стремится создать иллюзию, что в русской эмиграции зреет альтернатива власти",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ac75c59dd3e63ee5ff1df104dcb540465463407b",
+      "fingerprint": "c96fe0fad46872a5f971c3c9e92cefdbe019d18a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28157359",
+      "published_utc": "2026-09-28T06:08:40Z",
+      "title_en": "ФСБ: объединения так называемой российской оппозиции контролируют зарубежные спецслужбы",
+      "lead_en": "",
+      "title_raw": "ФСБ: объединения так называемой российской оппозиции контролируют зарубежные спецслужбы",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "72915edee2e6774c59d0169a2ba344ed484cadd9",
+      "fingerprint": "1f29690ed0b3e980b863226c7b4484c2cc368a5e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28157357",
+      "published_utc": "2026-09-28T06:07:58Z",
+      "title_en": "Путин: ядерный паритет России обеспечен трудом многих поколений атомщиков",
+      "lead_en": "Президент уверен, что работники атомной промышленности будут и впредь достойно решать стоящие перед ними стратегические задачи",
+      "title_raw": "Путин: ядерный паритет России обеспечен трудом многих поколений атомщиков",
+      "lead_raw": "Президент уверен, что работники атомной промышленности будут и впредь достойно решать стоящие перед ними стратегические задачи",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ff21b124e0ce9ae95cd24357c06dc1cff68df364",
+      "fingerprint": "070c2d63d7e575ba533c15daf4f2fe6b4b29d652",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28157343",
+      "published_utc": "2026-09-28T06:07:31Z",
+      "title_en": "ФСБ: Британия активизировала усилия по консолидации российской оппозиции за рубежом",
+      "lead_en": "Лондон всегда использовал отдельные категории россиян в качестве инструмента политического давления, сообщил оперативный сотрудник",
+      "title_raw": "ФСБ: Британия активизировала усилия по консолидации российской оппозиции за рубежом",
+      "lead_raw": "Лондон всегда использовал отдельные категории россиян в качестве инструмента политического давления, сообщил оперативный сотрудник",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2a8ad0ffd52af48fcefce40de4cb7ef01e3f2d0f",
+      "fingerprint": "8eeac138135a566a8ec8f79045b9ad1d8d254dce",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28157291",
+      "published_utc": "2026-09-28T06:05:31Z",
+      "title_en": "Россиянам рассказали о нетипичных симптомах инфаркта у женщин",
+      "lead_en": "Он часто протекает без боли в груди и маскируется под обычную усталость или одышку, отметили в Минздраве Новосибирской области",
+      "title_raw": "Россиянам рассказали о нетипичных симптомах инфаркта у женщин",
+      "lead_raw": "Он часто протекает без боли в груди и маскируется под обычную усталость или одышку, отметили в Минздраве Новосибирской области",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ce15730604b889ea577f8763199f77430a4549a5",
+      "fingerprint": "a1e1e1da4d4c8dbe10bc9e3591aab6a68198f3da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28157333",
+      "published_utc": "2026-09-28T06:02:31Z",
+      "title_en": "Российский рынок акций растет в начале торгов",
+      "lead_en": "Курс юаня к рублю на открытии торгов Московской биржи снижался на 1,8 копейки и составлял 12,492 рубля",
+      "title_raw": "Российский рынок акций растет в начале торгов",
+      "lead_raw": "Курс юаня к рублю на открытии торгов Московской биржи снижался на 1,8 копейки и составлял 12,492 рубля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bd1bfde72dbca52d41fd8c7a37f58c78edf8f5b5",
+      "fingerprint": "9d9c028a87dfbc9a1dcede4f6c16e3e31e88baea",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28157295",
+      "published_utc": "2026-09-28T05:53:56Z",
+      "title_en": "Банька: WADA проведет аудит РУСАДА, как только \"позволят условия\"",
+      "lead_en": "Российское антидопинговое агентство в настоящее время лишено статуса соответствия Всемирному антидопинговому кодексу",
+      "title_raw": "Банька: WADA проведет аудит РУСАДА, как только \"позволят условия\"",
+      "lead_raw": "Российское антидопинговое агентство в настоящее время лишено статуса соответствия Всемирному антидопинговому кодексу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b6bf36740f392514eb4146590de11c1d0531ee42",
+      "fingerprint": "8be8f03c90ff80acd99482ba8baf079d3cd4644a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28157267",
+      "published_utc": "2026-09-28T05:53:55Z",
+      "title_en": "Против экс-модели Максимовой завели дело об участии в террористической организации",
+      "lead_en": "По данным центра общественных связей ФСБ РФ, женщина образовала в Лондоне организацию, объединившую вокруг себя российских релокантов на территории Великобритании",
+      "title_raw": "Против экс-модели Максимовой завели дело об участии в террористической организации",
+      "lead_raw": "По данным центра общественных связей ФСБ РФ, женщина образовала в Лондоне организацию, объединившую вокруг себя российских релокантов на территории Великобритании",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c2fed355995b352501143ff38cdf66bcee1cde12",
+      "fingerprint": "af96b751f78b1a5a5962bc86046cc36719f5ff73",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28157155",
+      "published_utc": "2026-09-28T05:53:09Z",
+      "title_en": "Ролдугин назвал возраст, когда можно начать осваивать фортепиано",
+      "lead_en": "По словам народного артиста России, начать заниматься на этом инструменте можно с пяти лет",
+      "title_raw": "Ролдугин назвал возраст, когда можно начать осваивать фортепиано",
+      "lead_raw": "По словам народного артиста России, начать заниматься на этом инструменте можно с пяти лет",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "918ff8d744ae966cd4a2cb091b39adc89e153c6a",
+      "fingerprint": "a87bf242bda90a243bd942505d2166ecb5118d97",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28157277",
+      "published_utc": "2026-09-28T05:49:29Z",
+      "title_en": "ФСБ продолжит борьбу с вовлечением Лондоном релокантов в работу против России",
+      "lead_en": "С таким заявлением выступили в Центре общественных связей ведомства в связи с возбуждением уголовного дела против бывшей модели Ксении Максимовой",
+      "title_raw": "ФСБ продолжит борьбу с вовлечением Лондоном релокантов в работу против России",
+      "lead_raw": "С таким заявлением выступили в Центре общественных связей ведомства в связи с возбуждением уголовного дела против бывшей модели Ксении Максимовой",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "bb15e97a397baa601d4c2ef58b5eab640f5276df",
+      "fingerprint": "5d9fa0d3a06bd2f7a79a293cdfa19a9617960046",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28157231",
+      "published_utc": "2026-09-28T05:41:40Z",
+      "title_en": "Euractiv: санкции против России становятся \"разменной монетой\" для стран ЕС",
+      "lead_en": "По информации портала, европейские столицы используют переговоры по рестрикциям для получения уступок по несвязанным с ними вопросам",
+      "title_raw": "Euractiv: санкции против России становятся \"разменной монетой\" для стран ЕС",
+      "lead_raw": "По информации портала, европейские столицы используют переговоры по рестрикциям для получения уступок по несвязанным с ними вопросам",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7edf46700959f799e4fcc15cd90d6c2f1d92cc80",
+      "fingerprint": "ea6cdc79cff13a1664727b0ead6595bb3061fac0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28157189",
+      "published_utc": "2026-09-28T05:29:55Z",
+      "title_en": "Названа доля россиян, выбирающих пластиковую карту в путешествиях",
+      "lead_en": "Половина опрошенных пользователей финтех-сервиса \"Плати по всему миру\" считает такой способ оплаты самым удобным",
+      "title_raw": "Названа доля россиян, выбирающих пластиковую карту в путешествиях",
+      "lead_raw": "Половина опрошенных пользователей финтех-сервиса \"Плати по всему миру\" считает такой способ оплаты самым удобным",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e0ff628b61d9d746afcc5ec27f4d02baca9244c2",
+      "fingerprint": "05e1dd77ea2517e50666b10e33145a06dfff7e74",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157217",
+      "published_utc": "2026-09-28T05:26:11Z",
+      "title_en": "ВС РФ поразили судоремонтное предприятие в порту Измаил",
+      "lead_en": "На объекте, в частности, восстанавливали и модернизировали сторожевые катера, сообщили в Минобороны России",
+      "title_raw": "ВС РФ поразили судоремонтное предприятие в порту Измаил",
+      "lead_raw": "На объекте, в частности, восстанавливали и модернизировали сторожевые катера, сообщили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "efcb98ce1b17e5585a169e5d1e3cdf601cfb1557",
+      "fingerprint": "eceb1d36a03325e225d2289b027e3349128b3584",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157209",
+      "published_utc": "2026-09-28T05:23:31Z",
+      "title_en": "В Одессе поражен логистический центр \"Новой почты\" с военными грузами",
+      "lead_en": "Российские войска ночью нанесли удар в ночь на 28 сентября",
+      "title_raw": "В Одессе поражен логистический центр \"Новой почты\" с военными грузами",
+      "lead_raw": "Российские войска ночью нанесли удар в ночь на 28 сентября",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "88d6a4b0d3dc0d18b457917bdc2c91cab444b90a",
+      "fingerprint": "02a5427305be705fbfb81d4644bb23ffe9a2f546",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157205",
+      "published_utc": "2026-09-28T05:21:51Z",
+      "title_en": "ВС РФ поразили военный аэродром Васильков в Киевской области",
+      "lead_en": "Удары наносились беспилотными летательными аппаратами, уточнили в Минобороны России",
+      "title_raw": "ВС РФ поразили военный аэродром Васильков в Киевской области",
+      "lead_raw": "Удары наносились беспилотными летательными аппаратами, уточнили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "45b7b9c005028e158e34c5aeeb02f9a2de72e2b6",
+      "fingerprint": "4745438fbf2d4d0847dfc607cc3f5583916ad593",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157203",
+      "published_utc": "2026-09-28T05:21:19Z",
+      "title_en": "ВС РФ поразили в Киеве объекты топливной инфраструктуры ВСУ",
+      "lead_en": "Российские войска ударили по ним в ночь на 28 сентября",
+      "title_raw": "ВС РФ поразили в Киеве объекты топливной инфраструктуры ВСУ",
+      "lead_raw": "Российские войска ударили по ним в ночь на 28 сентября",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "896d46b063702cfff0b745e68b38e638d1aa08d8",
+      "fingerprint": "e806d3471c27a865ed7d205240c968883c49c7c2",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193711",
+      "published_utc": "2026-09-28T05:14:47Z",
+      "title_en": "West is clueless of becoming victim of Kiev regime’s nuclear terrorism — Russian diplomat",
+      "lead_en": "According to Rodion Miroshnik, Western countries continue turning a blind eye to the strikes carried out by the Ukrainian military on nuclear facilities",
+      "title_raw": "West is clueless of becoming victim of Kiev regime’s nuclear terrorism — Russian diplomat",
+      "lead_raw": "According to Rodion Miroshnik, Western countries continue turning a blind eye to the strikes carried out by the Ukrainian military on nuclear facilities",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ee3e7b9c4e2a18f4372b2c2bec8ed4c0a7d7160d",
+      "fingerprint": "75251df8b04cd557ad57cc74bd9a568e44a9b500",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157173",
+      "published_utc": "2026-09-28T05:11:47Z",
+      "title_en": "Марочко: ВС РФ заняли почти весь Орехов в Запорожской области",
+      "lead_en": "По данным военного эксперта, российские военные заканчивают зачистку окрестностей",
+      "title_raw": "Марочко: ВС РФ заняли почти весь Орехов в Запорожской области",
+      "lead_raw": "По данным военного эксперта, российские военные заканчивают зачистку окрестностей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "685f24250add059f1e6d17c46ff11ab630be76f7",
+      "fingerprint": "e24f20fc93de3c610b5c2effac7b931a8587018b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28157159",
+      "published_utc": "2026-09-28T05:10:18Z",
+      "title_en": "В России обучили нейросеть распознавать древние водоросли за доли секунды",
+      "lead_en": "Сервис уже работает",
+      "title_raw": "В России обучили нейросеть распознавать древние водоросли за доли секунды",
+      "lead_raw": "Сервис уже работает",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "20a729e4c5838d929719a5eb51ce8346bab9886c",
+      "fingerprint": "4e31ffcbc3cd514afe049cb58d9653c321c7266a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157169",
+      "published_utc": "2026-09-28T05:07:19Z",
+      "title_en": "Марочко: при контрнаступлении под Красным Лиманом ВСУ потеряли подразделения",
+      "lead_en": "Военный эксперт провел анализ данных Минобороны России",
+      "title_raw": "Марочко: при контрнаступлении под Красным Лиманом ВСУ потеряли подразделения",
+      "lead_raw": "Военный эксперт провел анализ данных Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7dc83fed37de71ed519d35b1b7c0c65a33d233d2",
+      "fingerprint": "513ca46f83ae658cd8999a3411e7cef5592accb9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/proisshestviya/28157167",
+      "published_utc": "2026-09-28T05:06:35Z",
+      "title_en": "ТАСС: в 18 регионах России с начала суток объявлялись тревоги",
+      "lead_en": "Чаще всего их объявляли в Центральном федеральном округе",
+      "title_raw": "ТАСС: в 18 регионах России с начала суток объявлялись тревоги",
+      "lead_raw": "Чаще всего их объявляли в Центральном федеральном округе",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b5914bf52ab67706f49a9692bf053b5bb3a331fc",
+      "fingerprint": "254185e65dec8660ad5d0cafa344363400bd352b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28157125",
+      "published_utc": "2026-09-28T04:52:30Z",
+      "title_en": "В России разработали напиток на основе водоросли для поддержки иммунитета",
+      "lead_en": "Продукт обеспечивает антиоксидантную и иммунную защиту, сообщили в Новосибирском государственном технологическом университете",
+      "title_raw": "В России разработали напиток на основе водоросли для поддержки иммунитета",
+      "lead_raw": "Продукт обеспечивает антиоксидантную и иммунную защиту, сообщили в Новосибирском государственном технологическом университете",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fdab06ad2700982764d516ec74e45fcb883a2410",
+      "fingerprint": "d21fd1b8771198a153e9b85b355df3cbcd9540b9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28157099",
+      "published_utc": "2026-09-28T04:31:12Z",
+      "title_en": "Командир Питон: ВС РФ поразили замаскированную станцию РЭБ \"Дамба\" под Сумами",
+      "lead_en": "ВСУ использовали объект для глушения систем наведения российской армии, сообщил военнослужащий",
+      "title_raw": "Командир Питон: ВС РФ поразили замаскированную станцию РЭБ \"Дамба\" под Сумами",
+      "lead_raw": "ВСУ использовали объект для глушения систем наведения российской армии, сообщил военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7f0c95988053bf6544c6f34122b8c688ffbf056b",
+      "fingerprint": "bd474342c2b8f199bd40782b205eff7f20dc0920",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193705",
+      "published_utc": "2026-09-28T02:38:21Z",
+      "title_en": "Russia does not believe in Japan’s promises to remove US missiles after drills — diplomat",
+      "lead_en": "Andrey Rudenko stated that these actions \"will not go unanswered\"",
+      "title_raw": "Russia does not believe in Japan’s promises to remove US missiles after drills — diplomat",
+      "lead_raw": "Andrey Rudenko stated that these actions \"will not go unanswered\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1feb820634f5e8b6eaa5c1caac1e9432fe7c9669",
+      "fingerprint": "7fa26b531300232e47e54c816f805e98e85090da",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193701",
+      "published_utc": "2026-09-28T01:45:55Z",
+      "title_en": "West violates radiation safety agreements by supporting Kiev — Russian diplomat",
+      "lead_en": "Rodion Miroshnik pointed out that a visit by IAEA Director General Rafael Grossi to the Zaporozhye Nuclear Power Plant \"was simply cancelled\"",
+      "title_raw": "West violates radiation safety agreements by supporting Kiev — Russian diplomat",
+      "lead_raw": "Rodion Miroshnik pointed out that a visit by IAEA Director General Rafael Grossi to the Zaporozhye Nuclear Power Plant \"was simply cancelled\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5fed77a7e8ec16b2082d1c11213f40e37955cede",
+      "fingerprint": "9c0c086cf6a549895a04a75eb22dbffe7df5d23f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2193699",
+      "published_utc": "2026-09-28T00:50:04Z",
+      "title_en": "Switzerland’s neutral status is ‘attempt at wishful thinking’ — Russian diplomat",
+      "lead_en": "Mikhail Ulyanov said that Switzerland is not strong enough to be truly neutral",
+      "title_raw": "Switzerland’s neutral status is ‘attempt at wishful thinking’ — Russian diplomat",
+      "lead_raw": "Mikhail Ulyanov said that Switzerland is not strong enough to be truly neutral",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "333a222043f4e2568252e4d83dea33803c9dc508",
       "fingerprint": "2288d238a2c53d98e8fd532ee07871fcd896629c",
@@ -4790,551 +5405,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "a7a74c9e7ae08d2431102ff2d2005c47f7a07b76",
-      "fingerprint": "8be15c57a80ff1566877b7ac912e966e901f0501",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28153945",
-      "published_utc": "2026-09-26T06:17:57Z",
-      "title_en": "В Казани заявили о готовности провести ЧЕ-2028 по водным видам спорта",
-      "lead_en": "Ранее сообщалось, что руководство Европейской федерации плавания приедет в Россию в середине октября для обсуждения вопроса проведения турнира в Казани",
-      "title_raw": "В Казани заявили о готовности провести ЧЕ-2028 по водным видам спорта",
-      "lead_raw": "Ранее сообщалось, что руководство Европейской федерации плавания приедет в Россию в середине октября для обсуждения вопроса проведения турнира в Казани",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "31a27bf92bba7d206946e4c9367107cf03e86419",
-      "fingerprint": "a467d2f1eed895b2da5b61de1e4b637ddf8ee384",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2193231",
-      "published_utc": "2026-09-26T06:13:00Z",
-      "title_en": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
-      "lead_en": "Ukrainian fixed-wing unmanned aerial vehicles were destroyed over the territories of the Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Tula, Moscow, Krasnodar, Stavropol Regions, the Republic of Crimea",
-      "title_raw": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
-      "lead_raw": "Ukrainian fixed-wing unmanned aerial vehicles were destroyed over the territories of the Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Tula, Moscow, Krasnodar, Stavropol Regions, the Republic of Crimea",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4fcd674f2ad42eebfa0d1dee4f76e7fc88d4a55c",
-      "fingerprint": "406b93ca000ce9a4ddbc740c8255ab439136a490",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153907",
-      "published_utc": "2026-09-26T06:05:32Z",
-      "title_en": "Матвиенко поздравила Рязанскую область с Днем образования региона",
-      "lead_en": "По словам председателя Совета Федерации, рязанская земля сыграла значительную роль в истории России в разные исторические эпохи",
-      "title_raw": "Матвиенко поздравила Рязанскую область с Днем образования региона",
-      "lead_raw": "По словам председателя Совета Федерации, рязанская земля сыграла значительную роль в истории России в разные исторические эпохи",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "266c700970be97c416dcb56f5c617b8d43914865",
-      "fingerprint": "783d3c5b5ca8da30e2c5580f4d4506e102e69f4e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28153919",
-      "published_utc": "2026-09-26T06:04:04Z",
-      "title_en": "Теннисистка Алина Корнеева вышла в полуфинал турнира в Сеуле",
-      "lead_en": "В четвертьфинале россиянка обыграла австралийку Тайлу Престон",
-      "title_raw": "Теннисистка Алина Корнеева вышла в полуфинал турнира в Сеуле",
-      "lead_raw": "В четвертьфинале россиянка обыграла австралийку Тайлу Престон",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d8d3b263cb5f767ceb365749022de5b83917103b",
-      "fingerprint": "66e95e90320114a1128181e7ff39fb6cc363a6cc",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2193227",
-      "published_utc": "2026-09-26T05:57:23Z",
-      "title_en": "Russian forces strike Novaya Pochta logistics center in Odessa Region",
-      "lead_en": "Military cargo was stored there for the Ukrainian army, the Russian Defense Ministry reported",
-      "title_raw": "Russian forces strike Novaya Pochta logistics center in Odessa Region",
-      "lead_raw": "Military cargo was stored there for the Ukrainian army, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "071578bfcc2c26400242e0ed3c523ba3dd124c89",
-      "fingerprint": "bc4e171e12b4de9604357893b96eac38fa2bd198",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2193225",
-      "published_utc": "2026-09-26T05:42:21Z",
-      "title_en": "Russian Armed Forces hit Cosmonova data center in Kiev",
-      "lead_en": "It provided the operation of mobile internet and supported the Starlink satellite communication system in the interests of the Ukrainian army, the Russian Defense Ministry reported",
-      "title_raw": "Russian Armed Forces hit Cosmonova data center in Kiev",
-      "lead_raw": "It provided the operation of mobile internet and supported the Starlink satellite communication system in the interests of the Ukrainian army, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "292e34c8fc33ddf68016774f588ea5b9a8f8139e",
-      "fingerprint": "8fc9f84fcf160b1d5c7eacc853c36baa3a6be65e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153829",
-      "published_utc": "2026-09-26T05:23:14Z",
-      "title_en": "В посольстве РФ рассказали, кто чаще ездит в Белоруссию из-за рубежа",
-      "lead_en": "Советник-посланник посольства РФ в республике Владимир Ваньке рассказал, что среди иностранцев страну чаще всего посещают россияне, выбирая ее для отдыха и лечения",
-      "title_raw": "В посольстве РФ рассказали, кто чаще ездит в Белоруссию из-за рубежа",
-      "lead_raw": "Советник-посланник посольства РФ в республике Владимир Ваньке рассказал, что среди иностранцев страну чаще всего посещают россияне, выбирая ее для отдыха и лечения",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "977ef850fad16b09b83e3ad4f1f51359297cc828",
-      "fingerprint": "1f57164f9d2b724c3d93d9d8d76bf5f463ea63e3",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28153857",
-      "published_utc": "2026-09-26T05:21:54Z",
-      "title_en": "Над регионами России за ночь сбили 645 украинских БПЛА",
-      "lead_en": "Беспилотники также уничтожили над акваториями Черного и Азовского морей",
-      "title_raw": "Над регионами России за ночь сбили 645 украинских БПЛА",
-      "lead_raw": "Беспилотники также уничтожили над акваториями Черного и Азовского морей",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0fb7b84e9f01d5e9ed53a1d6ae086596c2b6774f",
-      "fingerprint": "1f52789a60d144951635ed16797089b86d3b3049",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28153853",
-      "published_utc": "2026-09-26T05:18:24Z",
-      "title_en": "\"Нью-Джерси\" отправил российского хоккеиста Силаева в фарм-клуб",
-      "lead_en": "1 июля защитник подписал трехлетний контракт с \"Нью-Джерси\"",
-      "title_raw": "\"Нью-Джерси\" отправил российского хоккеиста Силаева в фарм-клуб",
-      "lead_raw": "1 июля защитник подписал трехлетний контракт с \"Нью-Джерси\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "487859f6bd601ecccc72981210e8505763fe4d25",
-      "fingerprint": "de87f162cb1c3e73d2500011c3f6cc22b3e244b8",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28153833",
-      "published_utc": "2026-09-26T05:14:19Z",
-      "title_en": "Трамп поддержал идею переговоров России, КНР и США по вооружениям",
-      "lead_en": "Президент США и председатель КНР Си Цзиньпин также \"обсудили актуальные мировые проблемы\", в том числе касающиеся России, КНДР и Ирана",
-      "title_raw": "Трамп поддержал идею переговоров России, КНР и США по вооружениям",
-      "lead_raw": "Президент США и председатель КНР Си Цзиньпин также \"обсудили актуальные мировые проблемы\", в том числе касающиеся России, КНДР и Ирана",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d84c173321c85c6eeab1451627271440fc391a78",
-      "fingerprint": "554f25498be4752aad41be05f71c7cbeca02cf6a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28153817",
-      "published_utc": "2026-09-26T05:06:58Z",
-      "title_en": "ТАСС: ВС РФ выдавливают ВСУ на запад Орехова",
-      "lead_en": "Зона контроля российских войск расширяется, рассказали в силовых структурах",
-      "title_raw": "ТАСС: ВС РФ выдавливают ВСУ на запад Орехова",
-      "lead_raw": "Зона контроля российских войск расширяется, рассказали в силовых структурах",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "137542e673ef01f0300ffc07b0c99ae0772f3eb8",
-      "fingerprint": "c9ae6ecd6bcdaebecf60cfd353d49be63ae8c640",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153797",
-      "published_utc": "2026-09-26T05:03:08Z",
-      "title_en": "МВД предложило изменить условия пребывания в РФ дальнобойщиков из СНГ и Грузии",
-      "lead_en": "Министерство выступило за сокращение срока пребывания водителей в России, если их страны решат вступить в ЕС",
-      "title_raw": "МВД предложило изменить условия пребывания в РФ дальнобойщиков из СНГ и Грузии",
-      "lead_raw": "Министерство выступило за сокращение срока пребывания водителей в России, если их страны решат вступить в ЕС",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0f219ad70330e081544fe87108e530ad14486fa3",
-      "fingerprint": "3ead0222c89297f457b82c4a5449fcfbf7e515db",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28153805",
-      "published_utc": "2026-09-26T05:01:32Z",
-      "title_en": "ВС РФ ночью поразили сухогруз в акватории Черного моря",
-      "lead_en": "В Минобороны России отметили, что судно перевозило военные грузы для ВСУ",
-      "title_raw": "ВС РФ ночью поразили сухогруз в акватории Черного моря",
-      "lead_raw": "В Минобороны России отметили, что судно перевозило военные грузы для ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "333f91183d4413a1d9bc18519df4059302119f93",
-      "fingerprint": "008757118166d000a2f66c0136aeb725212b3215",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28153807",
-      "published_utc": "2026-09-26T05:01:21Z",
-      "title_en": "ТАСС: в семи регионах России с начала суток объявляли тревогу из-за БПЛА и ракет",
-      "lead_en": "По состоянию на 07:40 мск воздушная угроза действует в Краснодарском и Ставропольском краях, Белгородской, Ростовской и Тульской областях, а также Кабардино-Балкарской республике",
-      "title_raw": "ТАСС: в семи регионах России с начала суток объявляли тревогу из-за БПЛА и ракет",
-      "lead_raw": "По состоянию на 07:40 мск воздушная угроза действует в Краснодарском и Ставропольском краях, Белгородской, Ростовской и Тульской областях, а также Кабардино-Балкарской республике",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0d7a0a19cbc011c3a54988192203e6e6e9db01a7",
-      "fingerprint": "8558d6dfcfb8159d6cec757431d996b71b16180a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/novosti-regionov/28152951",
-      "published_utc": "2026-09-26T05:00:00Z",
-      "title_en": "Проект \"Барсова Гора\" из Сургутского района стал финалистом Russian Event Awards",
-      "lead_en": "Проект завоевал второе место в номинации \"Лучший музейно‑выставочный комплекс для проведения турсобытия\" в рамках Балтийского туристического форума",
-      "title_raw": "Проект \"Барсова Гора\" из Сургутского района стал финалистом Russian Event Awards",
-      "lead_raw": "Проект завоевал второе место в номинации \"Лучший музейно‑выставочный комплекс для проведения турсобытия\" в рамках Балтийского туристического форума",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "efb5948e5d0c5118d3b20828b7509c6b8656e454",
-      "fingerprint": "1bed95c501ea9b1f4917ae8a46b9a8892c662d19",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28153803",
-      "published_utc": "2026-09-26T04:59:45Z",
-      "title_en": "ВС РФ поразили поддерживавший Starlink ЦОД «Космонова» в Киеве",
-      "lead_en": "В Минобороны России отметили, что он обеспечивал поддержку систем Starlink в интересах ВСУ",
-      "title_raw": "ВС РФ поразили поддерживавший Starlink ЦОД «Космонова» в Киеве",
-      "lead_raw": "В Минобороны России отметили, что он обеспечивал поддержку систем Starlink в интересах ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "30028f68db859e66d7ecd7dcb0fdb73b1573369b",
-      "fingerprint": "d0f04aee53c8cfd578ea5a2d2319c81707f10229",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153789",
-      "published_utc": "2026-09-26T04:46:46Z",
-      "title_en": "Миронов предложил упростить получение статуса волонтера СВО",
-      "lead_en": "Председатель партии \"Справедливая Россия\" также считает необходимым включение в страховой стаж период участия в волонтерских проектах на территориях Донбасса и Новороссии",
-      "title_raw": "Миронов предложил упростить получение статуса волонтера СВО",
-      "lead_raw": "Председатель партии \"Справедливая Россия\" также считает необходимым включение в страховой стаж период участия в волонтерских проектах на территориях Донбасса и Новороссии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2c60c893739aa8a69b58df8a7ee8b519c2f715c3",
-      "fingerprint": "b859f8d91343b0e57b9b7d425e230c30aca26faf",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/proisshestviya/28153757",
-      "published_utc": "2026-09-26T04:13:43Z",
-      "title_en": "LSM: в Латвии неизвестные стерли названия российских городов с дорожных знаков",
-      "lead_en": "По данным портала, правоохранители возбудили уголовное дело, касающееся умышленного уничтожения или повреждения чужого имущества",
-      "title_raw": "LSM: в Латвии неизвестные стерли названия российских городов с дорожных знаков",
-      "lead_raw": "По данным портала, правоохранители возбудили уголовное дело, касающееся умышленного уничтожения или повреждения чужого имущества",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "deee190e028c7a5eafd14077b974f7c2e2ebef16",
-      "fingerprint": "0ec672f5db400ee982c98898a6947cf4bacf5944",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/sport/28153755",
-      "published_utc": "2026-09-26T04:08:54Z",
-      "title_en": "Самсонов: уникальность Овечкина в том, что он быстро вкатывается в сезон НХЛ",
-      "lead_en": "Российский форвард пропустил все предсезонные матчи команды",
-      "title_raw": "Самсонов: уникальность Овечкина в том, что он быстро вкатывается в сезон НХЛ",
-      "lead_raw": "Российский форвард пропустил все предсезонные матчи команды",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a0f942a083526a91fb9cec15e5461a74d8299115",
-      "fingerprint": "c682a04f8f3fef9ded2ce3a5f5eacb90cbd5a4a6",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/nedvizhimost/28153749",
-      "published_utc": "2026-09-26T04:07:17Z",
-      "title_en": "В Tranio сообщили о снижении спроса россиян на недвижимость в Лондоне",
-      "lead_en": "Показатель упал почти на 17%",
-      "title_raw": "В Tranio сообщили о снижении спроса россиян на недвижимость в Лондоне",
-      "lead_raw": "Показатель упал почти на 17%",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "a49e48c0453875cef2903827137331a851259473",
-      "fingerprint": "029836cf348774e43294f76a1dae971d31b18083",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28153751",
-      "published_utc": "2026-09-26T04:04:48Z",
-      "title_en": "Названы самые выгодные направления для турпоездок в октябре по России",
-      "lead_en": "В список входят Калуга, Тамбов, Ярославль и Казань, говорится в исследовании сервиса OneTwoTrip",
-      "title_raw": "Названы самые выгодные направления для турпоездок в октябре по России",
-      "lead_raw": "В список входят Калуга, Тамбов, Ярославль и Казань, говорится в исследовании сервиса OneTwoTrip",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6a8932c95292082cda5f39b7a3fcc75213c23ceb",
-      "fingerprint": "f3e45601c11a2449c5cf715219ae412d77cc4281",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2193189",
-      "published_utc": "2026-09-26T02:00:01Z",
-      "title_en": "Europe to gain from resuming dialogue with Russia before special military operation ends",
-      "lead_en": "A member of the State Duma Defense Committee Andrey Kolesnik also recalled the Latin saying \"woe to the vanquished\"",
-      "title_raw": "Europe to gain from resuming dialogue with Russia before special military operation ends",
-      "lead_raw": "A member of the State Duma Defense Committee Andrey Kolesnik also recalled the Latin saying \"woe to the vanquished\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ecfdf5db02b7a608d88ca1fc137918df737bb8cd",
-      "fingerprint": "c46d1ede43199bb25d6be652a5ca3b4dd23081df",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153577",
-      "published_utc": "2026-09-26T01:11:07Z",
-      "title_en": "В \"Союзе пенсионеров России\" назвали проект бюджета Соцфонда сбалансированным",
-      "lead_en": "",
-      "title_raw": "В \"Союзе пенсионеров России\" назвали проект бюджета Соцфонда сбалансированным",
-      "lead_raw": "",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "50fd081a9ec9144891a7714bebbb4069ef586f70",
-      "fingerprint": "7a6e6d2b9a7beaa09d39b488c384cef41a02f0f4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2193179",
-      "published_utc": "2026-09-26T00:50:01Z",
-      "title_en": "Ukrainian drone attack on southern Russia kills people, wounds one person",
-      "lead_en": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
-      "title_raw": "Ukrainian drone attack on southern Russia kills people, wounds one person",
-      "lead_raw": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f3b622c6be58b5b75c33bc4574b765f557995993",
-      "fingerprint": "c8386737a4c519734b98dc97ddf3f6a8b2414afc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28153549",
-      "published_utc": "2026-09-26T00:30:50Z",
-      "title_en": "Названы два уровня цифровой грамотности россиян",
-      "lead_en": "Речь идет о продвинутом уровне и базовом, который должны будут освоить все социальные группы граждан РФ",
-      "title_raw": "Названы два уровня цифровой грамотности россиян",
-      "lead_raw": "Речь идет о продвинутом уровне и базовом, который должны будут освоить все социальные группы граждан РФ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "536ee9a188b29033e021b878fcd9999324c57ac1",
-      "fingerprint": "384ee53d7e55433d06f7c8f8393c151836542f4d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2193177",
-      "published_utc": "2026-09-26T00:30:00Z",
-      "title_en": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
-      "lead_en": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
-      "title_raw": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
-      "lead_raw": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
