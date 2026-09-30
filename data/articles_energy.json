@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-09-30T00:09:30Z",
+  "updated_at_utc": "2026-09-30T06:25:51Z",
   "topic": "energy",
-  "count": 22,
+  "count": 20,
   "articles": [
+    {
+      "id": "5a1ff6635591ddc5b8e436ca7781dcab69061ed6",
+      "fingerprint": "c2ef3e0e9838fc3913f41a7a1c28eacebb6e1f52",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2194811",
+      "published_utc": "2026-09-30T03:58:01Z",
+      "title_en": "Spain’s rejection of Russian LNG to boost production costs in other industries — expert",
+      "lead_en": "This will affect energy-intensive industries, like the chemical industry, metallurgy, and fertilizer production, political analyst Ilya Grashchenkov said",
+      "title_raw": "Spain’s rejection of Russian LNG to boost production costs in other industries — expert",
+      "lead_raw": "This will affect energy-intensive industries, like the chemical industry, metallurgy, and fertilizer production, political analyst Ilya Grashchenkov said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "fdcddfc30ca1d8d7fdf17617afeb1c820c7565c1",
       "fingerprint": "7ee9518a8f301a0c7a01efe84e07cceb1c38e96a",
@@ -428,74 +450,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "72915edee2e6774c59d0169a2ba344ed484cadd9",
-      "fingerprint": "1f29690ed0b3e980b863226c7b4484c2cc368a5e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28157357",
-      "published_utc": "2026-09-28T06:07:58Z",
-      "title_en": "Путин: ядерный паритет России обеспечен трудом многих поколений атомщиков",
-      "lead_en": "Президент уверен, что работники атомной промышленности будут и впредь достойно решать стоящие перед ними стратегические задачи",
-      "title_raw": "Путин: ядерный паритет России обеспечен трудом многих поколений атомщиков",
-      "lead_raw": "Президент уверен, что работники атомной промышленности будут и впредь достойно решать стоящие перед ними стратегические задачи",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "45b7b9c005028e158e34c5aeeb02f9a2de72e2b6",
-      "fingerprint": "4745438fbf2d4d0847dfc607cc3f5583916ad593",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28157203",
-      "published_utc": "2026-09-28T05:21:19Z",
-      "title_en": "ВС РФ поразили в Киеве объекты топливной инфраструктуры ВСУ",
-      "lead_en": "Российские войска ударили по ним в ночь на 28 сентября",
-      "title_raw": "ВС РФ поразили в Киеве объекты топливной инфраструктуры ВСУ",
-      "lead_raw": "Российские войска ударили по ним в ночь на 28 сентября",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1feb820634f5e8b6eaa5c1caac1e9432fe7c9669",
-      "fingerprint": "7fa26b531300232e47e54c816f805e98e85090da",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2193701",
-      "published_utc": "2026-09-28T01:45:55Z",
-      "title_en": "West violates radiation safety agreements by supporting Kiev — Russian diplomat",
-      "lead_en": "Rodion Miroshnik pointed out that a visit by IAEA Director General Rafael Grossi to the Zaporozhye Nuclear Power Plant \"was simply cancelled\"",
-      "title_raw": "West violates radiation safety agreements by supporting Kiev — Russian diplomat",
-      "lead_raw": "Rodion Miroshnik pointed out that a visit by IAEA Director General Rafael Grossi to the Zaporozhye Nuclear Power Plant \"was simply cancelled\"",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
