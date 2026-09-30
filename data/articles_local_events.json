@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-09-30T06:25:51Z",
+  "updated_at_utc": "2026-09-30T13:27:00Z",
   "topic": "local_events",
-  "count": 4,
+  "count": 3,
   "articles": [
+    {
+      "id": "15918ba65f6740aaa672df574a420effcd45dff4",
+      "fingerprint": "16bc5524e5a80c18f6de46ef37714a18cb5ce615",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/09/30/russian-strikes-on-kyiv-and-the-surrounding-region-kill-three-including-a-child-and-wound-seven",
+      "published_utc": "2026-09-30T06:56:15Z",
+      "title_en": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
+      "lead_en": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
+      "title_raw": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
+      "lead_raw": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e63145e956f9774eb0ca7c1f67dbd799dc8b2f6e",
       "fingerprint": "2737b60d6a62f926df6014e4fe307e69a82acb8a",
@@ -35,50 +58,6 @@
       "lead_en": "The Shtykovo substation in Primorsky Krai’s Shkotovsky district went offline, shutting down four pumping stations and cutting off cold water to more than 650,000 people, the regional branch of Russia’s Emergency Situations Ministry said.",
       "title_raw": "More than 650,000 people left without water in Russia’s Far East after substation outage",
       "lead_raw": "The Shtykovo substation in Primorsky Krai’s Shkotovsky district went offline, shutting down four pumping stations and cutting off cold water to more than 650,000 people, the regional branch of Russia’s Emergency Situations Ministry said.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "61dd66119e0bea9a7a01b02e4135a9679a08016f",
-      "fingerprint": "be6e308348ca7b37638af2e7fdc0dad671b05e76",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/09/28/over-half-a-million-people-in-russias-far-east-left-without-water-a93803",
-      "published_utc": "2026-09-28T10:05:00Z",
-      "title_en": "Over Half a Million People in Russia’s Far East Left Without Water",
-      "lead_en": "Emergency officials said an equipment failure at a power substation caused the outage.",
-      "title_raw": "Over Half a Million People in Russia’s Far East Left Without Water",
-      "lead_raw": "Emergency officials said an equipment failure at a power substation caused the outage.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2ded4f67a953083f1ddf09c8c7c9bfc0b0400d93",
-      "fingerprint": "0ca98d491d67ff4ab629c15825432dacc33be15b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2193769",
-      "published_utc": "2026-09-28T08:22:40Z",
-      "title_en": "Ukrainian drones injure 4, spark fires at 3 civilian infrastructure sites in south Russia",
-      "lead_en": "Four people, including three children were injured in a drone attack on the Voronezh Region",
-      "title_raw": "Ukrainian drones injure 4, spark fires at 3 civilian infrastructure sites in south Russia",
-      "lead_raw": "Four people, including three children were injured in a drone attack on the Voronezh Region",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
