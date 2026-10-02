@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-10-02T01:25:26Z",
+  "updated_at_utc": "2026-10-02T08:09:56Z",
   "topic": "local_events",
   "count": 2,
   "articles": [
+    {
+      "id": "91943cd06b6c6b435dad9fbd04cdd007c568ba5b",
+      "fingerprint": "59a0d6088582765f9ca537ed2f902a0bed3f8efe",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2196497",
+      "published_utc": "2026-10-02T07:37:57Z",
+      "title_en": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
+      "lead_en": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
+      "title_raw": "One injured, fire in apartment building in Volgograd, 646 UAVs: aftermath of drone attacks",
+      "lead_raw": "Ukrainian drones attempted to attack industrial infrastructure in Russia’s southern Volgograd Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "41dd1f165707aebe40bd4b300f6059dcb3338fbe",
       "fingerprint": "5b734f5d7526ab795720f25c1f19bf5c1e0d75b5",
@@ -13,29 +35,6 @@
       "lead_en": "Russian Telegram channels with ties to the security services reported explosions in a production unit at a chemical plant in the Moscow region town of Krasnozavodsk.",
       "title_raw": "Explosions at chemical plant in Moscow region reportedly kill seven, force evacuation of more than 40 people",
       "lead_raw": "Russian Telegram channels with ties to the security services reported explosions in a production unit at a chemical plant in the Moscow region town of Krasnozavodsk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "15918ba65f6740aaa672df574a420effcd45dff4",
-      "fingerprint": "16bc5524e5a80c18f6de46ef37714a18cb5ce615",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/09/30/russian-strikes-on-kyiv-and-the-surrounding-region-kill-three-including-a-child-and-wound-seven",
-      "published_utc": "2026-09-30T06:56:15Z",
-      "title_en": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
-      "lead_en": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
-      "title_raw": "Russian strikes on Kyiv and the surrounding region kill three, including a child, and wound seven",
-      "lead_raw": "Russian forces continued to strike Kyiv with drones and various types of missiles. An attack early on September 30 killed two people and injured four in Kyiv, the city administration said.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
