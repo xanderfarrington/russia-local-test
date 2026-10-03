@@ -1,8 +1,97 @@
 {
-  "updated_at_utc": "2026-10-03T17:05:36Z",
+  "updated_at_utc": "2026-10-03T20:47:31Z",
   "topic": "energy",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "0ba947b5f5e18d43f35e8cc1156f5f32133e0efc",
+      "fingerprint": "050a8f454ac229976aba76c387a7e7607e0a5c6b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197213",
+      "published_utc": "2026-10-03T20:15:00Z",
+      "title_en": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
+      "lead_en": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
+      "title_raw": "Russia, Iran attach much importance to cooperation in defense — Medvedev",
+      "lead_raw": "Russian Security Council Deputy Chairman Dmitry Medvedev highlighted to the aerospace industry, energy, artificial intelligence, and advanced technology, among other spheres of cooperation between Moscow and Tehran",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1af99ed2bba5a7ebb4c8d6f1a47c6483bfd55c94",
+      "fingerprint": "27572196d9cc7ff58e94b7d0ff18c3fe02bdbd4a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28179215",
+      "published_utc": "2026-10-03T20:02:33Z",
+      "title_en": "Медведев: РФ и Иран придают большое значение сотрудничеству в оборонной сфере",
+      "lead_en": "Зампред Совбеза России также отметил, что аэрокосмическая отрасль, энергетика, ИИ и другие передовые технологии могут и уже являются частью и элементами российско-иранского взаимодействия",
+      "title_raw": "Медведев: РФ и Иран придают большое значение сотрудничеству в оборонной сфере",
+      "lead_raw": "Зампред Совбеза России также отметил, что аэрокосмическая отрасль, энергетика, ИИ и другие передовые технологии могут и уже являются частью и элементами российско-иранского взаимодействия",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8355bf1a6e525dab8ce99f8d61b82acbd45262ac",
+      "fingerprint": "3e8d046612e16eeb122c30622cb7db7bcf809405",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28179113",
+      "published_utc": "2026-10-03T18:34:54Z",
+      "title_en": "Медведев: Европа уже пожинает плоды от разрушения сотрудничества с РФ",
+      "lead_en": "Зампред Совбеза России отметил, что теперь в европейских странах дорогой газ и бензин, высокая инфляция",
+      "title_raw": "Медведев: Европа уже пожинает плоды от разрушения сотрудничества с РФ",
+      "lead_raw": "Зампред Совбеза России отметил, что теперь в европейских странах дорогой газ и бензин, высокая инфляция",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fa8c19ada73b0369dfa34b87e082423ee2060d3e",
+      "fingerprint": "c29cfd052e21379f9ed486a59a4195904dc713c8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28179093",
+      "published_utc": "2026-10-03T18:31:56Z",
+      "title_en": "Медведев указал на дорогие газ и бензин в Европе из-за разрыва отношений с РФ",
+      "lead_en": "Европейские страны сами все разрушили и отказались от сотрудничества с Москвой, отметил зампред Совбеза России",
+      "title_raw": "Медведев указал на дорогие газ и бензин в Европе из-за разрыва отношений с РФ",
+      "lead_raw": "Европейские страны сами все разрушили и отказались от сотрудничества с Москвой, отметил зампред Совбеза России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "25cbcebb054c40cc6d4240ae0e10d2a937c61083",
       "fingerprint": "b7a4acb17c6665809b336e02578d9a85781bf7ee",
@@ -474,51 +563,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "2346867224704dd613d6937ff4682bbe64b617bd",
-      "fingerprint": "bfb48e23e0abc13e8fe76fbf72a69cfc90bcab16",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/01/by-putin-s-own-estimate-ukrainian-strikes-on-russian-refineries-have-cost-russia-1-of-gdp-but-he-says-stopping-them-isn-t-worth-halting-attacks-on-ukrainian-vessels",
-      "published_utc": "2026-10-01T19:42:03Z",
-      "title_en": "By Putin’s own estimate, Ukrainian strikes on Russian refineries have cost Russia 1% of GDP. But he says stopping them isn’t worth halting attacks on Ukrainian vessels.",
-      "lead_en": "Russian President Vladimir Putin rejected the idea of halting attacks on Ukrainian ships in exchange for Ukraine ending its strikes on Russian oil refineries. He made the remarks at the Valdai Forum.",
-      "title_raw": "By Putin’s own estimate, Ukrainian strikes on Russian refineries have cost Russia 1% of GDP. But he says stopping them isn’t worth halting attacks on Ukrainian vessels.",
-      "lead_raw": "Russian President Vladimir Putin rejected the idea of halting attacks on Ukrainian ships in exchange for Ukraine ending its strikes on Russian oil refineries. He made the remarks at the Valdai Forum.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "78c609e5443520a541413a0d40de507f099ec3d7",
-      "fingerprint": "9d41981f361abc78a7c847042420f9519b9a5135",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196253",
-      "published_utc": "2026-10-01T18:17:58Z",
-      "title_en": "Sanctions prevent Russian diesel fuel from flowing to global markets",
-      "lead_en": "The head of state assured that Russia has enough diesel fuel",
-      "title_raw": "Sanctions prevent Russian diesel fuel from flowing to global markets",
-      "lead_raw": "The head of state assured that Russia has enough diesel fuel",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
