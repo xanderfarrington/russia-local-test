@@ -1,8 +1,32 @@
 {
-  "updated_at_utc": "2026-10-04T05:03:48Z",
+  "updated_at_utc": "2026-10-04T12:00:54Z",
   "topic": "economy",
-  "count": 8,
+  "count": 5,
   "articles": [
+    {
+      "id": "a8af83ed9be002150c22ab9593b69cae5afa0d23",
+      "fingerprint": "870b33078c7e16a433e56212c540ecdebf2e5a0c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197257",
+      "published_utc": "2026-10-04T06:59:36Z",
+      "title_en": "Europe needs Russian energy to survive — envoy",
+      "lead_en": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
+      "title_raw": "Europe needs Russian energy to survive — envoy",
+      "lead_raw": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4d51dc60054835d2c3765dd03248ded66b58f6c7",
       "fingerprint": "ef400dc965b2f2624c1b581c59b191045fe0b5e7",
@@ -85,97 +109,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b00fe5dd9a42b2a0f72608fc170ad8ca83e6ea9a",
-      "fingerprint": "b63225080c559db5755fe60f5f3c67c96d11d29b",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/02/us-blacklists-russias-a7-payment-platform-over-alleged-sanctions-evasion-a93852",
-      "published_utc": "2026-10-02T11:21:37Z",
-      "title_en": "U.S. Blacklists Russia’s A7 Payment Platform Over Alleged Sanctions Evasion",
-      "lead_en": "The Treasury accused the A7 network of enabling Iran and others to bypass Western banking restrictions.",
-      "title_raw": "U.S. Blacklists Russia’s A7 Payment Platform Over Alleged Sanctions Evasion",
-      "lead_raw": "The Treasury accused the A7 network of enabling Iran and others to bypass Western banking restrictions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f83df4f19b88c8d441a7ff6e2631c324985f9cc0",
-      "fingerprint": "120eb7547837af796b88b889798fc8c694277436",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196613",
-      "published_utc": "2026-10-02T10:02:29Z",
-      "title_en": "Russia interested in expanding industrial cooperation within EAEU — PM Mishustin",
-      "lead_en": "According to the Russian PM, the Intergovernmental Council meeting is discussing the development of transport infrastructure, a common electricity market and new free trade agreements with potential partners",
-      "title_raw": "Russia interested in expanding industrial cooperation within EAEU — PM Mishustin",
-      "lead_raw": "According to the Russian PM, the Intergovernmental Council meeting is discussing the development of transport infrastructure, a common electricity market and new free trade agreements with potential partners",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1de4c84c297a8c8fb695be16a5531544e8f9c625",
-      "fingerprint": "0f3850562e90e3ef20ea88c5220e06a2e3da55ce",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196521",
-      "published_utc": "2026-10-02T08:39:51Z",
-      "title_en": "Russia’s Wealth Fund to be replenished with additional oil and gas revenues in 2027-2029",
-      "lead_en": "In addition, setting the overall federal budget parameters and sources of deficit financing in accordance with the fiscal rules will help keep the debt burden at a sustainable level",
-      "title_raw": "Russia’s Wealth Fund to be replenished with additional oil and gas revenues in 2027-2029",
-      "lead_raw": "In addition, setting the overall federal budget parameters and sources of deficit financing in accordance with the fiscal rules will help keep the debt burden at a sustainable level",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ecae713ce36a1bf13efd6a92e924b1c229c6eced",
-      "fingerprint": "b8611b24099a48cd10b74d7fc4733c3d8e88e73f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28174839",
-      "published_utc": "2026-10-02T07:19:14Z",
-      "title_en": "ЦБ не проводил операций по покупке или продаже юаней с расчетами 1 октября",
-      "lead_en": "Операции покупки и продажи иностранной валюты Банк России проводит на внутреннем рынке в валютной секции Мосбиржи в инструменте \"юань - рубль\"",
-      "title_raw": "ЦБ не проводил операций по покупке или продаже юаней с расчетами 1 октября",
-      "lead_raw": "Операции покупки и продажи иностранной валюты Банк России проводит на внутреннем рынке в валютной секции Мосбиржи в инструменте \"юань - рубль\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [

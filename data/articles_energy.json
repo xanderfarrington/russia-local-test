@@ -1,8 +1,78 @@
 {
-  "updated_at_utc": "2026-10-04T05:03:48Z",
+  "updated_at_utc": "2026-10-04T12:00:54Z",
   "topic": "energy",
-  "count": 22,
+  "count": 19,
   "articles": [
+    {
+      "id": "2d09141ac9e2ec73d255a7877894c5e4e9adc87b",
+      "fingerprint": "ef9150e1650de7a0688a62804ad5b2b23d797b42",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28180279",
+      "published_utc": "2026-10-04T11:14:54Z",
+      "title_en": "ТАСС: семь стран ОПЕК+ начали встречу, на которой обсудят план по добыче нефти",
+      "lead_en": "В ней участвуют Россия, Саудовская Аравия, Ирак, Казахстан, Алжир, Оман и Кувейт",
+      "title_raw": "ТАСС: семь стран ОПЕК+ начали встречу, на которой обсудят план по добыче нефти",
+      "lead_raw": "В ней участвуют Россия, Саудовская Аравия, Ирак, Казахстан, Алжир, Оман и Кувейт",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7ccba586d4f39b1da1d72826d7a4a61f85a88613",
+      "fingerprint": "e925438b5d7896828ab7d70697c15095a0421dad",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2197295",
+      "published_utc": "2026-10-04T11:10:03Z",
+      "title_en": "Russian Defense Ministry hears Zelensky’s statement on stepping up refinery strikes",
+      "lead_en": "The Russian Defense Ministry said it has heard Vladimir Zelensky’s statement that the Kiev regime will step up strikes on Russian oil refineries in response to Russian strikes on Ukrainian defense industry facilities",
+      "title_raw": "Russian Defense Ministry hears Zelensky’s statement on stepping up refinery strikes",
+      "lead_raw": "The Russian Defense Ministry said it has heard Vladimir Zelensky’s statement that the Kiev regime will step up strikes on Russian oil refineries in response to Russian strikes on Ukrainian defense industry facilities",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a8af83ed9be002150c22ab9593b69cae5afa0d23",
+      "fingerprint": "870b33078c7e16a433e56212c540ecdebf2e5a0c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2197257",
+      "published_utc": "2026-10-04T06:59:36Z",
+      "title_en": "Europe needs Russian energy to survive — envoy",
+      "lead_en": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
+      "title_raw": "Europe needs Russian energy to survive — envoy",
+      "lead_raw": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "0ba947b5f5e18d43f35e8cc1156f5f32133e0efc",
       "fingerprint": "050a8f454ac229976aba76c387a7e7607e0a5c6b",
@@ -352,142 +422,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6b45c8251cde57d31d58dc3c3ea2426f58ca7cf5",
-      "fingerprint": "4f5695071f7ea70fb8fda26d206808fec83bf24e",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196703",
-      "published_utc": "2026-10-02T11:59:15Z",
-      "title_en": "Russia may restart diesel fuel exports in case of overproduction — Novak",
-      "lead_en": "The deputy prime minister said that Russia will not accumulate too much fuel because it will lead to a decline in refining and output of other products",
-      "title_raw": "Russia may restart diesel fuel exports in case of overproduction — Novak",
-      "lead_raw": "The deputy prime minister said that Russia will not accumulate too much fuel because it will lead to a decline in refining and output of other products",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "db52afa7af0bc95f6af09118f59bb00c80718a70",
-      "fingerprint": "5e51756762c876cd8012ba2568bf3dfe14c6958d",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/02/russia-will-consider-partial-lifting-of-diesel-export-ban-in-case-of-overproduction-novak-says-a93853",
-      "published_utc": "2026-10-02T10:46:39Z",
-      "title_en": "Russia Will Consider Partial Lifting of Diesel Export Ban in Case of Overproduction, Novak Says",
-      "lead_en": "Novak said that the situation with Ukrainian drone attacks on Russia's energy infrastructure has remained \"tense.\"",
-      "title_raw": "Russia Will Consider Partial Lifting of Diesel Export Ban in Case of Overproduction, Novak Says",
-      "lead_raw": "Novak said that the situation with Ukrainian drone attacks on Russia's energy infrastructure has remained \"tense.\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7a51e09dcb5dc11984e0dd85a4135552717e97dd",
-      "fingerprint": "049ab846a0fa91e39cc241e6231fe7a6a8f22ada",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2196603",
-      "published_utc": "2026-10-02T10:02:47Z",
-      "title_en": "Brunei’s sultan to visit Russia next month — ambassador to Moscow",
-      "lead_en": "According to Husaini Alauddin, cooperation between the two countries has expanded in various areas over the past 35 years, including defense, energy, interparliamentary cooperation, sports, and religion",
-      "title_raw": "Brunei’s sultan to visit Russia next month — ambassador to Moscow",
-      "lead_raw": "According to Husaini Alauddin, cooperation between the two countries has expanded in various areas over the past 35 years, including defense, energy, interparliamentary cooperation, sports, and religion",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f83df4f19b88c8d441a7ff6e2631c324985f9cc0",
-      "fingerprint": "120eb7547837af796b88b889798fc8c694277436",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196613",
-      "published_utc": "2026-10-02T10:02:29Z",
-      "title_en": "Russia interested in expanding industrial cooperation within EAEU — PM Mishustin",
-      "lead_en": "According to the Russian PM, the Intergovernmental Council meeting is discussing the development of transport infrastructure, a common electricity market and new free trade agreements with potential partners",
-      "title_raw": "Russia interested in expanding industrial cooperation within EAEU — PM Mishustin",
-      "lead_raw": "According to the Russian PM, the Intergovernmental Council meeting is discussing the development of transport infrastructure, a common electricity market and new free trade agreements with potential partners",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1de4c84c297a8c8fb695be16a5531544e8f9c625",
-      "fingerprint": "0f3850562e90e3ef20ea88c5220e06a2e3da55ce",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196521",
-      "published_utc": "2026-10-02T08:39:51Z",
-      "title_en": "Russia’s Wealth Fund to be replenished with additional oil and gas revenues in 2027-2029",
-      "lead_en": "In addition, setting the overall federal budget parameters and sources of deficit financing in accordance with the fiscal rules will help keep the debt burden at a sustainable level",
-      "title_raw": "Russia’s Wealth Fund to be replenished with additional oil and gas revenues in 2027-2029",
-      "lead_raw": "In addition, setting the overall federal budget parameters and sources of deficit financing in accordance with the fiscal rules will help keep the debt burden at a sustainable level",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "48fb0a247af8fef504cf774016d35209a792d17a",
-      "fingerprint": "22b884b3d2cc8af2f67ce94c827ca2df8adac313",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2196517",
-      "published_utc": "2026-10-02T08:34:28Z",
-      "title_en": "Russia’s oil and gas revenues to fall to 2.7% of GDP in 2029",
-      "lead_en": "After reaching 5.5% of GDP in 2024, oil and gas revenues have been steadily declining, taking into account exchange rate trends, global energy prices, as well as the structure of hydrocarbon production and export volumes, and are estimated at 3.3% of GDP in 2026",
-      "title_raw": "Russia’s oil and gas revenues to fall to 2.7% of GDP in 2029",
-      "lead_raw": "After reaching 5.5% of GDP in 2024, oil and gas revenues have been steadily declining, taking into account exchange rate trends, global energy prices, as well as the structure of hydrocarbon production and export volumes, and are estimated at 3.3% of GDP in 2026",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
         "economy": 1,
         "local_events": 0
       },
