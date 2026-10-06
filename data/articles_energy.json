@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-10-06T02:45:54Z",
+  "updated_at_utc": "2026-10-06T09:54:01Z",
   "topic": "energy",
   "count": 17,
   "articles": [
+    {
+      "id": "2128c06ebcbd5890a2463045a47bafe46b401b8f",
+      "fingerprint": "98ece45ca6e9829e26efe7252b4c410c86c5bfde",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28186081",
+      "published_utc": "2026-10-06T09:17:52Z",
+      "title_en": "Фон дер Ляйен рассказала о росте цен на газ в ЕС на 140%",
+      "lead_en": "ЕК продолжает требовать до конца 2027 года полностью отказаться от закупок газа в России, отметила глава Еврокомиссии",
+      "title_raw": "Фон дер Ляйен рассказала о росте цен на газ в ЕС на 140%",
+      "lead_raw": "ЕК продолжает требовать до конца 2027 года полностью отказаться от закупок газа в России, отметила глава Еврокомиссии",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "abf33ef627c4363d8b5851af4a094246f72f2ad6",
       "fingerprint": "702ace65ea3a00d8ac5bc52f8827d64832110893",
@@ -362,30 +384,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "a8af83ed9be002150c22ab9593b69cae5afa0d23",
-      "fingerprint": "870b33078c7e16a433e56212c540ecdebf2e5a0c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2197257",
-      "published_utc": "2026-10-04T06:59:36Z",
-      "title_en": "Europe needs Russian energy to survive — envoy",
-      "lead_en": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
-      "title_raw": "Europe needs Russian energy to survive — envoy",
-      "lead_raw": "Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries and CEO of the Russian Direct Investment Fund commented an X post by popular US blogger and crypto entrepreneur Mario Nawfal about rising gas prices in Europe",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
