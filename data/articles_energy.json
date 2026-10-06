@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-10-06T16:34:51Z",
+  "updated_at_utc": "2026-10-06T21:28:48Z",
   "topic": "energy",
-  "count": 17,
+  "count": 16,
   "articles": [
+    {
+      "id": "182c1a67d89b4b9d17893358a5d5d5a4f7fa761f",
+      "fingerprint": "9dca4367a08066b7a43f76bf51cc56142b4be49d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/06/another-russian-refinery-goes-offline-volgograd-plant-shuts-down-completely-after-ukrainian-drone-attack-reuters-reports",
+      "published_utc": "2026-10-06T19:48:51Z",
+      "title_en": "Another Russian refinery goes offline: Volgograd plant shuts down completely after Ukrainian drone attack, Reuters reports",
+      "lead_en": "An oil refinery in Volgograd has stopped all crude oil processing after a Ukrainian drone attack on October 2, Reuters reported, citing sources.",
+      "title_raw": "Another Russian refinery goes offline: Volgograd plant shuts down completely after Ukrainian drone attack, Reuters reports",
+      "lead_raw": "An oil refinery in Volgograd has stopped all crude oil processing after a Ukrainian drone attack on October 2, Reuters reported, citing sources.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "fb564757b782a78d8364770e9b712e83846fcd22",
       "fingerprint": "023a88d145a0110bb542eed82849b5538e1e7434",
@@ -338,50 +360,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "dced16391588b85ff3f3b612a6c08adc82c2cf73",
-      "fingerprint": "a5dc5f5d353f89234675aeb3a017ad9f0fcb07d5",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2197449",
-      "published_utc": "2026-10-04T21:20:10Z",
-      "title_en": "Putin congratulates teachers on their professional holiday",
-      "lead_en": "The Russian leader extended his heartfelt greetings to everyone who devotes their strength, energy, and knowledge to educating and guiding the younger generation",
-      "title_raw": "Putin congratulates teachers on their professional holiday",
-      "lead_raw": "The Russian leader extended his heartfelt greetings to everyone who devotes their strength, energy, and knowledge to educating and guiding the younger generation",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e894ec0dfa57e1233ab75e9a68d3fb45b993567c",
-      "fingerprint": "f7ebf01b473e75b4b12836a92842489dd3fc2d87",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2197419",
-      "published_utc": "2026-10-04T16:53:40Z",
-      "title_en": "US in constant dialogue with Russia, Ukraine on crisis settlement — energy secretary",
-      "lead_en": "According to Wright, US President Donald Trump \"has worked ceaselessly to try to end this war\" that would make it possible to \"dramatically lower energy prices\"",
-      "title_raw": "US in constant dialogue with Russia, Ukraine on crisis settlement — energy secretary",
-      "lead_raw": "According to Wright, US President Donald Trump \"has worked ceaselessly to try to end this war\" that would make it possible to \"dramatically lower energy prices\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
