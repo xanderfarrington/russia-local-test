@@ -1,8 +1,97 @@
 {
-  "updated_at_utc": "2026-10-10T13:24:45Z",
+  "updated_at_utc": "2026-10-10T18:19:10Z",
   "topic": "energy",
-  "count": 39,
+  "count": 40,
   "articles": [
+    {
+      "id": "e93e89f2ef93bdae61edb79ffd4a1d74f9f3254c",
+      "fingerprint": "707b4359c146b41199fa259c7665c993a3fbad93",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2200333",
+      "published_utc": "2026-10-10T18:12:20Z",
+      "title_en": "Trump says US demanded Zelensky halt strikes on Russian oil refineries",
+      "lead_en": "He can't do that because we have a world problem, and the problem is caused by the lack of refineries for diesel fuel, US President said",
+      "title_raw": "Trump says US demanded Zelensky halt strikes on Russian oil refineries",
+      "lead_raw": "He can't do that because we have a world problem, and the problem is caused by the lack of refineries for diesel fuel, US President said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1db3ce78e1c67d61eca5357ead4a9eab7cd214f7",
+      "fingerprint": "1565a86aed2aee745b1c6bff0b8e5bd8c9dc65d7",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28202073",
+      "published_utc": "2026-10-10T16:49:37Z",
+      "title_en": "Трамп: США неоднократно требовали от Украины не бить по российским НПЗ",
+      "lead_en": "Американский лидер заявил, что Россия поставляет значительную часть дизельного топлива по всему миру",
+      "title_raw": "Трамп: США неоднократно требовали от Украины не бить по российским НПЗ",
+      "lead_raw": "Американский лидер заявил, что Россия поставляет значительную часть дизельного топлива по всему миру",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f53f9a280c457206a7e75cf85cf8a51f53e3f1fb",
+      "fingerprint": "a1f484234652212394dcfc1d55cb21dabc73ea8f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28202025",
+      "published_utc": "2026-10-10T16:05:43Z",
+      "title_en": "ВС РФ сорвали доставку боеприпасов на позиции ВСУ в Херсоне",
+      "lead_en": "Российские войска уничтожили РНТК противника, который доставлял топливо и боеприпасы",
+      "title_raw": "ВС РФ сорвали доставку боеприпасов на позиции ВСУ в Херсоне",
+      "lead_raw": "Российские войска уничтожили РНТК противника, который доставлял топливо и боеприпасы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "93fe4092007fb3664a61308286ae1ee8d129994f",
+      "fingerprint": "3f8d8860573d9831036e8197593f38f644e821b8",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28201961",
+      "published_utc": "2026-10-10T15:18:34Z",
+      "title_en": "Слуцкий: волна антироссийских санкций может лопнуть, как мыльный пузырь",
+      "lead_en": "Член комитета Госдумы по международным делам заявил, что большая тройка и \"партия войны\" в полном шоке от сделки президента РФ Владимира Путина и американского лидера Дональда Трампа по дизельному топливу",
+      "title_raw": "Слуцкий: волна антироссийских санкций может лопнуть, как мыльный пузырь",
+      "lead_raw": "Член комитета Госдумы по международным делам заявил, что большая тройка и \"партия войны\" в полном шоке от сделки президента РФ Владимира Путина и американского лидера Дональда Трампа по дизельному топливу",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "39bcef0b4bed0261ab845bb14bc0e62e89144005",
       "fingerprint": "9841d6d95d2dac179c569a4a2a82812a3ea697fa",
@@ -804,72 +893,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b49f39e02086537e6d3e0d7ff3d62ca952bff720",
-      "fingerprint": "0748b11810b34cbc78c94436f475ba66da875ac2",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/08/black-smoke-rises-over-russia-s-largest-oil-refinery-following-a-ukrainian-drone-strike",
-      "published_utc": "2026-10-08T17:06:20Z",
-      "title_en": "Black smoke rises over Russia’s largest oil refinery following a Ukrainian drone strike",
-      "lead_en": "Ukrainian drones struck the Omsk oil refinery. Astra reported that a column of black smoke rose above the plant.",
-      "title_raw": "Black smoke rises over Russia’s largest oil refinery following a Ukrainian drone strike",
-      "lead_raw": "Ukrainian drones struck the Omsk oil refinery. Astra reported that a column of black smoke rose above the plant.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b22fa4e0c16057c985db90b8bf4319ba239aeaf3",
-      "fingerprint": "50267d22cfc714f5ce37226860d5a7c1c9b3872a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2199477",
-      "published_utc": "2026-10-08T15:56:18Z",
-      "title_en": "Bank of Russia sets dollar rate at 85.42 rubles for October 9",
-      "lead_en": "The official euro rate was lowered by 85.78 kopecks to 95.4709 rubles",
-      "title_raw": "Bank of Russia sets dollar rate at 85.42 rubles for October 9",
-      "lead_raw": "The official euro rate was lowered by 85.78 kopecks to 95.4709 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "265fe9360094091ba69b78b37c1b700e35dfe3af",
-      "fingerprint": "d759714fc605a7befaf7fa021a871ec8c5425b0a",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2199347",
-      "published_utc": "2026-10-08T13:42:34Z",
-      "title_en": "Russian oil supplies to India hinder Delhi-Washington trade deal — report",
-      "lead_en": "According to the BMI, a unit of the Fitch international rating agency, the conflict in the Middle East and difficulties in transporting oil from Persian Gulf nations have reinforced India's incentive to maintain alternative sources of energy supplies",
-      "title_raw": "Russian oil supplies to India hinder Delhi-Washington trade deal — report",
-      "lead_raw": "According to the BMI, a unit of the Fitch international rating agency, the conflict in the Middle East and difficulties in transporting oil from Persian Gulf nations have reinforced India's incentive to maintain alternative sources of energy supplies",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
