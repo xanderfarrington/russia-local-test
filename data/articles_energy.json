@@ -1,8 +1,142 @@
 {
-  "updated_at_utc": "2026-10-11T08:29:59Z",
+  "updated_at_utc": "2026-10-11T15:26:47Z",
   "topic": "energy",
-  "count": 43,
+  "count": 42,
   "articles": [
+    {
+      "id": "1ae7f36946b7450eef3d6e511cdb35d536b547a8",
+      "fingerprint": "9737f8f0a736345a95f405649f8f3ab3d564ae10",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2200551",
+      "published_utc": "2026-10-11T15:14:40Z",
+      "title_en": "Russian diesel imports beneficial to Americans — Treasury Secretary",
+      "lead_en": "Agreements on importing Russian diesel fuel will lower diesel prices, Scott Bessent said",
+      "title_raw": "Russian diesel imports beneficial to Americans — Treasury Secretary",
+      "lead_raw": "Agreements on importing Russian diesel fuel will lower diesel prices, Scott Bessent said",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "809be5f8de1622227445d786b179c07712322ee1",
+      "fingerprint": "dc49e0873c40f30ff766bdb11f16ae6c4c990131",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2200549",
+      "published_utc": "2026-10-11T15:09:31Z",
+      "title_en": "Trump says Russia, Ukraine agree on ‘energy ceasefire’",
+      "lead_en": "US President urged both sides not to violate it",
+      "title_raw": "Trump says Russia, Ukraine agree on ‘energy ceasefire’",
+      "lead_raw": "US President urged both sides not to violate it",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3f18df92694304655e76a7112c8ab69320be107e",
+      "fingerprint": "705e93f64c4e59089bd170c2196dcd46b6b615d4",
+      "source": "RT",
+      "url": "https://www.rt.com/news/647045-russia-ukraine-energy-ceasefire-trump",
+      "published_utc": "2026-10-11T14:39:03Z",
+      "title_en": "Russia and Ukraine agree to energy ceasefire – Trump",
+      "lead_en": "US President Donald Trump has announced an “immediate” energy ceasefire between Russia and Ukraine Read Full Article at RT.com",
+      "title_raw": "Russia and Ukraine agree to energy ceasefire – Trump",
+      "lead_raw": "US President Donald Trump has announced an “immediate” energy ceasefire between Russia and Ukraine Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0ef094b0fb7eebfe58864104e02cae742f956034",
+      "fingerprint": "51cdcb8b0d15a94b1a0245efb9904588f91b26da",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28203461",
+      "published_utc": "2026-10-11T13:19:23Z",
+      "title_en": "Бессент: импорт в США дизеля из России выгоден американцам",
+      "lead_en": "Договоренности с РФ помогут снизить цены на дизельное топливо, подчеркнул министр финансов",
+      "title_raw": "Бессент: импорт в США дизеля из России выгоден американцам",
+      "lead_raw": "Договоренности с РФ помогут снизить цены на дизельное топливо, подчеркнул министр финансов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "de0f20ebdab983180dd8dee9a5113e8e462ae546",
+      "fingerprint": "4480f857e0ee52666d3d7f0886bb437e78462c62",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28203401",
+      "published_utc": "2026-10-11T12:54:07Z",
+      "title_en": "WSJ: отношения Зеленского с Трампом достигли низшей точки за полтора года",
+      "lead_en": "Газета отмечает, что такое положение дел рискует подорвать 18 месяцев усилий Европы убедить американского президента сохранять поддержку США Украины и давление на Россию",
+      "title_raw": "WSJ: отношения Зеленского с Трампом достигли низшей точки за полтора года",
+      "lead_raw": "Газета отмечает, что такое положение дел рискует подорвать 18 месяцев усилий Европы убедить американского президента сохранять поддержку США Украины и давление на Россию",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ba3085223cd8eccb93c14217934f8062f445aba6",
+      "fingerprint": "5fbe888e17dc374ca7c5a0549c2e662250715238",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/11/ukraine-will-stop-hitting-refineries-if-russia-halts-energy-attacks-zelensky-says-a93943",
+      "published_utc": "2026-10-11T11:58:00Z",
+      "title_en": "Trump Says Russia and Ukraine Reached ‘Energy Ceasefire'",
+      "lead_en": "Trump, in a social media post, said the energy ceasefire was taking effect immediately, but did not elaborate further.",
+      "title_raw": "Trump Says Russia and Ukraine Reached ‘Energy Ceasefire'",
+      "lead_raw": "Trump, in a social media post, said the energy ceasefire was taking effect immediately, but did not elaborate further.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8e2692207f40ee9b21de0544059b77632ff8cdde",
       "fingerprint": "af8415419f67c2838faea5c7a801f0e0c57cd3ee",
@@ -811,161 +945,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9bc8beb53e38f821d478cd588f1b52fc2953b5e8",
-      "fingerprint": "04f99f701fea22085c508f48a87b3f18892247b0",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2199937",
-      "published_utc": "2026-10-09T14:45:06Z",
-      "title_en": "Gazprom builds record gas reserves in Russian underground storage for winter",
-      "lead_en": "The company's operational gas reserve has reached 73.296 bcm",
-      "title_raw": "Gazprom builds record gas reserves in Russian underground storage for winter",
-      "lead_raw": "The company's operational gas reserve has reached 73.296 bcm",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6d318e1cf798d3a852b65d473904057939f93a3d",
-      "fingerprint": "9ce43a8667694aee14947806facfc73571320e2e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/feature/2026/10/09/the-smell-of-death-is-everywhere-inside-the-humanitarian-catastrophe-unfolding-in-russian-occupied-oleshky-where-hundreds-are-trapped-without-food-electricity-or-medicine",
-      "published_utc": "2026-10-09T14:44:48Z",
-      "title_en": "‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or medicine",
-      "lead_en": "Since 2022, residents of Oleshky in Ukraine’s Kherson region have lived under occupation. In 2023, the city was flooded after the Kakhovka dam was blown up: the flooding destroyed dozens of residential blocks and all of its infrastructure.",
-      "title_raw": "‘The smell of death is everywhere’: Inside the humanitarian catastrophe unfolding in Russian-occupied Oleshky, where hundreds are trapped without food, electricity, or medicine",
-      "lead_raw": "Since 2022, residents of Oleshky in Ukraine’s Kherson region have lived under occupation. In 2023, the city was flooded after the Kakhovka dam was blown up: the flooding destroyed dozens of residential blocks and all of its infrastructure.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7d9d894d74cccb0c14ebd31d6e398d427cbae748",
-      "fingerprint": "179daf5ca626692bbec87cf4eec75e827be6d239",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2199901",
-      "published_utc": "2026-10-09T13:21:35Z",
-      "title_en": "Slovakia secures winter gas supplies through Gazprom contract — minister",
-      "lead_en": "According to the country's economy minister Denisa Sakova, Slovakia will continue to receive Russian crude oil until the end of 2027",
-      "title_raw": "Slovakia secures winter gas supplies through Gazprom contract — minister",
-      "lead_raw": "According to the country's economy minister Denisa Sakova, Slovakia will continue to receive Russian crude oil until the end of 2027",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "35d2e3566c6a53b88c776fc8ecac7d5ee0ebaa69",
-      "fingerprint": "1246d5811e5cf25c6333c7146fa83db4ca347ab8",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/10/09/rosneft-recruits-anti-aircraft-gun-crews-to-defend-samara-refinery-against-ukrainian-drones-vyorstka-a93932",
-      "published_utc": "2026-10-09T13:09:09Z",
-      "title_en": "Rosneft Recruits Anti-Aircraft Gun Crews to Defend Samara Refinery Against Ukrainian Drones – Vyorstka",
-      "lead_en": "The Kuibyshev refinery, on the Volga River, has been repeatedly targeted since Russia launched its full-scale invasion of Ukraine in 2022.",
-      "title_raw": "Rosneft Recruits Anti-Aircraft Gun Crews to Defend Samara Refinery Against Ukrainian Drones – Vyorstka",
-      "lead_raw": "The Kuibyshev refinery, on the Volga River, has been repeatedly targeted since Russia launched its full-scale invasion of Ukraine in 2022.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f6ebad6e7dc63b583ae7161739ed49c91b5a5382",
-      "fingerprint": "78e770341dd27b4d529c0871195e9ebc44344c7b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2199873",
-      "published_utc": "2026-10-09T12:43:30Z",
-      "title_en": "Russian troops liberate five communities in Ukraine operation over week — top brass",
-      "lead_en": "The Russian forces liberated the settlements of Annopolye in the Kharkov Region, Novaya Kazachya in the Kharkov Region, Kiyanitsa in the Sumy Region and Samoilovka and Golubkovo in the Zaporozhye Region",
-      "title_raw": "Russian troops liberate five communities in Ukraine operation over week — top brass",
-      "lead_raw": "The Russian forces liberated the settlements of Annopolye in the Kharkov Region, Novaya Kazachya in the Kharkov Region, Kiyanitsa in the Sumy Region and Samoilovka and Golubkovo in the Zaporozhye Region",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8cb17ba7b287c0cd2d9a151eeb52e5492888c21e",
-      "fingerprint": "892dcf3bc5513b54cf50796f6a95e1affeaee10f",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/science/2199851",
-      "published_utc": "2026-10-09T11:59:35Z",
-      "title_en": "Russian scientists make calculations to improve Arctic energy resource extraction safety",
-      "lead_en": "Huge reserves of so-called methane hydrates or clathrates lay inside the marine and onshore permafrost deposits in the Russian and foreign Arctic",
-      "title_raw": "Russian scientists make calculations to improve Arctic energy resource extraction safety",
-      "lead_raw": "Huge reserves of so-called methane hydrates or clathrates lay inside the marine and onshore permafrost deposits in the Russian and foreign Arctic",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "542a98ddf8f2b0176aa817edb18546d8f205e4e2",
-      "fingerprint": "82b2fc8bd57614bcbc7d6f1c0dc4f64d0657466f",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28197485",
-      "published_utc": "2026-10-09T08:32:15Z",
-      "title_en": "Росконгресс опубликовал программу Российской энергетической недели",
-      "lead_en": "В центре внимания мероприятия - оптимизация работы с традиционными энергоресурсами на фоне растущего спроса, стратегическое планирование по всем сегментам добычи и переработки, а также перспективы развития низкоуглеродных технологий, отметил вице-премьер РФ Александр Новак",
-      "title_raw": "Росконгресс опубликовал программу Российской энергетической недели",
-      "lead_raw": "В центре внимания мероприятия - оптимизация работы с традиционными энергоресурсами на фоне растущего спроса, стратегическое планирование по всем сегментам добычи и переработки, а также перспективы развития низкоуглеродных технологий, отметил вице-премьер РФ Александр Новак",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
