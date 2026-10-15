@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-10-15T00:20:30Z",
+  "updated_at_utc": "2026-10-15T05:40:53Z",
   "topic": "energy",
-  "count": 61,
+  "count": 63,
   "articles": [
+    {
+      "id": "1138b4f7d26463b7cb801ca0de79740ba6cc5bab",
+      "fingerprint": "5cb857f16bd1c88f488825b7a7c905333641f663",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2202269",
+      "published_utc": "2026-10-15T04:47:44Z",
+      "title_en": "US may ease sanctions on vessels used to transport oil from Russia — agency",
+      "lead_en": "According to a source cited by Reuters, the US administration may take this step to reduce record-high global freight rates",
+      "title_raw": "US may ease sanctions on vessels used to transport oil from Russia — agency",
+      "lead_raw": "According to a source cited by Reuters, the US administration may take this step to reduce record-high global freight rates",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f0eeffc279d0bb75e8060c182b025ce47da3a520",
+      "fingerprint": "f9bd5b12e56148d17031e049fc650628340e75d3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28215981",
+      "published_utc": "2026-10-15T04:31:25Z",
+      "title_en": "Боец Газик: группировка \"Днепр\" пресекла ротацию ВСУ на ореховском направлении",
+      "lead_en": "Российские солдаты подбили две единицы техники, сообщил военнослужащий",
+      "title_raw": "Боец Газик: группировка \"Днепр\" пресекла ротацию ВСУ на ореховском направлении",
+      "lead_raw": "Российские солдаты подбили две единицы техники, сообщил военнослужащий",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ba64cec75bad7667f1f3241cd74e7329932b244b",
+      "fingerprint": "effb4d4b200bf1a528e1b58cff85e4af498d4b56",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28215909",
+      "published_utc": "2026-10-15T03:58:10Z",
+      "title_en": "Такаити заявила, что Япония не занимается шпионажем в России",
+      "lead_en": "Японский премьер-министр отметила, что власти страны пока не в курсе подробностей предъявленных подозрений задержанному на Сахалине журналисту газеты \"Хоккайдо симбун\"",
+      "title_raw": "Такаити заявила, что Япония не занимается шпионажем в России",
+      "lead_raw": "Японский премьер-министр отметила, что власти страны пока не в курсе подробностей предъявленных подозрений задержанному на Сахалине журналисту газеты \"Хоккайдо симбун\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "36c744a7bb7dd9afabff93166fe54d04c1897680",
       "fingerprint": "d617fc8d7644aadb07d7a6eb857427ae886a67dd",
@@ -1332,29 +1399,6 @@
       "lead_en": "По словам украинских чиновников, американская сторона ясно дала понять, что Вашингтон возложит ответственность на Киев, если будет нанесен удар по российской энергетической инфраструктуре",
       "title_raw": "Kyiv Independent: США пригрозили Украине сократить военную помощь",
       "lead_raw": "По словам украинских чиновников, американская сторона ясно дала понять, что Вашингтон возложит ответственность на Киев, если будет нанесен удар по российской энергетической инфраструктуре",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "39cbd088c22c94a4ee620d89d3320650f6a874e2",
-      "fingerprint": "54be4b7cb1b93ecb0483acb103f7f607c2ca595d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2201187",
-      "published_utc": "2026-10-13T03:04:01Z",
-      "title_en": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
-      "lead_en": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
-      "title_raw": "Russian foreign minister, ASEAN chief to discuss energy, food security in Moscow",
-      "lead_raw": "The visit marks the 35th anniversary of Russia’s relations with ASEAN",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
