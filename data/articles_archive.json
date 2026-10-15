@@ -1,7 +1,681 @@
 {
-  "updated_at_utc": "2026-10-15T20:12:11Z",
-  "count": 42406,
+  "updated_at_utc": "2026-10-15T23:35:12Z",
+  "count": 42438,
   "articles": [
+    {
+      "id": "03d82c6335d799cc862c054299d887cbde957190",
+      "fingerprint": "e8853db5cfd33ac252780ada61325e0d72bb5719",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28219869",
+      "published_utc": "2026-10-15T23:11:12Z",
+      "title_en": "В ГД призвали не допускать утечки данных при использовании госслужащими ИИ",
+      "lead_en": "Член комитета Госдумы по цифровому развитию и искусственному интеллекту Марина Ким призвала использовать только проверенные российские модели",
+      "title_raw": "В ГД призвали не допускать утечки данных при использовании госслужащими ИИ",
+      "lead_raw": "Член комитета Госдумы по цифровому развитию и искусственному интеллекту Марина Ким призвала использовать только проверенные российские модели",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "75c3f4f65433ffbbceb5b990c590faf6e821c431",
+      "fingerprint": "f6a77a08a8a2374b6a622242dbdf6c25dc00269e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28219867",
+      "published_utc": "2026-10-15T23:10:44Z",
+      "title_en": "Россия готова поставить Индии дополнительные объемы нефти",
+      "lead_en": "Директор второго департамента Азии МИД Алексей Павловский подчеркнул, что за РФ \"дело не станет\" в случае соответствующего запроса от республики",
+      "title_raw": "Россия готова поставить Индии дополнительные объемы нефти",
+      "lead_raw": "Директор второго департамента Азии МИД Алексей Павловский подчеркнул, что за РФ \"дело не станет\" в случае соответствующего запроса от республики",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6faf6e928424fccdf1e6edad21ed03474ea12e55",
+      "fingerprint": "dcaa620df90c9e0a763fdc528ed67d4570eb4733",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28219863",
+      "published_utc": "2026-10-15T23:05:39Z",
+      "title_en": "Путин передал активы Terkett во временное управление УК \"Центр капитал\"",
+      "lead_en": "Согласно подписанному президентом России документу, переданы 100% долей в уставном капитале ООО \"Таркет соммер\", принадлежащих АО \"Таркет\"",
+      "title_raw": "Путин передал активы Terkett во временное управление УК \"Центр капитал\"",
+      "lead_raw": "Согласно подписанному президентом России документу, переданы 100% долей в уставном капитале ООО \"Таркет соммер\", принадлежащих АО \"Таркет\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e9ba115fb9a71569d8353f3a6bccd25aa2b2ed22",
+      "fingerprint": "6d00568145d7862cd3358970326e821907332c67",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28219859",
+      "published_utc": "2026-10-15T23:02:59Z",
+      "title_en": "Марочко объяснил преимущества контроля ВС РФ над Нефедовкой и Черным",
+      "lead_en": "Освобождение населенных пунктов позволит российским войскам наступать на юг от них, подчеркнул военный эксперт",
+      "title_raw": "Марочко объяснил преимущества контроля ВС РФ над Нефедовкой и Черным",
+      "lead_raw": "Освобождение населенных пунктов позволит российским войскам наступать на юг от них, подчеркнул военный эксперт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5fa10cba43d6d2a90adc1fdf388d625612dd4385",
+      "fingerprint": "74d4680158df9099b3c4235a1a828d66da1ee92b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28219845",
+      "published_utc": "2026-10-15T22:46:24Z",
+      "title_en": "Посольство РФ: Лондон не беспокоит цена конфликта с Россией для украинцев",
+      "lead_en": "В дипмиссии заявили, что Соединенное Королевство играет в геополитические игры",
+      "title_raw": "Посольство РФ: Лондон не беспокоит цена конфликта с Россией для украинцев",
+      "lead_raw": "В дипмиссии заявили, что Соединенное Королевство играет в геополитические игры",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4bc15a76c347e43ac3dfddf33e4c16f603c968bb",
+      "fingerprint": "ab62508872f8b374497c2cdcba7fe12d70718015",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202733",
+      "published_utc": "2026-10-15T22:25:01Z",
+      "title_en": "Zelensky worsened his situation since 2025 White House meeting — Russian envoy",
+      "lead_en": "Kirill Dmitriev noted that panicked EU desperately tries damage control after Vladimir Zelensky's interview that aggressively attacks President Trump and his peacemaking efforts",
+      "title_raw": "Zelensky worsened his situation since 2025 White House meeting — Russian envoy",
+      "lead_raw": "Kirill Dmitriev noted that panicked EU desperately tries damage control after Vladimir Zelensky's interview that aggressively attacks President Trump and his peacemaking efforts",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7ffb7b3b44d4bc309e32b4d0c33633fb63a5a5fd",
+      "fingerprint": "de968449b3d1ee0ce62255dd791bc1fde1e5d843",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28219823",
+      "published_utc": "2026-10-15T22:18:42Z",
+      "title_en": "Путин уточнил меры по защите предприятий РФ от требований иностранных властей",
+      "lead_en": "Президент внес дополнения в положение от 2012 года \"О мерах по защите интересов РФ при осуществлении российскими юридическими лицами внешнеэкономической деятельности\"",
+      "title_raw": "Путин уточнил меры по защите предприятий РФ от требований иностранных властей",
+      "lead_raw": "Президент внес дополнения в положение от 2012 года \"О мерах по защите интересов РФ при осуществлении российскими юридическими лицами внешнеэкономической деятельности\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6e8228b096f96878669c31b1d9f32f978193b6d1",
+      "fingerprint": "92788cb9c73c73e5e1f6cc2d0e6ffd835a21d550",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28219821",
+      "published_utc": "2026-10-15T22:17:05Z",
+      "title_en": "Эксперт Афанасьев рассказал, как стаж влияет на размер больничного",
+      "lead_en": "Пособие оплачивается в размере 100% среднего заработка тем россиянам, у кого стаж работы больше восьми лет, сообщил доцент кафедры трудового права и права социального обеспечения имени К. Н.",
+      "title_raw": "Эксперт Афанасьев рассказал, как стаж влияет на размер больничного",
+      "lead_raw": "Пособие оплачивается в размере 100% среднего заработка тем россиянам, у кого стаж работы больше восьми лет, сообщил доцент кафедры трудового права и права социального обеспечения имени К. Н.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d6434f79803ec5e9654cd8cc647ab0786242ca6a",
+      "fingerprint": "528e6d84e53fa25e87178e66afd636e258c30819",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28219795",
+      "published_utc": "2026-10-15T22:08:33Z",
+      "title_en": "Россия готова быть посредником в урегулировании конфликта Эфиопии и Эритреи",
+      "lead_en": "Замглавы МИД РФ Александр Алимов отметил, что обострение отношений между государствами беспокоит Москву",
+      "title_raw": "Россия готова быть посредником в урегулировании конфликта Эфиопии и Эритреи",
+      "lead_raw": "Замглавы МИД РФ Александр Алимов отметил, что обострение отношений между государствами беспокоит Москву",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "dafc0c9d7dd862df4ccfc33329b901419f49ca92",
+      "fingerprint": "8b087f51ef3d80d32a6d1274909a517cd651d177",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28219805",
+      "published_utc": "2026-10-15T22:05:44Z",
+      "title_en": "В МИД РФ заявили, что Россия останется надежным поставщиком энергоносителей",
+      "lead_en": "Директор второго департамента Азии внешнеполитического ведомства Алексей Павловский добавил, что в Индии это ценят",
+      "title_raw": "В МИД РФ заявили, что Россия останется надежным поставщиком энергоносителей",
+      "lead_raw": "Директор второго департамента Азии внешнеполитического ведомства Алексей Павловский добавил, что в Индии это ценят",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c6af80521a7d545415c363976e1dc344ac4009a8",
+      "fingerprint": "ca49c07c3555720a2f69883ecc3d8c1268e5a720",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202731",
+      "published_utc": "2026-10-15T22:05:01Z",
+      "title_en": "Kiev seeks pause by all means to reconstitute military capabilities — diplomat",
+      "lead_en": "Rodion Miroshnik stated that Russia will not accept such an approach",
+      "title_raw": "Kiev seeks pause by all means to reconstitute military capabilities — diplomat",
+      "lead_raw": "Rodion Miroshnik stated that Russia will not accept such an approach",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e3fdce47e2715298f67caf16cc4bfbd421c316d0",
+      "fingerprint": "5d54f5ac33d4b36559ffe32f3317b099f93aeb7b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/28219785",
+      "published_utc": "2026-10-15T22:03:30Z",
+      "title_en": "Россияне в выходные увидят малоизученный звездопад из созвездия Близнецов",
+      "lead_en": "Скорость потока ожидается на уровне трех метеоров в час",
+      "title_raw": "Россияне в выходные увидят малоизученный звездопад из созвездия Близнецов",
+      "lead_raw": "Скорость потока ожидается на уровне трех метеоров в час",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4effb653559eff0c74614729ca0c79b7f6d6767f",
+      "fingerprint": "0610f0b6ab4a50be0bf1c0bfc2b95cd2eb387e34",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28219779",
+      "published_utc": "2026-10-15T21:58:42Z",
+      "title_en": "Итальянский журналист Лоруссо получил гражданство РФ",
+      "lead_en": "Указ подписал президент России Владимир Путин",
+      "title_raw": "Итальянский журналист Лоруссо получил гражданство РФ",
+      "lead_raw": "Указ подписал президент России Владимир Путин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0181712d0541c4b36f75f9d008ce022ced963f13",
+      "fingerprint": "dafb456228892a0334d47b3106051632461292b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28219767",
+      "published_utc": "2026-10-15T21:47:26Z",
+      "title_en": "В США экстрадировали россиянина по обвинению в обходе санкций",
+      "lead_en": "Александру Суворову может грозить 45 лет тюрьмы и штраф на сумму до $1,75 млн",
+      "title_raw": "В США экстрадировали россиянина по обвинению в обходе санкций",
+      "lead_raw": "Александру Суворову может грозить 45 лет тюрьмы и штраф на сумму до $1,75 млн",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "997e8a2c1abd871263ef01b71131465978819548",
+      "fingerprint": "a186adc99f149a631c6d975fafa0a413e681b91b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2202729",
+      "published_utc": "2026-10-15T21:47:00Z",
+      "title_en": "Russian diplomat describes events in Alyoshki as Kiev’s war crime",
+      "lead_en": "According to Rodion Miroshnik, Ukraine kills the civilian population, creates an artificial famine and unbearable living conditions",
+      "title_raw": "Russian diplomat describes events in Alyoshki as Kiev’s war crime",
+      "lead_raw": "According to Rodion Miroshnik, Ukraine kills the civilian population, creates an artificial famine and unbearable living conditions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0c2219041c1ee1a6885b7502e3cec0e06d5bda3c",
+      "fingerprint": "1dac43df4eb9c9902910fe7ca52fa0b988df2b18",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28219771",
+      "published_utc": "2026-10-15T21:46:16Z",
+      "title_en": "Некрасов: \"Спартак\" с уважением относится к закону о карте болельщика",
+      "lead_en": "С 1 октября карта болельщика действует на домашних матчах клубов РПЛ в Кубке России",
+      "title_raw": "Некрасов: \"Спартак\" с уважением относится к закону о карте болельщика",
+      "lead_raw": "С 1 октября карта болельщика действует на домашних матчах клубов РПЛ в Кубке России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7a0dd26b2bee67c7212607db498cf3253ba6906c",
+      "fingerprint": "8f1ec015c71c98c29e40cc7764091aa8eed29764",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28219753",
+      "published_utc": "2026-10-15T21:45:45Z",
+      "title_en": "Россия сохранила статус основного партнера Казахстана по импорту",
+      "lead_en": "Доля поставок в республику из РФ оценивается в 31%",
+      "title_raw": "Россия сохранила статус основного партнера Казахстана по импорту",
+      "lead_raw": "Доля поставок в республику из РФ оценивается в 31%",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2ae02e52335f83f7e19852ea2dddb14b7f122bd3",
+      "fingerprint": "4babf333ede8f6f87d8678186cbf6d00baa61eb6",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28219755",
+      "published_utc": "2026-10-15T21:31:25Z",
+      "title_en": "Кнайсль считает дизельную сделку подрывом единой позиции Запада",
+      "lead_en": "Экс-министр иностранных дел Австрии подчеркнула, что это соглашение означает переход США к более прагматичному сотрудничеству с Россией",
+      "title_raw": "Кнайсль считает дизельную сделку подрывом единой позиции Запада",
+      "lead_raw": "Экс-министр иностранных дел Австрии подчеркнула, что это соглашение означает переход США к более прагматичному сотрудничеству с Россией",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "02cd78a399939538bc6a6c5b78ece107bb258b3e",
+      "fingerprint": "8e63b6a11c4a073f5705af53f05efa4c87bd856f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28219733",
+      "published_utc": "2026-10-15T21:05:32Z",
+      "title_en": "В МИД РФ заявили о сохранении высокого спроса у Индии на российскую нефть",
+      "lead_en": "Директор второго департамента Азии внешнеполитического ведомства Алексей Павловский добавил, что энергоносители Москвы составляют более половины энергобаланса Нью-Дели",
+      "title_raw": "В МИД РФ заявили о сохранении высокого спроса у Индии на российскую нефть",
+      "lead_raw": "Директор второго департамента Азии внешнеполитического ведомства Алексей Павловский добавил, что энергоносители Москвы составляют более половины энергобаланса Нью-Дели",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5fdff644bab2600bdf449f87c8907886107f4a7d",
+      "fingerprint": "fd1ddac16e91d4fb97f39badd57260badb1f63cd",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202725",
+      "published_utc": "2026-10-15T21:03:01Z",
+      "title_en": "Ukraine used UK unmanned boats for attacks in Black Sea — The Times",
+      "lead_en": "UK Defense Secretary Wes Streeting earlier on Thursday confirmed that Ukraine was using unmanned boats worth a quarter of a million dollars each against Russian ships",
+      "title_raw": "Ukraine used UK unmanned boats for attacks in Black Sea — The Times",
+      "lead_raw": "UK Defense Secretary Wes Streeting earlier on Thursday confirmed that Ukraine was using unmanned boats worth a quarter of a million dollars each against Russian ships",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e234f1e47294ca23b68b4f6d1449d40eb1843fcb",
+      "fingerprint": "4dd74311898183b572f11bceefb029563c5a658d",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28219723",
+      "published_utc": "2026-10-15T21:02:54Z",
+      "title_en": "В Эрмитаже открывается выставка \"Русский парижанин Константин Кузнецов\"",
+      "lead_en": "В экспозицию войдут картины из собрания московского фонда художника",
+      "title_raw": "В Эрмитаже открывается выставка \"Русский парижанин Константин Кузнецов\"",
+      "lead_raw": "В экспозицию войдут картины из собрания московского фонда художника",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "246dd90ae6308ae840e06f9c9fdd978c189c3d2a",
+      "fingerprint": "0cbb3aea53b0483ea3867c2e0c1f5f52f79f3aa2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28219721",
+      "published_utc": "2026-10-15T21:01:31Z",
+      "title_en": "Старший матрос Терешко вызвал на себя огонь противника для выполнения задачи",
+      "lead_en": "Действия военного помогли российским бойцам захватить опорный пункт ВСУ",
+      "title_raw": "Старший матрос Терешко вызвал на себя огонь противника для выполнения задачи",
+      "lead_raw": "Действия военного помогли российским бойцам захватить опорный пункт ВСУ",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "de43e87d2d75dbae4231314833f5919cb0c0c201",
+      "fingerprint": "ad1a0a44184230b40b474c180df25a32593dd51c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/15/russian-police-shoot-17-year-old-suspected-of-setting-two-patrol-cars-on-fire-in-yekaterinburg",
+      "published_utc": "2026-10-15T20:56:52Z",
+      "title_en": "Russian police shoot 17-year-old suspected of setting two patrol cars on fire in Yekaterinburg",
+      "lead_en": "A police officer in Yekaterinburg shot a 17-year-old while detaining him on suspicion of setting fire to police vehicles, the Interior Ministry’s Sverdlovsk regional directorate told Vecherniye Vedomosti.",
+      "title_raw": "Russian police shoot 17-year-old suspected of setting two patrol cars on fire in Yekaterinburg",
+      "lead_raw": "A police officer in Yekaterinburg shot a 17-year-old while detaining him on suspicion of setting fire to police vehicles, the Interior Ministry’s Sverdlovsk regional directorate told Vecherniye Vedomosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "67ee1d9cd337c0cfcf148ca5b8d0159b9bd17851",
+      "fingerprint": "6cdd996396f67535480a92103c3865e190ed4af3",
+      "source": "RT",
+      "url": "https://rt-english.com/news/647262-russia-olympics-national-flag",
+      "published_utc": "2026-10-15T20:54:24Z",
+      "title_en": "Russia could make Olympic return under national flag – Trump envoy",
+      "lead_en": "Russia could make a major Olympic return under its national flag in 2028, US President Donald Trump’s envoy Paolo Zampolli has told TASS Read Full Article at RT.com",
+      "title_raw": "Russia could make Olympic return under national flag – Trump envoy",
+      "lead_raw": "Russia could make a major Olympic return under its national flag in 2028, US President Donald Trump’s envoy Paolo Zampolli has told TASS Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0ffe0efdde598dd47576d016d4a1736d83ff1871",
+      "fingerprint": "f41f0fb27b4b44f42525f99d1dd717768517949c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28219697",
+      "published_utc": "2026-10-15T20:47:09Z",
+      "title_en": "Даку заявил, что в \"Спартаке\" их отношения с Угальде являются больше, чем конкуренцией",
+      "lead_en": "В четверг красно-белые обыграли \"Родину\" в матче Кубка России",
+      "title_raw": "Даку заявил, что в \"Спартаке\" их отношения с Угальде являются больше, чем конкуренцией",
+      "lead_raw": "В четверг красно-белые обыграли \"Родину\" в матче Кубка России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7c1528cf4b43c26a2771b1df92e2c5efcc5f39db",
+      "fingerprint": "f5fec967f8908fdfd331eb232d6a1da509b8e93b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2202721",
+      "published_utc": "2026-10-15T20:41:00Z",
+      "title_en": "Ignoring 'secret prisons' in Ukraine encourages their spread — Russian envoy",
+      "lead_en": "Rodion Miroshnik noted that conditions in these \"secret prisons\" were utterly inhumane",
+      "title_raw": "Ignoring 'secret prisons' in Ukraine encourages their spread — Russian envoy",
+      "lead_raw": "Rodion Miroshnik noted that conditions in these \"secret prisons\" were utterly inhumane",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d09e166e93cb0930a975a773388011193ffe7704",
+      "fingerprint": "a2453ab7037282057d6c69bf6b28d5ea41394ff0",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/15/low-wages-are-driving-firefighters-away-from-russia-s-emergency-ministry-lawmakers-have-proposed-filling-vacancies-with-conscripts",
+      "published_utc": "2026-10-15T20:39:18Z",
+      "title_en": "Low wages are driving firefighters away from Russia’s Emergencies Ministry. Lawmakers have backed a bill to fill the vacancies with conscripts.",
+      "lead_en": "Russia’s State Duma has passed a bill in its first reading that would allow conscripts to serve in military units of the Emergencies Ministry’s Federal Fire Service.",
+      "title_raw": "Low wages are driving firefighters away from Russia’s Emergencies Ministry. Lawmakers have backed a bill to fill the vacancies with conscripts.",
+      "lead_raw": "Russia’s State Duma has passed a bill in its first reading that would allow conscripts to serve in military units of the Emergencies Ministry’s Federal Fire Service.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d12f5f03036880c862d2c702050b9eeb7e263920",
+      "fingerprint": "645bde8cb5f3ad2cc1ad57bc7cf437ceb150dc2d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/feature/2026/10/15/leaving-russia-doesn-t-necessarily-mean-leaving-trouble-behind-fortunately-help-is-out-there-meduza-has-compiled-a-list-of-organizations-that-support-russians-abroad",
+      "published_utc": "2026-10-15T20:35:40Z",
+      "title_en": "Leaving Russia doesn’t necessarily mean leaving trouble behind. Fortunately, help is out there: Meduza has compiled a list of organizations that support Russians abroad.",
+      "lead_en": "Life abroad is full of challenges. Along with learning unfamiliar laws and customs, studying a language, and building a network from scratch, Russians abroad need to be ready to defend their rights — for example, if a bank unfairly freezes their account or authorities deny them documents.",
+      "title_raw": "Leaving Russia doesn’t necessarily mean leaving trouble behind. Fortunately, help is out there: Meduza has compiled a list of organizations that support Russians abroad.",
+      "lead_raw": "Life abroad is full of challenges. Along with learning unfamiliar laws and customs, studying a language, and building a network from scratch, Russians abroad need to be ready to defend their rights — for example, if a bank unfairly freezes their account or authorities deny them documents.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0c8a23a5ae91df43d8a5796622d48e615a849c54",
+      "fingerprint": "41e8bd2dceb4141296458df8a13eb3093ffc0d90",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28219681",
+      "published_utc": "2026-10-15T20:34:07Z",
+      "title_en": "Мирошник: Киев любыми методами выторговывает паузу для переподготовки",
+      "lead_en": "Россию такие подходы не устраивают, заявил посол по особым поручениям МИД",
+      "title_raw": "Мирошник: Киев любыми методами выторговывает паузу для переподготовки",
+      "lead_raw": "Россию такие подходы не устраивают, заявил посол по особым поручениям МИД",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c02644cf37786853dc4c7c19b01c3b10386e1d8e",
+      "fingerprint": "4f2b587ebdaf3f1010c527a28fa3237e4cdcb27b",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2202719",
+      "published_utc": "2026-10-15T20:25:00Z",
+      "title_en": "Time for US, EU and Ukraine to accept Kiev will have to make concessions — commentator",
+      "lead_en": "Jennifer Kavanagh, an expert of the Washington-based think tank Defense Priorities, stressed that \"Russia has significant advantages and the opportunity to press them over the coming months\"",
+      "title_raw": "Time for US, EU and Ukraine to accept Kiev will have to make concessions — commentator",
+      "lead_raw": "Jennifer Kavanagh, an expert of the Washington-based think tank Defense Priorities, stressed that \"Russia has significant advantages and the opportunity to press them over the coming months\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "097850b5af8126de5dafd0dd600b7f3c5bc073e9",
+      "fingerprint": "6d48db72efd717e1bbb3418490b08a0aa72eca28",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kultura/28219651",
+      "published_utc": "2026-10-15T20:13:05Z",
+      "title_en": "Путин присвоил Аскару Абдразакову звание народного артиста РФ",
+      "lead_en": "В 2021 году вокалисту Башкирского государственного театра оперы и балета было присвоено звание заслуженного артиста России",
+      "title_raw": "Путин присвоил Аскару Абдразакову звание народного артиста РФ",
+      "lead_raw": "В 2021 году вокалисту Башкирского государственного театра оперы и балета было присвоено звание заслуженного артиста России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a125c93e31f6f36e60ce5ca72745d75fc34e4804",
+      "fingerprint": "ded28238270aaa923a52f65f81aba528d8a6dd65",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28219627",
+      "published_utc": "2026-10-15T20:11:39Z",
+      "title_en": "АТОР: сбой у \"Яндекса\" не повлиял на туристическую отрасль России",
+      "lead_en": "По словам исполнительного директора ассоциации Майи Ломидзе, технические проблемы в основном затронули внутрикорпоративные сервисы туркомпаний",
+      "title_raw": "АТОР: сбой у \"Яндекса\" не повлиял на туристическую отрасль России",
+      "lead_raw": "По словам исполнительного директора ассоциации Майи Ломидзе, технические проблемы в основном затронули внутрикорпоративные сервисы туркомпаний",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "9b71ad63fa4b250c59303d17ec1be6bdf85c2eda",
       "fingerprint": "6165877fac841cbf3e9827fedaa793f86f0e2c93",
