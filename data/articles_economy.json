@@ -1,8 +1,77 @@
 {
-  "updated_at_utc": "2026-10-15T05:40:53Z",
+  "updated_at_utc": "2026-10-15T11:05:21Z",
   "topic": "economy",
-  "count": 18,
+  "count": 20,
   "articles": [
+    {
+      "id": "379d842a3446b1cedc01bab3279672645400fad0",
+      "fingerprint": "f4b982ed514be1a6b91eb4c3e4786cbe20529b01",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28217583",
+      "published_utc": "2026-10-15T10:21:09Z",
+      "title_en": "Лавров и Фидан обсудили торгово-экономическое и энергетическое сотрудничество",
+      "lead_en": "Главы МИД России и Турции также рассмотрели график контактов на высшем уровне",
+      "title_raw": "Лавров и Фидан обсудили торгово-экономическое и энергетическое сотрудничество",
+      "lead_raw": "Главы МИД России и Турции также рассмотрели график контактов на высшем уровне",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "97181791e104932a5d2d8e0d1b814d5d3fecf0a7",
+      "fingerprint": "b542fcffc247cf9aedc040d71b3d7cd1ac05df2d",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/kremlin-says-russian-diesel-exports-reaching-global-markets-a93977",
+      "published_utc": "2026-10-15T10:15:00Z",
+      "title_en": "Kremlin Says Russian Diesel Exports Reaching Global Markets",
+      "lead_en": "Spokesman Dmitry Peskov said the exports would have a positive impact on global markets, but would not fully stabilize them.",
+      "title_raw": "Kremlin Says Russian Diesel Exports Reaching Global Markets",
+      "lead_raw": "Spokesman Dmitry Peskov said the exports would have a positive impact on global markets, but would not fully stabilize them.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e33ebd12c8d0f0e1e955e046d80979b4d2f691d8",
+      "fingerprint": "2b9f7154255b6b08b5476c54da9ac0d5d09a7661",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2202319",
+      "published_utc": "2026-10-15T07:27:33Z",
+      "title_en": "Russia-US diesel deal could set precedent for suspension or removal of sanctions",
+      "lead_en": "In European Union countries, the automotive industry is currently surviving only because they're now producing weapons, Russian presidential commissioner for the protection of entrepreneurs' rights Alexander Shokhin noted",
+      "title_raw": "Russia-US diesel deal could set precedent for suspension or removal of sanctions",
+      "lead_raw": "In European Union countries, the automotive industry is currently surviving only because they're now producing weapons, Russian presidential commissioner for the protection of entrepreneurs' rights Alexander Shokhin noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "41cae36db734f5ccf3f8253ef8e9fbd5db66bc14",
       "fingerprint": "f7c5b212cd69de6f80e5e183ef7982f0d2a4ef41",
@@ -381,28 +450,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "53c4a1a418f56c48fa8f642581c13f3e400d87ec",
-      "fingerprint": "3d6fdffed96b0fdcbb4bf05e3b21b47f507ba396",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28208513",
-      "published_utc": "2026-10-13T07:23:44Z",
-      "title_en": "ЦБ купил юани на 12,1 млрд рублей с расчетами 12 октября",
-      "lead_en": "Операции покупки и продажи иностранной валюты Банк России проводит на внутреннем рынке в валютной секции Мосбиржи в инструменте \"юань - рубль\"",
-      "title_raw": "ЦБ купил юани на 12,1 млрд рублей с расчетами 12 октября",
-      "lead_raw": "Операции покупки и продажи иностранной валюты Банк России проводит на внутреннем рынке в валютной секции Мосбиржи в инструменте \"юань - рубль\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
