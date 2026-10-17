@@ -1,8 +1,55 @@
 {
-  "updated_at_utc": "2026-10-16T23:20:13Z",
+  "updated_at_utc": "2026-10-17T03:40:12Z",
   "topic": "diplomacy",
-  "count": 111,
+  "count": 112,
   "articles": [
+    {
+      "id": "e2ccabf27209f4bc3074c69a4bf5ca0252204d8a",
+      "fingerprint": "7642fdc2d187ee75068dbb5490c14c2c6009437e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28224463",
+      "published_utc": "2026-10-17T01:37:59Z",
+      "title_en": "Трамп поручил администрации США следить за поставками энергоносителей из РФ",
+      "lead_en": "Представитель Соединенных Штатов на торговых переговорах также будет информировать американского лидера об обстоятельствах, которые могут потребовать дальнейших решений относительно сохранения исключений из антироссийских санкций",
+      "title_raw": "Трамп поручил администрации США следить за поставками энергоносителей из РФ",
+      "lead_raw": "Представитель Соединенных Штатов на торговых переговорах также будет информировать американского лидера об обстоятельствах, которые могут потребовать дальнейших решений относительно сохранения исключений из антироссийских санкций",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "edd74257b0b0e1a3fab43930c5c93f57aa7264be",
+      "fingerprint": "9d5884c9a83a96522013b2bf2c979ae4f4163da6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2203397",
+      "published_utc": "2026-10-16T23:25:01Z",
+      "title_en": "Congressmen introduce bill to block Russia-US diesel deal",
+      "lead_en": "According to the document, the US International Development Finance Corporation is prohibited from participating in any Russian energy agreements",
+      "title_raw": "Congressmen introduce bill to block Russia-US diesel deal",
+      "lead_raw": "According to the document, the US International Development Finance Corporation is prohibited from participating in any Russian energy agreements",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3a66aa1d249f70ea6c2150151b9f4eda75f6d49b",
       "fingerprint": "70cafbd4813d494149ff46bd4bea23d58a1506a1",
@@ -23,6 +70,28 @@
       "topics": [
         "diplomacy",
         "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0e43402685e6b7cb81764035999ac3189bf2ac17",
+      "fingerprint": "6c2dd6be8f68da7bbb2f24ad7d41d2b9cbdfcd75",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2203389",
+      "published_utc": "2026-10-16T22:38:00Z",
+      "title_en": "UNHRC and UNESCO ignore Kiev’s crimes — Russian Foreign Ministry",
+      "lead_en": "Maria Zakharova emphasized that the organizations are effectively participating in the West’s undeclared war against Russia",
+      "title_raw": "UNHRC and UNESCO ignore Kiev’s crimes — Russian Foreign Ministry",
+      "lead_raw": "Maria Zakharova emphasized that the organizations are effectively participating in the West’s undeclared war against Russia",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     },
@@ -2439,52 +2508,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "83b621346c478f95fa65fa114fbc3306054f6f35",
-      "fingerprint": "0872ed9e0c6d1fc0bc1c4a44143ccdbdd7b4f6e4",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2202245",
-      "published_utc": "2026-10-15T00:00:06Z",
-      "title_en": "Zelensky wants guarantees of London’s support if he continues ignoring US proposals",
-      "lead_en": "Russian Foreign Ministry Ambassador at Large Rodion Miroshnik says that Vladimir Zelensky is seeking compensation for intelligence sharing, air defense systems, and other types of weapons",
-      "title_raw": "Zelensky wants guarantees of London’s support if he continues ignoring US proposals",
-      "lead_raw": "Russian Foreign Ministry Ambassador at Large Rodion Miroshnik says that Vladimir Zelensky is seeking compensation for intelligence sharing, air defense systems, and other types of weapons",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "36c744a7bb7dd9afabff93166fe54d04c1897680",
-      "fingerprint": "d617fc8d7644aadb07d7a6eb857427ae886a67dd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28215573",
-      "published_utc": "2026-10-14T23:51:13Z",
-      "title_en": "FT узнала, что США предложили ЕС разморозить часть российских активов",
-      "lead_en": "По информации газеты, американские переговорщики выступили с этой идеей для возобновления переговоров об урегулировании украинского конфликта",
-      "title_raw": "FT узнала, что США предложили ЕС разморозить часть российских активов",
-      "lead_raw": "По информации газеты, американские переговорщики выступили с этой идеей для возобновления переговоров об урегулировании украинского конфликта",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }

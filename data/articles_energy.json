@@ -1,8 +1,77 @@
 {
-  "updated_at_utc": "2026-10-16T23:20:13Z",
+  "updated_at_utc": "2026-10-17T03:40:12Z",
   "topic": "energy",
-  "count": 79,
+  "count": 80,
   "articles": [
+    {
+      "id": "53fb6099151c80caded8b4e84c8c4c83cfd6f7d5",
+      "fingerprint": "c25cf2db44ff9a9fe038cfe6c3cc314e8fb46d36",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203423",
+      "published_utc": "2026-10-17T02:00:01Z",
+      "title_en": "Trump waives 100% tariffs on key buyers of Russian energy",
+      "lead_en": "The American leader stated that he made this decision in accordance with section 115(a) of the Graham Act.",
+      "title_raw": "Trump waives 100% tariffs on key buyers of Russian energy",
+      "lead_raw": "The American leader stated that he made this decision in accordance with section 115(a) of the Graham Act.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e2ccabf27209f4bc3074c69a4bf5ca0252204d8a",
+      "fingerprint": "7642fdc2d187ee75068dbb5490c14c2c6009437e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28224463",
+      "published_utc": "2026-10-17T01:37:59Z",
+      "title_en": "Трамп поручил администрации США следить за поставками энергоносителей из РФ",
+      "lead_en": "Представитель Соединенных Штатов на торговых переговорах также будет информировать американского лидера об обстоятельствах, которые могут потребовать дальнейших решений относительно сохранения исключений из антироссийских санкций",
+      "title_raw": "Трамп поручил администрации США следить за поставками энергоносителей из РФ",
+      "lead_raw": "Представитель Соединенных Штатов на торговых переговорах также будет информировать американского лидера об обстоятельствах, которые могут потребовать дальнейших решений относительно сохранения исключений из антироссийских санкций",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "edd74257b0b0e1a3fab43930c5c93f57aa7264be",
+      "fingerprint": "9d5884c9a83a96522013b2bf2c979ae4f4163da6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2203397",
+      "published_utc": "2026-10-16T23:25:01Z",
+      "title_en": "Congressmen introduce bill to block Russia-US diesel deal",
+      "lead_en": "According to the document, the US International Development Finance Corporation is prohibited from participating in any Russian energy agreements",
+      "title_raw": "Congressmen introduce bill to block Russia-US diesel deal",
+      "lead_raw": "According to the document, the US International Development Finance Corporation is prohibited from participating in any Russian energy agreements",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3a66aa1d249f70ea6c2150151b9f4eda75f6d49b",
       "fingerprint": "70cafbd4813d494149ff46bd4bea23d58a1506a1",
@@ -1721,51 +1790,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "36c744a7bb7dd9afabff93166fe54d04c1897680",
-      "fingerprint": "d617fc8d7644aadb07d7a6eb857427ae886a67dd",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28215573",
-      "published_utc": "2026-10-14T23:51:13Z",
-      "title_en": "FT узнала, что США предложили ЕС разморозить часть российских активов",
-      "lead_en": "По информации газеты, американские переговорщики выступили с этой идеей для возобновления переговоров об урегулировании украинского конфликта",
-      "title_raw": "FT узнала, что США предложили ЕС разморозить часть российских активов",
-      "lead_raw": "По информации газеты, американские переговорщики выступили с этой идеей для возобновления переговоров об урегулировании украинского конфликта",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7f1fe3f2fc7b5b0ead2b90e72068ec1ae91d6ea3",
-      "fingerprint": "fb152a3f564041a320db602856a5801b3c3e7b35",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28215559",
-      "published_utc": "2026-10-14T23:24:59Z",
-      "title_en": "NY Post заявила, что США ждут поступления дизеля РФ на их рынок в скором времени",
-      "lead_en": "По информации газеты, Россия согласилась направить \"весьма существенный\" объем топлива",
-      "title_raw": "NY Post заявила, что США ждут поступления дизеля РФ на их рынок в скором времени",
-      "lead_raw": "По информации газеты, Россия согласилась направить \"весьма существенный\" объем топлива",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
