@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-10-18T00:43:35Z",
+  "updated_at_utc": "2026-10-18T05:33:10Z",
   "topic": "energy",
-  "count": 60,
+  "count": 56,
   "articles": [
+    {
+      "id": "945f8dd535ca53a0bfae7557647bd6f2a74cc0a7",
+      "fingerprint": "d3b3f75ab47f8e9599c44afe5d7b435dea9d89c4",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2203633",
+      "published_utc": "2026-10-18T00:46:35Z",
+      "title_en": "Trump takes 60 days to assess impact of potential sanctions against Russia — Rubio",
+      "lead_en": "The US secretary of state noted that the additional analysis is prompted by tensions in global energy markets",
+      "title_raw": "Trump takes 60 days to assess impact of potential sanctions against Russia — Rubio",
+      "lead_raw": "The US secretary of state noted that the additional analysis is prompted by tensions in global energy markets",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "a01dec094eedbf0290f9b742303efbb2301714c0",
       "fingerprint": "b144c82245cdf5532f753a9fb5f56dcafb32492d",
@@ -1221,118 +1244,6 @@
       "lead_en": "Earlier, The Wall Street Journal reported that Washington had asked Ukraine six times to halt strikes on Russian oil infrastructure",
       "title_raw": "JD Vance, Witkoff, Kushner ask Zelensky not to strike Russian oil refineries — newspaper",
       "lead_raw": "Earlier, The Wall Street Journal reported that Washington had asked Ukraine six times to halt strikes on Russian oil infrastructure",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3a7169fc5fa68316a5f004f0124cf993751be8f3",
-      "fingerprint": "8f88c0f9bc57a4cfb338af9c3cb86c9c19bba569",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2202789",
-      "published_utc": "2026-10-16T03:54:00Z",
-      "title_en": "Russia ready to boost oil deliveries to India on request",
-      "lead_en": "Director of the Russian Foreign Ministry’s Second Asian Department Alexey Pavlovsky emphasized that if there is such an interest, Russia stands ready to deliver",
-      "title_raw": "Russia ready to boost oil deliveries to India on request",
-      "lead_raw": "Director of the Russian Foreign Ministry’s Second Asian Department Alexey Pavlovsky emphasized that if there is such an interest, Russia stands ready to deliver",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fcf8f502bdb5e0a0d378d7ce1483395eb757e472",
-      "fingerprint": "11c58df57a8c4d1e0580dcf6ef198e8a9de55b46",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28220145",
-      "published_utc": "2026-10-16T02:27:56Z",
-      "title_en": "NYT: Вэнс, Кушнер и Уиткофф просили Зеленского не атаковать российские НПЗ",
-      "lead_en": "США шесть раз обращались к Украине, сообщала ранее газета The Wall Street Journal",
-      "title_raw": "NYT: Вэнс, Кушнер и Уиткофф просили Зеленского не атаковать российские НПЗ",
-      "lead_raw": "США шесть раз обращались к Украине, сообщала ранее газета The Wall Street Journal",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "208ab0c5bc1a1e4df5d4a39148320a270c3c1d50",
-      "fingerprint": "12c6888a8e1b3cb010219ec91c4ca8ac24b7bf70",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2202763",
-      "published_utc": "2026-10-16T01:42:00Z",
-      "title_en": "Trump slams Kiev’s strikes on Russian refineries as 'disgrace' that harms whole world",
-      "lead_en": "Donald Trump emphasized that Vladimir Zekensky is making the world oil price higher",
-      "title_raw": "Trump slams Kiev’s strikes on Russian refineries as 'disgrace' that harms whole world",
-      "lead_raw": "Donald Trump emphasized that Vladimir Zekensky is making the world oil price higher",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "19050bc1813665ffa13724d4f3a8d8a3ad7d5876",
-      "fingerprint": "b8f83a410783a1585419331dbef74f041c6767cc",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28220039",
-      "published_utc": "2026-10-16T01:30:43Z",
-      "title_en": "\"Позор\". Трамп прокомментировал удары Украины по российским НПЗ",
-      "lead_en": "Президент США подчеркнул, что такие атаки только поднимают мировые цены на нефть",
-      "title_raw": "\"Позор\". Трамп прокомментировал удары Украины по российским НПЗ",
-      "lead_raw": "Президент США подчеркнул, что такие атаки только поднимают мировые цены на нефть",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b8dad492a4a4666273ec948edb5ed24e56f5670f",
-      "fingerprint": "d738280d065ba8d6ff0d863005d623e20b60100d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2202755",
-      "published_utc": "2026-10-16T01:05:00Z",
-      "title_en": "Trump views Zelensky as not the best choice for US to work with",
-      "lead_en": "The US leader confirmed that he had asked Zelensky to halt strikes on Russian oil refineries",
-      "title_raw": "Trump views Zelensky as not the best choice for US to work with",
-      "lead_raw": "The US leader confirmed that he had asked Zelensky to halt strikes on Russian oil refineries",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
