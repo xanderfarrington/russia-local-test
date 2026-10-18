@@ -1,7 +1,529 @@
 {
-  "updated_at_utc": "2026-10-18T05:33:10Z",
-  "count": 42858,
+  "updated_at_utc": "2026-10-18T10:38:38Z",
+  "count": 42883,
   "articles": [
+    {
+      "id": "85dcbb67744941012169bc36b4d0e132608d0fd7",
+      "fingerprint": "d0b79bccaffb3570f5d98d86b5331ddaed70ac64",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28227019",
+      "published_utc": "2026-10-18T10:17:08Z",
+      "title_en": "Лавров: РФ искренне дорожит отношениями с арабскими странами Персидского залива",
+      "lead_en": "Москва твердо настроена на поступательное развитие связи с арабскими странами залива, отметил глава МИД России",
+      "title_raw": "Лавров: РФ искренне дорожит отношениями с арабскими странами Персидского залива",
+      "lead_raw": "Москва твердо настроена на поступательное развитие связи с арабскими странами залива, отметил глава МИД России",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4179f1259138d88f2e26abfa9a2350a93c00dfd2",
+      "fingerprint": "114f2d10efad0d8b4cb167e469b236c25a963c1a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28226987",
+      "published_utc": "2026-10-18T10:10:38Z",
+      "title_en": "Страны Персидского залива высоко оценивают координацию с РФ в рамках ОПЕК+",
+      "lead_en": "Министр иностранных дел Бахрейна Абдель Латиф бен Рашед аз-Заяни также подчеркнул важность ускорения реализации совместного плана действий между странами Персидского залива и Россией, в частности, в таких сферах, как энергетика и транспорт",
+      "title_raw": "Страны Персидского залива высоко оценивают координацию с РФ в рамках ОПЕК+",
+      "lead_raw": "Министр иностранных дел Бахрейна Абдель Латиф бен Рашед аз-Заяни также подчеркнул важность ускорения реализации совместного плана действий между странами Персидского залива и Россией, в частности, в таких сферах, как энергетика и транспорт",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d94cd4b2d71d1dc5f7fa2b6b5d8a835cf5028710",
+      "fingerprint": "40b8413c86f5332cf3c73f9feb2ce912b018f48f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28226985",
+      "published_utc": "2026-10-18T10:04:20Z",
+      "title_en": "Страны Персидского залива призывают РФ поддержать участие в переговорах по Ирану",
+      "lead_en": "Министр иностранных дел Бахрейна Абдель Латиф бен Рашед аз-Заяни отметил, что ССАГПЗ рассчитывает, что Россия задействует свои связи с Ираном, чтобы побудить его к полному соблюдению резолюции СБ ООН 2817",
+      "title_raw": "Страны Персидского залива призывают РФ поддержать участие в переговорах по Ирану",
+      "lead_raw": "Министр иностранных дел Бахрейна Абдель Латиф бен Рашед аз-Заяни отметил, что ССАГПЗ рассчитывает, что Россия задействует свои связи с Ираном, чтобы побудить его к полному соблюдению резолюции СБ ООН 2817",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bb1137ee8549867bbae9c1860be56ba9966861f4",
+      "fingerprint": "8f1f83e3a1ba0d99c8afa78ea7ab5ac21c9ebb43",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28226967",
+      "published_utc": "2026-10-18T09:59:36Z",
+      "title_en": "В Федерации велоспорта РФ назвали чемпионку мира Лысенко королевой кейрина",
+      "lead_en": "Россиянка завоевала золото на турнире в Китае",
+      "title_raw": "В Федерации велоспорта РФ назвали чемпионку мира Лысенко королевой кейрина",
+      "lead_raw": "Россиянка завоевала золото на турнире в Китае",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b49494f7f921734c9b31f6139103e3463c6be142",
+      "fingerprint": "9645140b11c669f87faf10959b2fa9fb35219bfe",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-five-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
+      "published_utc": "2026-10-18T09:53:00Z",
+      "title_en": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "title_raw": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e68e0bc508d277706e95dd99109630725c5bcc3f",
+      "fingerprint": "8ffe8de1ca1981b85eb097797fd8715d837a573c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28226961",
+      "published_utc": "2026-10-18T09:49:20Z",
+      "title_en": "Орешкин отметил пользу для экономики от появления новых покупателей товаров РФ",
+      "lead_en": "Заместитель руководителя администрации президента прокомментировал сделку между Россией и США о поставке дизельного топлива на американский и мировой рынки",
+      "title_raw": "Орешкин отметил пользу для экономики от появления новых покупателей товаров РФ",
+      "lead_raw": "Заместитель руководителя администрации президента прокомментировал сделку между Россией и США о поставке дизельного топлива на американский и мировой рынки",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6578582dbb9c117881d72ad2923d6b7b8dfab727",
+      "fingerprint": "2963b1c3f2b0fbacad67bb5afad3ed69048ea117",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28226849",
+      "published_utc": "2026-10-18T09:48:52Z",
+      "title_en": "Лавров на девятом раунде стратегического диалога Россия-ССАГПЗ. Трансляция завершена",
+      "lead_en": "Встреча прошла в Манаме",
+      "title_raw": "Лавров на девятом раунде стратегического диалога Россия-ССАГПЗ. Трансляция завершена",
+      "lead_raw": "Встреча прошла в Манаме",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "333e7314d00ba0d6d2dc9a3f832fd6dee7677e92",
+      "fingerprint": "3b00bd4c78973f9dff984f3e3787b3603b1136bf",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28226927",
+      "published_utc": "2026-10-18T09:35:16Z",
+      "title_en": "Песков: удары РФ по Украине призваны понизить потенциал киевского режима",
+      "lead_en": "Представитель Кремля отметил, что удары России массированные и планомерные",
+      "title_raw": "Песков: удары РФ по Украине призваны понизить потенциал киевского режима",
+      "lead_raw": "Представитель Кремля отметил, что удары России массированные и планомерные",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "46cc13f3b8e9726442b6fd7ab1f8e0031b2b27be",
+      "fingerprint": "1473e46a7a746db735bc91e71b93b38b34297c34",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28226925",
+      "published_utc": "2026-10-18T09:34:32Z",
+      "title_en": "Песков заявил о постоянных ответах России на удары Украины",
+      "lead_en": "Удары РФ планомерные и массированные, отметил представитель Кремля",
+      "title_raw": "Песков заявил о постоянных ответах России на удары Украины",
+      "lead_raw": "Удары РФ планомерные и массированные, отметил представитель Кремля",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "96c8b2234617268dfc038c008c260e17621bb20e",
+      "fingerprint": "d47330c1bf440fa5677a272c66f02e31711e7ed1",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/kosmos/28226841",
+      "published_utc": "2026-10-18T09:11:38Z",
+      "title_en": "В РАН назвали реалистичными планы по запуску российской АЭС на Луне",
+      "lead_en": "Другие страны также могут рассматривать такую возможность, отметил вице-президент РАН Степан Калмыков",
+      "title_raw": "В РАН назвали реалистичными планы по запуску российской АЭС на Луне",
+      "lead_raw": "Другие страны также могут рассматривать такую возможность, отметил вице-президент РАН Степан Калмыков",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "14ff37728ecaf7f1fdde9d64c0e56c4a0375ce14",
+      "fingerprint": "f7c930d03e273f3f6da7946bd83857b24473ba90",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28226859",
+      "published_utc": "2026-10-18T09:07:24Z",
+      "title_en": "Путин на неделе вручит ФТС новое знамя",
+      "lead_en": "В графике российского лидера также запланированы международные контакты и заседание Совета безопасности, сообщил журналист \"Вестей\" Павел Зарубин",
+      "title_raw": "Путин на неделе вручит ФТС новое знамя",
+      "lead_raw": "В графике российского лидера также запланированы международные контакты и заседание Совета безопасности, сообщил журналист \"Вестей\" Павел Зарубин",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "518f1ce7a268126ba981ae024b765eede25ad957",
+      "fingerprint": "d4730d938de3775e39c06201bcdf8f8b01a86579",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/interviews/28225957",
+      "published_utc": "2026-10-18T09:00:01Z",
+      "title_en": "Вице-премьер РФ Алексей Оверчук: России есть что предложить странам Глобального Юга",
+      "lead_en": "Вице-премьер РФ Алексей Оверчук в интервью ТАСС по итогам участия в осенней сессии руководящих органов МВФ и Всемирного банка в Бангкоке рассказал, почему Москве важно работать на площадке Всемирного банка, что Россия может предложить государствам Глобального Юга, и объяснил, чем",
+      "title_raw": "Вице-премьер РФ Алексей Оверчук: России есть что предложить странам Глобального Юга",
+      "lead_raw": "Вице-премьер РФ Алексей Оверчук в интервью ТАСС по итогам участия в осенней сессии руководящих органов МВФ и Всемирного банка в Бангкоке рассказал, почему Москве важно работать на площадке Всемирного банка, что Россия может предложить государствам Глобального Юга, и объяснил, чем",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3d167f1d44578f36c18f666fef04e8517a4376e6",
+      "fingerprint": "4a846763628b30380a43268ad154aeae34915ef0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28226839",
+      "published_utc": "2026-10-18T08:49:57Z",
+      "title_en": "Песков поздравил россиян с Днем отца",
+      "lead_en": "Представитель Кремля назвал отцовство большой ответственностью и большим счастьем",
+      "title_raw": "Песков поздравил россиян с Днем отца",
+      "lead_raw": "Представитель Кремля назвал отцовство большой ответственностью и большим счастьем",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ce2af87f9253ba2b8b36ecc834e7c83f551d960e",
+      "fingerprint": "ab701d0753185fd25b00357fa2b964128c414cf2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28226815",
+      "published_utc": "2026-10-18T08:31:44Z",
+      "title_en": "Тренера российских гимнастов поселили в номер гостиницы с клопами",
+      "lead_en": "Это случилось в Роттердаме, где проходит чемпионат мира по спортивной гимнастике",
+      "title_raw": "Тренера российских гимнастов поселили в номер гостиницы с клопами",
+      "lead_raw": "Это случилось в Роттердаме, где проходит чемпионат мира по спортивной гимнастике",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f834f259ea70e3965f72ff8cc27bac5afab55595",
+      "fingerprint": "0fb167bfbac02fd7473583cd272900c8aae5555f",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28226813",
+      "published_utc": "2026-10-18T08:31:02Z",
+      "title_en": "ВС РФ поразили склад ВСУ в Днепропетровской области",
+      "lead_en": "Российские военные ударили по цели в момент максимальной загруженности с помощью \"Герани-4\"",
+      "title_raw": "ВС РФ поразили склад ВСУ в Днепропетровской области",
+      "lead_raw": "Российские военные ударили по цели в момент максимальной загруженности с помощью \"Герани-4\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c9acaad68ea0b3173ba2ad410b98458f36b20698",
+      "fingerprint": "6191973f0af5665199896aa499043c90c230f442",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/18/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions-a94014",
+      "published_utc": "2026-10-18T08:19:00Z",
+      "title_en": "Rubio Says Trump To Take up to 60 Days To Weigh Russia Sanctions",
+      "lead_en": "\"A lot of you don't know what my decision is yet, but we'll figure it out, and you'll figure it out,\" Trump told reporters at his Mar-a-Lago club.",
+      "title_raw": "Rubio Says Trump To Take up to 60 Days To Weigh Russia Sanctions",
+      "lead_raw": "\"A lot of you don't know what my decision is yet, but we'll figure it out, and you'll figure it out,\" Trump told reporters at his Mar-a-Lago club.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d88e5f1cfc247f5e45c05b3ac77b773a82352ce1",
+      "fingerprint": "5b562cb4260fdb832ce29607e4b7c10840d82509",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28226795",
+      "published_utc": "2026-10-18T08:16:19Z",
+      "title_en": "Netflix зарегистрировал в России товарный знак логотипа c названием",
+      "lead_en": "Он зарегистрирован по шести классам Международной классификации товаров и услуг",
+      "title_raw": "Netflix зарегистрировал в России товарный знак логотипа c названием",
+      "lead_raw": "Он зарегистрирован по шести классам Международной классификации товаров и услуг",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fc36e4974ebc40dfa094b4ff8d324a3a33415bd7",
+      "fingerprint": "f3a31ebba6c0ca9a9fc6c694506b6a62df5d7886",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/nauka/28226787",
+      "published_utc": "2026-10-18T08:14:27Z",
+      "title_en": "Эксперт Калмыков назвал санкции против РФ большим стимулом для постройки СКИФа",
+      "lead_en": "Постройка подобных установок повышает интерес к сотрудничеству с Россией со стороны стран БРИКС и глобального Юга, отметил вице-президент РАН",
+      "title_raw": "Эксперт Калмыков назвал санкции против РФ большим стимулом для постройки СКИФа",
+      "lead_raw": "Постройка подобных установок повышает интерес к сотрудничеству с Россией со стороны стран БРИКС и глобального Юга, отметил вице-президент РАН",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1f3851e6bb085a1d17417afed627884a197f7104",
+      "fingerprint": "1ccf048a354592156fb0772b9249c8fd872b09db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28226793",
+      "published_utc": "2026-10-18T08:14:03Z",
+      "title_en": "Турниры Московской недели видеоигр пройдут в 69 регионах России и 5 странах",
+      "lead_en": "Участники сразятся в Counter-Strike 2, Dota 2, Valorant, PUBG, \"Мире танков\" и Hearthstone",
+      "title_raw": "Турниры Московской недели видеоигр пройдут в 69 регионах России и 5 странах",
+      "lead_raw": "Участники сразятся в Counter-Strike 2, Dota 2, Valorant, PUBG, \"Мире танков\" и Hearthstone",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "112fea26b0f5e938498f3127e87e2f0086244211",
+      "fingerprint": "32c13126dd131bcd395b5ec6d64872af7d38db1c",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28226781",
+      "published_utc": "2026-10-18T08:09:42Z",
+      "title_en": "Эксперт Кузякин: Прибалтика ночью открыла небо для атаки украинских БПЛА на Россию",
+      "lead_en": "Не исключен и запуск беспилотников с территории одной из прибалтийских стран, отметил специалист в области беспилотной авиации, генеральный конструктор Центра комплексных беспилотных решений",
+      "title_raw": "Эксперт Кузякин: Прибалтика ночью открыла небо для атаки украинских БПЛА на Россию",
+      "lead_raw": "Не исключен и запуск беспилотников с территории одной из прибалтийских стран, отметил специалист в области беспилотной авиации, генеральный конструктор Центра комплексных беспилотных решений",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "defd15e4e3f0d9f2d2e99b4941f9f7f02f7fefb7",
+      "fingerprint": "09dcad68cd4490c36d4517c1c33647f493580b30",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203695",
+      "published_utc": "2026-10-18T07:53:25Z",
+      "title_en": "Europe can only cover gas deficit through supplies from Russia — deputy PM",
+      "lead_en": "He said that European consumers would pay the price",
+      "title_raw": "Europe can only cover gas deficit through supplies from Russia — deputy PM",
+      "lead_raw": "He said that European consumers would pay the price",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a41d13209407919e8b6d1a0da3babeef155f4427",
+      "fingerprint": "59c9a571d90f7f2d63a3b38a789e4b44e60a3742",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203691",
+      "published_utc": "2026-10-18T07:26:33Z",
+      "title_en": "Russia to export diesel to US on Aframax tankers — deputy PM",
+      "lead_en": "He said that after the sanctions are lifted, freight, transportation, and insurance of such transactions are not subject to restrictions",
+      "title_raw": "Russia to export diesel to US on Aframax tankers — deputy PM",
+      "lead_raw": "He said that after the sanctions are lifted, freight, transportation, and insurance of such transactions are not subject to restrictions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3ada1f526ad4156ede6fce82a084f35a60fc42ec",
+      "fingerprint": "8df7c8dac42aaef17352461200d1fa122d59f049",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203689",
+      "published_utc": "2026-10-18T07:25:57Z",
+      "title_en": "Russian diesel to enter US market 15-20 days after signing contracts",
+      "lead_en": "The US Department of Energy has identified the companies that will be the counterparties and buyers",
+      "title_raw": "Russian diesel to enter US market 15-20 days after signing contracts",
+      "lead_raw": "The US Department of Energy has identified the companies that will be the counterparties and buyers",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d52c514d615a393d67d585ddde55ed96329c21c3",
+      "fingerprint": "d5e869386f6b731ae4cdec09a4332cc252d1915c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2203683",
+      "published_utc": "2026-10-18T07:25:29Z",
+      "title_en": "Police found breached fence at Leipzig Airport — Bild",
+      "lead_en": "Three Russian An cargo aircraft that cannot leave Germany because of sanctions are parked near the site of the damage",
+      "title_raw": "Police found breached fence at Leipzig Airport — Bild",
+      "lead_raw": "Three Russian An cargo aircraft that cannot leave Germany because of sanctions are parked near the site of the damage",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2311faba9fdd73924de046f77d0945429741bef0",
+      "fingerprint": "d4c8caa0da94ec8114e4f0309bb413fe8a202e74",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203669",
+      "published_utc": "2026-10-18T07:25:02Z",
+      "title_en": "EAEU with 190 million consumers good market for Thailand — Russian deputy PM",
+      "lead_en": "He added that the trade balance with Thailand, which is also a major market, \"is becoming more balanced, so this discussion can be continued together with our EAEU partners.\"",
+      "title_raw": "EAEU with 190 million consumers good market for Thailand — Russian deputy PM",
+      "lead_raw": "He added that the trade balance with Thailand, which is also a major market, \"is becoming more balanced, so this discussion can be continued together with our EAEU partners.\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "be73109466dd08c503d35cfadde2cd88537f3448",
       "fingerprint": "b9945cd02f02728f2a1171af00966b68776de6ad",
