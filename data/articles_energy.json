@@ -1,8 +1,120 @@
 {
-  "updated_at_utc": "2026-10-19T05:57:59Z",
+  "updated_at_utc": "2026-10-19T12:54:28Z",
   "topic": "energy",
-  "count": 29,
+  "count": 33,
   "articles": [
+    {
+      "id": "e8dc0b46ec591ec68938926057281dba1c8d09e0",
+      "fingerprint": "830cf574f78a14fc0f32c377dab439aa380835d0",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2204105",
+      "published_utc": "2026-10-19T12:08:55Z",
+      "title_en": "Russian strikes hit over 10 energy infrastructure facilities in Ukraine overnight",
+      "lead_en": "According to Vladimir Zelensky, facilities were damaged in the Vinnitsa, Volyn, Zhitomir, Kiev, Kirovograd, Nikolayev, Odessa, Rovno, Ternopol, Kharkov, and Khmelnitsky Regions",
+      "title_raw": "Russian strikes hit over 10 energy infrastructure facilities in Ukraine overnight",
+      "lead_raw": "According to Vladimir Zelensky, facilities were damaged in the Vinnitsa, Volyn, Zhitomir, Kiev, Kirovograd, Nikolayev, Odessa, Rovno, Ternopol, Kharkov, and Khmelnitsky Regions",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "844fcbaa01b1ae4b35269f322757d88997390476",
+      "fingerprint": "5601b6f54dfe89096b955f1fdcb82842a06e4ac3",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2204103",
+      "published_utc": "2026-10-19T12:06:34Z",
+      "title_en": "European Commission rejected US proposal to resume Russian gas purchases",
+      "lead_en": "According to the EC Spokesperson Paula Pinho, the commission continues to believe in the necessity of \"coordinated sanctions\" against Russia by both the EU and the US",
+      "title_raw": "European Commission rejected US proposal to resume Russian gas purchases",
+      "lead_raw": "According to the EC Spokesperson Paula Pinho, the commission continues to believe in the necessity of \"coordinated sanctions\" against Russia by both the EU and the US",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d077a5ccb2981fd2f93f1c772beebf72aa23bc30",
+      "fingerprint": "a4d39d7739d96ee2b62e25388f1619fdb9237c2c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2203995",
+      "published_utc": "2026-10-19T09:02:38Z",
+      "title_en": "Trump removes sanctions on Russian diesel fuel for sake of US’ profit — Rubio",
+      "lead_en": "Global demand for diesel fuel has increased, the US Secretary of State noted",
+      "title_raw": "Trump removes sanctions on Russian diesel fuel for sake of US’ profit — Rubio",
+      "lead_raw": "Global demand for diesel fuel has increased, the US Secretary of State noted",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "477f62309a93799be21686d6b15ba8f9b25e05b5",
+      "fingerprint": "f089440f19743770dd8dcfc1b3b6752356f21bb2",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/19/white-house-proposed-that-eu-buy-more-russian-gas-and-ukraine-resume-transit-nytreports",
+      "published_utc": "2026-10-19T08:37:11Z",
+      "title_en": "White House proposed that EU buy more Russian gas and Ukraine resume transit, NYT reports",
+      "lead_en": "Steve Witkoff and Jared Kushner, U.S. President Donald Trump’s special envoys, proposed to European Union officials that they resume larger purchases of Russian gas, which had declined after Russia’s invasion of Ukraine, sources told The New York Times.",
+      "title_raw": "White House proposed that EU buy more Russian gas and Ukraine resume transit, NYT reports",
+      "lead_raw": "Steve Witkoff and Jared Kushner, U.S. President Donald Trump’s special envoys, proposed to European Union officials that they resume larger purchases of Russian gas, which had declined after Russia’s invasion of Ukraine, sources told The New York Times.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ad4799336238bd57605745ead7363617c8fba4c7",
+      "fingerprint": "fa86a21334fb0da844fc44137396218284103910",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/19/trump-says-he-doesn-t-want-to-drive-russia-away-from-peace-talks-again-criticizes-zelensky-over-refinery-strikes",
+      "published_utc": "2026-10-19T07:47:06Z",
+      "title_en": "Trump says he doesn’t want to ‘drive Russia away’ from peace talks, again criticizes Zelensky over refinery strikes",
+      "lead_en": "President Donald Trump said the diesel deal with Russia and his refusal to impose ‘hellish sanctions’ were an attempt to start peace negotiations.",
+      "title_raw": "Trump says he doesn’t want to ‘drive Russia away’ from peace talks, again criticizes Zelensky over refinery strikes",
+      "lead_raw": "President Donald Trump said the diesel deal with Russia and his refusal to impose ‘hellish sanctions’ were an attempt to start peace negotiations.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "23fa2fe88dd8a3256de1a907a99a83a41c8f55ad",
       "fingerprint": "24dbc859d3bc3db74df57835902b27b607e37e76",
@@ -629,28 +741,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "498ea911c57d07962dd1509e1fefe67e6002a9af",
-      "fingerprint": "f6a3be1b0d19b8a77d851378a8ac6efbbfe33fc0",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/mezhdunarodnaya-panorama/28224935",
-      "published_utc": "2026-10-17T07:34:35Z",
-      "title_en": "Шрёдер считает, что Европа стала проигравшей стороной украинского конфликта",
-      "lead_en": "Экс-канцлер ФРГ заявил, что прекращение энергетического сотрудничества с Россией, которое функционировало 50 и более лет, привело к потере благосостояния региона",
-      "title_raw": "Шрёдер считает, что Европа стала проигравшей стороной украинского конфликта",
-      "lead_raw": "Экс-канцлер ФРГ заявил, что прекращение энергетического сотрудничества с Россией, которое функционировало 50 и более лет, привело к потере благосостояния региона",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

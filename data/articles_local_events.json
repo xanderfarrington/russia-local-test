@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-10-19T05:57:59Z",
+  "updated_at_utc": "2026-10-19T12:54:28Z",
   "topic": "local_events",
-  "count": 1,
+  "count": 3,
   "articles": [
+    {
+      "id": "01dddf7aae92c40a999c4a10c60e4d25e7b44015",
+      "fingerprint": "8d48f8ce463acbe68883b9b5697e3195f2e35aec",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/10/19/russian-strike-on-kyiv-kills-21-year-old-woman-u-s-gave-ukraine-no-advance-warning-journalists-report",
+      "published_utc": "2026-10-19T07:20:47Z",
+      "title_en": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
+      "lead_en": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
+      "title_raw": "Russian strike on Kyiv kills 21-year-old woman; U.S. gave Ukraine no advance warning, journalists report",
+      "lead_raw": "Russian forces struck Kyiv with ballistic missiles overnight on October 19, damaging buildings in the Desnianskyi and Dniprovskyi districts, Kyiv Mayor Vitali Klitschko said. Three people were injured, and a 21-year-old woman was killed.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b49494f7f921734c9b31f6139103e3463c6be142",
       "fingerprint": "9645140b11c669f87faf10959b2fa9fb35219bfe",
@@ -12,6 +35,29 @@
       "title_en": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
       "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
       "title_raw": "1 Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "eebf4e501f0879ef2e7241a94113819dfd5e5cbb",
+      "fingerprint": "9e74740082b406e0cc98e3e7474f82e775a68fb0",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-5-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
+      "published_utc": "2026-10-18T09:53:00Z",
+      "title_en": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
+      "lead_en": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
+      "title_raw": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
       "lead_raw": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
       "topic_scores": {
         "diplomacy": 0,
