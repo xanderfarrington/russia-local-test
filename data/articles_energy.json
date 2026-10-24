@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-10-24T05:32:29Z",
+  "updated_at_utc": "2026-10-24T10:34:55Z",
   "topic": "energy",
-  "count": 23,
+  "count": 22,
   "articles": [
+    {
+      "id": "1e640988bf97ba1b52ec5adba0b6352a0b77832f",
+      "fingerprint": "cb4a3915c65d26d3892d63e37892176c4213fba0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28249363",
+      "published_utc": "2026-10-24T08:53:57Z",
+      "title_en": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
+      "lead_en": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
+      "title_raw": "ВС РФ поразили объекты энергетической и транспортной инфраструктуры ВСУ",
+      "lead_raw": "При ударах российских военных также повреждены пункты временной дислокации украинских вооруженных формирований и иностранных наемников, добавили в Минобороны России",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5b2a283b587c8387607c285c1315a03f9e1ed5d5",
       "fingerprint": "922bb0ac539770cd4cef7f4c761ad7d279897ac5",
@@ -471,50 +494,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "1820d935e584d22be6c7867a4ceaa46b31ddeedf",
-      "fingerprint": "1cc12f86079bf76ede2028a6e8669c4c93eaa1c2",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2206041",
-      "published_utc": "2026-10-22T08:27:20Z",
-      "title_en": "Russia cannot be isolated on LNG market — Novatek",
-      "lead_en": "Novatek CEO Leonid Mikhelson stressed that the company would be able to redirect LNG deliveries to other market if the LNG ban in Europe came into force",
-      "title_raw": "Russia cannot be isolated on LNG market — Novatek",
-      "lead_raw": "Novatek CEO Leonid Mikhelson stressed that the company would be able to redirect LNG deliveries to other market if the LNG ban in Europe came into force",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "eb52c11ca3eb46cdc1ad4befc0fdb0b046793e0e",
-      "fingerprint": "918d903aa27d1c6ff8e0ff89e9923d47d036b6bd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2206031",
-      "published_utc": "2026-10-22T08:14:37Z",
-      "title_en": "Europe still has time to change Russian LNG ban — Novatek",
-      "lead_en": "European companies having long-term contracts and dealing with logistics under them may continue working with Russia on deliveries to other markets, Leonid Mikhelson said",
-      "title_raw": "Europe still has time to change Russian LNG ban — Novatek",
-      "lead_raw": "European companies having long-term contracts and dealing with logistics under them may continue working with Russia on deliveries to other markets, Leonid Mikhelson said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
