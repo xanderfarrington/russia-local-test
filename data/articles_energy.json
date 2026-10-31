@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-10-31T06:47:29Z",
+  "updated_at_utc": "2026-10-31T13:27:29Z",
   "topic": "energy",
-  "count": 42,
+  "count": 41,
   "articles": [
+    {
+      "id": "ecfe5810e92c34ea8a376d2273f16588f305d321",
+      "fingerprint": "b200acfe75028d207dc21149989d514d211bfab0",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28274581",
+      "published_utc": "2026-10-31T12:15:26Z",
+      "title_en": "Решетников отметил рост поставок российских товаров в Таиланд на 37%",
+      "lead_en": "Министр экономического развития отметил заинтересованность России в развитии долгосрочного энергетического сотрудничества с Таиландом, экономика которого продолжает расти",
+      "title_raw": "Решетников отметил рост поставок российских товаров в Таиланд на 37%",
+      "lead_raw": "Министр экономического развития отметил заинтересованность России в развитии долгосрочного энергетического сотрудничества с Таиландом, экономика которого продолжает расти",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d69a51c25ccab0af1a403839e7f1473963e8d5a1",
+      "fingerprint": "ebb662cd2e04f18f74300915c188dda648fdc214",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2211325",
+      "published_utc": "2026-10-31T07:09:08Z",
+      "title_en": "Russian forces strike Ukrainian army’s logistics, energy infrastructure facilities",
+      "lead_en": "They were used to support the Ukrainian army’s operations, Russia’s Defense Ministry said",
+      "title_raw": "Russian forces strike Ukrainian army’s logistics, energy infrastructure facilities",
+      "lead_raw": "They were used to support the Ukrainian army’s operations, Russia’s Defense Ministry said",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "abd8cfae70defbcf030377afda66dff436226aea",
       "fingerprint": "da3f52bbc744f5c5d64406f4ddd428980d6f8181",
@@ -866,72 +911,6 @@
         "military": 0,
         "energy": 2,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7d56e97a21d06d0bb04ced362020fe82ee169d80",
-      "fingerprint": "16f3d21caedb346c675ae83d37763c0c4d793a2b",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2210189",
-      "published_utc": "2026-10-29T12:35:56Z",
-      "title_en": "Africa needs Russia’s expertise for development — Burundi’s President",
-      "lead_en": "Evariste Ndayishimiye said that Africa needs Russia’s contribution to the development of agriculture, energy, healthcare, and scientific research",
-      "title_raw": "Africa needs Russia’s expertise for development — Burundi’s President",
-      "lead_raw": "Evariste Ndayishimiye said that Africa needs Russia’s contribution to the development of agriculture, energy, healthcare, and scientific research",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fffc3a7251f1e04e4ec08b9c61a21bf033ddab6e",
-      "fingerprint": "fce328fc1272c9326f96e60ae83353c551433a97",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2210155",
-      "published_utc": "2026-10-29T12:02:58Z",
-      "title_en": "Russia is among global leaders in energy sphere, Putin says",
-      "lead_en": "\"From 32 units of nuclear power plants under construction in third countries by all companies of the world, 28 units are being built by Russian company Rosatom,\" the Russian leader said",
-      "title_raw": "Russia is among global leaders in energy sphere, Putin says",
-      "lead_raw": "\"From 32 units of nuclear power plants under construction in third countries by all companies of the world, 28 units are being built by Russian company Rosatom,\" the Russian leader said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "345d7777c88caa0b7c63d52de5507ba8b12e3079",
-      "fingerprint": "c7230153d6081777ec1ed242970bc95a412439d3",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/29/diesel-deal-with-russia-fails-to-lower-fuel-prices-in-u-s",
-      "published_utc": "2026-10-29T08:36:42Z",
-      "title_en": "Diesel deal with Russia fails to lower fuel prices in U.S.",
-      "lead_en": "Fuel prices in the U.S. rose another seven cents after the announcement of the diesel deal with Russia, reaching $6.35 per gallon (about 3.8 liters), The Wall Street Journal reported, citing data from the American Automobile Association.",
-      "title_raw": "Diesel deal with Russia fails to lower fuel prices in U.S.",
-      "lead_raw": "Fuel prices in the U.S. rose another seven cents after the announcement of the diesel deal with Russia, reaching $6.35 per gallon (about 3.8 liters), The Wall Street Journal reported, citing data from the American Automobile Association.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
