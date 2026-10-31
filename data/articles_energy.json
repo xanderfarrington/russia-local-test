@@ -1,8 +1,31 @@
 {
-  "updated_at_utc": "2026-10-31T18:21:28Z",
+  "updated_at_utc": "2026-10-31T22:20:43Z",
   "topic": "energy",
-  "count": 38,
+  "count": 35,
   "articles": [
+    {
+      "id": "9d1279694f98678f3f8706d36ec7af5ac947cc9f",
+      "fingerprint": "e2ce78b264130140feadfecbca0c636ab0c14cd6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2211413",
+      "published_utc": "2026-10-31T18:56:37Z",
+      "title_en": "Russia to remain reliable energy, food supplier — Lavrov at G20",
+      "lead_en": "Russian Foreign Minister said that at the G20 foreign ministers’ meeting in Atlanta",
+      "title_raw": "Russia to remain reliable energy, food supplier — Lavrov at G20",
+      "lead_raw": "Russian Foreign Minister said that at the G20 foreign ministers’ meeting in Atlanta",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "b96d84fc94ae28974c019e598e3c6bd5e8d98133",
       "fingerprint": "85d1c798e886638f9c48839d972a3d8a08a31a61",
@@ -763,94 +786,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f03b22051e2b682e65720f59c7ecfb4c6f1477de",
-      "fingerprint": "1abeed6e76617edcfc06217b8c94a9b33bb5b51c",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/obschestvo/28269205",
-      "published_utc": "2026-10-29T21:49:46Z",
-      "title_en": "Гросси назвал неприемлемыми атаки на ЗАЭС",
-      "lead_en": "Гендиректор Международного агентства по атомной энергии призвал к сдержанности ради предотвращения риска ядерной аварии",
-      "title_raw": "Гросси назвал неприемлемыми атаки на ЗАЭС",
-      "lead_raw": "Гендиректор Международного агентства по атомной энергии призвал к сдержанности ради предотвращения риска ядерной аварии",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c4c9c60918d76d892765d1ded92500ab64384f78",
-      "fingerprint": "382a31775f2959aa0fe0e890e402b86c99b09f0a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28268913",
-      "published_utc": "2026-10-29T20:04:26Z",
-      "title_en": "Политик Мема: ЕС без российского газа придет конец",
-      "lead_en": "Евросоюз совершил большую ошибку для собственной экономики, заявил член финской национально-консервативной партии \"Альянс свободы\"",
-      "title_raw": "Политик Мема: ЕС без российского газа придет конец",
-      "lead_raw": "Евросоюз совершил большую ошибку для собственной экономики, заявил член финской национально-консервативной партии \"Альянс свободы\"",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7e4127d4199e2bd334d492fb44eb6742c8909c16",
-      "fingerprint": "51f6f289d812f4ecb6b60e5ff0f6b98c81765de7",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28268867",
-      "published_utc": "2026-10-29T19:58:26Z",
-      "title_en": "Матвиенко: Россия и Уганда условились укреплять сотрудничество в энергетике",
-      "lead_en": "Председатель Совета Федерации отметила, что отношения РФ и Африки - пример равноправного взаимовыгодного сотрудничества в 21 веке",
-      "title_raw": "Матвиенко: Россия и Уганда условились укреплять сотрудничество в энергетике",
-      "lead_raw": "Председатель Совета Федерации отметила, что отношения РФ и Африки - пример равноправного взаимовыгодного сотрудничества в 21 веке",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6d48d32e27ed3480ca0b3af37afb077c297efa82",
-      "fingerprint": "6eabf139dc15b6cf465c7bc4652e92a3d1a20c03",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/politika/28268881",
-      "published_utc": "2026-10-29T19:53:56Z",
-      "title_en": "Ушаков: Путин назвал Стуббу и Стёре первопричины украинского конфликта",
-      "lead_en": "Помощник президента также опроверг распространяемую газетой Financial Times информацию, что российский лидер якобы значительную часть разговора посвятил средневековой славянской истории",
-      "title_raw": "Ушаков: Путин назвал Стуббу и Стёре первопричины украинского конфликта",
-      "lead_raw": "Помощник президента также опроверг распространяемую газетой Financial Times информацию, что российский лидер якобы значительную часть разговора посвятил средневековой славянской истории",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
