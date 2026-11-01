@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-11-01T01:59:14Z",
+  "updated_at_utc": "2026-11-01T09:05:16Z",
   "topic": "energy",
-  "count": 35,
+  "count": 29,
   "articles": [
+    {
+      "id": "b2f4631024313cba90adf02d6f52bdc26121b3db",
+      "fingerprint": "c27eaf2009e0d5952277f6380ccb09fa8d0eb186",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28275887",
+      "published_utc": "2026-11-01T07:21:05Z",
+      "title_en": "ТАСС: экспорт российского газа в Европу по \"Турецкому потоку\" вырос на 1%",
+      "lead_en": "С начала 2026 года Россия нарастила экспорт до 14,8 млрд куб. м, следует из данных Европейской сети операторов газотранспортных систем",
+      "title_raw": "ТАСС: экспорт российского газа в Европу по \"Турецкому потоку\" вырос на 1%",
+      "lead_raw": "С начала 2026 года Россия нарастила экспорт до 14,8 млрд куб. м, следует из данных Европейской сети операторов газотранспортных систем",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5d69d7889440f531fc49aa738c8a299afbffbee5",
+      "fingerprint": "d9a3449057e5129ac80009144241b1035891ee50",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/world/2211491",
+      "published_utc": "2026-11-01T07:18:02Z",
+      "title_en": "Russia helped Central African Republic when it was truly in need — president",
+      "lead_en": "In 2020, the republic faced a rebellion by the Coalition of Patriots for Change, which was successfully suppressed by the country’s army with active support from Russian military instructors and specialists",
+      "title_raw": "Russia helped Central African Republic when it was truly in need — president",
+      "lead_raw": "In 2020, the republic faced a rebellion by the Coalition of Patriots for Change, which was successfully suppressed by the country’s army with active support from Russian military instructors and specialists",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9d1279694f98678f3f8706d36ec7af5ac947cc9f",
       "fingerprint": "e2ce78b264130140feadfecbca0c636ab0c14cd6",
@@ -611,187 +656,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b076d06272de96e05aaf58f1c95ec4e22923fbbc",
-      "fingerprint": "e9499eb7726d70b30853efa5162aaffd08ac082d",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2210697",
-      "published_utc": "2026-10-30T08:42:57Z",
-      "title_en": "IN BRIEF: Russia pounds Ukraine’s defense plants, energy sites in massive overnight strike",
-      "lead_en": "In the city of Kiev, the strike hit a missile assembly and components plant manufacturing components for reconnaissance and strike drones, the Russian Defense Ministry reported",
-      "title_raw": "IN BRIEF: Russia pounds Ukraine’s defense plants, energy sites in massive overnight strike",
-      "lead_raw": "In the city of Kiev, the strike hit a missile assembly and components plant manufacturing components for reconnaissance and strike drones, the Russian Defense Ministry reported",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0b773b27112d2dc82fd6c7a62d5b5095a1e9224f",
-      "fingerprint": "0a142b9e43ed47000be6fe198d48983518bc5e47",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/10/30/moscow-mayor-says-more-than-800-ukrainian-drones-headed-toward-russian-capital-as-reports-emerge-of-fire-at-samara-region-oil-refinery",
-      "published_utc": "2026-10-30T08:29:35Z",
-      "title_en": "Moscow mayor says more than 800 Ukrainian drones headed toward Russian capital as reports emerge of fire at Samara region oil refinery",
-      "lead_en": "Moscow Mayor Sergei Sobyanin said 862 Ukrainian drones flew toward the Moscow region starting on the evening of October 29, with most shot down at “distant approaches.”",
-      "title_raw": "Moscow mayor says more than 800 Ukrainian drones headed toward Russian capital as reports emerge of fire at Samara region oil refinery",
-      "lead_raw": "Moscow Mayor Sergei Sobyanin said 862 Ukrainian drones flew toward the Moscow region starting on the evening of October 29, with most shot down at “distant approaches.”",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bce0f34892db75f968ecade2e3b4aea6264fefab",
-      "fingerprint": "f39d734c363127a43c642ef96a57262e4e58481e",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/info/28270383",
-      "published_utc": "2026-10-30T08:05:37Z",
-      "title_en": "Отмена санкций, энергетика, торговля. Отношения РФ и Эритреи",
-      "lead_en": "Российский лидер 30 октября встретится с президентом страны Исайясом Афеворки",
-      "title_raw": "Отмена санкций, энергетика, торговля. Отношения РФ и Эритреи",
-      "lead_raw": "Российский лидер 30 октября встретится с президентом страны Исайясом Афеворки",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3e5f1f441695d54856601b12ec37e54c041ecd38",
-      "fingerprint": "1c50a5d74b31acf92655c1f3b172785c746a6b56",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/info/28270417",
-      "published_utc": "2026-10-30T08:03:17Z",
-      "title_en": "Энергетика, ООН и подготовка кадров. Отношения России и Южного Судана",
-      "lead_en": "На 30 октября запланированы переговоры российского лидера Владимира Путина с президентом республики Салвой Кииром",
-      "title_raw": "Энергетика, ООН и подготовка кадров. Отношения России и Южного Судана",
-      "lead_raw": "На 30 октября запланированы переговоры российского лидера Владимира Путина с президентом республики Салвой Кииром",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "608690decb0dbc9ef41a56c3d74126253d512ca5",
-      "fingerprint": "65401c4e3424bf5656add6349ae1d3470aa2eff4",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/info/28270363",
-      "published_utc": "2026-10-30T07:50:28Z",
-      "title_en": "Какао, нефть и подготовка кадров. Отношения России и Ганы",
-      "lead_en": "На 30 октября запланированы переговоры российского лидера Владимира Путина с президентом Ганы Джоном Махамой",
-      "title_raw": "Какао, нефть и подготовка кадров. Отношения России и Ганы",
-      "lead_raw": "На 30 октября запланированы переговоры российского лидера Владимира Путина с президентом Ганы Джоном Махамой",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9a9f98032ef8a002a1da49ee7436c0d8a3bc5a91",
-      "fingerprint": "c6277bee01a1ed94fd80f671ac8356ee865485a1",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28270239",
-      "published_utc": "2026-10-30T07:28:15Z",
-      "title_en": "Поражены предприятия ВПК и объекты энергетики. Массированный удар ВС РФ",
-      "lead_en": "Российские войска также поразили сухогруз, доставлявший в порт Одесса военное имущество и грузы двойного назначения для ВСУ",
-      "title_raw": "Поражены предприятия ВПК и объекты энергетики. Массированный удар ВС РФ",
-      "lead_raw": "Российские войска также поразили сухогруз, доставлявший в порт Одесса военное имущество и грузы двойного назначения для ВСУ",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b9e32d4107e8af10a8afbcbb3ad871eb362af453",
-      "fingerprint": "8998f2f4af62696d70879813e3993661cec4d5a2",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/ekonomika/28270279",
-      "published_utc": "2026-10-30T07:17:36Z",
-      "title_en": "Выработка электроэнергии \"Интер РАО\" за девять месяцев снизилась на 6%",
-      "lead_en": "Установленная мощность объектов в России сохранилась на уровне 28,5 млрд кВт⋅ч",
-      "title_raw": "Выработка электроэнергии \"Интер РАО\" за девять месяцев снизилась на 6%",
-      "lead_raw": "Установленная мощность объектов в России сохранилась на уровне 28,5 млрд кВт⋅ч",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e8f85b11d65d5679e99df6985402d05c979d4a5b",
-      "fingerprint": "ed09c8180986bd28af71d4e9f39e419943edcf56",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2210653",
-      "published_utc": "2026-10-30T06:58:52Z",
-      "title_en": "Russian stocks up as main trading session opens",
-      "lead_en": "The yuan exchange rate against the ruble gained 2.25 kopecks compared to previous closing to 12.223 rubles",
-      "title_raw": "Russian stocks up as main trading session opens",
-      "lead_raw": "The yuan exchange rate against the ruble gained 2.25 kopecks compared to previous closing to 12.223 rubles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
