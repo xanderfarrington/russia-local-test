@@ -1,8 +1,98 @@
 {
-  "updated_at_utc": "2026-11-02T01:21:31Z",
+  "updated_at_utc": "2026-11-02T09:03:40Z",
   "topic": "energy",
-  "count": 16,
+  "count": 18,
   "articles": [
+    {
+      "id": "e01d00bb41b9882a2ddb3804e19a256328a7c136",
+      "fingerprint": "e16c7e274dc69c24bd0db688995368622e78e039",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28277959",
+      "published_utc": "2026-11-02T08:47:15Z",
+      "title_en": "NYT: Путин с успехом ломает стратегию Запада по изоляции России",
+      "lead_en": "Как указал руководитель московского бюро газеты Пол Сонн, на прошлой неделе президент России развернул в столице \"бурную дипломатическую деятельность\"",
+      "title_raw": "NYT: Путин с успехом ломает стратегию Запада по изоляции России",
+      "lead_raw": "Как указал руководитель московского бюро газеты Пол Сонн, на прошлой неделе президент России развернул в столице \"бурную дипломатическую деятельность\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a6c9b4716ec3d317dd26865e03e81f23577f1aa2",
+      "fingerprint": "3636577c38857fc11021eb10e3cb9afb3ac6cc89",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/02/ukrainian-drones-attack-russia-s-samara-region-reportedly-striking-europe-s-largest-oil-storage-facility",
+      "published_utc": "2026-11-02T08:16:38Z",
+      "title_en": "Ukrainian drones attack Russia’s Samara region, reportedly striking Europe’s largest oil storage facility",
+      "lead_en": "Ukrainian drones struck Russia’s Samara region overnight on November 2. Regional authorities had not officially commented on the strikes by the time of publication, but Samara’s airport suspended operations for two hours because of the drone threat.",
+      "title_raw": "Ukrainian drones attack Russia’s Samara region, reportedly striking Europe’s largest oil storage facility",
+      "lead_raw": "Ukrainian drones struck Russia’s Samara region overnight on November 2. Regional authorities had not officially commented on the strikes by the time of publication, but Samara’s airport suspended operations for two hours because of the drone threat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "281285ddede69da8d45e645e60831c179621a6a2",
+      "fingerprint": "ef42440a7313b6547a389a8a763af9a67820749f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2211653",
+      "published_utc": "2026-11-02T06:09:40Z",
+      "title_en": "US trying to negotiate Russian gas supplies to Europe via Ukraine — WSJ",
+      "lead_en": "According to the report, Washington attempted to present this idea to European leaders as a method to reduce hydrocarbon prices amid record low European gas inventories ahead of winter",
+      "title_raw": "US trying to negotiate Russian gas supplies to Europe via Ukraine — WSJ",
+      "lead_raw": "According to the report, Washington attempted to present this idea to European leaders as a method to reduce hydrocarbon prices amid record low European gas inventories ahead of winter",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f97901823d709086d175c5fe1ad16abd002cd6dd",
+      "fingerprint": "7fbd009eaa3fbcabd2ebf196e9bc21dfafdb6ec6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2211611",
+      "published_utc": "2026-11-02T01:17:01Z",
+      "title_en": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_en": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "title_raw": "Zelensky attempting to undermine position of Republicans in the US — Dmitriev",
+      "lead_raw": "Thus the Russian Presidential Special Representative for Investment and Economic Cooperation with Foreign Countries commented on Vladimir Zelensky’s remarks about a potential energy ceasefire",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "357ab14c81afeca136197d480eb11d4ebca72479",
       "fingerprint": "a854a674f83934db8eef42cbf536e1e1a9ffcfce",
@@ -319,52 +409,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d69a51c25ccab0af1a403839e7f1473963e8d5a1",
-      "fingerprint": "ebb662cd2e04f18f74300915c188dda648fdc214",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2211325",
-      "published_utc": "2026-10-31T07:09:08Z",
-      "title_en": "Russian forces strike Ukrainian army’s logistics, energy infrastructure facilities",
-      "lead_en": "They were used to support the Ukrainian army’s operations, Russia’s Defense Ministry said",
-      "title_raw": "Russian forces strike Ukrainian army’s logistics, energy infrastructure facilities",
-      "lead_raw": "They were used to support the Ukrainian army’s operations, Russia’s Defense Ministry said",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "abd8cfae70defbcf030377afda66dff436226aea",
-      "fingerprint": "da3f52bbc744f5c5d64406f4ddd428980d6f8181",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28273957",
-      "published_utc": "2026-10-31T05:00:49Z",
-      "title_en": "ВС РФ ночью ударили по объектам энергетической инфраструктуры ВСУ",
-      "lead_en": "Также российские войска нанесли удары по логистическим объектам, используемым в интересах ВПК Украины, сообщили в Минобороны",
-      "title_raw": "ВС РФ ночью ударили по объектам энергетической инфраструктуры ВСУ",
-      "lead_raw": "Также российские войска нанесли удары по логистическим объектам, используемым в интересах ВПК Украины, сообщили в Минобороны",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
