@@ -1,8 +1,142 @@
 {
-  "updated_at_utc": "2026-11-06T05:48:02Z",
+  "updated_at_utc": "2026-11-06T13:57:26Z",
   "topic": "energy",
-  "count": 12,
+  "count": 18,
   "articles": [
+    {
+      "id": "d313931f33290db358503aa97361d811198c8e7f",
+      "fingerprint": "e0f7a127d6641d5a0b81ffe7711ffd439a71362c",
+      "source": "RT",
+      "url": "https://rt-english.com/news/648524-nato-chief-europe-trump-diesel-criticism",
+      "published_utc": "2026-11-06T13:44:28Z",
+      "title_en": "NATO chief calls out Europe over Putin-Trump diesel deal criticism",
+      "lead_en": "Europe has criticized Trump over his diesel deal with Moscow but spends billions on purchasing Russian energy, NATO chief Mark Rutte says Read Full Article at RT.com",
+      "title_raw": "NATO chief calls out Europe over Putin-Trump diesel deal criticism",
+      "lead_raw": "Europe has criticized Trump over his diesel deal with Moscow but spends billions on purchasing Russian energy, NATO chief Mark Rutte says Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e8c0160b5c895bca1e9ad2173d1b7e4f05b7185f",
+      "fingerprint": "6ec128db1c66a1fa1929bbf96ddb3d7a7d3bb145",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2213895",
+      "published_utc": "2026-11-06T13:36:55Z",
+      "title_en": "TurkStream operator sues Gasunie subsidiary, Ukraine's Naftogaz in Russian court",
+      "lead_en": "The claim was filed on November 5",
+      "title_raw": "TurkStream operator sues Gasunie subsidiary, Ukraine's Naftogaz in Russian court",
+      "lead_raw": "The claim was filed on November 5",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "135c8db8374ac0cf7cd80675f54afb7b04894a14",
+      "fingerprint": "7edee682e1600315fb732fa1beb5f75d0d224159",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2213879",
+      "published_utc": "2026-11-06T13:01:16Z",
+      "title_en": "Asia could become target market for Russian LNG starting 2027 — report",
+      "lead_en": "According to data presented in the report, LNG imports to Asia reached 282 mln tons in 2024, an increase of 21 mln tons, or 8%, compared to the previous year",
+      "title_raw": "Asia could become target market for Russian LNG starting 2027 — report",
+      "lead_raw": "According to data presented in the report, LNG imports to Asia reached 282 mln tons in 2024, an increase of 21 mln tons, or 8%, compared to the previous year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "124630ce85bb76e6adb59baeb8ba59f7b05a5d00",
+      "fingerprint": "080c3b4052003e8b2863fa9e8e29d60943aa4972",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2213859",
+      "published_utc": "2026-11-06T12:31:49Z",
+      "title_en": "Russian LNG exports to China surge more than twofold since 2021 — report",
+      "lead_en": "According to the document, Russian LNG supplies to China reached 9.8 mln metric tons in 2025",
+      "title_raw": "Russian LNG exports to China surge more than twofold since 2021 — report",
+      "lead_raw": "According to the document, Russian LNG supplies to China reached 9.8 mln metric tons in 2025",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c223ff77436248349cd9eb9577717d3cb9c1229e",
+      "fingerprint": "6525a95569ab56fb55207c0d98fae7ccb55a3915",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189",
+      "published_utc": "2026-11-06T09:59:16Z",
+      "title_en": "Ukraine and Russia Trade Volley of Strikes Against Each Other’s Energy Infrastructure",
+      "lead_en": "In the southern Krasnodar region, drone debris was reported to have crashed into the Afipsky oil refinery and sparked a fire.",
+      "title_raw": "Ukraine and Russia Trade Volley of Strikes Against Each Other’s Energy Infrastructure",
+      "lead_raw": "In the southern Krasnodar region, drone debris was reported to have crashed into the Afipsky oil refinery and sparked a fire.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "393a366b8e232aea0681f8d51c815b0fffdf2940",
+      "fingerprint": "22231c1643b588f9f91516c8fcf53842340bf55c",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/06/ukraine-attacks-afipsky-oil-refinery-in-southern-russia",
+      "published_utc": "2026-11-06T09:30:35Z",
+      "title_en": "Ukraine attacks Afipsky oil refinery in southern Russia",
+      "lead_en": "Ukrainian drones attacked Krasnodar Krai, sparking a fire at an enterprise in the village of Afipsky after “debris falling”, the regional operational headquarters reported.",
+      "title_raw": "Ukraine attacks Afipsky oil refinery in southern Russia",
+      "lead_raw": "Ukrainian drones attacked Krasnodar Krai, sparking a fire at an enterprise in the village of Afipsky after “debris falling”, the regional operational headquarters reported.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "2467e61a1e5417ed9a7d7c3958c7d3c9bfb702e9",
       "fingerprint": "b7d7b72f9b95d10e1961db05974b127b8d940088",
