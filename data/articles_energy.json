@@ -1,8 +1,77 @@
 {
-  "updated_at_utc": "2026-11-09T00:43:44Z",
+  "updated_at_utc": "2026-11-09T07:44:45Z",
   "topic": "energy",
-  "count": 16,
+  "count": 15,
   "articles": [
+    {
+      "id": "a8b19d388e45e2517de2d89671d1ef3843a517b4",
+      "fingerprint": "c4863f06a81f3dc7ba166e8492d6382049b9353c",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2214645",
+      "published_utc": "2026-11-09T07:36:04Z",
+      "title_en": "EU pursues course toward complete refusal to interact with Russia in energy sector — MFA",
+      "lead_en": "Restrictions unprecedented in scale have been imposed on the Russian energy sector, Russian Deputy Foreign Minister Alexander Pankin noted",
+      "title_raw": "EU pursues course toward complete refusal to interact with Russia in energy sector — MFA",
+      "lead_raw": "Restrictions unprecedented in scale have been imposed on the Russian energy sector, Russian Deputy Foreign Minister Alexander Pankin noted",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a7fd59c830e36cc6c6a619a064e2128075b05be0",
+      "fingerprint": "a819530de36e66e3d2fe913d60ffd052e93206f6",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2214623",
+      "published_utc": "2026-11-09T07:01:19Z",
+      "title_en": "IN BRIEF: Russian strikes hit drone assembly plant, energy infrastructure",
+      "lead_en": "According to the Russian Defense Ministry, Russian forces struck two power substations in the cities of Krivoy Rog and Cherkassy",
+      "title_raw": "IN BRIEF: Russian strikes hit drone assembly plant, energy infrastructure",
+      "lead_raw": "According to the Russian Defense Ministry, Russian forces struck two power substations in the cities of Krivoy Rog and Cherkassy",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "324c81638a39f3f49d05ddde9a5bf57afea3fdbb",
+      "fingerprint": "f9b9b72ad527ec244b90caca2f2e4a216d7710b5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28297507",
+      "published_utc": "2026-11-09T06:31:19Z",
+      "title_en": "Поражены объекты энергетики. Удары ВС РФ",
+      "lead_en": "Российские войска также ударили по сухогрузу с вооружением и военным имуществом для ВСУ в акватории Черного моря юго-западнее Одессы",
+      "title_raw": "Поражены объекты энергетики. Удары ВС РФ",
+      "lead_raw": "Российские войска также ударили по сухогрузу с вооружением и военным имуществом для ВСУ в акватории Черного моря юго-западнее Одессы",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "63f3dda563e9e811f8244663d4c7f15cdc0a2402",
       "fingerprint": "fbe50b193e4d96d3890f55ab6ee89ace3632585a",
@@ -273,96 +342,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "40a2cddb7b62eded2e6a99268aa54a03c897f756",
-      "fingerprint": "7cc2fe519af33ac1f973195ce36f804317b412dd",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/defense/2214177",
-      "published_utc": "2026-11-07T06:28:36Z",
-      "title_en": "Russia strikes energy facilities supplying Ukrainian army in Kiev, surrounding region",
-      "lead_en": "The Russian army launched a massive strike using precision-guided ground-based weapons and long-range attack unmanned aerial vehicles",
-      "title_raw": "Russia strikes energy facilities supplying Ukrainian army in Kiev, surrounding region",
-      "lead_raw": "The Russian army launched a massive strike using precision-guided ground-based weapons and long-range attack unmanned aerial vehicles",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b067254d0845ff547622f98d1ae37549b4416cdb",
-      "fingerprint": "85698df4cc34c7c9b972d5e2b0a8e9ba2547212a",
-      "source": "TASS (RU)",
-      "url": "https://tass.ru/armiya-i-opk/28294235",
-      "published_utc": "2026-11-07T05:19:01Z",
-      "title_en": "ВС РФ поразили в Киеве и области объекты энергетики, обеспечивающие ВСУ",
-      "lead_en": "Российские силы также нанесли поражение транспортной инфраструктуре, сообщили в Минобороны России",
-      "title_raw": "ВС РФ поразили в Киеве и области объекты энергетики, обеспечивающие ВСУ",
-      "lead_raw": "Российские силы также нанесли поражение транспортной инфраструктуре, сообщили в Минобороны России",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d2639e2193fef000a63caa3cebba594fb3dcb7d1",
-      "fingerprint": "431f169b6ac9f5ea0be9813e7e8f663c95e30926",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/world/2214153",
-      "published_utc": "2026-11-07T02:43:05Z",
-      "title_en": "Slovakia may sue EU if it bans Russian oil supplies — Fico",
-      "lead_en": "Slovakia's prime minister blasted the European Commission for inaction on the issue of reducing electricity prices in the countries of the union",
-      "title_raw": "Slovakia may sue EU if it bans Russian oil supplies — Fico",
-      "lead_raw": "Slovakia's prime minister blasted the European Commission for inaction on the issue of reducing electricity prices in the countries of the union",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "985f004663b38e9752700117fc9fb919928ca6d6",
-      "fingerprint": "ac6b47ae566ae7e04e23ec8c7a06913f0f43c9a7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2214131",
-      "published_utc": "2026-11-07T01:10:25Z",
-      "title_en": "Turkey does not intend to stop purchasing Russian gas despite high price — minister",
-      "lead_en": "At the same time, Alparslan Bayraktar said that this is leading to lower purchases",
-      "title_raw": "Turkey does not intend to stop purchasing Russian gas despite high price — minister",
-      "lead_raw": "At the same time, Alparslan Bayraktar said that this is leading to lower purchases",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
