@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-11-12T01:23:01Z",
+  "updated_at_utc": "2026-11-12T09:30:00Z",
   "topic": "local_events",
-  "count": 1,
+  "count": 3,
   "articles": [
+    {
+      "id": "ce205b3f0461f38310c40c5e89bc083ae65a8c96",
+      "fingerprint": "25fe78e0050ff48ff84baf0ffecf03d92f7bfcb3",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/12/st-petersburg-car-blast-kills-russian-aerospace-forces-officer-a94235",
+      "published_utc": "2026-11-12T09:23:49Z",
+      "title_en": "St. Petersburg Car Blast Kills Russian Aerospace Forces Officer",
+      "lead_en": "The officer was the second Russian military official to be killed in a car bomb explosion in the same neighborhood this year.",
+      "title_raw": "St. Petersburg Car Blast Kills Russian Aerospace Forces Officer",
+      "lead_raw": "The officer was the second Russian military official to be killed in a car bomb explosion in the same neighborhood this year.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "da8dfc6eb956da0018907e1913431185e41f0d76",
+      "fingerprint": "fe24fd6128d702060437c21a5dfb27e1ca968c76",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/12/russian-colonel-killed-in-car-explosion-in-st-petersburg",
+      "published_utc": "2026-11-12T07:55:54Z",
+      "title_en": "Russian colonel killed in car explosion in St. Petersburg",
+      "lead_en": "A car exploded in St. Petersburg’s Shushary district, killing a Russian colonel who was behind the wheel.",
+      "title_raw": "Russian colonel killed in car explosion in St. Petersburg",
+      "lead_raw": "A car exploded in St. Petersburg’s Shushary district, killing a Russian colonel who was behind the wheel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b2adb95913aaf9dbb563dd3f3fb76ff6f6686925",
       "fingerprint": "7464577aeb6b7f2aa5da2a1e28b217acfbb44ba6",
