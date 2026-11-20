@@ -1,8 +1,77 @@
 {
-  "updated_at_utc": "2026-11-19T20:14:00Z",
+  "updated_at_utc": "2026-11-20T02:07:22Z",
   "topic": "energy",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "0801547f23b15e2573eff4f173cb1d75a190e324",
+      "fingerprint": "3133ff6012adb1f6042f9b1f23ba186e0445f8ad",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28337905",
+      "published_utc": "2026-11-20T01:45:55Z",
+      "title_en": "Поставки российской нефти в Китай в январе - октябре выросли на 17,4%",
+      "lead_en": "Стоимость нефти, которую РФ экспортировала в КНР за 10 месяцев 2026 года, выросла на 41,4%, до $59,59 млрд",
+      "title_raw": "Поставки российской нефти в Китай в январе - октябре выросли на 17,4%",
+      "lead_raw": "Стоимость нефти, которую РФ экспортировала в КНР за 10 месяцев 2026 года, выросла на 41,4%, до $59,59 млрд",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d999290cf714bec8d15a396b1ad5f6703e571994",
+      "fingerprint": "47fa5bc83397c108ae70614bb3990001c493538a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28337847",
+      "published_utc": "2026-11-20T00:38:05Z",
+      "title_en": "Исследование показало снижение траты россиян на новые легковые машины",
+      "lead_en": "В октябре эти расходы снизились на 20% и составили 455 млрд рублей, следует из данных компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\"",
+      "title_raw": "Исследование показало снижение траты россиян на новые легковые машины",
+      "lead_raw": "В октябре эти расходы снизились на 20% и составили 455 млрд рублей, следует из данных компании \"Газпромбанк автолизинг\" и аналитического агентства \"Автостат\"",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bc13023fc71f8e8d4a155ebcbe51f3a06a07a9b7",
+      "fingerprint": "4867bc505aa9858aec9cbbbe43cbf2ece63cc488",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/20/zelensky-questions-whether-kyiv-and-washington-mean-the-same-thing-by-nato-style-guarantees-and-reiterates-that-postwar-ukraine-would-need-foreign-troops-on-its-soil",
+      "published_utc": "2026-11-19T21:53:32Z",
+      "title_en": "Zelensky questions whether Kyiv and Washington mean the same thing by ‘NATO-style’ guarantees and reiterates that postwar Ukraine would need foreign troops on its soil",
+      "lead_en": "Jared Kushner, one of Donald Trump’s negotiators, said the United States had persuaded Russia to accept security guarantees for Ukraine based on Article 5 of NATO’s founding treaty.",
+      "title_raw": "Zelensky questions whether Kyiv and Washington mean the same thing by ‘NATO-style’ guarantees and reiterates that postwar Ukraine would need foreign troops on its soil",
+      "lead_raw": "Jared Kushner, one of Donald Trump’s negotiators, said the United States had persuaded Russia to accept security guarantees for Ukraine based on Article 5 of NATO’s founding treaty.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a96552232d9bb8eec2cbf1795ecc271e17d80583",
       "fingerprint": "b8d033defc2afee6b43d3af70372d4ddda795270",
@@ -469,29 +538,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "046d2ffdcbc696bcab50b74356ef9c9e51c51a1a",
-      "fingerprint": "7b854918a19e1653ce3ddab61c0583f9b2d8900e",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/11/17/ukrainian-investigation-finds-russia-used-tear-gas-against-ukrainian-troops-ap-reports",
-      "published_utc": "2026-11-17T20:23:17Z",
-      "title_en": "Ukrainian investigation finds Russia used tear gas against Ukrainian troops, AP reports",
-      "lead_en": "A Ukrainian investigation found that Russia used tear gas against Ukrainian troops, The Associated Press reported. Tear gas is banned in combat.",
-      "title_raw": "Ukrainian investigation finds Russia used tear gas against Ukrainian troops, AP reports",
-      "lead_raw": "A Ukrainian investigation found that Russia used tear gas against Ukrainian troops, The Associated Press reported. Tear gas is banned in combat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
