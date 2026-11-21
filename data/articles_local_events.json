@@ -1,18 +1,63 @@
 {
-  "updated_at_utc": "2026-11-21T09:24:26Z",
+  "updated_at_utc": "2026-11-21T17:12:56Z",
   "topic": "local_events",
-  "count": 1,
+  "count": 3,
   "articles": [
     {
-      "id": "4992de2439ac86647158f5199509c686c6513180",
-      "fingerprint": "1bcadb788ae0582e37b71cb0dc7d85ef4e82a9ba",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/11/19/regions-calling-for-russias-intense-wildfire-season-its-a-wrap-a94316",
-      "published_utc": "2026-11-19T15:11:00Z",
-      "title_en": "Regions Calling: For Russia’s Intense Wildfire Season, It’s a Wrap",
-      "lead_en": "Fires blazed farther north in Yakutia, while the area burned in Buryatia plunged. What explains Russia’s uneven wildfire season?",
-      "title_raw": "Regions Calling: For Russia’s Intense Wildfire Season, It’s a Wrap",
-      "lead_raw": "Fires blazed farther north in Yakutia, while the area burned in Buryatia plunged. What explains Russia’s uneven wildfire season?",
+      "id": "16befc2bc0440797a4f7fbd1c2ca93f937a7bde3",
+      "fingerprint": "edf39f62df64ce761dd7dff142221b94598c6c5a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2222899",
+      "published_utc": "2026-11-21T15:30:53Z",
+      "title_en": "Two killed by gas explosion in apartment building in Russia’s North Caucasus",
+      "lead_en": "Two more people were injured",
+      "title_raw": "Two killed by gas explosion in apartment building in Russia’s North Caucasus",
+      "lead_raw": "Two more people were injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "654cd9337f3240d90cfd66545f32ae7b19935aaa",
+      "fingerprint": "b36db785d92a4b07aed4e27c3db4fafff085cfa7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2222893",
+      "published_utc": "2026-11-21T14:24:55Z",
+      "title_en": "Russian rescue vessel approaches drone-hit commercial ship",
+      "lead_en": "The crew reported that evacuation was not required",
+      "title_raw": "Russian rescue vessel approaches drone-hit commercial ship",
+      "lead_raw": "The crew reported that evacuation was not required",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5f18b0448fdf3e86442b1f04412bf2163d0727d8",
+      "fingerprint": "cee5ee8170f1333acdabb2a6a416305dd66832e3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342529",
+      "published_utc": "2026-11-21T13:41:50Z",
+      "title_en": "Российское спасательное судно подошло к атакованному БПЛА сухогрузу",
+      "lead_en": "Эвакуация команды не потребовалась",
+      "title_raw": "Российское спасательное судно подошло к атакованному БПЛА сухогрузу",
+      "lead_raw": "Эвакуация команды не потребовалась",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

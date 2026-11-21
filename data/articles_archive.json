@@ -1,7 +1,701 @@
 {
-  "updated_at_utc": "2026-11-21T09:24:26Z",
-  "count": 48568,
+  "updated_at_utc": "2026-11-21T17:12:56Z",
+  "count": 48601,
   "articles": [
+    {
+      "id": "06ff68250b08fc3180f9816dd61a148e93602160",
+      "fingerprint": "325c5913d4951da7729fd201feda6c6600f70197",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28342757",
+      "published_utc": "2026-11-21T17:08:02Z",
+      "title_en": "Определились победители всероссийского чемпионата по пилотированию дронов",
+      "lead_en": "Финал прошел в Москве",
+      "title_raw": "Определились победители всероссийского чемпионата по пилотированию дронов",
+      "lead_raw": "Финал прошел в Москве",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b4cb57bbe086d4b7f6286782eb0011da966379ee",
+      "fingerprint": "5433e55d3ae0affe5b27ace81b4df869e6be4d7a",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28342751",
+      "published_utc": "2026-11-21T17:06:07Z",
+      "title_en": "ТАСС: в Чернигове из больницы сбежал избитый в пыточной военный ВСУ",
+      "lead_en": "В российских силовых структурах отметили, что 56-летнего Игоря Романова взяли под стражу 6 ноября за самовольное оставление части",
+      "title_raw": "ТАСС: в Чернигове из больницы сбежал избитый в пыточной военный ВСУ",
+      "lead_raw": "В российских силовых структурах отметили, что 56-летнего Игоря Романова взяли под стражу 6 ноября за самовольное оставление части",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "47e8392f309e3e319f0e3d51094016e43db9fc4d",
+      "fingerprint": "c5b4790acccb3450f0fb59b85c5f79d641c36dd2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28342735",
+      "published_utc": "2026-11-21T16:29:30Z",
+      "title_en": "Российские дзюдоисты установили рекорд по числу золотых медалей на юниорском ЧМ",
+      "lead_en": "Россияне завоевали в Ташкенте четыре награды высшего достоинства",
+      "title_raw": "Российские дзюдоисты установили рекорд по числу золотых медалей на юниорском ЧМ",
+      "lead_raw": "Россияне завоевали в Ташкенте четыре награды высшего достоинства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6f4ecf90fa9bd36c890a4a421f66eb58df4dc3a7",
+      "fingerprint": "16b6a6c03f054191760bda1485d3fae5e009826f",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2222907",
+      "published_utc": "2026-11-21T15:53:15Z",
+      "title_en": "Russian forces strike energy site, dry cargo ship used by Ukrainian military",
+      "lead_en": "An electrical substation in Vinnitsa supplied power to Ukrainian defense enterprises",
+      "title_raw": "Russian forces strike energy site, dry cargo ship used by Ukrainian military",
+      "lead_raw": "An electrical substation in Vinnitsa supplied power to Ukrainian defense enterprises",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e92d224bc4fe3f21a39481b246d129fb61a24f3f",
+      "fingerprint": "31f3099a4637bf0aa72f921a025534fca0facb4e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342623",
+      "published_utc": "2026-11-21T15:50:19Z",
+      "title_en": "В Челябинске завершается всероссийский слет студенческих отрядов",
+      "lead_en": "Всего на слет в область прибыли порядка 3 тыс. участников",
+      "title_raw": "В Челябинске завершается всероссийский слет студенческих отрядов",
+      "lead_raw": "Всего на слет в область прибыли порядка 3 тыс. участников",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "16befc2bc0440797a4f7fbd1c2ca93f937a7bde3",
+      "fingerprint": "edf39f62df64ce761dd7dff142221b94598c6c5a",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2222899",
+      "published_utc": "2026-11-21T15:30:53Z",
+      "title_en": "Two killed by gas explosion in apartment building in Russia’s North Caucasus",
+      "lead_en": "Two more people were injured",
+      "title_raw": "Two killed by gas explosion in apartment building in Russia’s North Caucasus",
+      "lead_raw": "Two more people were injured",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "14534818c3b0e7f9608e2271f603a602f7d1c074",
+      "fingerprint": "5e497ab2a4f19159242099f55f5e462ea17baa08",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28342657",
+      "published_utc": "2026-11-21T15:18:20Z",
+      "title_en": "В Раде заявили, что большинство депутатов общаются на русском языке",
+      "lead_en": "На Украине с 2014 года проводят курс на открытое вытеснение русского языка",
+      "title_raw": "В Раде заявили, что большинство депутатов общаются на русском языке",
+      "lead_raw": "На Украине с 2014 года проводят курс на открытое вытеснение русского языка",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ae35c0589587f91c0dc3e543b7d0be60d35b5d2e",
+      "fingerprint": "831127d37b4ae551ea25caa3f26d513d7c2f79e2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/politika/28342639",
+      "published_utc": "2026-11-21T15:01:21Z",
+      "title_en": "Захарова прокомментировала условия европейцев для визита в Россию",
+      "lead_en": "По словам официального представителя МИД РФ, в Елисейском дворце \"встали не с той ноги\"",
+      "title_raw": "Захарова прокомментировала условия европейцев для визита в Россию",
+      "lead_raw": "По словам официального представителя МИД РФ, в Елисейском дворце \"встали не с той ноги\"",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a564f4b0610c90407ca57f67e18afae02ed54a96",
+      "fingerprint": "c356ce28775fd3b4c48d3ae4e48b75d32f1fe337",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28342641",
+      "published_utc": "2026-11-21T14:59:58Z",
+      "title_en": "\"Галатасарай\" с Батраковым обыграл \"Самсунспор\" в чемпионате Турции",
+      "lead_en": "После подачи россиянина со стандарта и передачи Вильфредо Синго был забит первый гол в матче",
+      "title_raw": "\"Галатасарай\" с Батраковым обыграл \"Самсунспор\" в чемпионате Турции",
+      "lead_raw": "После подачи россиянина со стандарта и передачи Вильфредо Синго был забит первый гол в матче",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c30f40f3267aa6d284fa38228703d40713ae1f2a",
+      "fingerprint": "af2d2c868165eb24719e2f7fd7442509f5ff3860",
+      "source": "RT",
+      "url": "https://rt-english.com/news/649191-russia-arctic-route-revolutionize-trade",
+      "published_utc": "2026-11-21T14:59:51Z",
+      "title_en": "Russia’s Northern Sea Route could ‘revolutionize global trade’ – K.J. Noh (VIDEO)",
+      "lead_en": "Russia’s Northern Sea Route could revolutionize global trade by cutting Asia-Europe shipping times, analyst K.J. Noh has told RT Read Full Article at RT.com",
+      "title_raw": "Russia’s Northern Sea Route could ‘revolutionize global trade’ – K.J. Noh (VIDEO)",
+      "lead_raw": "Russia’s Northern Sea Route could revolutionize global trade by cutting Asia-Europe shipping times, analyst K.J. Noh has told RT Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "33dc11ff7ce034ca104005bc4d321761d7c55912",
+      "fingerprint": "a48be1488f3a5aa3c718a051ca7393298c3fade2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28342633",
+      "published_utc": "2026-11-21T14:54:48Z",
+      "title_en": "Лакерник считает, что стабильность поможет Трусовой в финале Гран-при ISU",
+      "lead_en": "Российская фигуристка квалифицировалась в финал, набрав 26 очков по итогам двух этапов",
+      "title_raw": "Лакерник считает, что стабильность поможет Трусовой в финале Гран-при ISU",
+      "lead_raw": "Российская фигуристка квалифицировалась в финал, набрав 26 очков по итогам двух этапов",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3504ceae0d9ee03c701dc20645e409b872770598",
+      "fingerprint": "282239f6be92f4dd840ee16d15b99711d53ab1ed",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342621",
+      "published_utc": "2026-11-21T14:44:33Z",
+      "title_en": "Слуцкий: в ГД внесут законопроект об оснащении минимум 50% такси для перевозки детей",
+      "lead_en": "Лидер ЛДПР рассказал, что предложенная партией инициатива по ограничению наценки за перевозку детей в такси получила поддержку российского правительства",
+      "title_raw": "Слуцкий: в ГД внесут законопроект об оснащении минимум 50% такси для перевозки детей",
+      "lead_raw": "Лидер ЛДПР рассказал, что предложенная партией инициатива по ограничению наценки за перевозку детей в такси получила поддержку российского правительства",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5871ba0b3caf06f37466ad6cdad9172204a2a83e",
+      "fingerprint": "4cd2b5362fbaf0aafe089e1aa91eb9aa367b6de3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342609",
+      "published_utc": "2026-11-21T14:37:27Z",
+      "title_en": "Онищенко допустил наличие в РФ устойчивой к антибиотикам супербактерии",
+      "lead_en": "Устойчивые к антибиотикам бактерии, такие как супербактерия Klebsiella, могут вытеснять другие штаммы, так как вызываемые ими инфекции сложнее поддаются лечению, сообщил заместитель президента Российской академии образования",
+      "title_raw": "Онищенко допустил наличие в РФ устойчивой к антибиотикам супербактерии",
+      "lead_raw": "Устойчивые к антибиотикам бактерии, такие как супербактерия Klebsiella, могут вытеснять другие штаммы, так как вызываемые ими инфекции сложнее поддаются лечению, сообщил заместитель президента Российской академии образования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b79c0b8a014aadc93736c809409d6743d5f4851a",
+      "fingerprint": "1053ab4512cd1fb188e309ced3220fd67d6c9b66",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/armiya-i-opk/28342521",
+      "published_utc": "2026-11-21T14:30:00Z",
+      "title_en": "Ход СВО. Сводка Минобороны РФ за 21 ноября",
+      "lead_en": "Вооруженные Силы Российской Федерации продолжают проведение специальной военной операции",
+      "title_raw": "Ход СВО. Сводка Минобороны РФ за 21 ноября",
+      "lead_raw": "Вооруженные Силы Российской Федерации продолжают проведение специальной военной операции",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "01bc02a8f3fdf4d2a038eb5634f605c2e6166b4e",
+      "fingerprint": "5a90f0a8bc304e6b5b2ebdf824eacde27e394fd4",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28342599",
+      "published_utc": "2026-11-21T14:26:16Z",
+      "title_en": "Лихачев: АЭС \"Бушер\" прошла испытания на прочность во время военных ударов",
+      "lead_en": "Проект строительства станции доказал, что российско-иранская дружба выдержит любое внешнее давление, отметил гендиректор Росатома",
+      "title_raw": "Лихачев: АЭС \"Бушер\" прошла испытания на прочность во время военных ударов",
+      "lead_raw": "Проект строительства станции доказал, что российско-иранская дружба выдержит любое внешнее давление, отметил гендиректор Росатома",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "654cd9337f3240d90cfd66545f32ae7b19935aaa",
+      "fingerprint": "b36db785d92a4b07aed4e27c3db4fafff085cfa7",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/emergencies/2222893",
+      "published_utc": "2026-11-21T14:24:55Z",
+      "title_en": "Russian rescue vessel approaches drone-hit commercial ship",
+      "lead_en": "The crew reported that evacuation was not required",
+      "title_raw": "Russian rescue vessel approaches drone-hit commercial ship",
+      "lead_raw": "The crew reported that evacuation was not required",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cd488a7e63bb72ff72ac4078e445b62551a4e12e",
+      "fingerprint": "62359afff5a0be91caf9458d10d256bc3a90742e",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342587",
+      "published_utc": "2026-11-21T14:23:07Z",
+      "title_en": "Онищенко призвал начать поиск препаратов против супербактерии Klebsiella",
+      "lead_en": "Заместитель президента Российской академии образования заявил, что простого наблюдения за распространением недостаточно",
+      "title_raw": "Онищенко призвал начать поиск препаратов против супербактерии Klebsiella",
+      "lead_raw": "Заместитель президента Российской академии образования заявил, что простого наблюдения за распространением недостаточно",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0fcc6362299435f2882c2e83b50a6f2c66459533",
+      "fingerprint": "873e0f8463a2333f954165d71a24020f6cc21572",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342585",
+      "published_utc": "2026-11-21T14:19:47Z",
+      "title_en": "Онищенко назвал возможным распространение супербактерии Klebsiella",
+      "lead_en": "Однако делать из этого трагедии не нужно, отметил заместитель президента Российской академии образования",
+      "title_raw": "Онищенко назвал возможным распространение супербактерии Klebsiella",
+      "lead_raw": "Однако делать из этого трагедии не нужно, отметил заместитель президента Российской академии образования",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "98a6f7e06e056a117f16efba341675c3726ea0ac",
+      "fingerprint": "77c80e8ea11f65443ccacb5da582b82657c4d2e9",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28342559",
+      "published_utc": "2026-11-21T14:03:25Z",
+      "title_en": "Ферапонтов в МАГАТЭ будет заниматься развитием ядерной энергетики",
+      "lead_en": "Глава Международного агентства по атомной энергии Рафаэль Гросси утвердил заместителя руководителя Ростехнадзора на должность своего заместителя по вопросам ядерной энергетики",
+      "title_raw": "Ферапонтов в МАГАТЭ будет заниматься развитием ядерной энергетики",
+      "lead_raw": "Глава Международного агентства по атомной энергии Рафаэль Гросси утвердил заместителя руководителя Ростехнадзора на должность своего заместителя по вопросам ядерной энергетики",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f849d579580931a7589f6b21a3dd95a34e867845",
+      "fingerprint": "71c30d11ca7420cc81b69deee2af37101e3bd97b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342551",
+      "published_utc": "2026-11-21T14:01:52Z",
+      "title_en": "Путин: итоги саммита Россия - Африка помогают наращивать работу в здравоохранении",
+      "lead_en": "Президент РФ направил приветственную телеграмму участникам, организаторам и гостям Международной конференции по общественному здравоохранению в Африке",
+      "title_raw": "Путин: итоги саммита Россия - Африка помогают наращивать работу в здравоохранении",
+      "lead_raw": "Президент РФ направил приветственную телеграмму участникам, организаторам и гостям Международной конференции по общественному здравоохранению в Африке",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5f18b0448fdf3e86442b1f04412bf2163d0727d8",
+      "fingerprint": "cee5ee8170f1333acdabb2a6a416305dd66832e3",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/obschestvo/28342529",
+      "published_utc": "2026-11-21T13:41:50Z",
+      "title_en": "Российское спасательное судно подошло к атакованному БПЛА сухогрузу",
+      "lead_en": "Эвакуация команды не потребовалась",
+      "title_raw": "Российское спасательное судно подошло к атакованному БПЛА сухогрузу",
+      "lead_raw": "Эвакуация команды не потребовалась",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "693f0892b14f936fe7d78e935c9d7300d4752094",
+      "fingerprint": "f1913dafbd119245f901602dc96dc6a1b16772fe",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28342523",
+      "published_utc": "2026-11-21T13:35:30Z",
+      "title_en": "Филатов предположил, что Трамп похвалил Пескова за развитие шахмат в России",
+      "lead_en": "19 ноября Трамп перед началом встречи с президентом России Владимиром Путиным в китайском Шэньчжэне похвалил Пескова за работу",
+      "title_raw": "Филатов предположил, что Трамп похвалил Пескова за развитие шахмат в России",
+      "lead_raw": "19 ноября Трамп перед началом встречи с президентом России Владимиром Путиным в китайском Шэньчжэне похвалил Пескова за работу",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6d79b149d476e826342fd36cecec47d94ebd9679",
+      "fingerprint": "51d294471725ec04105f229f3619f98ce494cbf5",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/russia-says-cargo-vessel-struck-by-drones-in-gulf-of-finland-a94342",
+      "published_utc": "2026-11-21T11:50:00Z",
+      "title_en": "Russia Says Cargo Vessel Struck by Drones in Gulf of Finland",
+      "lead_en": "Finland said that the damaged vessel was on fire and had drifted from international waters into its territorial waters.",
+      "title_raw": "Russia Says Cargo Vessel Struck by Drones in Gulf of Finland",
+      "lead_raw": "Finland said that the damaged vessel was on fire and had drifted from international waters into its territorial waters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b1b3326c148bbd3ffbb8f0c51679763d1afe2686",
+      "fingerprint": "151ddd65b3ec0d40ccc736b2d90ee69ba70c27b5",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-a94341",
+      "published_utc": "2026-11-21T11:42:53Z",
+      "title_en": "Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report",
+      "lead_en": "Tatyana Kim faces an asset freeze in the EU, as well as travel and transaction bans, after Brussels added her to its sanctions list on Nov. 16.",
+      "title_raw": "Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report",
+      "lead_raw": "Tatyana Kim faces an asset freeze in the EU, as well as travel and transaction bans, after Brussels added her to its sanctions list on Nov. 16.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "156d7b554755f919351f36219bc7ee9486732f1a",
+      "fingerprint": "92b66aee97c6ab8b67ae856174909ea21afa2773",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/society/2222879",
+      "published_utc": "2026-11-21T11:20:04Z",
+      "title_en": "Russia fully restores train traffic across Crimean Bridge after Ukrainian strikes",
+      "lead_en": "Trains on this route are running as scheduled, reported by Russian Deputy Prime Minister Andrey Nikitin",
+      "title_raw": "Russia fully restores train traffic across Crimean Bridge after Ukrainian strikes",
+      "lead_raw": "Trains on this route are running as scheduled, reported by Russian Deputy Prime Minister Andrey Nikitin",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5b16f4c04af2a715eaeeec56acbf2b9b164fafd7",
+      "fingerprint": "ff1557f3648626dadfb61403905e23276a8b5543",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2222871",
+      "published_utc": "2026-11-21T10:29:32Z",
+      "title_en": "Kiev loses 1,185 troops along engagement line in past day — Russia’s top brass",
+      "lead_en": "The latest figures show that the Ukrainian army lost roughly 260 troops and two armored combat vehicles in the responsibility area of Russia’s Battlegroup North",
+      "title_raw": "Kiev loses 1,185 troops along engagement line in past day — Russia’s top brass",
+      "lead_raw": "The latest figures show that the Ukrainian army lost roughly 260 troops and two armored combat vehicles in the responsibility area of Russia’s Battlegroup North",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ede6fcc7064e4cc649856551bdbc8f10f612a3a1",
+      "fingerprint": "3010a26ee1a1a0599256b46751bfcffda4769b53",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/heating-main-break-leaves-40k-without-heat-in-russias-far-east-a94340",
+      "published_utc": "2026-11-21T10:09:59Z",
+      "title_en": "Heating Main Break Leaves 40K Without Heat in Russia’s Far East",
+      "lead_en": "“Our homes are getting cold, the kids are at home and it’s almost minus 15 outside,” one resident wrote in a local Telegram channel.",
+      "title_raw": "Heating Main Break Leaves 40K Without Heat in Russia’s Far East",
+      "lead_raw": "“Our homes are getting cold, the kids are at home and it’s almost minus 15 outside,” one resident wrote in a local Telegram channel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f7aa84e7bb5259817227890cc58af59113692959",
+      "fingerprint": "dd60f716af76d7adc59b36dca036c752eab07a63",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2222869",
+      "published_utc": "2026-11-21T10:02:27Z",
+      "title_en": "Russian troops strike gathering of Ukrainian army commanders — top brass",
+      "lead_en": "Russian forces also attacked representatives of the military-industrial complex, including foreign representatives and enemy deployment areas",
+      "title_raw": "Russian troops strike gathering of Ukrainian army commanders — top brass",
+      "lead_raw": "Russian forces also attacked representatives of the military-industrial complex, including foreign representatives and enemy deployment areas",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "08bb97e9455e769df9670f9ca8ee65acf4b7d9ea",
+      "fingerprint": "9575e88d848f3b65c51b78bf7a5d4f8d5d09a2bc",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/from-crimea-to-kyiv-bridges-become-targets-in-russias-war-on-ukraine-a94335",
+      "published_utc": "2026-11-21T09:57:00Z",
+      "title_en": "From Crimea to Kyiv, Bridges Become Targets in Russia’s War on Ukraine",
+      "lead_en": "Ukraine’s destruction of the Crimean Bridge’s road span and Russia’s strikes on Kyiv’s bridges mark the latest stages of each side’s war strategy.",
+      "title_raw": "From Crimea to Kyiv, Bridges Become Targets in Russia’s War on Ukraine",
+      "lead_raw": "Ukraine’s destruction of the Crimean Bridge’s road span and Russia’s strikes on Kyiv’s bridges mark the latest stages of each side’s war strategy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "10d02323d22e428459361a20d8f0520c6c34ce8b",
+      "fingerprint": "832bf543439a4a6e031521ffd4b687758cfe949e",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2222867",
+      "published_utc": "2026-11-21T09:52:32Z",
+      "title_en": "Russian air defenses intercept 464 Ukrainian UAVs over past day",
+      "lead_en": "This was reported by Russia’s Defense Ministry",
+      "title_raw": "Russian air defenses intercept 464 Ukrainian UAVs over past day",
+      "lead_raw": "This was reported by Russia’s Defense Ministry",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1effbac71847549613fdca0ccff0e0a26f161822",
+      "fingerprint": "2ddd8369767cc1b7c314617c3c81a6aa5e0d9338",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/politics/2222857",
+      "published_utc": "2026-11-21T09:32:00Z",
+      "title_en": "Ukraine’s Zelensky starts to speak with EU as if with his vassals — Russian diplomat",
+      "lead_en": "Russian Foreign Ministry Spokeswoman Maria Zakharova gave a comment on Zelensky’s objections to a potential visit by European representatives to Moscow",
+      "title_raw": "Ukraine’s Zelensky starts to speak with EU as if with his vassals — Russian diplomat",
+      "lead_raw": "Russian Foreign Ministry Spokeswoman Maria Zakharova gave a comment on Zelensky’s objections to a potential visit by European representatives to Moscow",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7ae343fe306d7d0c34e18e2b39f6e14d4b286754",
+      "fingerprint": "549951c420ad36c76ba6ba9ac5f2c5eddc43fa2e",
+      "source": "RT",
+      "url": "https://rt-english.com/news/649183-german-defense-chief-pentagon-insult",
+      "published_utc": "2026-11-21T09:26:15Z",
+      "title_en": "German defense chief walks back Pentagon insult",
+      "lead_en": "Boris Pistorius apologized to Pentagon official Elbridge Colby for calling his remarks about Ukrainian strikes deep inside Russia “stupid” Read Full Article at RT.com",
+      "title_raw": "German defense chief walks back Pentagon insult",
+      "lead_raw": "Boris Pistorius apologized to Pentagon official Elbridge Colby for calling his remarks about Ukrainian strikes deep inside Russia “stupid” Read Full Article at RT.com",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ec22ed65281eabe88a684c9d40e2f7ee6ac10396",
+      "fingerprint": "25b3edae22d79c4e02f10f367e506f6218c66cbe",
+      "source": "The Moscow Times",
+      "url": "https://www.themoscowtimes.com/2026/11/21/von-der-leyen-condemns-russian-plot-to-assassinate-us-ukrainian-in-denmark-a94339",
+      "published_utc": "2026-11-21T09:15:19Z",
+      "title_en": "Von der Leyen Condemns Russian Plot to Assassinate U.S.-Ukrainian in Denmark",
+      "lead_en": "\"This was an attack on EU soil. And it is unacceptable,\" she said.",
+      "title_raw": "Von der Leyen Condemns Russian Plot to Assassinate U.S.-Ukrainian in Denmark",
+      "lead_raw": "\"This was an attack on EU soil. And it is unacceptable,\" she said.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3a565f803969b813564e43ae516bba318df6175e",
       "fingerprint": "73b90bf37dbf213dc11eaccbf0649e93b4183e8b",
