@@ -1,8 +1,75 @@
 {
-  "updated_at_utc": "2026-11-21T17:12:56Z",
+  "updated_at_utc": "2026-11-21T22:54:45Z",
   "topic": "energy",
-  "count": 24,
+  "count": 26,
   "articles": [
+    {
+      "id": "e669569c709137bd8bc6b2d63c288e9c27b919de",
+      "fingerprint": "4e4b5e6c518dee811bf77b5b5e91f5cd1118afb5",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28343009",
+      "published_utc": "2026-11-21T21:36:14Z",
+      "title_en": "В посольстве РФ допустили проведение нефтегазовой миссии России и Аргентины",
+      "lead_en": "Страны могут провести ее в июне 2027 года, отметил российский посол Дмитрий Феоктистов",
+      "title_raw": "В посольстве РФ допустили проведение нефтегазовой миссии России и Аргентины",
+      "lead_raw": "Страны могут провести ее в июне 2027 года, отметил российский посол Дмитрий Феоктистов",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "20445f11ae5490a8771629894b7241c2ff9478dd",
+      "fingerprint": "63d0201ebbdbc25401defd7c87f0cfda70042938",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/economy/2222943",
+      "published_utc": "2026-11-21T20:40:01Z",
+      "title_en": "Newly appointed IAEA deputy director general from Russia to be in charge of nuclear energy",
+      "lead_en": "Alexey Ferapontov said he will focus on the global development and technological support of peaceful nuclear energy in all member states of the agency",
+      "title_raw": "Newly appointed IAEA deputy director general from Russia to be in charge of nuclear energy",
+      "lead_raw": "Alexey Ferapontov said he will focus on the global development and technological support of peaceful nuclear energy in all member states of the agency",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "25b86b0dacbd51f16c2743f49abadf655bf75937",
+      "fingerprint": "5f22dc02eece8c0772daa4ae0e734d1cffa7137b",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28342821",
+      "published_utc": "2026-11-21T18:00:53Z",
+      "title_en": "Лихачев: РФ получит термоядерный синтез как источник энергии в 2050-х годах",
+      "lead_en": "Это станет возможно, если будет принято решение о строительстве российского токамака с реакторными технологиями, отметил генеральный директор Росатома",
+      "title_raw": "Лихачев: РФ получит термоядерный синтез как источник энергии в 2050-х годах",
+      "lead_raw": "Это станет возможно, если будет принято решение о строительстве российского токамака с реакторными технологиями, отметил генеральный директор Росатома",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6f4ecf90fa9bd36c890a4a421f66eb58df4dc3a7",
       "fingerprint": "16b6a6c03f054191760bda1485d3fae5e009826f",
@@ -517,30 +584,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "bc13023fc71f8e8d4a155ebcbe51f3a06a07a9b7",
-      "fingerprint": "4867bc505aa9858aec9cbbbe43cbf2ece63cc488",
-      "source": "Meduza (EN)",
-      "url": "https://meduza.io/en/news/2026/11/20/zelensky-questions-whether-kyiv-and-washington-mean-the-same-thing-by-nato-style-guarantees-and-reiterates-that-postwar-ukraine-would-need-foreign-troops-on-its-soil",
-      "published_utc": "2026-11-19T21:53:32Z",
-      "title_en": "Zelensky questions whether Kyiv and Washington mean the same thing by ‘NATO-style’ guarantees and reiterates that postwar Ukraine would need foreign troops on its soil",
-      "lead_en": "Jared Kushner, one of Donald Trump’s negotiators, said the United States had persuaded Russia to accept security guarantees for Ukraine based on Article 5 of NATO’s founding treaty.",
-      "title_raw": "Zelensky questions whether Kyiv and Washington mean the same thing by ‘NATO-style’ guarantees and reiterates that postwar Ukraine would need foreign troops on its soil",
-      "lead_raw": "Jared Kushner, one of Donald Trump’s negotiators, said the United States had persuaded Russia to accept security guarantees for Ukraine based on Article 5 of NATO’s founding treaty.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
