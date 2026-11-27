@@ -1,8 +1,30 @@
 {
-  "updated_at_utc": "2026-11-27T07:31:32Z",
+  "updated_at_utc": "2026-11-27T17:56:46Z",
   "topic": "local_events",
   "count": 2,
   "articles": [
+    {
+      "id": "efedb8badc02608ef1f300942c636d030422be2c",
+      "fingerprint": "8afb0ca9fa0b6750cf1c0c5415c6cb212d813e6d",
+      "source": "Meduza (EN)",
+      "url": "https://meduza.io/en/news/2026/11/27/ukrainian-drones-strike-st-petersburg-and-three-russian-regions-injuring-three-and-disrupting-flights",
+      "published_utc": "2026-11-27T08:12:32Z",
+      "title_en": "Ukrainian drones strike St. Petersburg and three Russian regions, injuring three and disrupting flights",
+      "lead_en": "A Ukrainian drone attack injured three people in Novorossiysk, Krasnodar Krai, the regional emergency response headquarters said. Windows were blown out in an apartment building, and fires broke out in two private houses because of “debris falling.”",
+      "title_raw": "Ukrainian drones strike St. Petersburg and three Russian regions, injuring three and disrupting flights",
+      "lead_raw": "A Ukrainian drone attack injured three people in Novorossiysk, Krasnodar Krai, the regional emergency response headquarters said. Windows were blown out in an apartment building, and fires broke out in two private houses because of “debris falling.”",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e304c3d97828b3a28f3e5c9d7c20603b3fb08c72",
       "fingerprint": "237ba625d1aed733e3d0cbaba9276d6ded77d6f8",
@@ -22,28 +44,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "68beba2f625b67214303e469005d858719597019",
-      "fingerprint": "87283ea6adcab74441f44533400f8366c42aca70",
-      "source": "The Moscow Times",
-      "url": "https://www.themoscowtimes.com/2026/11/25/z-blogger-vladimir-romanov-resurfaces-following-rumors-of-arrest-a812370",
-      "published_utc": "2026-11-25T15:46:18Z",
-      "title_en": "Z-Blogger Vladimir Romanov Resurfaces Following Rumors of Arrest",
-      "lead_en": "Romanov’s Telegram channel went silent last month after he published and then deleted a post that suggested a U.S.-brokered ceasefire and evacuation effort in Oleshky was unfavorable for Russia.",
-      "title_raw": "Z-Blogger Vladimir Romanov Resurfaces Following Rumors of Arrest",
-      "lead_raw": "Romanov’s Telegram channel went silent last month after he published and then deleted a post that suggested a U.S.-brokered ceasefire and evacuation effort in Oleshky was unfavorable for Russia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
