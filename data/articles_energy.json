@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-11-26T23:34:16Z",
+  "updated_at_utc": "2026-11-27T07:31:32Z",
   "topic": "energy",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "42996e09d0e259234f5f029847cce38cbbdfaa89",
+      "fingerprint": "c52658994f262b771cd655797be020c5af520f23",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/mezhdunarodnaya-panorama/28361049",
+      "published_utc": "2026-11-27T07:04:09Z",
+      "title_en": "El Mundo предсказала вымирание Нарвы, если граница с Россией закроется надолго",
+      "lead_en": "По информации газеты, город получал большое количество денег благодаря туризму и обслуживанию пересекающих границу людей",
+      "title_raw": "El Mundo предсказала вымирание Нарвы, если граница с Россией закроется надолго",
+      "lead_raw": "По информации газеты, город получал большое количество денег благодаря туризму и обслуживанию пересекающих границу людей",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "00cbb453639716ac5216f05abbecdff54ed41448",
+      "fingerprint": "1e18a866adda057a5efcb928482467928ce484db",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/sport/28360997",
+      "published_utc": "2026-11-27T06:45:48Z",
+      "title_en": "\"Отсутствие Вендела - не проблема\". Валерий Газзаев - о матче ЦСКА - \"Зенит\"",
+      "lead_en": "Встреча 16-го тура чемпионата России пройдет 28 ноября в Москве",
+      "title_raw": "\"Отсутствие Вендела - не проблема\". Валерий Газзаев - о матче ЦСКА - \"Зенит\"",
+      "lead_raw": "Встреча 16-го тура чемпионата России пройдет 28 ноября в Москве",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "bfdbb4967423992aba1c16a3cf15e024e19ad06b",
       "fingerprint": "0aa9ffee06bf51958e0822572ec9ef5943266208",
@@ -673,28 +718,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "73ca69c75af9f00b7b15aec86e5b80dc3719196a",
-      "fingerprint": "9a48206f64a7eb7ea1f7f94b138d80555eb5b01c",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2224307",
-      "published_utc": "2026-11-25T00:34:23Z",
-      "title_en": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
-      "lead_en": "CEO of the Russian Direct Investment Fund noted that Russia has the cheapest and most abundant energy sources in the world for SI. Bottleneck solved",
-      "title_raw": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
-      "lead_raw": "CEO of the Russian Direct Investment Fund noted that Russia has the cheapest and most abundant energy sources in the world for SI. Bottleneck solved",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
