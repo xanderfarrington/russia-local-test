@@ -1,8 +1,53 @@
 {
-  "updated_at_utc": "2026-11-28T01:19:02Z",
+  "updated_at_utc": "2026-11-28T09:57:45Z",
   "topic": "energy",
-  "count": 18,
+  "count": 17,
   "articles": [
+    {
+      "id": "05bafbd3a6cdbb1afa10d978c9e7df0ab873b2c7",
+      "fingerprint": "a09e5da31b965bbe2839bf3b27e381d8b51854b2",
+      "source": "TASS (RU)",
+      "url": "https://tass.ru/ekonomika/28364745",
+      "published_utc": "2026-11-28T09:07:57Z",
+      "title_en": "Эксперт Ормеджи оценил газовые договоренности Турции и России",
+      "lead_en": "Продление контрактов говорит о стабильности в отношениях и внешней политики Анкары в отношении Москвы, заявил основатель турецкой Академии международной политики",
+      "title_raw": "Эксперт Ормеджи оценил газовые договоренности Турции и России",
+      "lead_raw": "Продление контрактов говорит о стабильности в отношениях и внешней политики Анкары в отношении Москвы, заявил основатель турецкой Академии международной политики",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b637d030f194552ad4b691cd534b7580d9dab213",
+      "fingerprint": "070682897deea7f0301f2bf27126663234dcd7e8",
+      "source": "TASS (EN)",
+      "url": "https://tass.com/defense/2226341",
+      "published_utc": "2026-11-28T06:44:02Z",
+      "title_en": "Russian forces strike energy and fuel facilities in Ukraine overnight",
+      "lead_en": "Russian forces struck the Zarechye 110 kV power substation in the city of Belaya Tserkov, Kiev Region",
+      "title_raw": "Russian forces strike energy and fuel facilities in Ukraine overnight",
+      "lead_raw": "Russian forces struck the Zarechye 110 kV power substation in the city of Belaya Tserkov, Kiev Region",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "69de55eb9343376d6469d7ce0dc26d520fd5947c",
       "fingerprint": "c1c07245ebecbb5d48438ef946af3ba0cd8ced25",
@@ -335,73 +380,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "3f0e2f97f023b03840a63b297df3c071fe815a26",
-      "fingerprint": "17c5126cbb22cc642fa30f17f96f2d0dc7d134d7",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/society/2225111",
-      "published_utc": "2026-11-26T09:05:56Z",
-      "title_en": "FACTBOX: FSB foils attack on Russian serviceman in Sochi, defuses 2-kg bomb",
-      "lead_en": "Ukrainian special services sought to recruit a Sochi woman born in 1955, who had been defrauded of a large sum of money in June 2026",
-      "title_raw": "FACTBOX: FSB foils attack on Russian serviceman in Sochi, defuses 2-kg bomb",
-      "lead_raw": "Ukrainian special services sought to recruit a Sochi woman born in 1955, who had been defrauded of a large sum of money in June 2026",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "527503e098d2b6c186c96a77617078ee83d04696",
-      "fingerprint": "27f69d50c03ddc09a6fcbc18a1929005b536e1b9",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/economy/2225105",
-      "published_utc": "2026-11-26T08:50:17Z",
-      "title_en": "Lukoil invests about $10 bln annually in Russian projects — founder",
-      "lead_en": "The company is investing in gas chemical facilities that will allow it to produce goods in demand on global markets, Vagit Alekperov noted",
-      "title_raw": "Lukoil invests about $10 bln annually in Russian projects — founder",
-      "lead_raw": "The company is investing in gas chemical facilities that will allow it to produce goods in demand on global markets, Vagit Alekperov noted",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f776a01ce2f6475d9218b8cd8656f474c104f8b6",
-      "fingerprint": "ae7416a8fb0e56bdccdf1190b7c0246afa9323ad",
-      "source": "TASS (EN)",
-      "url": "https://tass.com/politics/2225087",
-      "published_utc": "2026-11-26T08:14:21Z",
-      "title_en": "Petroleum products, grain, medicines most needed for Afghanistan — Russian special envoy",
-      "lead_en": "Zamir Kabulov added that Afghanistan views this as an acute issue at the national level",
-      "title_raw": "Petroleum products, grain, medicines most needed for Afghanistan — Russian special envoy",
-      "lead_raw": "Zamir Kabulov added that Afghanistan views this as an acute issue at the national level",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
